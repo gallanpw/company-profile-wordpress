@@ -1,2 +1,2 @@
-# Sistem-Informasi-Persediaan-Barang
-Laporan Kerja Praktek Irawan Untuk Membangun Aplikasi Berbasis Website Dengan Laravel
+# Project-Website-Perusahaan-dan-SEO-menggunakan-Wordpress
+Pembuatan website menggunakan wordpress serta penambahan fitur SEO pada CV. Conn Distindo Jaya tahun 2014
