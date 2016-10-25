@@ -1,0 +1,28 @@
+Sitemap: http://www.conndistindo.com/xmlsitemap.xml
+User-agent: *
+# disallow all files in these directories
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /wp-content/
+Disallow: /archives/
+Disallow: /*?*
+Disallow: *?replytocom
+Disallow: /author
+Disallow: /comments/feed/
+Disallow: */trackback/
+Disallow: /wp-*
+Disallow: /*?*
+
+User-agent:Mediapartners-Google*
+Allow:/
+User-agent:Googlebot-Image
+Allow:/wp-content/uploads/
+User-agent:Adsbot-Google
+Allow:/
+User-agent:Googlebot-Mobile
+Allow:/
+
+Allow: /rsssitemap.xml
+Allow: /htmlsitemap.htm
+Sitemap: http://www.conndistindo.com/xmlsitemap.xml
