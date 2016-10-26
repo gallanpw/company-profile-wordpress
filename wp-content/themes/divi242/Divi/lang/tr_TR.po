@@ -1,0 +1,4269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:09+0300\n"
+"PO-Revision-Date: 2015-06-17 19:56+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı şifre korumalıdır. Yazıyı görmek için parolanızı girin."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 yorum"
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eski Yorumlar"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Yeni Yorumlar <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "Yorum Gönder"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "Yorum Gönder"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "%s için bir yorum bırak."
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "Kaydediyor…"
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Tercihler Kaydedildi"
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Tercihler"
+
+#: ../epanel/core_functions.php:73 ../functions.php:8939
+msgid "Theme Options"
+msgstr "Tema Ayarları"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "Ayarlar Kaydedildi"
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "Ayarları Sıfırlandı"
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448 ../functions.php:616
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Gezinme"
+
+#: ../epanel/core_functions.php:117 ../functions.php:621
+msgid "Layout Settings"
+msgstr "Yerleşim Düzeni Ayarları"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Reklam Yönetimi"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Renk"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "Arama motoru Optimizasyonu"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Entegrasyon"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Destek Dokümanları"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "Resim Yükle"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "Herhangi bir sayfanız bulunmuyor"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "Değişiklikleri kaydet"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"Seçeneklerdeki tüm ayarlar varsayılan değerlerine dönecektir. <strong>Bunu "
+"yapmak istediğinize emin misiniz?</strong>"
+
+#: ../epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "Bir Görüntü Seç"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:465 ../header.php:141
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: ../epanel/custom_functions.php:713
+msgid "Archives"
+msgstr "Arşiv"
+
+#: ../epanel/custom_functions.php:715
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "\"%s\" için arama sonuçları"
+
+#: ../epanel/custom_functions.php:717
+msgid "404 Not Found"
+msgstr "404 bulunamadı"
+
+#: ../epanel/custom_functions.php:788
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "Şu anda %1$s arşivleri görüntüleniyor."
+
+#: ../epanel/custom_functions.php:1021
+msgid "Image doesn't exist"
+msgstr "Görüntü yok"
+
+#: ../epanel/custom_functions.php:1217
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p> Bu %1$s  temasının yeni yüklemesidir. Ayarlamak "
+"için <a href=\"%2$s\">ePanel</a>’a gitmeyi unutmayın. Bu mesaj  <a href="
+"\"%2$s\">theme's options page</a>.</p></div> içindeki Kaydet düğmesine "
+"tıkladıktan sonra kaybolur."
+
+#: ../epanel/custom_functions.php:1229
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"Kullanılabilir %1$s yeni bir sürümü var. <a href=\"%2$s\" class=\"thickbox\" "
+"title=\"%1$s\"> Yeni versiyon %3$s details</a>. <em> Elegant Temalarını "
+"güncellemeden önce üyeliğinizi doğrulamak için ilk olarak <a href=\"https://"
+"www.elegantthemes.com/members-area/documentation.html#updater\" target="
+"\"_blank\">Elegant Updater Plugin</a> yüklemelisiniz. </em>"
+
+#: ../epanel/custom_functions.php:1233
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Elegant Temalarını güncellemeden önce üyeliğinizi doğrulamak için ilk olarak "
+"<a href=\"https://www.elegantthemes.com/members-area/documentation."
+"html#updater\" target=\"_blank\">Elegant Updater Plugin</a> yüklemelisiniz. "
+"</em>"
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "Genel"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "Logo"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "Logo Olarak Ayarla"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Kendi özel logo resminizi kullanmak isterseniz \"Resim Yükle\" düğmesine "
+"tıklayın."
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "Favicon olarak ayarla"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Kendi özel Favicon’u kullanmak isterseniz \"Resim Yükle\" düğmesine tıklayın."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "Sabit Gezinti Çubuğu"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr "Öntanımlı olarak gezinti çubuğu her zaman ekranın üst kısmında kalır."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "İlk mesaj görüntüsünü tut"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"Öntanımlı olarak küçük resimler özel alanlar kullanılarak oluşturulur. "
+"Yinede eğer zaten küçük yazı olan resimler kullanmayı tercih edersen (özel "
+"alanlar kullanılarak atlama) bu seçeneği aktif hale getirebilirsiniz. Bir "
+"kez aktif edildiğinde, küçük resimler otomatik olarak mesajlrında ilk "
+"görüntü olarak oluşturulur."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "Blog Stil Modu"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"Öntanımlı olarak tema mesaj ön izlemeleri oluşturmak için otomatik olarak "
+"mesaj alıntılarını keser. Eğer geleneksel olduğu gibi tam mesajlarınızı "
+"göstermek isterseniz, blog sonrasında bu özelliği etkinleştirebilirsiniz."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "WooCommerce Için Mağaza Sayfası &  Kategori Sayfa Düzeni"
+
+#: ../epanel/options_divi.php:90 ../functions.php:364
+msgid "Right Sidebar"
+msgstr "Sağ Kenarçubuğu"
+
+#: ../epanel/options_divi.php:91 ../functions.php:365
+msgid "Left Sidebar"
+msgstr "Sol Kenarçubuğu"
+
+#: ../epanel/options_divi.php:92 ../functions.php:366
+msgid "Full Width"
+msgstr "Tam Genişlik"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"Burada WooCommerce Için Mağaza Sayfası &  Kategori Sayfa Düzeni "
+"seçebilirsiniz."
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "MailChimp API Anahtarı"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"MailChimp API Anahtarınızı giriniz. Bir API anahtarı oluşturabilirsiniz <a "
+"target=\"_blank\" href=\"%1$s\">here</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Aweber Yetkisi"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "Burada Aweber hesabınızı yetkilendirin."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "MailChimp Listelerini Yeniden oluşturun"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Varsayılan olarak, MailChimp listeleri günde bir önbelleğe alınır. Yeni "
+"liste eklenmiş,ancak Üye Ol modülü ayarları içinde görünmüyorsa, bu seçeneği "
+"etkinleştirin. Liste yeniden yapıldıktan sonra devre dışı bırakmayı "
+"unutmayın."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Aweber Listelerini Yeniden oluşturun"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Varsayılan olarak, Aweber listeleri günde bir önbelleğe alınır. Yeni liste "
+"eklenmiş,ancak Üye Ol modülü ayarları içinde görünmüyorsa, bu seçeneği "
+"etkinleştirin. Liste yeniden yapıldıktan sonra devre dışı bırakmayı "
+"unutmayın."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Facebook Simgesini Göster"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr "Buradan ana sayfadaki Facebook simge görüntüsünü seçebilirsiniz."
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Twitter Simgesini Göster"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Buradan ana sayfadaki Twitter simge görüntüsünü seçebilirsiniz. "
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Google+ Simgesini Göster"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr "Buradan ana sayfadaki Google+ simge görüntüsünü seçebilirsiniz. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "RSS Simgesini Göster"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Buradan ana sayfadaki RSS simge görüntüsünü seçebilirsiniz. "
+
+#: ../epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "Facebook Profil URL ‘si"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Facebook Profilinizin URL ‘sini girin "
+
+#: ../epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "Twitter Profil URL ‘si"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Twitter Profilinizin URL ‘sini girin"
+
+#: ../epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "Google+ Profil URL ‘si"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Google+ Profilinizin URL ‘sini girin "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "RSS Simge URL ‘si"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "RSS kaynağınızın URL ‘sini girin "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "Kategori Sayfalarında Görüntülenen Mesaj Sayısı"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Burada Kategori sayfasında görüntülenecek son haber sayısını "
+"belirleyebilirsiniz. Bu seçenek wp-admin okuma seçeneklerinden bağımsız "
+"olarak çalışır."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Arşiv Sayfalarında Görüntülenecek Mesaj Sayısı"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Burada Arşiv sayfasında görüntülenecek son haber sayısını "
+"belirleyebilirsiniz. Bu seçenek wp-admin okuma seçeneklerinden bağımsız "
+"olarak çalışır."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "Arama Sayfalarında Görüntülenecek Mesaj Sayısı"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Burada Arama Sonuçları sayfasında görüntülenecek son haber sayısını "
+"belirleyebilirsiniz. Bu seçenek wp-admin okuma seçeneklerinden bağımsız "
+"olarak çalışır."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Etiket Sayfalarında Görüntülenecek Mesaj Sayısı"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Burada Etiket Sonuçları sayfasında görüntülenecek son haber sayısını "
+"belirleyebilirsiniz. Bu seçenek wp-admin okuma seçeneklerinden bağımsız "
+"olarak çalışır."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "Tarih biçimi"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Bu seçenek tarihleri nasıl görüntüleneceğini değiştirmek için olanak sağlar. "
+"Daha fazla bilgi için buradaki WordPress kodeksine bakınız:<a href='http://"
+"codex.wordpress.org/Formatting_Date_and_Time' target='_blank'> Tarih ve Saat "
+"Biçimlendirme</a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "Bu özellilk tanımlandığı zaman alıntılar kullanılır."
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr ""
+"Bu özellik, mesaj ya da sayfalarında alıntılar kullanımını sağlayacaktır."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "Duyarlı shortcodes"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Çeşitli ekran boyutlarına cevap shortcodes yapmak için bu seçeneği "
+"etkinleştirin."
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "Google Fonts Alt Kümeleri"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr ""
+"Bu özellik İngilizce olmayan diller için  Google Fontları  etkinleştirir."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "Başa Dön Düğmesi"
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+"Kaydırma yaparken Başa Dön Düğmesini görüntülemek için bu seçeneği "
+"etkinleştirin."
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "Düzgün Kaydırma"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr ""
+"Bu seçeneği fare tekerleği ile pürüzsüz kaydırma efekti elde etmek için "
+"etkinleştirin."
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Buradan geçersiz veya varsayılan stilleri genişletmek için özel CSS "
+"ekleyebilirsiniz."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: ../epanel/options_divi.php:292 ../functions.php:292 ../functions.php:302
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "Gezinti çubuğu sayfaları hariç"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Buradan navigasyon menüsündeki belirli sayfaları kaldırmak için "
+"seçebilirsiniz. X ile işaretlenmiş tüm sayfalar navigasyon çubuğunda "
+"görünmez. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "Açılır menüleri göster"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Sayfaların gezinme çubuğunda açılan menüleri kaldırmak istiyorsanız, bu "
+"özelliği devre dışı bırakın."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "Ana Ekran bağlantısı"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"Varsayılan olarak tema, blogunuzun tıklandığında ana sayfasına geri götüren "
+"bir Ana Sayfa bağlantısı oluşturur. Ancak, statik sayfasını kullanıyorsanız "
+"ve zaten kullanmak için Ana Sayfa adlı oluşturulan bir sayfa varsa, bu "
+"yinelenen bir bağlantıya neden olacaktır. Bu durumda bağlantıyı kaldırmak "
+"için bu özelliği devre dışı bırakmanız gerekir."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "Sıralama Sayfa Linkleri"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr "Buradan sayfa bağlantıları nasıl sıralanacağını seçebilirsiniz."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Sayfa Linklerini Artan/Azalan Sırala"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Burada sayfa bağlantılarının görüntülenme sırasını tersine çevirmeyi "
+"seçebilirsiniz. Artan veya azalan arasında seçim yapabilirsiniz."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "Açılır Katman sayısı gösterilir"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr "Bu seçenekler, kaç sayfa açılır menü olduğunu kontrol etmenizi sağlar."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "Gezinme çubuğundaki kategorileri hariç tut."
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Gezinme menüsünden belirli kategorileri kaldırmayı seçebilirsiniz. X ile "
+"işaretlenmiş tüm kategoriler gezinme çubuğunuzda görünmez. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Eğer bu kategorilerden gezinti çubuğunda açılan menüleri kaldırmak "
+"isterseniz, bu özelliği devre dışı bırakın."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "Boş kategorileri gizle"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Eğer gezinme çubuğunuzda görüntülenen kategorilerde herhangi bir mesaj yok "
+"olsun istiyorsanız bu seçeneği devre dışı bırakın. Varsayılan olarak boş "
+"kategoriler gizlidir."
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Kategori Linklerini Name/ID/Slug/Count/Term Grubuna Göre Sırala"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"Varsayılan olarak sayfalar isim sırasına göre sıralanmıştır. Ancak eğer "
+"onları ID sırasına göre sıralamak isterseniz bu ayarı düzenleyebilirsiniz."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Artan veya Azalan Kategori Linkleri Sıralama"
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Kategoriler bağlantılarının görüntülenme sırasını tersine çevirmeyi "
+"seçebilirsiniz. Artan ve azalan arasında seçim yapabilirsiniz."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "Üst katman açılır menü bağlantıları devre dışı bırakma"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"Bazı durumlarda kullanıcılar bağlantıları ya da bir kategori listesi tutmak "
+"için yer tutucu olarak ana kategori ve bağlantı oluşturmak isteyebilir. Bu "
+"durumda, ana bağlantıları herhangi bir yerinde olması arzu edilmez, ancak "
+"bunun yerine, sadece kuruluş işlev görürler. Bu seçeneğin etkinleştirilmesi "
+"tüm üst sayfaları/kategorileri bağlantıları kaldıracaktır çünkü "
+"tıklandığında herhangi bir yer açmaz."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "Tekli Mesaj Düzeni"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "Tekli Sayfa Düzeni"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr "Mesaj bilgi bölümünde hangi öğenin görüntüleneceğini seçin"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Yazılan bilgiler bölümünde görünen tek yazı sayfalarını seçebilirsiniz. "
+"Genellikle konu başlığı altındaki alanda posta ile ilgili temel bilgileri "
+"gösterir. Vurgulanmış öğeler aşağıda görünecektir. "
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "Yazılarda yorumları göster"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Eğer mesaj yorumlarını ve yorum formlarını kaldırmak istiyorsanız, bu "
+"seçeneği devre dışı bırakabilirsiniz. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "Mesajların Üzerinde Küçük Resim yerleştirin"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"Varsayılan olarak küçük resimler tekli mesaj sayfalarındaki yazının başında "
+"bulunur. Eğer bu ilk küçük resim tekrarlanmasını önlemek için kaldırmak "
+"istiyorsanız bu seçeneği devre dışı bırakın. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "Sayfalara Küçük Resim yerleştirin"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"Varsayýlan olarak küçük resimler sayfalara yerleþtirilmez (sadece postalarda "
+"kullanýlýr). Ancak, sayfalarda küçük resimler kullanmak isterseniz "
+"kullanabilirsiniz! Sadece bu seçeneði etkinleþtirin."
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "Sayfalarda yorum göster"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"Varsayılan olarak yorumlar sayfalarda bulunmazi ancak, sayfalarınızda yorum "
+"yapılmasına izin vermek istiyorsanız sadece bu seçeneği etkinleştirin. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "Mesaj Bilgi Bölümü"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Sayfalarda makale bilgi bölümünde görününen öğeleri seçebilirsiniz. "
+"Genellikle konu başlığı altındaki alanda posta ile ilgili temel bilgileri "
+"gösterir. Vurgulanmış öğeler aşağıda görünecektir. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "Dizin sayfalarında Küçük Fotoğrafları göster"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr ""
+"Dizin Sayfalarında küçük resimleri göstermek için bu seçeneği etkinleştirin."
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "Ana Sayfa SEO"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "Tekli Mesaj Sayfası SEO"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "Dizin Sayfası SEO"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "Özel Başlıkları Etkinleştir "
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"Varsayılan olarak tema ana başlıkları oluşturmak için tema blog adı ve blog "
+"oluştururken tanımlanan blog açıklamasını kullanır. Eğer özel bir başlık "
+"oluşturmak istiyorsanız, sadece bu seçeneği etkinleştirin ve aşağıdaki özel "
+"başlık alanını doldurun. "
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "Meta etiketinin açıklamasını etkinleştirin"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"Varsayılan olarak tema blogunuza oluştururken tanımlanan blog açıklaması, "
+"meta açıklama alanını doldurmak için kullanır. Eğer farklı bir tanım "
+"kullanmak istiyorsanız bu seçeneği etkinleştirin ve aşağıdaki özel açıklama "
+"alanını doldurun. "
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "Meta anahtar kelimelerini etkinleştirin"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"Varsayılan olarak tema başlığı için anahtar kelimeler eklemez. Çoğu arama "
+"motorları sitenizi artık sıralamak için anahtar kelimeler kullanmaz, ama "
+"bazı insanlar yine de her ihtimale karşı bunları  tanımlar. Eğer başlığınıza "
+"meta anahtar kelimeler eklemek istiyorsanız bu seçeneği etkinleştirin ve "
+"aşağıda özel anahtar kelime alanını doldurun. "
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "Kanonik URL’s etkinleştir"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Standartlaþtýrma, arama motorlarýnýn içeriðini kopyalamasý indeksini "
+"engeller, ve sonuç olarak, içerik kopyalama cezalarýný ve sayfa sýralama "
+"aþýnmalarýndan kurtulmaya yardým eder. Bazý sayfalar, ayný yere yönlendiren "
+"farklý URLse sahip olabilir. Örneðin domain.com, domain.com/index.html ve "
+"www.domain.comun tamamý ana sayfanýza yönlendiren farklý URLsdir. Bir arama "
+"motorunun bakýþ açýsýndan, sýkça özel linklere baðlý olarak oluþan bu kopya "
+"URLslere, tek bir hedefin yerine bireysel olarak davranýlabilir. Kuralsal "
+"bir URL tanýmlamak, arama motoruna hangi URLyi resmi olarak kullanmak "
+"istediðinizi söyler. Tema kuralsal URLsini linklerinizden ve wp-adminin "
+"ayarlar sekmesinde tanýmlanan domain adýndan uzaða konumlandýrýr."
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "Anasayfa Özel Başlığı (Etkinleştirilmişse)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Özel başlıklar etkinleştirilmişse özel başlığı buraya ekleyebilirsiniz. "
+"Burada yazacaklarınız header.php etiketi ile  <title> </ title> arasına "
+"yerleştirilir."
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "Anasayfa Meta Açıklaması (Etkinleştirilmişse)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr "Meta açıklamaları etkinse özel açıklaması buraya ekleyebilirsiniz."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Anasayfa Meta Anahtar Kelimeleri (etkinleştirilmişse)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Meta anahtar kelimeleri etkinse özel anahtar kelimeleri buraya "
+"ekleyebilirsiniz. Anahtar kelimeler virgülle ayrılmalıdır. Örneğin: "
+"wordpress,themes,templates,elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+"Özel başlıklar devre dışı bırakılmışsa, otomatik üretim yöntemini seçin."
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Özel yazı başlıkları kullanmasanız da hala başlıklarınızın nasıl "
+"oluşturulduğunu kontrol edebilirsiniz. Yazılan başlık ve blog adınızı "
+"görüntülenmesini istediğiniz gibi seçebilirsiniz, ya da başlıktan blog adını "
+"tamamen kaldırabilirsiniz."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr "Ayrı bir web sitesi adı için bir karakter veya yazı başlığı tanımlama"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Otomatik olarak oluşturulan yazı başlıkları kullanırken başlık ve yazı blog "
+"adınızın ayrılmasını değiştirebilirsiniz. Yaygın değerler | veya –"
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "Özel başlıkları etkinleştirin"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"Varsayılan olarak tema yazı ve blog adınızın başlığına göre yazı "
+"başlıklarını oluşturur. Eğer meta başlığını gerçek yazı başlığından daha "
+"farklı yapmak isterseniz her yazının özel alanları kullanmak için özel bir "
+"başlık tanımlayabilirsiniz. Bu seçenek iş için özel başlıklara göre "
+"etkinleştirilmiş olması gerekir, ve başlık için özel bir alan adı altında "
+"seçmeniz gerekir."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "Özel açıklamaları etkinleştirin"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Eğer yazı için meta açıklama eklemek isterseniz özel alanları kullanarak "
+"yapabilirsiniz. Bu seçeneğin açıklamalardan sonra görüntülenmesi için "
+"etkinleştirilmiş olması gerekir. Meta açıklamalarınızı kapalı tabanlı özel "
+"alanları kullanarak aşağıda isim tanımlayarak ekleyebilirsiniz."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "Özel anahtar kelimelerini etkinleştirin"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Eğer yazı için meta anahtar kelimeleri eklemek isterseniz özel alanları "
+"kullanarak yapabilirsiniz. Bu seçeneğin anahtar kelimelerden sonra "
+"görüntülenmesi için etkinleştirilmiş olması gerekir. Meta anahtar "
+"kelimelerinizi kapalı tabanlı özel alanları kullanarak aşağıda isim "
+"tanımlayarak ekleyebilirsiniz."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "Kanonik URL’s etkinleştir"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "Başlık için kullanılacak özel alan adı"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Özel alanları kullanarak başlığınızı tanımlandığınız zaman özel alan adı "
+"için bu değerin kullanılması gerekir. Özel alanın değeri, kullanmak "
+"istediğinizde özel başlığınız olmalıdır."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "Özel alan tanımı için kullanılan isim"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Özel alanları kullanarak meta açıklamasını tanımlandığınız zaman özel alan "
+"adı için bu değerin kullanılması gerekir. Özel alanın değeri, kullanmak "
+"istediğinizde özel açıklamanız olmalıdır."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr "Anahtar kelimeler için kullanılan özel alan ismi"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Özel alanları kullanarak anahtar kelimelerinzi tanımlandığınız zaman özel "
+"alan adı için bu değerin kullanılması gerekir. Özel alanın değeri, kullanmak "
+"istediğinizde özel virgule ile ayrılan anahtar kelimeniz olmalıdır."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Özel yazı başlıkları kullanmasanız da hala başlıklarınızın nasıl "
+"oluşturulduğunu kontrol edebilirsiniz. Yazılan başlık ve blog adınızı "
+"görüntülenmesini istediğiniz gibi seçebilirsiniz, ya da başlıktan blog adını "
+"tamamen kaldırabilirsiniz."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "Meta açıklamalarını etkinleştir"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Eğer kategori/arşiv sayfalarında meta açıklamaları görüntülemek istiyorsanız "
+"bu kutuyu işaretleyin. Açıklama wp-admin’deki kategorinizi düzenleme/"
+"oluştururma  için seçtiğiniz kategori açıklamasını kapalı tutar."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "Başlık üretim yöntemini seçin"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Burada dizin sayfalarındaki başlıkların nasıl oluşturulacağını "
+"seçebilirsiniz. Blogunuzun adını ve görünen dizin başlığını değiştirebilir, "
+"yada başlık blog adını tamamen kaldırabilirsiniz."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Otomatik olarak oluşturulan yazı başlıkları kullanırken başlık ve dizin "
+"sayfa adınızın ayrılmasını değiştirebilirsiniz. Yaygın değerler | veya –"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "Kod Entegrasyonu"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "Başlık kodunu etkinleştir"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Bu seçeneği devre dışı bıraktığınızda blogunuzda aşağıdaki başlık kodu "
+"kaldıracaktır. Bu size daha sonra kullanmak için tasarruf sağlarken kodu "
+"kaldırmak için izin verir."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "< body > Kodunu etkinleştir"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Bu seçeneği devre dışı bıraktığınızda blogunuzda aşağıdaki gövde kodu "
+"kaldıracaktır. Bu size daha sonra kullanmak için tasarruf sağlarken kodu "
+"kaldırmak için izin verir."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "Tekli üst kodunu etkinleştir"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Bu seçeneği devre dışı bıraktığınızda blogunuzda aşağıdaki tekli üst kodunu "
+"kaldıracaktır. Bu size daha sonra kullanmak için tasarruf sağlarken kodu "
+"kaldırmak için izin verir."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "Tekli alt kodunu etkinleştir"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Bu seçeneği devre dışı bıraktığınızda blogunuzda aşağıdaki tekli alt kodunu "
+"kaldıracaktır. Bu size daha sonra kullanmak için tasarruf sağlarken kodu "
+"kaldırmak için izin verir."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "Blogunuza < Head > kodunu ekleyin."
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Buradaya eklediğiniz herhangi bir kod blogunuzu her sayfanın başlık "
+"bölümünde görünecektir. Bu özellik tüm sayfalar için Javascript ya CSS "
+"eklemek istediğinizde kullanışlıdır."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr "<Body> kodunu ekle (Google Analyticsgibi kod izlemeler için iyidir.)"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Buradaya eklediğiniz herhangi bir kod blogunuzu her sayfanın gövde bölümünde "
+"görünecektir. Eğer Google Analytics gibi bir durum sayacı için girişi izleme "
+"pikseli gerekirse bu özellik faydalıdır."
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "Mesajlarınızın üstüne kodu ekleyin"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Buradaya eklediğiniz herhangi bir kod tüm mesajlarınızın üst bölümünde "
+"görünecektir. Bu sosyal imleme bağlantıları gibi şeylerle entegre "
+"arıyorsanız yararlıdır."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Yorumlarınızdan önce yazılarınızın altına kodu ekleyin"
+
+#: ../epanel/options_divi.php:844 ../functions.php:8612
+msgid "Documentation"
+msgstr "Belgeleme"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Reklamları yönetin"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "468x60 Tekli Posta başlığı"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Bu seçeneğin etkinleştirilmesi, posta sayfalarınızın altındaki tekli yazı "
+"içeriğinin sonrasında bir 468x60 başlık görüntüler. Eğer etkinleştirilirse "
+"başlık görüntüsünü ve hedefi URL altına girmelisiniz."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "468x60 reklam başlık resim girişi "
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Buradan 468x60 başlık resmi URL 'si bulabilirsiniz."
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "468x60 reklam hedef URL girişi "
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Buradan 468x60 başlık hedef URL 'si bulabilirsiniz. "
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "468x60 Google Adsense kod girişi "
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "Google Adsense kodunu buraya yerleştirin. "
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:518 ../functions.php:160
+msgid "Previous"
+msgstr "Önceki "
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:519 ../functions.php:161
+msgid "Next"
+msgstr "Sonraki"
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "Tweet Atýn"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "Üye Girişi "
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "Kullanıcı adı: "
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "Şifre: "
+
+#: ../epanel/shortcodes/shortcodes.php:294 ../functions.php:3522
+msgid "Login"
+msgstr "Giriş"
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "İpucu Metni Ekleme "
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "Daha fazla bilgi için buraya tıklayın"
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "Þimdi Katýlýn"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "Bir Deðiþtirme Bloðu Ekleyin"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "Kutu Ekleyin"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "Buton Ekle"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "Sekme Ekle"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "Yazar Biyografisi Ekle"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "Kýsakodlar"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "Altyazı"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "Altyazı buraya gelecek"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "Altyazı başlığı buraya gelecek"
+
+#: ../epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "Durum"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "Genişletilmiş ve kapalı olma durumuları arasında seçim yapın."
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "İçerik"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "İçeriği buraya gelecek"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "İçerik metni veya HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021 ../functions.php:8610
+msgid "Type"
+msgstr "Çeşit"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "Kutunun çeşidi"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "Bağlantı"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "Düğme çeşidini seçin"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "Renk"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "Düğme rengini seçin"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "Bağlantı metni"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "Simge"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "Simge için kullanılan düğme türü"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "Bağlantıyı yeni pencerede aç"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Bağlantının yeni bir pencerede açılması için eveti seçin"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "Sürgü Tipi"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "Buradan Sürgü Tipini Seçin"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "Efekt"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "Animasyonun efektini seçin"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "Atomatik"
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr ""
+"Eğer otomatik slider animasyonunu etkinleştirmek istiyorsanız eveti seçin"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "Otomatik Hız"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Otomatik Sürgü Hızı (Sadece otomatik ayarlanmış ise evet çalışır)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "Sekme Metni"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "Sekme İçeriği"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"\"images\" ‘i sürgü tipi olarak seçerseniz, buraya görüntü URL ‘sini "
+"yapıştırın."
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "Görüntü URL ‘si"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "Yazarın Görüntü URL ‘si"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "Yeniden boyutlandırmayı kullan"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ Bir Tane Daha Sekme Ekle"
+
+#: ../epanel/shortcodes/shortcodes.php:1335 ../functions.php:3165
+msgid "Image Height"
+msgstr "Görüntü Yüksekliği"
+
+#: ../epanel/shortcodes/shortcodes.php:1336 ../functions.php:3146
+msgid "Image Width"
+msgstr "Görüntü Genişliği"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "%1$s tarafından tasarlandı. | %2$s gururla sunar."
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "Ana Menü"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "Yardımcı Menü"
+
+#: ../functions.php:32 ../functions.php:706
+msgid "Footer Menu"
+msgstr "Altbilgi Menüsü"
+
+#: ../functions.php:73
+#, php-format
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a "
+"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
+"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+"Divi'ye Hoşgeldiniz! Yeni temanıza dalmadan önce onlarca kapsamlı derse "
+"erişmek için lütfen <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s"
+"\" target=\"_blank\">Divi Documentation</a> sayfasını ziyaret edin."
+
+#: ../functions.php:97
+msgid "on"
+msgstr " "
+
+#: ../functions.php:154
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Lütfen, doğru bilgileri girdiğinizden emin olmak için aşağıdaki giriş "
+"alanları kontrol edin."
+
+#: ../functions.php:155
+msgid "Fill"
+msgstr "Doldurun"
+
+#: ../functions.php:156
+msgid "field"
+msgstr "Alan"
+
+#: ../functions.php:157
+msgid "Invalid email"
+msgstr "Geçersiz e-posta adresi"
+
+#: ../functions.php:158
+msgid "Captcha"
+msgstr "Güvenlik Kodu"
+
+#: ../functions.php:159
+msgid "Prev"
+msgstr "Önceki"
+
+#: ../functions.php:208
+msgid "Select Page"
+msgstr "Bir Sayfa Seçin"
+
+#: ../functions.php:246
+msgid "Divi Page Settings"
+msgstr "Divi Sayfa Ayarları"
+
+#: ../functions.php:247
+msgid "Divi Post Settings"
+msgstr "Divi Gönderi Ayarları"
+
+#: ../functions.php:248
+msgid "Divi Product Settings"
+msgstr "Divi Ürün Ayarları"
+
+#: ../functions.php:249
+msgid "Divi Project Settings"
+msgstr "Divi Proje Ayarları"
+
+#: ../functions.php:255
+msgid "Projects"
+msgstr "Projeler"
+
+#: ../functions.php:256
+msgid "Project"
+msgstr "Proje"
+
+#: ../functions.php:257
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: ../functions.php:258
+msgid "Add New Project"
+msgstr "Yeni Proje Ekle"
+
+#: ../functions.php:259
+msgid "Edit Project"
+msgstr "Projeyi Düzenle"
+
+#: ../functions.php:260
+msgid "New Project"
+msgstr "Yeni Proje"
+
+#: ../functions.php:261
+msgid "All Projects"
+msgstr "Bütün Projeler"
+
+#: ../functions.php:262
+msgid "View Project"
+msgstr "Projeyi Göster"
+
+#: ../functions.php:263
+msgid "Search Projects"
+msgstr "Projeleri Ara"
+
+#: ../functions.php:264
+msgid "Nothing found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: ../functions.php:265
+msgid "Nothing found in Trash"
+msgstr "Çöp Kovasında Hiçbir şey bulunamadı"
+
+#: ../functions.php:293
+msgid "Category"
+msgstr "Kategori"
+
+#: ../functions.php:294
+msgid "Search Categories"
+msgstr "Kategorileri Ara"
+
+#: ../functions.php:295
+msgid "All Categories"
+msgstr "Tüm Kategoriler"
+
+#: ../functions.php:296
+msgid "Parent Category"
+msgstr "Ana Kategori"
+
+#: ../functions.php:297
+msgid "Parent Category:"
+msgstr "Ana Kategori:"
+
+#: ../functions.php:298
+msgid "Edit Category"
+msgstr "Kategoriyi Düzenle"
+
+#: ../functions.php:299
+msgid "Update Category"
+msgstr "Kategoriyi Güncelle"
+
+#: ../functions.php:300
+msgid "Add New Category"
+msgstr "Yeni Kategori Ekle"
+
+#: ../functions.php:301
+msgid "New Category Name"
+msgstr "Yeni Kategori Adı"
+
+#: ../functions.php:314 ../functions.php:324
+msgid "Tags"
+msgstr "Etiketler"
+
+#: ../functions.php:315
+msgid "Tag"
+msgstr "Etiket"
+
+#: ../functions.php:316
+msgid "Search Tags"
+msgstr "Etiketleri Ara"
+
+#: ../functions.php:317
+msgid "All Tags"
+msgstr "Bütün Etiketler"
+
+#: ../functions.php:318
+msgid "Parent Tag"
+msgstr "Ana Etiket"
+
+#: ../functions.php:319
+msgid "Parent Tag:"
+msgstr "Ana Etiket:"
+
+#: ../functions.php:320
+msgid "Edit Tag"
+msgstr "Etiketi Düzenle"
+
+#: ../functions.php:321
+msgid "Update Tag"
+msgstr "Etiketi Güncelle"
+
+#: ../functions.php:322
+msgid "Add New Tag"
+msgstr "Yeni Etiket Ekle"
+
+#: ../functions.php:323
+msgid "New Tag Name"
+msgstr "Yeni Etiket Adı"
+
+#: ../functions.php:340
+msgid "Skills"
+msgstr "Beceriler"
+
+#: ../functions.php:343
+msgid "Posted on"
+msgstr "Gönderildi"
+
+#: ../functions.php:370
+msgid "Light"
+msgstr "Açık Renk"
+
+#: ../functions.php:371
+msgid "Dark"
+msgstr "Koyu Renk"
+
+#: ../functions.php:384
+msgid "Page Layout"
+msgstr "Sayfa Yerleşim Düzeni"
+
+#: ../functions.php:398
+msgid "Dot Navigation"
+msgstr "Nokta Navigasyon"
+
+#: ../functions.php:401 ../functions.php:409
+msgid "Off"
+msgstr "Kapalı"
+
+#: ../functions.php:402 ../functions.php:410
+msgid "On"
+msgstr "Açık"
+
+#: ../functions.php:406
+msgid "Hide Nav Before Scroll"
+msgstr "Kaydırmadan Önce Nav'ı Gizle"
+
+#: ../functions.php:416
+msgid "Post Title"
+msgstr "Gönderi Başlığı"
+
+#: ../functions.php:419
+msgid "Show"
+msgstr "Göster"
+
+#: ../functions.php:420
+msgid "Hide"
+msgstr "Gizle"
+
+#: ../functions.php:425
+msgid "Use Background Color"
+msgstr "Arkaplan Rengi Kullan"
+
+#: ../functions.php:430 ../functions.php:5510
+msgid "Hex Value"
+msgstr "Renk Değeri"
+
+#: ../functions.php:434 ../functions.php:1697 ../functions.php:1722
+#: ../functions.php:1845 ../functions.php:2350 ../functions.php:2449
+#: ../functions.php:2655
+msgid "Text Color"
+msgstr "Yazı Rengi"
+
+#: ../functions.php:626
+msgid "Typography"
+msgstr "Tipografya"
+
+#: ../functions.php:631
+msgid "Mobile Styles"
+msgstr "Mobil Stilleri"
+
+#: ../functions.php:636
+msgid "Tablet"
+msgstr "Tablet"
+
+#: ../functions.php:641
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../functions.php:646
+msgid "Mobile Menu"
+msgstr "Mobil Menü"
+
+#: ../functions.php:651
+msgid "Background"
+msgstr "Arkaplan"
+
+#: ../functions.php:656
+msgid "Header & Navigation"
+msgstr "Baş Kısım ve Navigasyon"
+
+#: ../functions.php:661
+msgid "Header Format"
+msgstr "Baş Kısım Biçimi"
+
+#: ../functions.php:666
+msgid "Primary Menu Bar"
+msgstr "Birincil Menü Çubuğu"
+
+#: ../functions.php:671
+msgid "Secondary Menu Bar"
+msgstr "İkincil Menü Çubuğu"
+
+#: ../functions.php:676
+msgid "Fixed Navigation Settings"
+msgstr "Sabit Navigasyon Ayarları"
+
+#: ../functions.php:681
+msgid "Header Elements"
+msgstr "Baş Kısım Elemanları"
+
+#: ../functions.php:686
+msgid "Footer"
+msgstr "Alt Kısım"
+
+#: ../functions.php:691
+msgid "Layout"
+msgstr "Yerleşim Düzeni"
+
+#: ../functions.php:696
+msgid "Widgets"
+msgstr "Widgetlar"
+
+#: ../functions.php:701
+msgid "Footer Elements"
+msgstr "Alt Kısım Elemanları"
+
+#: ../functions.php:711
+msgid "Bottom Bar"
+msgstr "Alt Çubuk"
+
+#: ../functions.php:716 ../functions.php:1411
+msgid "Color Schemes"
+msgstr "Renk Şemaları"
+
+#: ../functions.php:718
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Not: Yukarıda belirtilen renk ayarları varsayılan renk düzeni olarak "
+"uygulanmalıdır."
+
+#: ../functions.php:722
+msgid "Buttons"
+msgstr "Tuşlar"
+
+#: ../functions.php:727
+msgid "Buttons Style"
+msgstr "Tuşların Stili"
+
+#: ../functions.php:732
+msgid "Buttons Hover Style"
+msgstr "Üzerindeyken Tuşların Stili"
+
+#: ../functions.php:737 ../functions.php:4774
+msgid "Blog"
+msgstr "Blog"
+
+#: ../functions.php:742
+msgid "Post"
+msgstr "Gönderi"
+
+#: ../functions.php:754
+msgid "Meta Text Size"
+msgstr "Meta Yazı Boyutu"
+
+#: ../functions.php:772
+msgid "Meta Line Height"
+msgstr "Meta Çizgi Yüksekliği"
+
+#: ../functions.php:790
+msgid "Meta Letter Spacing"
+msgstr "Meta Harf Boşluğu"
+
+#: ../functions.php:808 ../functions.php:4845 ../functions.php:4931
+msgid "Meta Font Style"
+msgstr "Meta Yazı Tipi Stili"
+
+#: ../functions.php:812 ../functions.php:885 ../functions.php:1276
+#: ../functions.php:1598 ../functions.php:1682 ../functions.php:2119
+#: ../functions.php:2174 ../functions.php:2303 ../functions.php:2367
+#: ../functions.php:2546 ../functions.php:2825 ../functions.php:2864
+#: ../functions.php:2938 ../functions.php:3024 ../functions.php:3063
+#: ../functions.php:3091 ../functions.php:3111 ../functions.php:3215
+#: ../functions.php:3254 ../functions.php:3293 ../functions.php:3340
+#: ../functions.php:3406 ../functions.php:3445 ../functions.php:3492
+#: ../functions.php:3558 ../functions.php:3652 ../functions.php:3691
+#: ../functions.php:3766 ../functions.php:3805 ../functions.php:3844
+#: ../functions.php:3891 ../functions.php:3930 ../functions.php:4014
+#: ../functions.php:4053 ../functions.php:4100 ../functions.php:4139
+#: ../functions.php:4185 ../functions.php:4205 ../functions.php:4291
+#: ../functions.php:4311 ../functions.php:4396 ../functions.php:4435
+#: ../functions.php:4493 ../functions.php:4540 ../functions.php:4705
+#: ../functions.php:4744 ../functions.php:4810 ../functions.php:4849
+#: ../functions.php:4896 ../functions.php:4935 ../functions.php:4982
+#: ../functions.php:5021 ../functions.php:5060 ../functions.php:5099
+#: ../functions.php:5146 ../functions.php:5193 ../functions.php:5259
+#: ../functions.php:5298
+msgid "Bold"
+msgstr "Kalın"
+
+#: ../functions.php:813 ../functions.php:886 ../functions.php:1277
+#: ../functions.php:1599 ../functions.php:1683 ../functions.php:2120
+#: ../functions.php:2175 ../functions.php:2304 ../functions.php:2368
+#: ../functions.php:2547 ../functions.php:2826 ../functions.php:2865
+#: ../functions.php:2939 ../functions.php:3025 ../functions.php:3064
+#: ../functions.php:3092 ../functions.php:3112 ../functions.php:3216
+#: ../functions.php:3255 ../functions.php:3294 ../functions.php:3341
+#: ../functions.php:3407 ../functions.php:3446 ../functions.php:3493
+#: ../functions.php:3559 ../functions.php:3653 ../functions.php:3692
+#: ../functions.php:3767 ../functions.php:3806 ../functions.php:3845
+#: ../functions.php:3892 ../functions.php:3931 ../functions.php:4015
+#: ../functions.php:4054 ../functions.php:4101 ../functions.php:4140
+#: ../functions.php:4186 ../functions.php:4206 ../functions.php:4292
+#: ../functions.php:4312 ../functions.php:4397 ../functions.php:4436
+#: ../functions.php:4494 ../functions.php:4541 ../functions.php:4706
+#: ../functions.php:4745 ../functions.php:4811 ../functions.php:4850
+#: ../functions.php:4897 ../functions.php:4936 ../functions.php:4983
+#: ../functions.php:5022 ../functions.php:5061 ../functions.php:5100
+#: ../functions.php:5147 ../functions.php:5194 ../functions.php:5260
+#: ../functions.php:5299
+msgid "Italic"
+msgstr "Eğik"
+
+#: ../functions.php:814 ../functions.php:887 ../functions.php:1278
+#: ../functions.php:1600 ../functions.php:1684 ../functions.php:2121
+#: ../functions.php:2176 ../functions.php:2305 ../functions.php:2369
+#: ../functions.php:2548 ../functions.php:2827 ../functions.php:2866
+#: ../functions.php:2940 ../functions.php:3026 ../functions.php:3065
+#: ../functions.php:3093 ../functions.php:3113 ../functions.php:3217
+#: ../functions.php:3256 ../functions.php:3295 ../functions.php:3342
+#: ../functions.php:3408 ../functions.php:3447 ../functions.php:3494
+#: ../functions.php:3560 ../functions.php:3654 ../functions.php:3693
+#: ../functions.php:3768 ../functions.php:3807 ../functions.php:3846
+#: ../functions.php:3893 ../functions.php:3932 ../functions.php:4016
+#: ../functions.php:4055 ../functions.php:4102 ../functions.php:4141
+#: ../functions.php:4187 ../functions.php:4207 ../functions.php:4293
+#: ../functions.php:4313 ../functions.php:4398 ../functions.php:4437
+#: ../functions.php:4495 ../functions.php:4542 ../functions.php:4707
+#: ../functions.php:4746 ../functions.php:4812 ../functions.php:4851
+#: ../functions.php:4898 ../functions.php:4937 ../functions.php:4984
+#: ../functions.php:5023 ../functions.php:5062 ../functions.php:5101
+#: ../functions.php:5148 ../functions.php:5195 ../functions.php:5261
+#: ../functions.php:5300
+msgid "Uppercase"
+msgstr "Büyük Harf"
+
+#: ../functions.php:815 ../functions.php:888 ../functions.php:1279
+#: ../functions.php:1601 ../functions.php:1685 ../functions.php:2122
+#: ../functions.php:2177 ../functions.php:2306 ../functions.php:2370
+#: ../functions.php:2549 ../functions.php:2828 ../functions.php:2867
+#: ../functions.php:2941 ../functions.php:3027 ../functions.php:3066
+#: ../functions.php:3094 ../functions.php:3114 ../functions.php:3218
+#: ../functions.php:3257 ../functions.php:3296 ../functions.php:3343
+#: ../functions.php:3409 ../functions.php:3448 ../functions.php:3495
+#: ../functions.php:3561 ../functions.php:3655 ../functions.php:3694
+#: ../functions.php:3769 ../functions.php:3808 ../functions.php:3847
+#: ../functions.php:3894 ../functions.php:3933 ../functions.php:4017
+#: ../functions.php:4056 ../functions.php:4103 ../functions.php:4142
+#: ../functions.php:4188 ../functions.php:4208 ../functions.php:4294
+#: ../functions.php:4314 ../functions.php:4399 ../functions.php:4438
+#: ../functions.php:4496 ../functions.php:4543 ../functions.php:4708
+#: ../functions.php:4747 ../functions.php:4813 ../functions.php:4852
+#: ../functions.php:4899 ../functions.php:4938 ../functions.php:4985
+#: ../functions.php:5024 ../functions.php:5063 ../functions.php:5102
+#: ../functions.php:5149 ../functions.php:5196 ../functions.php:5262
+#: ../functions.php:5301
+msgid "Underline"
+msgstr "Altı Çizili"
+
+#: ../functions.php:827 ../functions.php:1218 ../functions.php:1291
+#: ../functions.php:1309 ../functions.php:2097
+msgid "Header Text Size"
+msgstr "Baş Kısım Metin Boyutu"
+
+#: ../functions.php:845 ../functions.php:1254
+msgid "Header Line Height"
+msgstr "Baş Kısım Satır Yüksekliği"
+
+#: ../functions.php:863 ../functions.php:1236
+msgid "Header Letter Spacing"
+msgstr "Baş Kısım Harf Boşluğu"
+
+#: ../functions.php:881 ../functions.php:1272 ../functions.php:2115
+#: ../functions.php:3020 ../functions.php:3211 ../functions.php:3336
+#: ../functions.php:3402 ../functions.php:3488 ../functions.php:3554
+#: ../functions.php:4392 ../functions.php:5142 ../functions.php:5255
+msgid "Header Font Style"
+msgstr "Baş Kısım Yazı Tipi Stili"
+
+#: ../functions.php:899
+msgid "Enable Boxed Layout"
+msgstr "Kutulu Düzeni Aktif Et"
+
+#: ../functions.php:912
+msgid "Website Content Width"
+msgstr "Web Sitesi İçerik Genişliği"
+
+#: ../functions.php:930
+msgid "Website Gutter Width"
+msgstr "Web Sitesi Kolon Boşluğu"
+
+#: ../functions.php:947
+msgid "Use Custom Sidebar Width"
+msgstr ""
+
+#: ../functions.php:960
+msgid "Sidebar Width"
+msgstr "Kenar Çubuğu Genişliği"
+
+#: ../functions.php:978 ../functions.php:996 ../functions.php:1014
+msgid "Section Height"
+msgstr "Bölüm Yüksekliği"
+
+#: ../functions.php:1032 ../functions.php:1050 ../functions.php:1068
+msgid "Row Height"
+msgstr "Satır Yüksekliği"
+
+#: ../functions.php:1086
+msgid "Stretch Background Image"
+msgstr "Arka Plan Görüntüsünü Uzat"
+
+#: ../functions.php:1093 ../functions.php:1748 ../functions.php:1819
+#: ../functions.php:1832 ../functions.php:2337 ../functions.php:2462
+#: ../functions.php:2668
+msgid "Background Color"
+msgstr "Arkaplan Rengi"
+
+#: ../functions.php:1100
+msgid "Background Image"
+msgstr "Arka plan Görüntüsü"
+
+#: ../functions.php:1106
+msgid "Background Repeat"
+msgstr "Arkaplan Tekrarı"
+
+#: ../functions.php:1110
+msgid "No Repeat"
+msgstr "Tekrar Yok"
+
+#: ../functions.php:1111
+msgid "Tile"
+msgstr "Döşeme"
+
+#: ../functions.php:1112
+msgid "Tile Horizontally"
+msgstr "Yatay Döşe"
+
+#: ../functions.php:1113
+msgid "Tile Vertically"
+msgstr "Dikey Döşe"
+
+#: ../functions.php:1118 ../functions.php:1129
+msgid "Background Position"
+msgstr "Arkaplan Pozisyonu"
+
+#: ../functions.php:1122 ../functions.php:2626
+msgid "Left"
+msgstr "Sol"
+
+#: ../functions.php:1123
+msgid "Center"
+msgstr "Merkez"
+
+#: ../functions.php:1124 ../functions.php:2625
+msgid "Right"
+msgstr "Sað"
+
+#: ../functions.php:1133
+msgid "Scroll"
+msgstr "Kaydır"
+
+#: ../functions.php:1134
+msgid "Fixed"
+msgstr "Sabit"
+
+#: ../functions.php:1146 ../functions.php:1182 ../functions.php:1200
+msgid "Body Text Size"
+msgstr "Gövde Metin Boyutu"
+
+#: ../functions.php:1164
+msgid "Body Line Height"
+msgstr "Gövde Satır Yüksekliği"
+
+#: ../functions.php:1328
+msgid "Header Font"
+msgstr "Başlık Yazı Tipi"
+
+#: ../functions.php:1343
+msgid "Body Font"
+msgstr "Gövde Yazı Tipi"
+
+#: ../functions.php:1359
+msgid "Body Link Color"
+msgstr "Gövde Bağlantı Rengi"
+
+#: ../functions.php:1372
+msgid "Body Text Color"
+msgstr "Gövde Yazı Rengi"
+
+#: ../functions.php:1385
+msgid "Header Text Color"
+msgstr "Baş Kısım Metin Rengi"
+
+#: ../functions.php:1398
+msgid "Theme Accent Color"
+msgstr "Tema Vurgu Rengi"
+
+#: ../functions.php:1416 ../functions.php:1436 ../functions.php:5474
+msgid "Default"
+msgstr "Ön Tanımlı"
+
+#: ../functions.php:1417
+msgid "Green"
+msgstr "Yeşil"
+
+#: ../functions.php:1418
+msgid "Orange"
+msgstr "Turuncu"
+
+#: ../functions.php:1419
+msgid "Pink"
+msgstr "Penbe"
+
+#: ../functions.php:1420
+msgid "Red"
+msgstr "Kırmızı"
+
+#: ../functions.php:1432
+msgid "Header Style"
+msgstr "Başlık Stili"
+
+#: ../functions.php:1437
+msgid "Centered"
+msgstr "Ortala"
+
+#: ../functions.php:1438
+msgid "Centered Inline Logo"
+msgstr "Satıriçi Ortalanmış Logo"
+
+#: ../functions.php:1449
+msgid "Enable Vertical Navigation"
+msgstr "Dikey Navigasyonu Aktif Et"
+
+#: ../functions.php:1461
+msgid "Hide Navigation Until Scroll"
+msgstr "Kaydırana Kadar Navigasyonu Gizle"
+
+#: ../functions.php:1473 ../functions.php:2045
+msgid "Show Social Icons"
+msgstr "Sosyal Simgeleri Göster"
+
+#: ../functions.php:1486
+msgid "Show Search Icon"
+msgstr "Arama Simgesini Göster"
+
+#: ../functions.php:1498 ../functions.php:1619
+msgid "Make Full Width"
+msgstr "Tam Geniş Yap"
+
+#: ../functions.php:1510 ../functions.php:1709 ../functions.php:1919
+msgid "Hide Logo Image"
+msgstr "Logo Resmini Gizle"
+
+#: ../functions.php:1523
+msgid "Menu/Logo Height"
+msgstr "Menü/Logo Yüksekliği"
+
+#: ../functions.php:1541 ../functions.php:1625 ../functions.php:1950
+#: ../functions.php:2431
+msgid "Text Size"
+msgstr "Yazı Boyutu"
+
+#: ../functions.php:1559 ../functions.php:1643 ../functions.php:2281
+#: ../functions.php:2524 ../functions.php:2712
+msgid "Letter Spacing"
+msgstr "Harf Boşluğu"
+
+#: ../functions.php:1578 ../functions.php:1662
+msgid "Font"
+msgstr "Yazı Tipi"
+
+#: ../functions.php:1594 ../functions.php:1678 ../functions.php:2299
+#: ../functions.php:2363
+msgid "Font Style"
+msgstr "Yazı Tipi Stili"
+
+#: ../functions.php:1735
+msgid "Active Link Color"
+msgstr "Aktif Bağlantı Rengi"
+
+#: ../functions.php:1761 ../functions.php:1858
+msgid "Dropdown Menu Background Color"
+msgstr "Açılır Menü Arkaplan Rengi"
+
+#: ../functions.php:1774
+msgid "Dropdown Menu Line Color"
+msgstr "Açılır Menü Çizgi Rengi"
+
+#: ../functions.php:1787 ../functions.php:1871
+msgid "Dropdown Menu Text Color"
+msgstr "Açılır Menü Metin Rengi"
+
+#: ../functions.php:1800 ../functions.php:1884
+msgid "Dropdown Menu Animation"
+msgstr "Açılır Menü Animasyonu"
+
+#: ../functions.php:1804 ../functions.php:1888
+msgid "Fade"
+msgstr "Soldur"
+
+#: ../functions.php:1805 ../functions.php:1889
+msgid "Expand"
+msgstr "Büyüt"
+
+#: ../functions.php:1806 ../functions.php:1890
+msgid "Slide"
+msgstr "Slayt"
+
+#: ../functions.php:1807 ../functions.php:1891
+msgid "Flip"
+msgstr "Döndür"
+
+#: ../functions.php:1932
+msgid "Fixed Menu/Logo Height"
+msgstr "Sabit Menü/Logo Yüksekliği"
+
+#: ../functions.php:1968
+msgid "Primary Menu Background Color"
+msgstr "Birincil Menü Arkaplan Rengi"
+
+#: ../functions.php:1981
+msgid "Secondary Menu Background Color"
+msgstr "İkincil Menü Arkaplan Rengi"
+
+#: ../functions.php:1994
+msgid "Menu Link Color"
+msgstr "Menü Bağlantı Rengi"
+
+#: ../functions.php:2007
+msgid "Active Menu Link Color"
+msgstr "Aktif Menü Bağlantı Rengi"
+
+#: ../functions.php:2020
+msgid "Phone Number"
+msgstr "Telefon Numarası"
+
+#: ../functions.php:2032
+msgid "Email"
+msgstr "E-posta"
+
+#: ../functions.php:2058
+msgid "Column Layout"
+msgstr "Kolon Düzeni"
+
+#: ../functions.php:2063 ../functions.php:2064 ../functions.php:2065
+#: ../functions.php:2067 ../functions.php:2068 ../functions.php:2069
+#: ../functions.php:2070 ../functions.php:2071 ../functions.php:2072
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s Sütun"
+
+#: ../functions.php:2066
+msgid "1 Column"
+msgstr "1 Sütun"
+
+#: ../functions.php:2084
+msgid "Footer Background Color"
+msgstr "Altbilgi Arka Plan Rengi"
+
+#: ../functions.php:2134
+msgid "Body/Link Text Size"
+msgstr "Gövde/Bağlantı Metin Boyutu"
+
+#: ../functions.php:2152
+msgid "Body/Link Line Height"
+msgstr "Gövde/Bağlantı Çizgi Yüksekliği"
+
+#: ../functions.php:2170
+msgid "Body Font Style"
+msgstr "Gövde Yazı Tipi Stili"
+
+#: ../functions.php:2189
+msgid "Widget Text Color"
+msgstr "Widget Metin Rengi"
+
+#: ../functions.php:2202
+msgid "Widget Link Color"
+msgstr "Widget Bağlantı Rengi"
+
+#: ../functions.php:2215
+msgid "Widget Header Color"
+msgstr "Widget Baş Kısım Rengi"
+
+#: ../functions.php:2228
+msgid "Widget Bullet Color"
+msgstr "Widget Nokta Rengi"
+
+#: ../functions.php:2242
+msgid "Footer Menu Background Color"
+msgstr "Alt Kısım Menüsü Arkaplan Rengi"
+
+#: ../functions.php:2255
+msgid "Footer Menu Text Color"
+msgstr "Alt Kısım Menüsü Metin Rengi"
+
+#: ../functions.php:2268
+msgid "Footer Menu Active Link Color"
+msgstr "Alt Kısım Menüsü Aktif Bağlantı Rengi"
+
+#: ../functions.php:2318 ../functions.php:2382
+msgid "Font Size"
+msgstr "Yazı Tipi Boyutu"
+
+#: ../functions.php:2400
+msgid "Social Icon Size"
+msgstr "Sosyal Simge Boyutu"
+
+#: ../functions.php:2418
+msgid "Social Icon Color"
+msgstr "Sosyal Simge Rengi"
+
+#: ../functions.php:2475
+msgid "Border Width"
+msgstr "Kenar Genişliği"
+
+#: ../functions.php:2493 ../functions.php:2681
+msgid "Border Color"
+msgstr "Kenar Rengi"
+
+#: ../functions.php:2506 ../functions.php:2694
+msgid "Border Radius"
+msgstr "Kenar Yarıçapı"
+
+#: ../functions.php:2542 ../functions.php:5189
+msgid "Button Font Style"
+msgstr "Tuş Yazı Tipi Stili"
+
+#: ../functions.php:2562
+msgid "Buttons Font"
+msgstr "Tuş Yazı Tipi"
+
+#: ../functions.php:2578
+msgid "Add Button Icon"
+msgstr "Tuş Simgesi Ekle"
+
+#: ../functions.php:2582 ../functions.php:2642
+msgid "Yes"
+msgstr "Evet"
+
+#: ../functions.php:2583 ../functions.php:2643
+msgid "No"
+msgstr "Hayýr"
+
+#: ../functions.php:2595
+msgid "Select Icon"
+msgstr "Simge Seç"
+
+#: ../functions.php:2608
+msgid "Icon Color"
+msgstr "Simge Rengi"
+
+#: ../functions.php:2621
+msgid "Icon Placement"
+msgstr "Simge Yerleşimi"
+
+#: ../functions.php:2638
+msgid "Only Show Icon on Hover"
+msgstr "Simgeyi Sadece Üzerindeyken Göster"
+
+#: ../functions.php:2727
+msgid "Left to Right"
+msgstr "Soldan Sağa"
+
+#: ../functions.php:2728
+msgid "Right to Left"
+msgstr "Sağdan Sola"
+
+#: ../functions.php:2729
+msgid "Top to Bottom"
+msgstr "Yukarıdan Aşağı"
+
+#: ../functions.php:2730
+msgid "Bottom to Top"
+msgstr "Aşağıdan yukarı"
+
+#: ../functions.php:2731
+msgid "Fade In"
+msgstr "Soldur"
+
+#: ../functions.php:2732
+msgid "No Animation"
+msgstr "Animasyon Yok"
+
+#: ../functions.php:2739 ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "Görüntü"
+
+#: ../functions.php:2740
+msgid "Image Module Settings"
+msgstr "Görüntü Modülü Ayarlarý"
+
+#: ../functions.php:2750
+msgid "Animation"
+msgstr "Animasyon"
+
+#: ../functions.php:2751
+msgid "This controls default direction of the lazy-loading animation."
+msgstr "Bu, animasyonun varsayılan yönünü kontrol eder."
+
+#: ../functions.php:2761
+msgid "Gallery"
+msgstr "Galeri"
+
+#: ../functions.php:2774 ../functions.php:3601 ../functions.php:3715
+msgid "Zoom Icon Color"
+msgstr "Simge Rengine Yaklaştır"
+
+#: ../functions.php:2788 ../functions.php:3615 ../functions.php:3729
+msgid "Hover Overlay Color"
+msgstr "Üzerindeyken Örtü Rengi"
+
+#: ../functions.php:2802 ../functions.php:2915 ../functions.php:3629
+#: ../functions.php:3743 ../functions.php:4030 ../functions.php:4116
+#: ../functions.php:4162 ../functions.php:4268
+msgid "Title Font Size"
+msgstr "Başlık Yazı Boyutu"
+
+#: ../functions.php:2821 ../functions.php:2934 ../functions.php:3648
+#: ../functions.php:3762 ../functions.php:4049 ../functions.php:4135
+#: ../functions.php:4806 ../functions.php:4892
+msgid "Title Font Style"
+msgstr "Başlık Yazı Tipi Stili"
+
+#: ../functions.php:2841 ../functions.php:3668 ../functions.php:3782
+msgid "Caption Font Size"
+msgstr "Altyazı Büyüklüğü"
+
+#: ../functions.php:2860 ../functions.php:3687 ../functions.php:3801
+msgid "Caption Font Style"
+msgstr "Altyazı Yazı Tipi Stili"
+
+#: ../functions.php:2875
+msgid "Blurb"
+msgstr "Ýlan"
+
+#: ../functions.php:2888 ../functions.php:3001 ../functions.php:3192
+#: ../functions.php:3317 ../functions.php:3383 ../functions.php:3469
+#: ../functions.php:3535 ../functions.php:4373 ../functions.php:5123
+#: ../functions.php:5236
+msgid "Header Font Size"
+msgstr "Baş Kısım Yazı Boyutu"
+
+#: ../functions.php:2902
+msgid "Tabs"
+msgstr "Sekmeler"
+
+#: ../functions.php:2955 ../functions.php:3356 ../functions.php:3508
+#: ../functions.php:3574
+msgid "Padding"
+msgstr "Hücre İçi Boşluk"
+
+#: ../functions.php:2969
+msgid "Slider"
+msgstr "Kaydýrýcý"
+
+#: ../functions.php:2982 ../functions.php:5217
+msgid "Top & Bottom Padding"
+msgstr "Üst ve Alt Boşluk"
+
+#: ../functions.php:3040 ../functions.php:5275
+msgid "Content Font Size"
+msgstr "İçerik Yazı Boyutu"
+
+#: ../functions.php:3059 ../functions.php:5294
+msgid "Content Font Style"
+msgstr "İçerik Yazı Tipi Stili"
+
+#: ../functions.php:3074
+msgid "Testimonial"
+msgstr "Onay"
+
+#: ../functions.php:3087 ../functions.php:4701
+msgid "Name Font Style"
+msgstr "İsim Yazı Tipi Stili"
+
+#: ../functions.php:3107
+msgid "Details Font Style"
+msgstr "Detaylar Yazı Tipi Stili"
+
+#: ../functions.php:3127
+msgid "Portrait Border Radius"
+msgstr "Portre Kenar Yarıçapı"
+
+#: ../functions.php:3179
+msgid "Pricing Table"
+msgstr "Fiyatlandýrma Tablosu"
+
+#: ../functions.php:3231 ../functions.php:3422 ../functions.php:4721
+msgid "Subheader Font Size"
+msgstr "Altbaşlık Yazı Boyutu"
+
+#: ../functions.php:3250 ../functions.php:3441 ../functions.php:4740
+msgid "Subheader Font Style"
+msgstr "Altbaşlık Yazı Tipi Stili"
+
+#: ../functions.php:3270 ../functions.php:5037
+msgid "Price Font Size"
+msgstr "Ücret Yazı Tipi Boyutu"
+
+#: ../functions.php:3289
+msgid "Pricing Font Style"
+msgstr "Ücretlendirme Yazı Tipi Stili"
+
+#: ../functions.php:3304
+msgid "Call To Action"
+msgstr "Eyleme Çaðrý"
+
+#: ../functions.php:3370
+msgid "Audio"
+msgstr "Ses"
+
+#: ../functions.php:3456
+msgid "Subscribe"
+msgstr "Abone ol"
+
+#: ../functions.php:3588
+msgid "Portfolio"
+msgstr "Portfolyö"
+
+#: ../functions.php:3702
+msgid "Filterable Portfolio"
+msgstr "Filtrelenebilir Portfolyö"
+
+#: ../functions.php:3821
+msgid "Filters Font Size"
+msgstr "Filtreler Yazı Tipi Boyutu"
+
+#: ../functions.php:3840
+msgid "Filters Font Style"
+msgstr "Filtreler Yazı Tipi Stili"
+
+#: ../functions.php:3855
+msgid "Bar Counter"
+msgstr "Sütun Gösterge"
+
+#: ../functions.php:3868
+msgid "Label Font Size"
+msgstr "Etiket Yazı Tipi Boyutu"
+
+#: ../functions.php:3887
+msgid "Label Font Style"
+msgstr "Etiket Yazı Tipi Stili"
+
+#: ../functions.php:3907
+msgid "Percent Font Size"
+msgstr "Yüzdelik Yazı Tipi Boyutu"
+
+#: ../functions.php:3926
+msgid "Percent Font Style"
+msgstr "Yüzdelik Yazı Tipi Stili"
+
+#: ../functions.php:3946
+msgid "Bar Padding"
+msgstr "Çubuk Boşluğu"
+
+#: ../functions.php:3965
+msgid "Bar Border Radius"
+msgstr "Çubuk Köşe Yarıçapı"
+
+#: ../functions.php:3979
+msgid "Circle Counter"
+msgstr "Daire Sayýcý"
+
+#: ../functions.php:3991 ../functions.php:4077
+msgid "Number Font Size"
+msgstr "Numara Yazı Tipi Boyutu"
+
+#: ../functions.php:4010 ../functions.php:4096
+msgid "Number Font Style"
+msgstr "Numara Yazı Tipi Stili"
+
+#: ../functions.php:4064
+msgid "Number Counter"
+msgstr "Numara Sayýcý"
+
+#: ../functions.php:4150
+msgid "Accordion"
+msgstr "Armonika"
+
+#: ../functions.php:4181 ../functions.php:4287
+msgid "Opened Title Font Style"
+msgstr "Açık Başlık Yazı Tipi Stili"
+
+#: ../functions.php:4201 ../functions.php:4307
+msgid "Closed Title Font Style"
+msgstr "Kapalı Başlık Yazı Tipi Stili"
+
+#: ../functions.php:4221 ../functions.php:4327
+msgid "Toggle Icon Size"
+msgstr "Düğme Simge Boyutu"
+
+#: ../functions.php:4241 ../functions.php:4346
+msgid "Toggle Padding"
+msgstr "Düğme Boşluğu"
+
+#: ../functions.php:4255
+msgid "Toggle"
+msgstr "Deðiþtir"
+
+#: ../functions.php:4360
+msgid "Contact Form"
+msgstr "Ýletiþim Formu"
+
+#: ../functions.php:4412
+msgid "Input Font Size"
+msgstr "Girdi Yazı Tipi Boyutu"
+
+#: ../functions.php:4431
+msgid "Input Font Style"
+msgstr "Girdi Yazı Tipi Stili"
+
+#: ../functions.php:4451
+msgid "Input Field Padding"
+msgstr "Girdi Alanı Boşluğu"
+
+#: ../functions.php:4470
+msgid "Captcha Font Size"
+msgstr "Captcha Yazı Tipi Boyutu"
+
+#: ../functions.php:4489
+msgid "Captcha Font Style"
+msgstr "Captcha Yazı Tipi Stili"
+
+#: ../functions.php:4504 ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Kenar Çubuðu"
+
+#: ../functions.php:4517
+msgid "Widget Header Font Size"
+msgstr "Widget Baş Kısım Yazı Tipi Boyutu"
+
+#: ../functions.php:4536
+msgid "Widget Header Font Style"
+msgstr "Widget Baş Kısım Yazı Tipi Stili"
+
+#: ../functions.php:4556
+msgid "Remove Vertical Divider"
+msgstr "Dikey Ayırıcıyı Kaldır"
+
+#: ../functions.php:4565
+msgid "Divider"
+msgstr "Bölücü"
+
+#: ../functions.php:4577
+msgid "Show Divider"
+msgstr "Bölücüyü göster"
+
+#: ../functions.php:4591
+msgid "Divider Style"
+msgstr "Ayırıcı Stili"
+
+#: ../functions.php:4596
+msgid "Solid"
+msgstr "Aralıksız"
+
+#: ../functions.php:4597
+msgid "Dotted"
+msgstr "Noktalı"
+
+#: ../functions.php:4598
+msgid "Dashed"
+msgstr "Kesikli"
+
+#: ../functions.php:4599
+msgid "Double"
+msgstr "Çift"
+
+#: ../functions.php:4600
+msgid "Groove"
+msgstr "Uzantı"
+
+#: ../functions.php:4601
+msgid "Ridge"
+msgstr "Çevre"
+
+#: ../functions.php:4602
+msgid "Inset"
+msgstr "İçe Ayarla"
+
+#: ../functions.php:4603
+msgid "Outset"
+msgstr "Dışa Ayarla"
+
+#: ../functions.php:4616
+msgid "Divider Weight"
+msgstr "Ayırıcı Genişliği"
+
+#: ../functions.php:4635
+msgid "Divider Height"
+msgstr "Ayırıcı Yüksekliği"
+
+#: ../functions.php:4654
+msgid "Divider Position"
+msgstr "Ayırıcı Pozisyonu"
+
+#: ../functions.php:4659
+msgid "Top"
+msgstr "En üst"
+
+#: ../functions.php:4660
+msgid "Vertically Centered"
+msgstr "Dikey Ortalanmış"
+
+#: ../functions.php:4661
+msgid "Bottom"
+msgstr "En Alt"
+
+#: ../functions.php:4669
+msgid "Person"
+msgstr "Kiþi"
+
+#: ../functions.php:4682
+msgid "Name Font Size"
+msgstr "İsim Yazı Boyutu"
+
+#: ../functions.php:4760
+msgid "Social Network Icon Size"
+msgstr "Sosyal Ağ Simge Boyutu"
+
+#: ../functions.php:4787 ../functions.php:4873
+msgid "Post Title Font Size"
+msgstr "Gönderi Başlığı Yazı Boyutu"
+
+#: ../functions.php:4826 ../functions.php:4912
+msgid "Meta Font Size"
+msgstr "Meta Yazı Boyutu"
+
+#: ../functions.php:4860
+msgid "Masonry Blog"
+msgstr "Duvar Tipi Blog"
+
+#: ../functions.php:4946
+msgid "Shop"
+msgstr "Alýþveriþ"
+
+#: ../functions.php:4959
+msgid "Product Name Font Size"
+msgstr "Ürün Adı Yazı Boyutu"
+
+#: ../functions.php:4978
+msgid "Product Name Font Style"
+msgstr "Ürün Adı Yazı Tipi Stili"
+
+#: ../functions.php:4998
+msgid "Sale Badge Font Size"
+msgstr "İndirim Etiketi Yazı Boyutu"
+
+#: ../functions.php:5017
+msgid "Sale Badge Font Style"
+msgstr "İndirim Etiketi Yazı Tipi Stili"
+
+#: ../functions.php:5056
+msgid "Price Font Style"
+msgstr "Ücret Yazı Tipi Stili"
+
+#: ../functions.php:5076
+msgid "Sale Price Font Size"
+msgstr "İndirimli Fiyat Yazı Boyutu"
+
+#: ../functions.php:5095
+msgid "Sale Price Font Style"
+msgstr "İndirimli Fiyat Yazı Tipi Stili"
+
+#: ../functions.php:5110
+msgid "Countdown"
+msgstr "Gerisayım"
+
+#: ../functions.php:5157
+msgid "Social Follow"
+msgstr "Sosyal Takip"
+
+#: ../functions.php:5170
+msgid "Follow Font & Icon Size"
+msgstr "Takip et Yazı Tipi ve Simge Boyutu"
+
+#: ../functions.php:5204
+msgid "Full Width Slider"
+msgstr "Tam Ekran Sürgü"
+
+#: ../functions.php:7875
+msgid "0 comments"
+msgstr "0 yorum"
+
+#: ../functions.php:7875
+msgid "1 comment"
+msgstr "1 Yorum"
+
+#: ../functions.php:7875
+msgid "comments"
+msgstr "Yorumlar"
+
+#: ../functions.php:8026
+msgid "No Gallery Found"
+msgstr ""
+
+#: ../functions.php:8028
+msgid "No items found"
+msgstr ""
+
+#: ../functions.php:8170
+msgid "Password Protected"
+msgstr "Þifre Korumalý"
+
+#: ../functions.php:8171
+msgid "To view this protected post, enter the password below"
+msgstr "Korumalý iletisini görüntülemek için, aþaðýya þifreyi girin."
+
+#: ../functions.php:8174
+msgid "Password"
+msgstr "Şifre"
+
+#: ../functions.php:8175
+msgid "Submit"
+msgstr "Gönder"
+
+#: ../functions.php:8347
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:8349
+msgid "Item"
+msgstr "Madde"
+
+#: ../functions.php:8349
+msgid "Items"
+msgstr "Maddeler"
+
+#: ../functions.php:8524
+msgid "Connecting..."
+msgstr "Bağlanıyor…"
+
+#: ../functions.php:8525
+msgid "Connection failed"
+msgstr "Bağlantı başarısız oldu"
+
+#: ../functions.php:8526
+msgid "Removing connection..."
+msgstr "Bağlantılar kaldırılıyor…"
+
+#: ../functions.php:8527
+msgid "Done"
+msgstr "Tamamlandı"
+
+#: ../functions.php:8556
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr "Adım 1: <a href=\"%1$s\" target=\"_blank\">Yetki kodunu oluştur</a>"
+
+#: ../functions.php:8557
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr "Adım 2: Yetki kodunu yapıştır ve \"Bağlantı Kur\" butonuna tıkla: "
+
+#: ../functions.php:8558
+msgid "Make a connection"
+msgstr "Bağlantı Kur"
+
+#: ../functions.php:8561
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber düzgün şekilde ayarlanmış. Eğer isterseniz bağlantı buradan "
+"kaldırabilirsiniz."
+
+#: ../functions.php:8562
+msgid "Remove the connection"
+msgstr "Bağlantıyı Kaldır"
+
+#: ../functions.php:8570
+msgid "Nonce failed."
+msgstr "Nonce başarısız oldu."
+
+#: ../functions.php:8576
+msgid "Authorization code is empty."
+msgstr "Yetki Kodu Boş"
+
+#: ../functions.php:8587
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"Yetki kodu geçersiz. Yeniden oluşturmayı deneyin ve yeni kodu yapıştırın."
+
+#: ../functions.php:8609
+msgid "Aweber API Exception"
+msgstr "Aweber API Ýstisnasý"
+
+#: ../functions.php:8611
+msgid "Message"
+msgstr "Mesaj"
+
+#: ../functions.php:8622
+msgid "Nonce failed"
+msgstr "Nonce başarısız oldu"
+
+#: ../functions.php:8717
+msgid "Read more"
+msgstr "Daha fazla bilgi edinin."
+
+#: ../functions.php:8845
+msgid "Configuration error"
+msgstr "Yapılandırma hatası"
+
+#: ../functions.php:8855
+msgid "Please enter first name"
+msgstr "Lütfen adınızı girin"
+
+#: ../functions.php:8857
+msgid "Incorrect email"
+msgstr "Geçersiz e-posta adresi"
+
+#: ../functions.php:8859
+msgid "Configuration error: List is not defined"
+msgstr "Yapılandırma hatası: Liste tanımlı değil"
+
+#: ../functions.php:8861
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Abone olundu – onay e-postasını control edin!"
+"</h2>"
+
+#: ../functions.php:8873
+msgid "Configuration error: api key is not defined"
+msgstr "Yapılandırma hatası: API anahtarı tanımlı değil"
+
+#: ../functions.php:8910
+msgid "Aweber: Wrong configuration data"
+msgstr "AWeber: Yanlış konfigürasyon verisi"
+
+#: ../functions.php:8940 ../functions.php:8961
+msgid "Theme Customizer"
+msgstr "Tema Düzenleyici"
+
+#: ../functions.php:8941 ../functions.php:8971
+msgid "Module Customizer"
+msgstr "Modül Düzenleyici"
+
+#: ../functions.php:8942
+msgid "Divi Library"
+msgstr "Divi Kütüphanesi"
+
+#: ../header.php:176
+msgid "Search &hellip;"
+msgstr "Ara &hellip;"
+
+#: ../header.php:178
+msgid "Search for:"
+msgstr "Ara:"
+
+#. translators: 1: date, 2: time
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr "%1$s günü, saat %2$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Cevapla"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay bekliyor."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Divi Dokümanını Oku"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "Alt Bilgi Alaný"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Video derslerini izleyin"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Eski Girişler"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Sonraki Girişler &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Sonuç Bulunamadı"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"İstediğiniz sayfa bulunamadı. Aramanızı daraltmayı deneyin veya mesajın "
+"üzerindeki gezintiyi kullanın."
+
+#: ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Benim Hakkýmda Bilgisini Gösterir"
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "Benim Hakkýmda Widgetý"
+
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "Benim Hakkýmda"
+
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "Baþlýk"
+
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "Metin"
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Reklamlarý Gösterir"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "Reklam"
+
+#: ../includes/widgets/widget-ads.php:12
+#: ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "Reklam"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "Göreceli Görüntü Yollarýný Kullanýn"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "Yeni bir pencerede aç"
+
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236
+#: ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "Afiþ"
+
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "URL"
+
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "Alt"
+
+#: ../includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr "Bazý afiþleri göstermek istemezseniz - uygun alanlarý boþ býrakýn"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Adsense Reklamlarýný Gösterir"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "Adsense Widgetý"
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Adsense Kodu"
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:105
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">Divi Documentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Divi'ye Hoşgeldiniz! Yeni temanıza dalmadan önce onlarca kapsamlı derse "
+#~ "erişmek için lütfen <a href=\"%1$s\" target=\"_blank\">DiviDocumentation</"
+#~ "a> sayfasını ziyaret edin."
+
+#~ msgid "%1$s Font"
+#~ msgstr "%1$s Yazı Tipi"
+
+#~ msgid "%1$s Font Size"
+#~ msgstr "%1$s Yazı Boyutu"
+
+#~ msgid "%1$s Text Color"
+#~ msgstr "%1$s Metin Rengi"
+
+#~ msgid "%1$s Letter Spacing"
+#~ msgstr "%1$s Harf Boşluğu"
+
+#~ msgid "%1$s Line Height"
+#~ msgstr "%1$s Satır Yüksekliği"
+
+#~ msgid "%1$s All Caps"
+#~ msgstr "%1$s Tümü Büyük Harf"
+
+#~ msgid "Use Border"
+#~ msgstr "Kenar Kullan"
+
+#~ msgid "Border Style"
+#~ msgstr "Kenar Biçimi"
+
+#~ msgid "Custom Margin"
+#~ msgstr "Özel Kenar Boşluğu"
+
+#~ msgid "Custom Padding"
+#~ msgstr "Hücre İçi Özel Boşluk"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "Özel Tuş Stili Kullan"
+
+#~ msgid "Button Text Size"
+#~ msgstr "Tuş Yazısının Boyutu"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Tuş Yazısının Rengi"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Tuş Arkaplan Rengi"
+
+#~ msgid "Button Border Width"
+#~ msgstr "Tuş Kenar Genişliği"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Tuş Kenar Rengi"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Tuş Köşe Yarıçapı"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "Tuş Harf Boşluğu"
+
+#~ msgid "Button Font"
+#~ msgstr "Tuş Yazı Tipi"
+
+#~ msgid "Button Icon"
+#~ msgstr "Tuş Simgesi"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "Tuş Simge Rengi"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "Simgeyi Üzerindeyken Göster"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "Üzerindeyken Yazı Rengi"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Üzerindeyken Arkaplan Rengi"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Üzerindeyken Köşe Rengi"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "Üzerindeyken Kenar Yarıçapı"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "Üzerindeyken Harf Boşluğu"
+
+#~ msgid "Before"
+#~ msgstr "Önce"
+
+#~ msgid "Main Element"
+#~ msgstr "Ana eleman"
+
+#~ msgid "After"
+#~ msgstr "Sonra"
+
+#~ msgid "Choose Custom Color"
+#~ msgstr "Özel Renk Seç"
+
+#~ msgid "Upload"
+#~ msgstr "Yükle"
+
+#~ msgid "Choose image"
+#~ msgstr "Resim seç"
+
+#~ msgid "Set image"
+#~ msgstr "Resmi ayarla"
+
+#~ msgid "Advanced Design Settings"
+#~ msgstr "Gelişmiş Dizayn Ayarları"
+
+#~ msgid "Add New %s"
+#~ msgstr "Yeni %s Ekle"
+
+#~ msgid "%1$s %2$s Settings"
+#~ msgstr "%1$s %2$s Ayarları"
+
+#~ msgid "Column"
+#~ msgstr "Kolon"
+
+#~ msgid "Modules"
+#~ msgstr "Modüller"
+
+#~ msgid "Rows"
+#~ msgstr "Satırlar"
+
+#~ msgid "Sections"
+#~ msgstr "Bölümler"
+
+#~ msgid "Global/not Global"
+#~ msgstr "Evrensel/Evrensel Değil"
+
+#~ msgid "Global"
+#~ msgstr "Evrensel"
+
+#~ msgid "not Global"
+#~ msgstr "Evrensel Değil"
+
+#~ msgid "Justified"
+#~ msgstr "Ayarlanmış"
+
+#~ msgid "Export Divi Builder Layouts"
+#~ msgstr "Divi Builder Planlarını Çıkar"
+
+#~ msgid "Select Templates you want to export:"
+#~ msgstr "Çıkarmak istediğiniz temaları seçin:"
+
+#~ msgid "Export Divi Layouts"
+#~ msgstr "Divi Planlarını Çıkar"
+
+#~ msgid "Manage Categories"
+#~ msgstr "Kategorileri Yönet"
+
+#~ msgid "Use The Divi Builder"
+#~ msgstr "The Divi Builder Kullan"
+
+#~ msgid ""
+#~ "You have not saved any items to your Divi Library yet. Once an item has "
+#~ "been saved to your library, it will appear here for easy use."
+#~ msgstr ""
+#~ "Divi Kütüphanesi'ne henüz hiçbir şey kaydetmediniz. Kütüphanenize bir şey "
+#~ "kaydettiğiniz anda kolay kullanım için burada gözükecektir."
+
+#~ msgid "No available options for this configuration."
+#~ msgstr "Bu yapılandırma için ayar mevcut değil."
+
+#~ msgid ""
+#~ "You're about to update global module. This change will be applied to all "
+#~ "pages where you use this module. Press OK if you want to update this "
+#~ "module"
+#~ msgstr ""
+#~ "Evrensel bir modül güncellemek üzeresiniz. Bu değişiklik modülü "
+#~ "kullandığınız tüm sayfalara uygulanacak. Bu modülü güncellemek "
+#~ "istiyorsanız Tamam'a basın"
+
+#~ msgid "You cannot add global rows into global sections"
+#~ msgstr "Evrensel bölümlere evrensel satır ekleyemezsiniz"
+
+#~ msgid "You cannot add global modules into global sections or rows"
+#~ msgstr "Evrensel bölüm ya da satırlara evrensel modül ekleyemezsiniz"
+
+#~ msgid "The Divi Builder"
+#~ msgstr "The Divi Builder"
+
+#~ msgid "Save to Library"
+#~ msgstr "Kütüphaneye Kaydet"
+
+#~ msgid "Load From Library"
+#~ msgstr "Kütüphaneden Yükle"
+
+#~ msgid "Standard Section"
+#~ msgstr "Standart Bölüm"
+
+#~ msgid "Fullwidth Section"
+#~ msgstr "Tam geniş Bölüm"
+
+#~ msgid "Specialty Section"
+#~ msgstr "Özel Bölüm"
+
+#~ msgid "Add From Library"
+#~ msgstr "Kütüphaneden Ekle"
+
+#~ msgid "Change Structure"
+#~ msgstr "Yapı Değiştir"
+
+#~ msgid "Remove Module"
+#~ msgstr "Modül Kaldır"
+
+#~ msgid "Save & Add To Library"
+#~ msgstr "Kaydet ve Kütüphaneye Ekle"
+
+#~ msgid "Cancel"
+#~ msgstr "İptal"
+
+#~ msgid "Save & Exit"
+#~ msgstr "Kaydet ve Çık"
+
+#~ msgid "New Row"
+#~ msgstr "Yeni Satır"
+
+#~ msgid "New Module"
+#~ msgstr "Yeni Modül"
+
+#~ msgid "Predefined Layouts"
+#~ msgstr "Önceden Tanımlı Planlar"
+
+#~ msgid "Disable Builder"
+#~ msgstr "Oluşturucuyu Devre Dışı Bırak"
+
+#~ msgid ""
+#~ "All content created in the Divi Builder will be lost. Previous content "
+#~ "will be restored."
+#~ msgstr ""
+#~ "The Divi Builder'da yarattığınız tüm içerik yok olacak. Önceki içerik "
+#~ "geri getirilecek."
+
+#~ msgid "Do you wish to proceed?"
+#~ msgstr "Devam etmek istiyor musunuz?"
+
+#~ msgid "All of your current page content will be lost."
+#~ msgstr "Mevcut sayfadaki tüm içerik yok olacak."
+
+#~ msgid "All advanced module settings in will be lost."
+#~ msgstr "Tüm gelişmiş modül ayarları yok olacak."
+
+#~ msgid "Save To Library"
+#~ msgstr "Kütüphaneye Kaydet"
+
+#~ msgid "Save your current page to the Divi Library for later use."
+#~ msgstr ""
+#~ "Mevcut sayfayı daha sonra kullanmak için Divi Kütüphanesi'ne kaydet."
+
+#~ msgid "Layout Name:"
+#~ msgstr "Plan Adı:"
+
+#~ msgid "Save And Add To Library"
+#~ msgstr "Kaydet ve Kütüphaneye Ekle"
+
+#~ msgid "Add To Categories:"
+#~ msgstr "Kategorilere Ekle:"
+
+#~ msgid "Create New Category"
+#~ msgstr "Yeni Kategori Oluştur"
+
+#~ msgid ""
+#~ "Here you can save the current item and add it to your Divi Library for "
+#~ "later use as well."
+#~ msgstr ""
+#~ "Burada mevcut parçayı kaydedebilir ve Divi Kütüphanesi'ne daha sonra "
+#~ "kullanmak için de kaydedebilirsiniz."
+
+#~ msgid "Template Name"
+#~ msgstr "Tema Adı"
+
+#~ msgid "Selective Sync"
+#~ msgstr "Seçmeli Eşzamanlama"
+
+#~ msgid "Include General settings"
+#~ msgstr "Genel Ayarları Dahil Et"
+
+#~ msgid "Include Advanced Design settings"
+#~ msgstr "Gelişmiş Tasarım Ayarlarını Dahil Et"
+
+#~ msgid "Include Custom CSS"
+#~ msgstr "Özel CSS Dahil Et"
+
+#~ msgid "Please select at least 1 tab to save"
+#~ msgstr "Lütfen kaydetmek için en az 1 sekme seçin"
+
+#~ msgid "Save as Global:"
+#~ msgstr "Evrensel Olarak Kaydet:"
+
+#~ msgid "Make this a global item"
+#~ msgstr "Bunu evrensel yap"
+
+#~ msgid "Scope"
+#~ msgstr "Kapsam"
+
+#~ msgid "Layout Type"
+#~ msgstr "Plan Tipi"
+
+#~ msgid "Module Width"
+#~ msgstr "Modül Genişliği"
+
+#~ msgid "New Template Settings"
+#~ msgstr "Yeni Tema Ayarları"
+
+#~ msgid "Template Name:"
+#~ msgstr "Tema Adı:"
+
+#~ msgid "Template Type:"
+#~ msgstr "Tema Tipi:"
+
+#~ msgid "Fullwidth Module"
+#~ msgstr "Tam geniş Modül"
+
+#~ msgid "Row"
+#~ msgstr "Satır"
+
+#~ msgid "Section"
+#~ msgstr "Bölüm"
+
+#~ msgid "Include General Settings"
+#~ msgstr "Genel Ayarları Dahil Et"
+
+#~ msgid "Include Advanced Design Settings"
+#~ msgstr "Gelişmiş Tasarım Ayarlarını Dahil Et"
+
+#~ msgid ""
+#~ "Select category(ies) for new template or type a new name ( optional )"
+#~ msgstr ""
+#~ "Yeni tema için kategori(ler) seç veya yeni bir ad gir ( isteğe bağlı )"
+
+#~ msgid "Open in Lightbox"
+#~ msgstr "Lightbox'ta Aç"
+
+#~ msgid "Image Alignment"
+#~ msgstr "Resim Hizalama"
+
+#~ msgid "Here you can choose the image alignment."
+#~ msgstr "Burada resim hizalamasını seçebilirsiniz."
+
+#~ msgid "Image Max Width"
+#~ msgstr "Resim Maksimum Genişliği"
+
+#~ msgid "Force Fullwidth"
+#~ msgstr "Tam Geniş Yap"
+
+#~ msgid "Always Center Image On Mobile"
+#~ msgstr "Mobilde Her Zaman Ortala"
+
+#~ msgid "Gallery Item"
+#~ msgstr "Galeri Objesi"
+
+#~ msgid "Overlay"
+#~ msgstr "Örtü"
+
+#~ msgid "Overlay Icon"
+#~ msgstr "Örtü Simgesi"
+
+#~ msgid "Gallery Item Title"
+#~ msgstr "Galeri Parça Başlığı"
+
+#~ msgid "Caption Font"
+#~ msgstr "Altyazı Yazı Tipi"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "Altyazı Rengi"
+
+#~ msgid "Hover Icon Picker"
+#~ msgstr "Üzerindeyken Simge Seçici"
+
+#~ msgid "Video Icon"
+#~ msgstr "Video Simgesi"
+
+#~ msgid "Play Icon Color"
+#~ msgstr "Oynat Simgesinin Rengi"
+
+#~ msgid "Play Button"
+#~ msgstr "Oynat Tuşu"
+
+#~ msgid "Thumbnail Item"
+#~ msgstr "Önizleme Parçası"
+
+#~ msgid "Thumbnail Overlay Color"
+#~ msgstr "Önizleme Örtü Rengi"
+
+#~ msgid "Line Height"
+#~ msgstr "Satır Yüksekliği"
+
+#~ msgid "Use Border Color"
+#~ msgstr "Kenar Rengi Kullan"
+
+#~ msgid "Max Width"
+#~ msgstr "Maksimum Genişlik"
+
+#~ msgid "Header"
+#~ msgstr "Baş Kısım"
+
+#~ msgid "Body"
+#~ msgstr "Gövde"
+
+#~ msgid "Blurb Image"
+#~ msgstr "Tanıtıcı Resim"
+
+#~ msgid "Blurb Title"
+#~ msgstr "Tanıtıcı Başlık"
+
+#~ msgid "Blurb Content"
+#~ msgstr "Tanıtıcı İçerik"
+
+#~ msgid "Use Icon Font Size"
+#~ msgstr "Simge Yazı Boyutunu Kullan"
+
+#~ msgid "Icon Font Size"
+#~ msgstr "Simge Yazı Büyüklüğü"
+
+#~ msgid "Tabs Controls"
+#~ msgstr "Sekme Ayarları"
+
+#~ msgid "Active Tab"
+#~ msgstr "Aktif Sekme"
+
+#~ msgid "Active Tab Background Color"
+#~ msgstr "Aktif Sekme Arkaplan Rengi"
+
+#~ msgid "Inactive Tab Background Color"
+#~ msgstr "Pasif Sekme Arkaplan Rengi"
+
+#~ msgid "Slide Description"
+#~ msgstr "Slayt Açıklaması"
+
+#~ msgid "Slide Title"
+#~ msgstr "Slayt Başlığı"
+
+#~ msgid "Slide Button"
+#~ msgstr "Slayt Tuşu"
+
+#~ msgid "Slide Controllers"
+#~ msgstr "Slayt Yönlendiricileri"
+
+#~ msgid "Slide Active Controller"
+#~ msgstr "Aktif Slayt Yönlendiricisi"
+
+#~ msgid "Use Parallax effect"
+#~ msgstr "Paralaks Efekti Kullan"
+
+#~ msgid "Remove Inner Shadow"
+#~ msgstr "İç Gölgeyi Kaldır"
+
+#~ msgid "Top Padding"
+#~ msgstr "Üst Boşluk"
+
+#~ msgid "Bottom Padding"
+#~ msgstr "Alt Boşluk"
+
+#~ msgid "Hide Content On Mobile"
+#~ msgstr "İçeriği Mobilde Gizle"
+
+#~ msgid "Hide CTA On Mobile"
+#~ msgstr "Mobilde CTA Gizle"
+
+#~ msgid "Show Image / Video On Mobile"
+#~ msgstr "Resmi / Videoyu Mobilde Göster"
+
+#~ msgid "Arrows Custom Color"
+#~ msgstr "Okların Özel Rengi"
+
+#~ msgid "Dot Nav Custom Color"
+#~ msgstr "Dot Nav Özel Renk"
+
+#~ msgid "Testimonial Portrait"
+#~ msgstr "Görüş Portresi"
+
+#~ msgid "Testimonial Description"
+#~ msgstr "Görüş Açıklaması"
+
+#~ msgid "Testimonial Author"
+#~ msgstr "Görüş Yazarı"
+
+#~ msgid "Testimonial Meta"
+#~ msgstr "Görüşün Metası"
+
+#~ msgid "Body Text Font"
+#~ msgstr "Gövde Metni Yazı Tipi"
+
+#~ msgid "Body Font Size"
+#~ msgstr "Gövde Yazı Büyüklüğü"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "Gövde Harf Boşluğu"
+
+#~ msgid "Quote Icon Color"
+#~ msgstr "Simge Rengi Alıntıla"
+
+#~ msgid "Portrait Width"
+#~ msgstr "Portre Genişliği"
+
+#~ msgid "Portrait Height"
+#~ msgstr "Portre Yüksekliği"
+
+#~ msgid "Pricing Tables"
+#~ msgstr "Ücretlendirme Tabloları"
+
+#~ msgid "Pricing Heading"
+#~ msgstr "Ücretlendirme Alt Başlığı"
+
+#~ msgid "Pricing Title"
+#~ msgstr "Ücretlendirme Başlığı"
+
+#~ msgid "Pricing Top"
+#~ msgstr "Ücretlendirme Üst"
+
+#~ msgid "Pricing Content"
+#~ msgstr "Ücretlendirme İçeriği"
+
+#~ msgid "Pricing Button"
+#~ msgstr "Ücretlendirme Tuşu"
+
+#~ msgid "Featured Table"
+#~ msgstr "Özel Tablo"
+
+#~ msgid "Subheader"
+#~ msgstr "Alt Başlık"
+
+#~ msgid "Featured Table Background Color"
+#~ msgstr "Özel Tablo Arkaplan Rengi"
+
+#~ msgid "Table Header Background Color"
+#~ msgstr "Tablo Baş Kısmı Arkaplan Rengi"
+
+#~ msgid "Featured Table Header Background Color"
+#~ msgstr "Özel Tablo Baş Kısmı Arkaplan Rengi"
+
+#~ msgid "Featured Table Header Text Color"
+#~ msgstr "Özel Tablo Baş Kısmı Metin Rengi"
+
+#~ msgid "Featured Table Subheader Text Color"
+#~ msgstr "Özel Tablo Alt Başlık Metin Rengi"
+
+#~ msgid "Featured Table Price Color"
+#~ msgstr "Özel Tablo Ücret Rengi"
+
+#~ msgid "Featured Table Body Text Color"
+#~ msgstr "Özel Tablo Gövde Metin Rengi"
+
+#~ msgid "Show Bullet"
+#~ msgstr "Nokta Göster"
+
+#~ msgid "Bullet Color"
+#~ msgstr "Nokta Rengi"
+
+#~ msgid "Featured Table Bullet Color"
+#~ msgstr "Özel Tablo Nokta Rengi"
+
+#~ msgid "Remove Featured Table Drop Shadow"
+#~ msgstr "Özel Tablo Arka Gölgesini Kaldır"
+
+#~ msgid "Center List Items"
+#~ msgstr "Liste Objelerini Ortala"
+
+#~ msgid "Promo Description"
+#~ msgstr "Açıklama"
+
+#~ msgid "Promo Button"
+#~ msgstr "Tuş"
+
+#~ msgid "Audio Cover Art"
+#~ msgstr "Ses Resmi"
+
+#~ msgid "Audio Content"
+#~ msgstr "Ses İçeriği"
+
+#~ msgid "Audio Meta"
+#~ msgstr "Ses Bilgisi"
+
+#~ msgid "Signup"
+#~ msgstr "Kaydol"
+
+#~ msgid "Newsletter Description"
+#~ msgstr "Bülten Açıklaması"
+
+#~ msgid "Newsletter Form"
+#~ msgstr "Bülten Formu"
+
+#~ msgid "Newsletter Button"
+#~ msgstr "Bülten Tuşu"
+
+#~ msgid "Form Field Background Color"
+#~ msgstr "Form Alanı Arkaplan Rengi"
+
+#~ msgid "Form Field Text Color"
+#~ msgstr "Form Alanı Metin Rengi"
+
+#~ msgid "Focus Background Color"
+#~ msgstr "Odak Arkaplan Rengi"
+
+#~ msgid "Focus Text Color"
+#~ msgstr "Odak Metin Rengi"
+
+#~ msgid "Use Focus Border Color"
+#~ msgstr "Odak Kenar Rengi Kullan"
+
+#~ msgid "Focus Border Color"
+#~ msgstr "Odak Kenar Rengi"
+
+#~ msgid "Portfolio Image"
+#~ msgstr "Koleksiyon Resmi"
+
+#~ msgid "Portfolio Post Meta"
+#~ msgstr "Koleksiyon Gönderisi Bilgileri"
+
+#~ msgid "Filter"
+#~ msgstr "Filtre"
+
+#~ msgid "Portfolio Filters"
+#~ msgstr "Koleksiyon Filtreleri"
+
+#~ msgid "Active Portfolio Filter"
+#~ msgstr "Koleksiyon Filtresini Aktif Et"
+
+#~ msgid "Counter Title"
+#~ msgstr "Gösterge Başlığı"
+
+#~ msgid "Counter Container"
+#~ msgstr "Gösterge İçeriği"
+
+#~ msgid "Counter Amount"
+#~ msgstr "Gösterge Numarası"
+
+#~ msgid "Use Percentages"
+#~ msgstr "Yüzdeleri Kullan"
+
+#~ msgid "Bar Top Padding"
+#~ msgstr "Sütun İçi Üst Boşluk"
+
+#~ msgid "Bar Bottom Padding"
+#~ msgstr "Sütun İçi Alt Boşluk"
+
+#~ msgid "Label Color"
+#~ msgstr "Etiket Rengi"
+
+#~ msgid "Percentage Color"
+#~ msgstr "Yüzde Rengi"
+
+#~ msgid "Circle Counter Title"
+#~ msgstr "Daire Gösterge Başlığı"
+
+#~ msgid "Circle Color Opacity"
+#~ msgstr "Daire Renk Saydamlığı"
+
+#~ msgid "Number Counter Title"
+#~ msgstr "Numara Gösterge Başlığı"
+
+#~ msgid "Open Toggle"
+#~ msgstr "Açık Düğme"
+
+#~ msgid "Toggle Title"
+#~ msgstr "Düğme Başlığı"
+
+#~ msgid "Toggle Icon"
+#~ msgstr "Düğme Simgesi"
+
+#~ msgid "Toggle Content"
+#~ msgstr "Düğme İçeriği"
+
+#~ msgid "Open Toggle Background Color"
+#~ msgstr "Açık Düğme Arkaplan Rengi"
+
+#~ msgid "Closed Toggle Background Color"
+#~ msgstr "Kapalı Düğme Arkaplan Rengi"
+
+#~ msgid "Open Toggle Text Color"
+#~ msgstr "Açık Düğme Metin Rengi"
+
+#~ msgid "Closed Toggle Text Color"
+#~ msgstr "Kapalı Düğme Metin Rengi"
+
+#~ msgid "Form Field"
+#~ msgstr "Form Alanı"
+
+#~ msgid "Contact Title"
+#~ msgstr "İletişim Başlığı"
+
+#~ msgid "Contact Button"
+#~ msgstr "İletişim Düğmesi"
+
+#~ msgid "Form Background Color"
+#~ msgstr "Form Arkaplan Rengi"
+
+#~ msgid "Input Border Radius"
+#~ msgstr "Yazı Kutularının Köşe Yarıçapı"
+
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgid "Remove Border Separator"
+#~ msgstr "Kenar Ayırıcıyı Kaldır"
+
+#~ msgid "Define how much space should be added below the divider."
+#~ msgstr "Ayırıcı altına ne kadar boşluk eklemek istediğinizi girin."
+
+#~ msgid "Hide On Mobile"
+#~ msgstr "Mobilde Gizle"
+
+#~ msgid "Member Image"
+#~ msgstr "Üye Resmi"
+
+#~ msgid "Member Description"
+#~ msgstr "Üye Açıklaması"
+
+#~ msgid "Member Position"
+#~ msgstr "Üye Pozisyonu"
+
+#~ msgid "Member Social Links"
+#~ msgstr "Üye Sosyal Bağlantıları"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "Üzerindeyken Simge Rengi"
+
+#~ msgid "Meta"
+#~ msgstr "Bilgi"
+
+#~ msgid "Post Meta"
+#~ msgstr "Gönderi Bilgisi"
+
+#~ msgid "Pagenavi"
+#~ msgstr "Sayfa Navigasyonu"
+
+#~ msgid "Grid Tile Background Color"
+#~ msgstr "Izgara Döşemesi Arkaplan Rengi"
+
+#~ msgid "Use Dropshadow"
+#~ msgstr "Arka Gölge Kullan"
+
+#~ msgid "Product"
+#~ msgstr "Ürün"
+
+#~ msgid "Onsale"
+#~ msgstr "İndirimde"
+
+#~ msgid "Rating"
+#~ msgstr "Puan"
+
+#~ msgid "default"
+#~ msgstr "varsayılan"
+
+#~ msgid "Choose how many columns to display."
+#~ msgstr "Kaç kolon gösterileceğini seçin."
+
+#~ msgid "Sale Badge Color"
+#~ msgstr "İndirim Etiketinin Rengi"
+
+#~ msgid "Numbers"
+#~ msgstr "Numaralar"
+
+#~ msgid "Label"
+#~ msgstr "Etiket"
+
+#~ msgid "Container"
+#~ msgstr "Kutu"
+
+#~ msgid "Timer Section"
+#~ msgstr "Saat Bölümü"
+
+#~ msgid "Pin"
+#~ msgstr "Pin"
+
+#~ msgid "Use Grayscale Filter"
+#~ msgstr "Gri Ton Filtresini Kullan"
+
+#~ msgid "Grayscale Filter Amount (%)"
+#~ msgstr "Gri Ton Filtresi Miktarı (%)"
+
+#~ msgid "Social Icon"
+#~ msgstr "Sosyal Simge"
+
+#~ msgid "Here you can choose whether or not display the Post Title"
+#~ msgstr ""
+#~ "Burada Gönderi Başlığı'nın gösterilip gösterilmeyeceğini seçebilirsiniz"
+
+#~ msgid "Show Meta"
+#~ msgstr "Metayı Göster"
+
+#~ msgid "Here you can choose whether or not display the Post Meta"
+#~ msgstr ""
+#~ "Burada Gönderi Bilgisi'nın gösterilip gösterilmeyeceğini seçebilirsiniz"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Author Name in Post Meta"
+#~ msgstr ""
+#~ "Burada Yazar Adı'nın Gönderi Bilgisi'nde gösterilip gösterilmeyeceğini "
+#~ "seçebilirsiniz"
+
+#~ msgid "Here you can choose whether or not display the Date in Post Meta"
+#~ msgstr ""
+#~ "Burada Tarih'in Gönderi Bilgisi'nde gösterilip gösterilmeyeceğini "
+#~ "seçebilirsiniz"
+
+#~ msgid "Date Format"
+#~ msgstr "Tarih Biçimi"
+
+#~ msgid ""
+#~ "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+#~ msgstr ""
+#~ "Burada Gönderi Bilgisi'ndeki Tarih Biçimi'ni belirleyebilirsiniz. "
+#~ "Varsayılan 'M j, Y'"
+
+#~ msgid "Show Post Categories"
+#~ msgstr "Gönderi Kategorilerini Göster"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Categories in Post Meta. "
+#~ "Note: This option doesn't work with custom post types."
+#~ msgstr ""
+#~ "Burada Gönderi Bilgisi'nde Kategoriler'in gösterilip gösterilmeyeceğini "
+#~ "seçebilirsiniz. Not: Bu ayar özel gönderi tiplerinde uygulanmaz."
+
+#~ msgid "Show Comments Count"
+#~ msgstr "Yorum Sayısını Göster"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Comments Count in Post "
+#~ "Meta."
+#~ msgstr ""
+#~ "Burada Yorum Sayısı'nın Gönderi Bilgisi'nde gösterilip gösterilmeyeceğini "
+#~ "seçebilirsiniz."
+
+#~ msgid "Here you can choose whether or not display the Featured Image"
+#~ msgstr "Burada Özel Resim'in gösterilip gösterilmeyeceğini seçebilirsiniz"
+
+#~ msgid "Featured Image Placement"
+#~ msgstr "Özel Resmin Yerleşimi"
+
+#~ msgid "Below Title"
+#~ msgstr "Başlığın Altı"
+
+#~ msgid "Above Title"
+#~ msgstr "Başlığın Üstü"
+
+#~ msgid "Title/Meta Background Image"
+#~ msgstr "Başlık Arkaplan Resmi"
+
+#~ msgid "Here you can choose where to place the Featured Image"
+#~ msgstr "Burada Özel Resmi nereye konumlayacağınızı seçebilirsiniz"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use parallax effect for the featured "
+#~ "image"
+#~ msgstr ""
+#~ "Burada paralaks efektinin özel resimde kullanılıp kullanılmayacağını "
+#~ "seçebilirsiniz"
+
+#~ msgid "Parallax Method"
+#~ msgstr "Paralaks Yöntemi"
+
+#~ msgid ""
+#~ "Here you can choose which parallax method to use for the featured image"
+#~ msgstr ""
+#~ "Burada özel resimde hangi paralaks yöntemini kullanacağınızı "
+#~ "seçebilirsiniz"
+
+#~ msgid "Here you can choose the orientation for the Title/Meta text"
+#~ msgstr "Burada Başlık metni için duruş şekli seçebilirsiniz"
+
+#~ msgid "Here you can choose the color for the Title/Meta text"
+#~ msgstr "Burada Başlık metni için renk seçebilirsiniz"
+
+#~ msgid "Use Text Background Color"
+#~ msgstr "Metin Arkaplan Rengi Kullan"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use the background color for the Title/"
+#~ "Meta text"
+#~ msgstr ""
+#~ "Burada Başlık metni için arkaplan rengi kullanıp kullanmayacağınızı "
+#~ "seçebilirsiniz"
+
+#~ msgid "Text Background Color"
+#~ msgstr "Metin Arkaplan Rengi"
+
+#~ msgid "Title Styling"
+#~ msgstr "Başlık Stili"
+
+#~ msgid "Subhead Styling"
+#~ msgstr "Altbaşlık Stili"
+
+#~ msgid "Content Styling"
+#~ msgstr "İçerik Stili"
+
+#~ msgid "Button Styling"
+#~ msgstr "Tuş Stili"
+
+#~ msgid "Text & Logo Orientation"
+#~ msgstr "Metin ve Logo Duruşu"
+
+#~ msgid "Make Fullscreen"
+#~ msgstr "Tam Ekran Yap"
+
+#~ msgid ""
+#~ "Here you can choose whether the header is expanded to fullscreen size."
+#~ msgstr ""
+#~ "Burada baş kısmının tam ekran boyutuna büyütülüp büyütülmeyeceğini "
+#~ "seçebilirsiniz."
+
+#~ msgid "Show Scroll Down Button"
+#~ msgstr "Aşağı Kaydırma Tuşunu Göster"
+
+#~ msgid "Here you can choose whether the scroll down button is shown."
+#~ msgstr ""
+#~ "Burada aşağı kaydırma tuşununun gösterilip gösterilmeyeceğini "
+#~ "seçebilirsiniz."
+
+#~ msgid "Choose an icon to display for the scroll down button."
+#~ msgstr "Aşağı kaydırma tuşu için gösterilecek bir simge seçin."
+
+#~ msgid "Scroll Down Icon Color"
+#~ msgstr "Aşağı Kaydırma Simge Rengi"
+
+#~ msgid "Scroll Down Icon Size"
+#~ msgstr "Aşağı Kaydırma Simge Boyutu"
+
+#~ msgid "Title Font"
+#~ msgstr "Başlık Yazı Tipi"
+
+#~ msgid "Title Font Color"
+#~ msgstr "Başlık Yazı Rengi"
+
+#~ msgid "Subhead Font"
+#~ msgstr "Altbaşlık Yazı Tipi"
+
+#~ msgid "Subhead Font Color"
+#~ msgstr "Altbaşlık Yazı Rengi"
+
+#~ msgid "Content Font"
+#~ msgstr "İçerik Yazı Tipi"
+
+#~ msgid "Content Font Color"
+#~ msgstr "İçerik Yazı Rengi"
+
+#~ msgid "Button %1$s Text"
+#~ msgstr "Tuş %1$s Metin"
+
+#~ msgid "Enter the text for the Button."
+#~ msgstr "Tuş için metin girin."
+
+#~ msgid "Button %1$s URL"
+#~ msgstr "Tuş %1$s URL"
+
+#~ msgid "Enter the URL for the Button."
+#~ msgstr "Tuş için URL girin."
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "Tuş %1$s Yazı Tipi"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "Tuş %1$s Yazı Rengi"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "Tuş %1$s Arkaplan Rengi"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "Tuş %1$s Yazı Boyutu"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "Tuş %1$s Köşe Yarıçapı"
+
+#~ msgid "Background Image URL"
+#~ msgstr "Arkaplan Resmi URL"
+
+#~ msgid "Background Overlay Color"
+#~ msgstr "Arkaplan Örtü Rengi"
+
+#~ msgid "Logo Image URL"
+#~ msgstr "Logo Resmi URL"
+
+#~ msgid "Text Vertical Alignment"
+#~ msgstr "Metnin Dikey Hizalanması"
+
+#~ msgid ""
+#~ "This setting determines the vertical alignment of your content. Your "
+#~ "content can either be vertically centered, or aligned to the bottom."
+#~ msgstr ""
+#~ "Bu ayar içeriğinizin dikey hizalanmasını belirler. İçeriğiniz dikey "
+#~ "olarak ortalanmış veya aşağıya yaslanmış olabilir."
+
+#~ msgid "Header Image URL"
+#~ msgstr "Baş Kısım Resim URL"
+
+#~ msgid "Image Vertical Alignment"
+#~ msgstr "Resmin Dikey Hizalanması"
+
+#~ msgid "This controls the orientation of the image within the module."
+#~ msgstr "Bu modül içinde resmin duruşunu kontrol eder."
+
+#~ msgid "Code"
+#~ msgstr "Kod"
+
+#~ msgid "Fullwidth Code"
+#~ msgstr "Tam Geniş Kod"
+
+#~ msgid "Fullwidth Image"
+#~ msgstr "Tam Geniş Resim"
+
+#~ msgid "Fullwidth Post Title"
+#~ msgstr "Tam Geniş Gönderi Başlığı"
+
+#~ msgid ""
+#~ "Enabling this option will remove the background color of this section, "
+#~ "allowing the website background color or background image to show through."
+#~ msgstr ""
+#~ "Bu seçeneği aktif etmek bu bölümün arkaplan rengini kaldıracak, web "
+#~ "sitesinin kendi arkaplan rengi veya arkaplan resminin görünmesine izin "
+#~ "verecektir."
+
+#~ msgid ""
+#~ "Adjust padding to specific values, or leave blank to use the default "
+#~ "padding."
+#~ msgstr ""
+#~ "Hücre içi boşlukları özel değerlere ayarla ya da varsayılan değerler için "
+#~ "boş bırak."
+
+#~ msgid "Keep Custom Padding on Mobile"
+#~ msgstr "Özel Boşlukları Mobilde de Geçerli Kıl"
+
+#~ msgid "Allow custom padding to be retained on mobile screens"
+#~ msgstr "Özel boşlukları mobil ekranlarda da koru"
+
+#~ msgid "Make This Row Fullwidth"
+#~ msgstr "Bu Satırı Tam Geniş Yap"
+
+#~ msgid ""
+#~ "Enable this option to extend the width of this row to the edge of the "
+#~ "browser window."
+#~ msgstr ""
+#~ "Bu ayarla bu satırın tarayıcının pencere sınırına kadar uzatılmasını "
+#~ "sağla."
+
+#~ msgid "Use Custom Width"
+#~ msgstr "Özel Genişlik Kullan"
+
+#~ msgid ""
+#~ "Change to Yes if you would like to adjust the width of this row to a non-"
+#~ "standard width."
+#~ msgstr ""
+#~ "Bu satırın genişliğini standart olmayan bir değere almak için Evet'i seçin"
+
+#~ msgid "Unit"
+#~ msgstr "Birim"
+
+#~ msgid "px"
+#~ msgstr "pikseller"
+
+#~ msgid "Custom Width"
+#~ msgstr "Özel Genişlik"
+
+#~ msgid "Define custom width for this Row"
+#~ msgstr "Bu Satır için özel genişlik belirle"
+
+#~ msgid "Gutter Width"
+#~ msgstr "Kolon Boşluğu"
+
+#~ msgid "Adjust the spacing between each column in this row."
+#~ msgstr "Bu satırdaki her kolon arası mesafeyi ayarla."
+
+#~ msgid "Equalize Column Heights"
+#~ msgstr "Kolon Yüksekliklerini Eşitle"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Divi'ye Hoşgeldiniz! Yeni temanıza dalmadan önce onlarca kapsamlı derse "
+#~ "erişmek için lütfen <a href=\"%1$s\" target=\"_blank\">DiviDocumentation</"
+#~ "a> sayfasını ziyaret edin."
+
+#~ msgid "TypographY"
+#~ msgstr "Tipografya"
+
+#~ msgid "Sabit Navigation Settings"
+#~ msgstr "Ayarlanmış Navigasyon Seçenekleri"
+
+#~ msgid "Category Font Size"
+#~ msgstr "Kategori Yazı Tipi Boyutu"
+
+#~ msgid "Category Font Style"
+#~ msgstr "Kategori Yazı Tipi Stili"

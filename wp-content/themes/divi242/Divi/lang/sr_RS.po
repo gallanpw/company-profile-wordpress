@@ -1,0 +1,4286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:08+0300\n"
+"PO-Revision-Date: 2015-06-17 19:53+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Ova objava je zaštićena lozinkom. Unesite lozinku  da biste videli komentare."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 Komentara"
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "Komentari"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Stariji komentari"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Noviji komentari <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Povratna veza/Povratni ping"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "Prosledi komentar"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "Prosledi komentar"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Ostavi odgovor %s"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "Čuvanje..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Opcije su sačuvane."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Opcije"
+
+#: ../epanel/core_functions.php:73 ../functions.php:8939
+msgid "Theme Options"
+msgstr "Opcije teme"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "podešavanja su sačuvana."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "podešavanja su ponovo postavljena."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448 ../functions.php:616
+msgid "General Settings"
+msgstr "Opšta podešavanja"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Navigacija"
+
+#: ../epanel/core_functions.php:117 ../functions.php:621
+msgid "Layout Settings"
+msgstr "Podešavanja rasporeda"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Upravljanje oglasima"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Boja"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Integracija"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Dokumenta za podršku"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "Ponovo postavi"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "Otpremi sliku"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "Nemate nijednu stranicu"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "Sačuvaj izmene"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"Ovo će vratiti sva podešavanja na celoj stranici sa opcijama na svoje "
+"početne vrednosti. <strong>Da li ste sigurni da to želite da uradite?</"
+"strong>"
+
+#: ../epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "Izaberite sliku"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:465 ../header.php:141
+msgid "Home"
+msgstr "Matična stranica"
+
+#: ../epanel/custom_functions.php:713
+msgid "Archives"
+msgstr "Arhiva"
+
+#: ../epanel/custom_functions.php:715
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Rezultati pretrage za \"%s\""
+
+#: ../epanel/custom_functions.php:717
+msgid "404 Not Found"
+msgstr "404 Nije pronađen"
+
+#: ../epanel/custom_functions.php:788
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "Trenutno gledate arhivu %1$s"
+
+#: ../epanel/custom_functions.php:1021
+msgid "Image doesn't exist"
+msgstr "Slika ne postoji"
+
+#: ../epanel/custom_functions.php:1217
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Ovo je nova instalacija %1$s teme. Ne zaboravite "
+"da odete na <a href=\"%2$s\">ePanel</a> da biste izvršili postavku. Ova "
+"poruka će nestati onda kada budete kliknuli dugme za čuvanje u okviru <a "
+"href=\"%2$s\">stranice za opcije teme</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1229
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"Nova verzija %1$s je dostupna. <a href=\"%2$s\" class=\"thickbox\" title="
+"\"%1$s\">Prikaži verzije %3$s detalje</a>. <em>Pre mogućnosti ažuriranja "
+"Elegantne teme, prvo morate da instalirate <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> da biste potvrdili vašu pretplatu.</em>"
+
+#: ../epanel/custom_functions.php:1233
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Pre mogućnosti ažuriranja Elegantne teme, prvo morate da instalirate <a href="
+"\"https://www.elegantthemes.com/members-area/documentation.html#updater\" "
+"target=\"_blank\">Elegant Updater Plugin</a> da biste potvrdili vašu "
+"pretplatu."
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "Opšta podešavanja"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "Logotip"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "Postavi kao logotip"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Ako želite da koristite svoju prilagođenu  sliku logotipa, kliknite dugme "
+"„Otpremi sliku“."
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "Postavi kao Favicon"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Ako biste želeli da koristite vašu sopstvenu prilagođenu favicon sliku, "
+"kliknite taster Otpremi sliku."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "Fiksirana navigaciona traka"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"Po podrazumevanim podešavanjima navigaciona traka ostaje pri vrhu ekrana u "
+"svakom trenutku. Savetujemo da isključite ovu opciju ako treba da koristite "
+"veliku sliku logotipa."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "Ugrabi prvu sliku objave"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"Po podrazumevanim podešavanjima sličice su stvorene korišćenjem prilagođenih "
+"polja. Međutim, ako biste radije kao sličice koristili slike koje su već u "
+"vašoj objavi (i time da zaobiđete upotrebu prilagođenih polja), možete "
+"aktivirati ovu opciju. Jednom kada je aktivirana, sličice će biti  "
+"generisane automatski koristeći prvu sliku u vašoj objavi. Slika mora biti "
+"hostovana na vašem sopstvenom serveru."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "Režim stila bloga"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"Po podrazumevanim podešavanjima tema automatski skraćuje odlomke iz vaših "
+"objava da bi stvorila preglede objava. Ako biste radije prikazali vaše "
+"objave u celosti kao tradicionalni blog, onda možete aktivirati ovu funkciju."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr ""
+"Stranica namenjena kupovini & Raspored kategorija stranice za WooCommerce"
+
+#: ../epanel/options_divi.php:90 ../functions.php:364
+msgid "Right Sidebar"
+msgstr "Desna bočna traka"
+
+#: ../epanel/options_divi.php:91 ../functions.php:365
+msgid "Left Sidebar"
+msgstr "Leva bočna traka"
+
+#: ../epanel/options_divi.php:92 ../functions.php:366
+msgid "Full Width"
+msgstr "Puna širina"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"Ovde možete izabrati Stranicu namenjenu kupovini & Raspored kategorija "
+"stranice za WooCommerce"
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "MailChimp API šifra"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"Unesite vašu „ MailChimp“ API šifru. Možete stvoriti api šifru <a target="
+"\"_blank\" href=\"%1$s\">ovde</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Aweber autorizacija"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "Ovlastite vaš Aweber nalog ovde."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "Ponovo generišite MailChimp liste"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Prema podrazumevanim podešavanjima, MailChimp liste su keširane na jedan "
+"dan. Ako dodate novu listu, ali se ona ne pojavi unutar modula za "
+"podešavanje prijavljivanja, aktivirajte ovu opciju. Ne zaboravite da je "
+"deaktivirate onda kada lista bude ponovo generisana."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Ponovo generišite Aweber listu"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Prema podrazumevanim podešavanjima, Aweber liste su keširane na jedan dan. "
+"Ako dodate  novu  listu, ali se ona ne pojavi unutar modula za podešavanje "
+"prijavljivanja, aktivirajte ovu opciju. Ne zaboravite da je deaktivirate "
+"onda kada lista bude ponovo generisana."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Prikaži Facebook ikonu"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr ""
+"Ovde možete izabrati da se Facebook ikona prikaže na vašoj matičnoj "
+"stranici. "
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Prikaži Twitter ikonu"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Ovde možete izabrati da se prikaže Twitter ikona. "
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Prikaži Google+ ikonu"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr ""
+"Ovde možete izabrati da se Google+ ikona prikaže na vašoj matičnoj stranici. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "Prikaži RSS ikonu"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Ovde možete izabrati da se prikaže RSS ikona. "
+
+#: ../epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "Facebook profil URL"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Unesite URL vašeg Facebook profila. "
+
+#: ../epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "Twitter profil URL"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Unesite URL vašeg Twitter profila."
+
+#: ../epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "Google+ profil URL"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Unesite URL vašeg Google+ profila. "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "RSS ikona URL"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "Unesite URL vašeg RSS izvoda. "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "Broj objava prikazanih na stranici kategorije"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Ovde možete odrediti koliko je skorašnjih članaka prikazano na stranici "
+"kategorije. Ova opcija radi nezavisno od opcija čitanja u wp-admin."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Broj objava prikazanih na stranicama arhive"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Ovde možete odrediti koliko je skorašnjih članaka prikazano na stranicama "
+"arhive. Ova opcija radi nezavisno od opcija čitanja u wp-admin."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "Broj objava prikazanih na stranicama nakon pretrage"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Ovde možete odrediti koliko je skorašnjih članaka prikazano na pretraženim "
+"stranicama. Ova opcija radi nezavisno od opcija čitanja u wp-admin."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Broj objava prikazanih na stranicama oznaka"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Ovde možete odrediti koliko je skorašnjih članaka prikazano na stranicama "
+"oznaka. Ova opcija radi nezavisno od opcija čitanja u wp-admin."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "Format datuma"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Ova opcija vam dozvoljava da menjate način na koji su vaši datumi prikazani. "
+"Za više informacija molimo vas da pogledate WordPress kodeks ovde:<a "
+"href='http://codex.wordpress.org/Formatting_Date_and_Time' "
+"target='_blank'>Oblikovanje datuma i vremena</a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "Koristi odlomke onda kada su definisani"
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Ovo će aktivirati upotrebu odlomaka u objavama ili na stranicama."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "Odgovarajući shortcodes"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Aktivirajte ovu opciju da bi shortcodes odgovarali različitim veličinama "
+"ekrana"
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "Google Fonts podskupovi"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Ovo će aktivirati Google Fonts za jezike koji nisu engleski."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "Taster za povratak na vrh"
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+"Aktivirajte ovu opciju da bi se Taster za povratak na vrh prikazao tokom "
+"pomeranja"
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "Glatko pomeranje"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr ""
+"Aktivirajte ovu opciju da biste dobili efekat glatkog pomeranja kod točkića "
+"na mišu"
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "Prilagođeni CSS"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Ovde možete dodati prilagođeni CSS da biste izmenili ili proširili "
+"podrazumevane stilove."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "Stranice"
+
+#: ../epanel/options_divi.php:292 ../functions.php:292 ../functions.php:302
+msgid "Categories"
+msgstr "Kategorije"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "Izuzmi stranice iz navigacione trake"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Ovde možete izabrati da uklonite određene stranice iz navigacionog menija. "
+"Sve stranice označene sa X se neće pojavljivati  u vašoj navigacionoj traci. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "Prikaži padajući meni"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Ako biste želeli da uklonite padajući meni sa stranica navigacione trake, "
+"deaktivirajte ovu funkciju."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "Prikaži vezu matične stranice"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"Po podrazumevanom podešavanju, tema stvara vezu ka matičnoj stranici, koja "
+"kada se klikne, vodi nazad ka matičnoj stranici vašeg bloga. Međutim, ako "
+"koristite statičnu matičnu stranicu i ako ste već kreirali stranicu koja se "
+"zove “Home to use”, iz toga će proisteći duplirana veza. U ovom slučaju "
+"treba da deaktivirate ovu funkciju da biste uklonili vezu."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "Sortiraj veze ka stranicama"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr "Ovde možete izabrati način na koji ćete sortirati veze ka stranicama."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Poređaj veze ka stranicama od rastuće/opadajuće"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Ovde možete izabrati da preokrenete redosled po kome su vaše veze ka "
+"stranicama prikazane. Možete izabrati između rastućeg i opadajućeg."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "Broj prikazanih padajućih nivoa"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Ova opcija vam omogućava da kontrolišete koliko nivoa vaš padajući meni ima. "
+"Povećavanje tog broja vam dozvoljava da budu prikazane dodatne stavke u "
+"meniju."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "Izuzmite kategorije iz navigacione trake"
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Ovde možete izabrati da uklonite određene kategorije iz navigacionog menija. "
+"Sve kategorije označene sa X se neće pojavljivati u vašoj navigacionoj "
+"traci. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Ako biste želeli da uklonite padajući meni iz kategorija navigacione trake "
+"deaktivirajte ovu funkciju."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "Sakrij prazne kategorije"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Ako biste želeli da kategorije koje nemaju nikakve objave  u sebi budu "
+"prikazane u vašoj navigacionoj traci, onda deaktivirajte ovu opciju. Po "
+"podrazumevanom podešavanju prazne kategorije su sakrivene."
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Sortirajte kategorije veza po Name/ID/Slug/Count/Term grupi"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"Po podrazumevanom podešavanju, stranice su sortirane po imenu. Međutim, ako "
+"biste radije da budu sortirane po ID možete korigovati ovo podešavanje."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Poređaj veze kategorija po rastućim ili opadajućim"
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Ovde možete izabrati da preokrenete redosled po kome su vaše veze kategorija "
+"prikazane. Možete izabrati između rastućeg i opadajućeg."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "Deaktiviraj najviši nivo veza padajućeg menija"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"U nekim slučajevima korisnici će želeti da stvore nadređene kategorije ili "
+"veze kao čuvare mesta da bi držali listu podređenih veza ili kategorija. U "
+"ovom slučaju nije poželjno da nadređene veze vode bilo kuda, već umesto toga "
+"da samo služe organizacionoj funkciji. Aktiviranje ovih opcija će ukloniti "
+"veze iz svih nadređenih stranica/kategorija, da one ne bi nigde vodile kada "
+"se na njih klikne."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "Raspored jedne objave"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "Raspored jedne stranice"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr "Izaberite koje stavke da budu prikazane u informacionom odeljku objave"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Ovde možete izabrati koje se stavke pojavljuju u informacionom odeljku "
+"objave na stranicama sa jednom objavom. Ovo je oblast, obično ispod naziva "
+"objave, koja prikazuje osnovne informacije o vašoj objavi.  Istaknute stavke "
+"koje su prikazane ispod će se pojaviti. "
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "Prikaži komentare na objave"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Možete deaktivirati ovu opciju ako želite da iz objava uklonite komentare i "
+"polje za komentar. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "Postavi sličice na poruke"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"Po fabričkim podešavanjima sličice su postavljene na početku vaše poruke na "
+"stranicama sa jednom porukom. Ako biste želeli da uklonite ovu inicijalnu "
+"sličicu da biste izbegli ponavljanje jednostavno deaktivirajte ovu opciju. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "Postavi sličice na stranice"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"Po podrazumevanoj vrednosti sličice nisu postavljene na stranicama (koriste "
+"se samo na objavama). Međutim, ako želite da sličice koristite na stranicama "
+"možete! Samo aktivirajte ovu opciju."
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "Prikaži komentare na stranicama"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"Po podrazumevanim podešavanjima komentari nisu postavljeni na stranicama, "
+"međutim, ako biste želeli da dozvolite ljudima da komentarišu na vašim "
+"stranicama, jednostavno aktivirajte ovu opciju. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "Informacioni odeljak poruke"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Ovde možete izabrati koje se stavke pojavljuju u informacionom odeljku "
+"članka na stranicama. Ovo je oblast, obično ispod naziva objave, koja "
+"prikazuje osnovne informacije o vašoj objavi. Istaknute stavke koje su "
+"prikazane ispod će se pojaviti. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "Prikaži sličice na indeks stranicama"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Aktivirajte ovu opciju da bi se prikazale sličice na indeks stranicama"
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "Matična stranica SEO"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "Stranica sa jednom objavom SEO"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "Indeks stranica SEO"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "Aktiviraj prilagođeni naslov "
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"Po podrazumevanim podešavanjima, da bi stvorila naslove vaše matične "
+"stranice, tema koristi kombinaciju imena vašeg bloga i opisa vašeg bloga, "
+"koji su definisani kada ste kreirali vaš blog. Međutim, ako želite da "
+"kreirate prilagođeni naslov, onda jednostavno aktivirajte ovu opciju i "
+"popunite ispod polje za prilagođeni naslov. "
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "Aktivirajte opis meta oznake"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"Po podrazumevanim podešavanjima, tema koristi vaš opis bloga, koji je "
+"definisan kada ste napravili vaš blog, da bi popunila polje meta opisa. Ako "
+"biste želeli da koristite drugačiji opis, onda aktivirajte ovu opciju i "
+"popunite ispod polje prilagođenog opisa. "
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "Aktiviraj meta ključne reči"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"Po podrazumevanim podešavanjima tema ne dodaje ključne reči vašem zaglavlju "
+"stranice. Većina pretraživača više ne koristi ključne reči da bi rangirali "
+"vašu lokaciju, ali ih neki ljudi ipak za svaki slučaj određuju. Ako želite "
+"da dodate meta ključne reči vašem zaglavlju onda aktivirajte ovu opciju i "
+"popunite prilagođeno polje ključnih reči. "
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "Aktiviraj kanonske URL's"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Kanonizacija pomaže da se spreči indeksiranje dupliranog sadržaja od strane "
+"pretraživača, i kao rezultat, može pomoći da se spreči kazna zbog dupliranog "
+"sadržaja i degradacija ranga stranice. Neke stranice mogu imati drugačije "
+"URLs, koji svi vode ka istom mestu. Na primer, domain.com, domain.com/index."
+"htmli www.domain.com su sve različite URLs adrese koje vode ka vašoj "
+"početnoj stranici. Iz perspektive pretraživača ove duplirane URLs adrese, "
+"što se takođe često dešava usled prilagođenih trajnih veza, mogu biti "
+"tretirane individualno umesto kao jedna destinacija. Definisanje kanonske "
+"URL adrese govori pretraživaču koju URL adresu biste želeli da zvanično "
+"koristite. Tema zasniva svoje kanonske URLs adrese sa vaših veza i sa imena "
+"domena koje je definisano u podešavanjima kartice wp-admin."
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "Prilagođeni naslov matične stranice (ako se aktivira)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Ako ste aktivirali prilagođene naslove, možete dodati vaš prilagođeni naslov "
+"ovde. Šta god ovde da ukucate biće postavljeno između < title >< /title > "
+"oznaka u header.php"
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "Meta opis matične stranice (ako se aktivira)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+"Ako ste aktivirali meta opise, možete dodati vaš prilagođeni opis ovde."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Meta ključne reči matične stranice (ako se aktivira)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Ako ste aktivirali meta ključne reči, možete dodati vaše prilagođene ključne "
+"reči ovde. Ključne reči treba da budu odvojene zarezima. Na primer: "
+"wordpress,themes,templates,elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+"Ako su prilagođeni naslovi deaktivirani, izaberite metod automatskog "
+"generisanja"
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Ako ne koristite prilagođene naslove objava, i dalje možete imati kontrolu "
+"nad tim kako su vaši naslovi generisani. Ovde možete izabrati redosled po "
+"kome želite da vaš naslov objave i ime bloga budu prikazani, ili možete u "
+"potpunosti ukloniti ime bloga iz naslova."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+"Definišite karakter da biste odvojili naziv veb lokacije i naslov objave"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Ovde možete izmeniti  karakter koji odvaja vaš naslov bloga i naziv objave "
+"kad koristite automatski generisane naslove objava. Uobičajene vrednosti su |"
+"ili -"
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "Aktiviraj prilagođene naslove"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"Po podrazumevanoj vrednosti tema stvara naslove objava zasnovane na naslovu "
+"vaše objave i imena vašeg bloga. Ako biste želeli da učinite vaš meta naslov "
+"drugačijim od vašeg aktuelnog naslova objave, možete definisati  prilagođeni "
+"naslov za svaku objavu koristeći prilagođena polja. Da bi funkcionisala, ova "
+"opcija mora biti aktivirana za prilagođene naslove, i morate izabrati "
+"prilagođen naziv polja za vaš naslov ispod."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "Aktiviraj prilagođeni opis"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Ako biste želeli da dodate meta opis vašoj objavi možete to učiniti "
+"koristeći prilagođena polja. Ova opcija mora biti aktivirana da bi se "
+"prikazala na stranicama objava. Možete dodati vaš meta opis koristeći "
+"prilagođena polja zasnovana na prilagođenom nazivu polja koji ste definisali "
+"ispod."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "Aktiviraj prilagođene ključne reči"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Ako želite da dodate meta ključne reči vašoj objavi, to možete učiniti "
+"koristeći prilagođena polja. Ova opcija mora biti aktivirana za ključne reči "
+"kako bi se prikazale na stranicama objava. Možete dodati meta ključne reči "
+"koristeći prilagođena polja na osnovu imena prilagođenog polja koje ste "
+"definisali ispod."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "Aktiviraj kanonske URL's"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "Naziv prilagođenog polja koje će se koristiti kao naslov"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Kada definišete naslov koristeći prilagođena polja trebalo bi da koristite "
+"ovu vrednost za naziv prilagođenog polja.Vrednost vašeg prilagođenog polja "
+"bi trebalo da bude prilagođeni naslov koji biste želeli da koristite."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "Naziv prilagođenog polja koji će se koristiti za opis"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Kada definišete svoj meta opis koristeći prilagođena polja trebalo bi da "
+"koristite ovu vrednost za naziv prilagođenog polja. Vrednost vašeg "
+"prilagođenog polja bi trebalo da bude opis koji biste želeli da koristite."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr "Naziv prilagođenog polja koji će se koristiti za ključne reči"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Kada definišete vaše ključne reči koristeći prilagođena polja, trebalo bi da "
+"koristite ovu vrednost za naziv prilagođenog polja.Vrednost vašeg "
+"prilagođenog polja bi trebalo da budu meta ključne reči koje biste želeli da "
+"koristite, odvojene zarezima."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Ukoliko ne koristite prilagođene naslove objava, i dalje možete imati "
+"kontrolu nad  tim kako su vaši naslovi generisani. Ovde možete izabrati "
+"kojim će redosledom vaš naslov objave i naziv bloga biti prikazani, ili "
+"možete ukloniti naziv bloga iz naslova u potpunosti."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "Aktiviraj meta opise"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Potvrdite izbor u ovom polju ako želite da se prikažu meta opisi na "
+"stranicama kategorija/arhiva. Opis je zasnovan  na opisu kategorije koju ste "
+"izabrali tokom kreiranja/uređivanja vaše kategorije u wp-admin."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "Izaberi postupak generisanja naslova"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Ovde možete izabrati kako su vaši naslovi na indeksnoj stranici generisani. "
+"Možete promeniti kojim će redosledom vaš naziv bloga i indeks naslov biti "
+"prikazani, ili možete u potpunosti ukloniti naziv bloga iz naslova."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Ovde možete promeniti karakter koji odvaja vaš naslov bloga i naziv indeks "
+"stranice kada koristite automatski generisane naslove objava. Uobičajene "
+"vrednosti su | ili -"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "Integracija koda"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "Aktiviraj kod zaglavlja"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Deaktiviranje ove opcije će ukloniti sa vašeg bloga kod zaglavlja ispod. Ovo "
+"vam omogućava da uklonite kod u isto vreme čuvajući ga za kasniju upotrebu."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "Aktiviraj < body > kod"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Deaktiviranje ove opcije će ukloniti kod tela ispod sa vašeg bloga. Ovo vam "
+"omogućava da uklonite kod u isto vreme čuvajući ga  za kasniju  upotrebu."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "Aktiviraj pojedinačni gornji kod"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Deaktiviranje ove opcije će ukloniti pojedinačni gornji kod ispod sa vašeg "
+"bloga. Ovo  vam omogućava da uklonite kod u isto vreme ga čuvajući za "
+"kasniju upotrebu."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "Aktiviraj pojedinačni donji kod"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Deaktiviranje ove opcije će ukloniti pojedinačni donji kod ispod sa vašeg "
+"bloga. Ovo  vam omogućava da uklonite kod u isto vreme ga čuvajući za "
+"kasniju upotrebu."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "Dodaj kod < head > vašeg bloga"
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Svaki kod koji postavite ovde će se pojaviti u glavnoj sekciji svake "
+"stranice vašeg bloga. Ovo može biti od koristi kada želite da dodate "
+"Javascript ili CSS svim stranicama."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Dodaj kod < body > (dobro je za praćenje kodova kao što je Google Analytics)"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Svaki kod koji smestite ovde će biti prikazan u  sekciji sadržaja na svim "
+"stranicama vašeg bloga.  Ovo je korisno ukoliko treba da unesete piksel za "
+"praćenje, za brojač stanja kao što je Google Analytics."
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "Dodajte kod  na vrh vaših objava"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Svaki kod koji smestite ovde će biti prikazan na vrhu svih objava. Ovo je od "
+"koristi ako želite da integrišete stvari poput društvenih veza za "
+"obeležavanje."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Dodajte kod pri dnu vaših objava, pre komentara"
+
+#: ../epanel/options_divi.php:844 ../functions.php:8612
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Uredi oglase"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "Aktiviraj pojedinačni objavni 468x60 reklamni natpis"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Aktiviranje ove opcije će prikazati 468x60 reklamni natpis pri dnu vaših "
+"objavnih stranica ispod sadržaja pojedinačne objave. Ako je aktivirana "
+"morate uneti sliku reklamnog natpisa i odredište URL ispod."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "Unesi 468x60 sliku reklamnog natpisa"
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Ovde možete obezbediti 468x60 sliku reklamnog natpisa URL"
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "Unesi 468x60 destinaciju oglasa URL"
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Ovde možete obezbediti 468x60 destinaciju reklamnog natpisa URL"
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "Unesi 468x60 Google Adsense kod"
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "Postavite vaš Google Adsense kod ovde."
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:518 ../functions.php:160
+msgid "Previous"
+msgstr "Prethodno"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:519 ../functions.php:161
+msgid "Next"
+msgstr "Sledeća"
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "Tvit"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "Prijava članova"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "Korisničko ime: "
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "Šifra: "
+
+#: ../epanel/shortcodes/shortcodes.php:294 ../functions.php:3522
+msgid "Login"
+msgstr "Prijava"
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "Dodajte tekst opisa alatke"
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "Kliknite ovde da biste saznali više"
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "Pridružite se sada"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "Dodaj blok preklopnika"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "Dodaj polje"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "Dodaj taster"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "Dodaj kartice"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "Dodaj biografiju autora"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "Kratki kodovi"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "Natpis"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "Natpis ide ovde"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "Natpis naslova ide ovde"
+
+#: ../epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "Stanje"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "Odaberite između proširenog i zatvorenog stanja"
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "Sadržaj"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "Sadržaj ide ovde"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "Sadržaj teksta ili HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021 ../functions.php:8610
+msgid "Type"
+msgstr "Tip"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "Tip polja"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "Veza"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "Izaberi tip tastera"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "Boja"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "Izaberi boju tastera"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "Tekst veze"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "Ikona"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "Koristi se za tip ikone tastera"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "Otvori vezu u novom prozoru"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Izaberi da ako veza treba da bude otvorena u novom prozoru"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "Tip klizača"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "Odaberi tip klizača ovde"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "Efekat"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "Odaberi efekat animacije"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "Automatski"
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Izaberite da ako želite da aktivirate automatsku animaciju klizača"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "Automatska brzina"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+"Automatska brzina klizača (radi jedino ako je izabrano automatsko odabiranje)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "Tekst kartice"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "Sadržaj kartice"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "Nalepite sliku URL ovde, ukoliko odaberete \"images\" tip klizača"
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "Slika URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "Slika autora URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "Koristi promenu veličine"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ Dodaj još jednu karticu"
+
+#: ../epanel/shortcodes/shortcodes.php:1335 ../functions.php:3165
+msgid "Image Height"
+msgstr "Visina slike"
+
+#: ../epanel/shortcodes/shortcodes.php:1336 ../functions.php:3146
+msgid "Image Width"
+msgstr "Širina slike"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Dizajnirao %1$s | Omogućio %2$s"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "Primarni meni"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "Sekundarni meni"
+
+#: ../functions.php:32 ../functions.php:706
+msgid "Footer Menu"
+msgstr "Meni podnožja stranice"
+
+#: ../functions.php:73
+#, php-format
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a "
+"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
+"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+"Dobrodošli u Divi! Pre nego šro uronite u svoju novu temu posetite <a style="
+"\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">Divi "
+"Documentation</a> stranicu za pristup desetinama opširnih uputstava."
+
+#: ../functions.php:97
+msgid "on"
+msgstr "on"
+
+#: ../functions.php:154
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Molimo vas da proverite polje za unos ispod da biste se uverili da ste uneli "
+"tačne informacije."
+
+#: ../functions.php:155
+msgid "Fill"
+msgstr "Popunite"
+
+#: ../functions.php:156
+msgid "field"
+msgstr "polje"
+
+#: ../functions.php:157
+msgid "Invalid email"
+msgstr "Nevažeća e-adresa"
+
+#: ../functions.php:158
+msgid "Captcha"
+msgstr "Potvrdni kod"
+
+#: ../functions.php:159
+msgid "Prev"
+msgstr "Prethodna"
+
+#: ../functions.php:208
+msgid "Select Page"
+msgstr "Izaberite stranicu"
+
+#: ../functions.php:246
+msgid "Divi Page Settings"
+msgstr "Podešavanja Divi stranice"
+
+#: ../functions.php:247
+msgid "Divi Post Settings"
+msgstr "Podešavanja Divi objave"
+
+#: ../functions.php:248
+msgid "Divi Product Settings"
+msgstr "Podešavanja Divi proizvoda"
+
+#: ../functions.php:249
+msgid "Divi Project Settings"
+msgstr "Podešavanja Divi projekta"
+
+#: ../functions.php:255
+msgid "Projects"
+msgstr "Projekti"
+
+#: ../functions.php:256
+msgid "Project"
+msgstr "Projekat"
+
+#: ../functions.php:257
+msgid "Add New"
+msgstr "Dodaj novi"
+
+#: ../functions.php:258
+msgid "Add New Project"
+msgstr "Dodaj novi projekat"
+
+#: ../functions.php:259
+msgid "Edit Project"
+msgstr "Izmeni projekat"
+
+#: ../functions.php:260
+msgid "New Project"
+msgstr "Novi projekat"
+
+#: ../functions.php:261
+msgid "All Projects"
+msgstr "Svi projekti"
+
+#: ../functions.php:262
+msgid "View Project"
+msgstr "Prikaži projekat"
+
+#: ../functions.php:263
+msgid "Search Projects"
+msgstr "Pretraži projekte"
+
+#: ../functions.php:264
+msgid "Nothing found"
+msgstr "Ništa nije pronađeno"
+
+#: ../functions.php:265
+msgid "Nothing found in Trash"
+msgstr "Ništa nije pronađeno u Korpi za otpatke"
+
+#: ../functions.php:293
+msgid "Category"
+msgstr "Kategorija"
+
+#: ../functions.php:294
+msgid "Search Categories"
+msgstr "Pretraži kategorije"
+
+#: ../functions.php:295
+msgid "All Categories"
+msgstr "Sve kategorije"
+
+#: ../functions.php:296
+msgid "Parent Category"
+msgstr "Nadređena kategorija"
+
+#: ../functions.php:297
+msgid "Parent Category:"
+msgstr "Nadređena kategorija:"
+
+#: ../functions.php:298
+msgid "Edit Category"
+msgstr "Izmeni kategoriju"
+
+#: ../functions.php:299
+msgid "Update Category"
+msgstr "Ažuriraj kategoriju"
+
+#: ../functions.php:300
+msgid "Add New Category"
+msgstr "Dodaj novu kategoriju"
+
+#: ../functions.php:301
+msgid "New Category Name"
+msgstr "Ime nove kategorije"
+
+#: ../functions.php:314 ../functions.php:324
+msgid "Tags"
+msgstr "Oznake"
+
+#: ../functions.php:315
+msgid "Tag"
+msgstr "Oznaka"
+
+#: ../functions.php:316
+msgid "Search Tags"
+msgstr "Pretraži oznake"
+
+#: ../functions.php:317
+msgid "All Tags"
+msgstr "Sve oznake"
+
+#: ../functions.php:318
+msgid "Parent Tag"
+msgstr "Nadređena oznaka"
+
+#: ../functions.php:319
+msgid "Parent Tag:"
+msgstr "Nadređena oznaka:"
+
+#: ../functions.php:320
+msgid "Edit Tag"
+msgstr "Izmeni oznaku"
+
+#: ../functions.php:321
+msgid "Update Tag"
+msgstr "Ažuriraj oznaku"
+
+#: ../functions.php:322
+msgid "Add New Tag"
+msgstr "Dodaj novu oznaku"
+
+#: ../functions.php:323
+msgid "New Tag Name"
+msgstr "Ime nove oznake"
+
+#: ../functions.php:340
+msgid "Skills"
+msgstr "Veštine"
+
+#: ../functions.php:343
+msgid "Posted on"
+msgstr "Objavljeno"
+
+#: ../functions.php:370
+msgid "Light"
+msgstr "Svetlo"
+
+#: ../functions.php:371
+msgid "Dark"
+msgstr "Tamno"
+
+#: ../functions.php:384
+msgid "Page Layout"
+msgstr "Raspored na stranici"
+
+#: ../functions.php:398
+msgid "Dot Navigation"
+msgstr "Dot navigacija"
+
+#: ../functions.php:401 ../functions.php:409
+msgid "Off"
+msgstr "Isključeno"
+
+#: ../functions.php:402 ../functions.php:410
+msgid "On"
+msgstr "Uključeno"
+
+#: ../functions.php:406
+msgid "Hide Nav Before Scroll"
+msgstr "Sakrij navigaciju pre klizanja"
+
+#: ../functions.php:416
+msgid "Post Title"
+msgstr "Naslov objave"
+
+#: ../functions.php:419
+msgid "Show"
+msgstr "Prikaži"
+
+#: ../functions.php:420
+msgid "Hide"
+msgstr "Sakrij"
+
+#: ../functions.php:425
+msgid "Use Background Color"
+msgstr "Koristi boju pozadine"
+
+#: ../functions.php:430 ../functions.php:5510
+msgid "Hex Value"
+msgstr "Vrednost boje"
+
+#: ../functions.php:434 ../functions.php:1697 ../functions.php:1722
+#: ../functions.php:1845 ../functions.php:2350 ../functions.php:2449
+#: ../functions.php:2655
+msgid "Text Color"
+msgstr "Boja teksta"
+
+#: ../functions.php:626
+msgid "Typography"
+msgstr "Tipografija"
+
+#: ../functions.php:631
+msgid "Mobile Styles"
+msgstr "Stilovi mobilnih uređaja"
+
+#: ../functions.php:636
+msgid "Tablet"
+msgstr "Tablet"
+
+#: ../functions.php:641
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../functions.php:646
+msgid "Mobile Menu"
+msgstr "Meni mobilnih uređaja"
+
+#: ../functions.php:651
+msgid "Background"
+msgstr "Pozadina"
+
+#: ../functions.php:656
+msgid "Header & Navigation"
+msgstr "Zaglavlje i navigacija"
+
+#: ../functions.php:661
+msgid "Header Format"
+msgstr "Format zaglavlja"
+
+#: ../functions.php:666
+msgid "Primary Menu Bar"
+msgstr "Primarna traka sa menijima"
+
+#: ../functions.php:671
+msgid "Secondary Menu Bar"
+msgstr "Sekundarna traka sa menijima"
+
+#: ../functions.php:676
+msgid "Fixed Navigation Settings"
+msgstr "Fiksna podešavanja navigacije"
+
+#: ../functions.php:681
+msgid "Header Elements"
+msgstr "Elementi zaglavlja"
+
+#: ../functions.php:686
+msgid "Footer"
+msgstr "Podnožje stranice"
+
+#: ../functions.php:691
+msgid "Layout"
+msgstr "Raspored"
+
+#: ../functions.php:696
+msgid "Widgets"
+msgstr "Vidžeti"
+
+#: ../functions.php:701
+msgid "Footer Elements"
+msgstr "Elementi podnožja stranice"
+
+#: ../functions.php:711
+msgid "Bottom Bar"
+msgstr "Donja traka"
+
+#: ../functions.php:716 ../functions.php:1411
+msgid "Color Schemes"
+msgstr "Šeme boja"
+
+#: ../functions.php:718
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Napomena: Podešavanja boje koja su postavljena iznad trebaju biti primenjena "
+"na podrazumevanu vrednost šema boja."
+
+#: ../functions.php:722
+msgid "Buttons"
+msgstr "Tasteri"
+
+#: ../functions.php:727
+msgid "Buttons Style"
+msgstr "Stil tastera"
+
+#: ../functions.php:732
+msgid "Buttons Hover Style"
+msgstr "Stil tastera pri zadržavanju pokazivača iznad"
+
+#: ../functions.php:737 ../functions.php:4774
+msgid "Blog"
+msgstr "Blog"
+
+#: ../functions.php:742
+msgid "Post"
+msgstr "Objava"
+
+#: ../functions.php:754
+msgid "Meta Text Size"
+msgstr "Veličina teksta meta podataka"
+
+#: ../functions.php:772
+msgid "Meta Line Height"
+msgstr "Visina linije meta podataka"
+
+#: ../functions.php:790
+msgid "Meta Letter Spacing"
+msgstr "Razmak između slova u meta podacima"
+
+#: ../functions.php:808 ../functions.php:4845 ../functions.php:4931
+msgid "Meta Font Style"
+msgstr "Stil fonta meta podataka"
+
+#: ../functions.php:812 ../functions.php:885 ../functions.php:1276
+#: ../functions.php:1598 ../functions.php:1682 ../functions.php:2119
+#: ../functions.php:2174 ../functions.php:2303 ../functions.php:2367
+#: ../functions.php:2546 ../functions.php:2825 ../functions.php:2864
+#: ../functions.php:2938 ../functions.php:3024 ../functions.php:3063
+#: ../functions.php:3091 ../functions.php:3111 ../functions.php:3215
+#: ../functions.php:3254 ../functions.php:3293 ../functions.php:3340
+#: ../functions.php:3406 ../functions.php:3445 ../functions.php:3492
+#: ../functions.php:3558 ../functions.php:3652 ../functions.php:3691
+#: ../functions.php:3766 ../functions.php:3805 ../functions.php:3844
+#: ../functions.php:3891 ../functions.php:3930 ../functions.php:4014
+#: ../functions.php:4053 ../functions.php:4100 ../functions.php:4139
+#: ../functions.php:4185 ../functions.php:4205 ../functions.php:4291
+#: ../functions.php:4311 ../functions.php:4396 ../functions.php:4435
+#: ../functions.php:4493 ../functions.php:4540 ../functions.php:4705
+#: ../functions.php:4744 ../functions.php:4810 ../functions.php:4849
+#: ../functions.php:4896 ../functions.php:4935 ../functions.php:4982
+#: ../functions.php:5021 ../functions.php:5060 ../functions.php:5099
+#: ../functions.php:5146 ../functions.php:5193 ../functions.php:5259
+#: ../functions.php:5298
+msgid "Bold"
+msgstr "Podebljano"
+
+#: ../functions.php:813 ../functions.php:886 ../functions.php:1277
+#: ../functions.php:1599 ../functions.php:1683 ../functions.php:2120
+#: ../functions.php:2175 ../functions.php:2304 ../functions.php:2368
+#: ../functions.php:2547 ../functions.php:2826 ../functions.php:2865
+#: ../functions.php:2939 ../functions.php:3025 ../functions.php:3064
+#: ../functions.php:3092 ../functions.php:3112 ../functions.php:3216
+#: ../functions.php:3255 ../functions.php:3294 ../functions.php:3341
+#: ../functions.php:3407 ../functions.php:3446 ../functions.php:3493
+#: ../functions.php:3559 ../functions.php:3653 ../functions.php:3692
+#: ../functions.php:3767 ../functions.php:3806 ../functions.php:3845
+#: ../functions.php:3892 ../functions.php:3931 ../functions.php:4015
+#: ../functions.php:4054 ../functions.php:4101 ../functions.php:4140
+#: ../functions.php:4186 ../functions.php:4206 ../functions.php:4292
+#: ../functions.php:4312 ../functions.php:4397 ../functions.php:4436
+#: ../functions.php:4494 ../functions.php:4541 ../functions.php:4706
+#: ../functions.php:4745 ../functions.php:4811 ../functions.php:4850
+#: ../functions.php:4897 ../functions.php:4936 ../functions.php:4983
+#: ../functions.php:5022 ../functions.php:5061 ../functions.php:5100
+#: ../functions.php:5147 ../functions.php:5194 ../functions.php:5260
+#: ../functions.php:5299
+msgid "Italic"
+msgstr "Ukošen"
+
+#: ../functions.php:814 ../functions.php:887 ../functions.php:1278
+#: ../functions.php:1600 ../functions.php:1684 ../functions.php:2121
+#: ../functions.php:2176 ../functions.php:2305 ../functions.php:2369
+#: ../functions.php:2548 ../functions.php:2827 ../functions.php:2866
+#: ../functions.php:2940 ../functions.php:3026 ../functions.php:3065
+#: ../functions.php:3093 ../functions.php:3113 ../functions.php:3217
+#: ../functions.php:3256 ../functions.php:3295 ../functions.php:3342
+#: ../functions.php:3408 ../functions.php:3447 ../functions.php:3494
+#: ../functions.php:3560 ../functions.php:3654 ../functions.php:3693
+#: ../functions.php:3768 ../functions.php:3807 ../functions.php:3846
+#: ../functions.php:3893 ../functions.php:3932 ../functions.php:4016
+#: ../functions.php:4055 ../functions.php:4102 ../functions.php:4141
+#: ../functions.php:4187 ../functions.php:4207 ../functions.php:4293
+#: ../functions.php:4313 ../functions.php:4398 ../functions.php:4437
+#: ../functions.php:4495 ../functions.php:4542 ../functions.php:4707
+#: ../functions.php:4746 ../functions.php:4812 ../functions.php:4851
+#: ../functions.php:4898 ../functions.php:4937 ../functions.php:4984
+#: ../functions.php:5023 ../functions.php:5062 ../functions.php:5101
+#: ../functions.php:5148 ../functions.php:5195 ../functions.php:5261
+#: ../functions.php:5300
+msgid "Uppercase"
+msgstr "Velika slova"
+
+#: ../functions.php:815 ../functions.php:888 ../functions.php:1279
+#: ../functions.php:1601 ../functions.php:1685 ../functions.php:2122
+#: ../functions.php:2177 ../functions.php:2306 ../functions.php:2370
+#: ../functions.php:2549 ../functions.php:2828 ../functions.php:2867
+#: ../functions.php:2941 ../functions.php:3027 ../functions.php:3066
+#: ../functions.php:3094 ../functions.php:3114 ../functions.php:3218
+#: ../functions.php:3257 ../functions.php:3296 ../functions.php:3343
+#: ../functions.php:3409 ../functions.php:3448 ../functions.php:3495
+#: ../functions.php:3561 ../functions.php:3655 ../functions.php:3694
+#: ../functions.php:3769 ../functions.php:3808 ../functions.php:3847
+#: ../functions.php:3894 ../functions.php:3933 ../functions.php:4017
+#: ../functions.php:4056 ../functions.php:4103 ../functions.php:4142
+#: ../functions.php:4188 ../functions.php:4208 ../functions.php:4294
+#: ../functions.php:4314 ../functions.php:4399 ../functions.php:4438
+#: ../functions.php:4496 ../functions.php:4543 ../functions.php:4708
+#: ../functions.php:4747 ../functions.php:4813 ../functions.php:4852
+#: ../functions.php:4899 ../functions.php:4938 ../functions.php:4985
+#: ../functions.php:5024 ../functions.php:5063 ../functions.php:5102
+#: ../functions.php:5149 ../functions.php:5196 ../functions.php:5262
+#: ../functions.php:5301
+msgid "Underline"
+msgstr "Podvučeno"
+
+#: ../functions.php:827 ../functions.php:1218 ../functions.php:1291
+#: ../functions.php:1309 ../functions.php:2097
+msgid "Header Text Size"
+msgstr "Veličina teksta zaglavlja"
+
+#: ../functions.php:845 ../functions.php:1254
+msgid "Header Line Height"
+msgstr "Visina linije zaglavlja"
+
+#: ../functions.php:863 ../functions.php:1236
+msgid "Header Letter Spacing"
+msgstr "Razmak između slova zaglavlja"
+
+#: ../functions.php:881 ../functions.php:1272 ../functions.php:2115
+#: ../functions.php:3020 ../functions.php:3211 ../functions.php:3336
+#: ../functions.php:3402 ../functions.php:3488 ../functions.php:3554
+#: ../functions.php:4392 ../functions.php:5142 ../functions.php:5255
+msgid "Header Font Style"
+msgstr "Stil fonta zaglavlja"
+
+#: ../functions.php:899
+msgid "Enable Boxed Layout"
+msgstr "Aktiviraj uokvireni raspored"
+
+#: ../functions.php:912
+msgid "Website Content Width"
+msgstr "Širina sadržaja veb lokacije"
+
+#: ../functions.php:930
+msgid "Website Gutter Width"
+msgstr "Razmak između kolona veb lokacije"
+
+#: ../functions.php:947
+msgid "Use Custom Sidebar Width"
+msgstr ""
+
+#: ../functions.php:960
+msgid "Sidebar Width"
+msgstr "Širina bočne trake"
+
+#: ../functions.php:978 ../functions.php:996 ../functions.php:1014
+msgid "Section Height"
+msgstr "Visina odeljka"
+
+#: ../functions.php:1032 ../functions.php:1050 ../functions.php:1068
+msgid "Row Height"
+msgstr "Visina reda"
+
+#: ../functions.php:1086
+msgid "Stretch Background Image"
+msgstr "Razvuci sliku pozadine"
+
+#: ../functions.php:1093 ../functions.php:1748 ../functions.php:1819
+#: ../functions.php:1832 ../functions.php:2337 ../functions.php:2462
+#: ../functions.php:2668
+msgid "Background Color"
+msgstr "Boja pozadine"
+
+#: ../functions.php:1100
+msgid "Background Image"
+msgstr "Slika pozadine"
+
+#: ../functions.php:1106
+msgid "Background Repeat"
+msgstr "Ponavljanje pozadine"
+
+#: ../functions.php:1110
+msgid "No Repeat"
+msgstr "Bez ponavljanja"
+
+#: ../functions.php:1111
+msgid "Tile"
+msgstr "Razvučeno"
+
+#: ../functions.php:1112
+msgid "Tile Horizontally"
+msgstr "Horizontalno razvučeno"
+
+#: ../functions.php:1113
+msgid "Tile Vertically"
+msgstr "Vertikalno razvučeno"
+
+#: ../functions.php:1118 ../functions.php:1129
+msgid "Background Position"
+msgstr "Pozicija pozadine"
+
+#: ../functions.php:1122 ../functions.php:2626
+msgid "Left"
+msgstr "Levo"
+
+#: ../functions.php:1123
+msgid "Center"
+msgstr "Centar"
+
+#: ../functions.php:1124 ../functions.php:2625
+msgid "Right"
+msgstr "Desno"
+
+#: ../functions.php:1133
+msgid "Scroll"
+msgstr "Klizač"
+
+#: ../functions.php:1134
+msgid "Fixed"
+msgstr "Fiksno"
+
+#: ../functions.php:1146 ../functions.php:1182 ../functions.php:1200
+msgid "Body Text Size"
+msgstr "Veličina teksta tela"
+
+#: ../functions.php:1164
+msgid "Body Line Height"
+msgstr "Razmak linija u glavnom sadržaju"
+
+#: ../functions.php:1328
+msgid "Header Font"
+msgstr "Font zaglavlja"
+
+#: ../functions.php:1343
+msgid "Body Font"
+msgstr "Font tela teksta"
+
+#: ../functions.php:1359
+msgid "Body Link Color"
+msgstr "Boja veza teksta u telu"
+
+#: ../functions.php:1372
+msgid "Body Text Color"
+msgstr "Boja teksta u glavnom sadržaju"
+
+#: ../functions.php:1385
+msgid "Header Text Color"
+msgstr "Boja teksta zaglavlja"
+
+#: ../functions.php:1398
+msgid "Theme Accent Color"
+msgstr "Naglašena boja teme"
+
+#: ../functions.php:1416 ../functions.php:1436 ../functions.php:5474
+msgid "Default"
+msgstr "Podrazumevana vrednost"
+
+#: ../functions.php:1417
+msgid "Green"
+msgstr "Zelena"
+
+#: ../functions.php:1418
+msgid "Orange"
+msgstr "Narandžasta"
+
+#: ../functions.php:1419
+msgid "Pink"
+msgstr "Roze"
+
+#: ../functions.php:1420
+msgid "Red"
+msgstr "Crvena"
+
+#: ../functions.php:1432
+msgid "Header Style"
+msgstr "Stil zaglavlja"
+
+#: ../functions.php:1437
+msgid "Centered"
+msgstr "Centrirano"
+
+#: ../functions.php:1438
+msgid "Centered Inline Logo"
+msgstr "Centrirani umetnuti logotip"
+
+#: ../functions.php:1449
+msgid "Enable Vertical Navigation"
+msgstr "Aktiviraj vertikalnu navigaciju"
+
+#: ../functions.php:1461
+msgid "Hide Navigation Until Scroll"
+msgstr "Sakrij navijaciju do klizanja"
+
+#: ../functions.php:1473 ../functions.php:2045
+msgid "Show Social Icons"
+msgstr "Prikaži ikonice društvenih mreža"
+
+#: ../functions.php:1486
+msgid "Show Search Icon"
+msgstr "Prikaži ikonu za pretraživanje"
+
+#: ../functions.php:1498 ../functions.php:1619
+msgid "Make Full Width"
+msgstr "Učini je u potpunosti širokom"
+
+#: ../functions.php:1510 ../functions.php:1709 ../functions.php:1919
+msgid "Hide Logo Image"
+msgstr "Sakrij sliku logotipa"
+
+#: ../functions.php:1523
+msgid "Menu/Logo Height"
+msgstr "Meni/Visina logotipa"
+
+#: ../functions.php:1541 ../functions.php:1625 ../functions.php:1950
+#: ../functions.php:2431
+msgid "Text Size"
+msgstr "Veličina teksta"
+
+#: ../functions.php:1559 ../functions.php:1643 ../functions.php:2281
+#: ../functions.php:2524 ../functions.php:2712
+msgid "Letter Spacing"
+msgstr "Razmak između slova"
+
+#: ../functions.php:1578 ../functions.php:1662
+msgid "Font"
+msgstr "Font"
+
+#: ../functions.php:1594 ../functions.php:1678 ../functions.php:2299
+#: ../functions.php:2363
+msgid "Font Style"
+msgstr "Stil fonta"
+
+#: ../functions.php:1735
+msgid "Active Link Color"
+msgstr "Boja aktivne veze"
+
+#: ../functions.php:1761 ../functions.php:1858
+msgid "Dropdown Menu Background Color"
+msgstr "Boja pozadine padajućeg menija"
+
+#: ../functions.php:1774
+msgid "Dropdown Menu Line Color"
+msgstr "Boja linije padajućeg menija"
+
+#: ../functions.php:1787 ../functions.php:1871
+msgid "Dropdown Menu Text Color"
+msgstr "Boja teksta padajućeg menija"
+
+#: ../functions.php:1800 ../functions.php:1884
+msgid "Dropdown Menu Animation"
+msgstr "Animacija padajućeg menija"
+
+#: ../functions.php:1804 ../functions.php:1888
+msgid "Fade"
+msgstr "Postepeno pojavljivanje i iščezavanje"
+
+#: ../functions.php:1805 ../functions.php:1889
+msgid "Expand"
+msgstr "Razvij"
+
+#: ../functions.php:1806 ../functions.php:1890
+msgid "Slide"
+msgstr "Slajd"
+
+#: ../functions.php:1807 ../functions.php:1891
+msgid "Flip"
+msgstr "Preokreni"
+
+#: ../functions.php:1932
+msgid "Fixed Menu/Logo Height"
+msgstr "Fiksni meni/Visina logotipa"
+
+#: ../functions.php:1968
+msgid "Primary Menu Background Color"
+msgstr "Boja pozadine primarnog menija"
+
+#: ../functions.php:1981
+msgid "Secondary Menu Background Color"
+msgstr "Boja pozadine sekundarnog menija"
+
+#: ../functions.php:1994
+msgid "Menu Link Color"
+msgstr "Boja veza u meniju"
+
+#: ../functions.php:2007
+msgid "Active Menu Link Color"
+msgstr "Boja veze aktivnog menija"
+
+#: ../functions.php:2020
+msgid "Phone Number"
+msgstr "Broj telefona"
+
+#: ../functions.php:2032
+msgid "Email"
+msgstr "E-adresa"
+
+#: ../functions.php:2058
+msgid "Column Layout"
+msgstr "Raspored kolona"
+
+#: ../functions.php:2063 ../functions.php:2064 ../functions.php:2065
+#: ../functions.php:2067 ../functions.php:2068 ../functions.php:2069
+#: ../functions.php:2070 ../functions.php:2071 ../functions.php:2072
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s Kolone"
+
+#: ../functions.php:2066
+msgid "1 Column"
+msgstr "Jedna kolona"
+
+#: ../functions.php:2084
+msgid "Footer Background Color"
+msgstr "Boja pozadine podnožja stranice"
+
+#: ../functions.php:2134
+msgid "Body/Link Text Size"
+msgstr "Telo teksta/Veličina teksta veze"
+
+#: ../functions.php:2152
+msgid "Body/Link Line Height"
+msgstr "Telo teksta/Visina linije veze"
+
+#: ../functions.php:2170
+msgid "Body Font Style"
+msgstr "446 Stil fonta teksta u telu"
+
+#: ../functions.php:2189
+msgid "Widget Text Color"
+msgstr "Boja teksta vidžeta"
+
+#: ../functions.php:2202
+msgid "Widget Link Color"
+msgstr "Boja linka vidžeta"
+
+#: ../functions.php:2215
+msgid "Widget Header Color"
+msgstr "Boja zaglavlja vidžeta"
+
+#: ../functions.php:2228
+msgid "Widget Bullet Color"
+msgstr "Boja Dot vidžeta"
+
+#: ../functions.php:2242
+msgid "Footer Menu Background Color"
+msgstr "Boja pozadine menija podnožja stranice"
+
+#: ../functions.php:2255
+msgid "Footer Menu Text Color"
+msgstr "Boja teksta menija podnožja stranice"
+
+#: ../functions.php:2268
+msgid "Footer Menu Active Link Color"
+msgstr "Boja aktivne veze menija podnožja stranice"
+
+#: ../functions.php:2318 ../functions.php:2382
+msgid "Font Size"
+msgstr "Veličina fonta"
+
+#: ../functions.php:2400
+msgid "Social Icon Size"
+msgstr "Veličina ikone društvene mreže"
+
+#: ../functions.php:2418
+msgid "Social Icon Color"
+msgstr "Boja ikone društvene mreže"
+
+#: ../functions.php:2475
+msgid "Border Width"
+msgstr "Širina ivice"
+
+#: ../functions.php:2493 ../functions.php:2681
+msgid "Border Color"
+msgstr "Boja ivice"
+
+#: ../functions.php:2506 ../functions.php:2694
+msgid "Border Radius"
+msgstr "Radijus ivice"
+
+#: ../functions.php:2542 ../functions.php:5189
+msgid "Button Font Style"
+msgstr "Stil fonta tastera"
+
+#: ../functions.php:2562
+msgid "Buttons Font"
+msgstr "Font tastera"
+
+#: ../functions.php:2578
+msgid "Add Button Icon"
+msgstr "Dodaj ikonu tastera"
+
+#: ../functions.php:2582 ../functions.php:2642
+msgid "Yes"
+msgstr "Da"
+
+#: ../functions.php:2583 ../functions.php:2643
+msgid "No"
+msgstr "Ne"
+
+#: ../functions.php:2595
+msgid "Select Icon"
+msgstr "Izaberi ikonu"
+
+#: ../functions.php:2608
+msgid "Icon Color"
+msgstr "Boja ikone"
+
+#: ../functions.php:2621
+msgid "Icon Placement"
+msgstr "Položaj ikone"
+
+#: ../functions.php:2638
+msgid "Only Show Icon on Hover"
+msgstr "Prikaži ikonu samo pri zadržavanju pokazivača iznad"
+
+#: ../functions.php:2727
+msgid "Left to Right"
+msgstr "S leva na desno"
+
+#: ../functions.php:2728
+msgid "Right to Left"
+msgstr "S desna na levo"
+
+#: ../functions.php:2729
+msgid "Top to Bottom"
+msgstr "Od vrha ka dnu"
+
+#: ../functions.php:2730
+msgid "Bottom to Top"
+msgstr "Od dna ka vrhu"
+
+#: ../functions.php:2731
+msgid "Fade In"
+msgstr "Postepeno pojavljivanje"
+
+#: ../functions.php:2732
+msgid "No Animation"
+msgstr "Bez animacije"
+
+#: ../functions.php:2739 ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "Slika"
+
+#: ../functions.php:2740
+msgid "Image Module Settings"
+msgstr "Podešavanja modula slike"
+
+#: ../functions.php:2750
+msgid "Animation"
+msgstr "Animacija"
+
+#: ../functions.php:2751
+msgid "This controls default direction of the lazy-loading animation."
+msgstr "Ovo kontroliše podrazumevani pravac sporog-učitavanja animacije."
+
+#: ../functions.php:2761
+msgid "Gallery"
+msgstr "Galerija"
+
+#: ../functions.php:2774 ../functions.php:3601 ../functions.php:3715
+msgid "Zoom Icon Color"
+msgstr "Boja ikone za zumiranje"
+
+#: ../functions.php:2788 ../functions.php:3615 ../functions.php:3729
+msgid "Hover Overlay Color"
+msgstr "Boja preklopa pri zadržavanju pokazivača iznad"
+
+#: ../functions.php:2802 ../functions.php:2915 ../functions.php:3629
+#: ../functions.php:3743 ../functions.php:4030 ../functions.php:4116
+#: ../functions.php:4162 ../functions.php:4268
+msgid "Title Font Size"
+msgstr "Veličina fonta naslova"
+
+#: ../functions.php:2821 ../functions.php:2934 ../functions.php:3648
+#: ../functions.php:3762 ../functions.php:4049 ../functions.php:4135
+#: ../functions.php:4806 ../functions.php:4892
+msgid "Title Font Style"
+msgstr "Stil fonta naslova"
+
+#: ../functions.php:2841 ../functions.php:3668 ../functions.php:3782
+msgid "Caption Font Size"
+msgstr "Veličina fonta natpisa"
+
+#: ../functions.php:2860 ../functions.php:3687 ../functions.php:3801
+msgid "Caption Font Style"
+msgstr "Stil fonta natpisa"
+
+#: ../functions.php:2875
+msgid "Blurb"
+msgstr "Blurb tekst"
+
+#: ../functions.php:2888 ../functions.php:3001 ../functions.php:3192
+#: ../functions.php:3317 ../functions.php:3383 ../functions.php:3469
+#: ../functions.php:3535 ../functions.php:4373 ../functions.php:5123
+#: ../functions.php:5236
+msgid "Header Font Size"
+msgstr "Veličina fonta zaglavlja"
+
+#: ../functions.php:2902
+msgid "Tabs"
+msgstr "Kartice"
+
+#: ../functions.php:2955 ../functions.php:3356 ../functions.php:3508
+#: ../functions.php:3574
+msgid "Padding"
+msgstr "Unutrašnja margina"
+
+#: ../functions.php:2969
+msgid "Slider"
+msgstr "Klizač"
+
+#: ../functions.php:2982 ../functions.php:5217
+msgid "Top & Bottom Padding"
+msgstr "Unutrašnja margina pri vrhu i pri dnu"
+
+#: ../functions.php:3040 ../functions.php:5275
+msgid "Content Font Size"
+msgstr "Veličina fonta sadržaja"
+
+#: ../functions.php:3059 ../functions.php:5294
+msgid "Content Font Style"
+msgstr "Stil fonta sadržaja"
+
+#: ../functions.php:3074
+msgid "Testimonial"
+msgstr "Svedočanstva"
+
+#: ../functions.php:3087 ../functions.php:4701
+msgid "Name Font Style"
+msgstr "Stil fonta imena"
+
+#: ../functions.php:3107
+msgid "Details Font Style"
+msgstr "Stil fonta detalja"
+
+#: ../functions.php:3127
+msgid "Portrait Border Radius"
+msgstr "Radijus ivice portreta"
+
+#: ../functions.php:3179
+msgid "Pricing Table"
+msgstr "Cenovnik"
+
+#: ../functions.php:3231 ../functions.php:3422 ../functions.php:4721
+msgid "Subheader Font Size"
+msgstr "Veličina fonta podnaslova"
+
+#: ../functions.php:3250 ../functions.php:3441 ../functions.php:4740
+msgid "Subheader Font Style"
+msgstr "Stil fonta podnaslova"
+
+#: ../functions.php:3270 ../functions.php:5037
+msgid "Price Font Size"
+msgstr "Veličina fonta cene"
+
+#: ../functions.php:3289
+msgid "Pricing Font Style"
+msgstr "Stil fonta cenovnika"
+
+#: ../functions.php:3304
+msgid "Call To Action"
+msgstr "Poziv na akciju"
+
+#: ../functions.php:3370
+msgid "Audio"
+msgstr "Audio"
+
+#: ../functions.php:3456
+msgid "Subscribe"
+msgstr "Pretplatite se"
+
+#: ../functions.php:3588
+msgid "Portfolio"
+msgstr "Portfelj"
+
+#: ../functions.php:3702
+msgid "Filterable Portfolio"
+msgstr "Portfelj koji se može filtrirati"
+
+#: ../functions.php:3821
+msgid "Filters Font Size"
+msgstr "Veličina fonta filtera"
+
+#: ../functions.php:3840
+msgid "Filters Font Style"
+msgstr "Stil fonta filtera"
+
+#: ../functions.php:3855
+msgid "Bar Counter"
+msgstr "Traka u brojaču"
+
+#: ../functions.php:3868
+msgid "Label Font Size"
+msgstr "Veličina fonta oznake"
+
+#: ../functions.php:3887
+msgid "Label Font Style"
+msgstr "Stil fonta oznake"
+
+#: ../functions.php:3907
+msgid "Percent Font Size"
+msgstr "Veličina fonta procenta"
+
+#: ../functions.php:3926
+msgid "Percent Font Style"
+msgstr "Stil fonta procenta"
+
+#: ../functions.php:3946
+msgid "Bar Padding"
+msgstr "Popunjavanje trake"
+
+#: ../functions.php:3965
+msgid "Bar Border Radius"
+msgstr "Radijus ivice trake"
+
+#: ../functions.php:3979
+msgid "Circle Counter"
+msgstr "Kružni brojač"
+
+#: ../functions.php:3991 ../functions.php:4077
+msgid "Number Font Size"
+msgstr "Veličina fonta broja"
+
+#: ../functions.php:4010 ../functions.php:4096
+msgid "Number Font Style"
+msgstr "Stil fonta broja"
+
+#: ../functions.php:4064
+msgid "Number Counter"
+msgstr "Brojač oblika broja"
+
+#: ../functions.php:4150
+msgid "Accordion"
+msgstr "Harmonika"
+
+#: ../functions.php:4181 ../functions.php:4287
+msgid "Opened Title Font Style"
+msgstr "Stil fonta otvorenog naslova"
+
+#: ../functions.php:4201 ../functions.php:4307
+msgid "Closed Title Font Style"
+msgstr "Stil fonta zatvorenog naslova"
+
+#: ../functions.php:4221 ../functions.php:4327
+msgid "Toggle Icon Size"
+msgstr "Veličina ikone preklopnika"
+
+#: ../functions.php:4241 ../functions.php:4346
+msgid "Toggle Padding"
+msgstr "Popunjavanje preklopnika"
+
+#: ../functions.php:4255
+msgid "Toggle"
+msgstr "Preklopnik"
+
+#: ../functions.php:4360
+msgid "Contact Form"
+msgstr "Obrazac za kontakt"
+
+#: ../functions.php:4412
+msgid "Input Font Size"
+msgstr "Veličina fonta unosa"
+
+#: ../functions.php:4431
+msgid "Input Font Style"
+msgstr "Stil fonta unosa"
+
+#: ../functions.php:4451
+msgid "Input Field Padding"
+msgstr "Popunjavanje polja za unos"
+
+#: ../functions.php:4470
+msgid "Captcha Font Size"
+msgstr "Veličina “Captcha” fonta"
+
+#: ../functions.php:4489
+msgid "Captcha Font Style"
+msgstr "Stil “Captcha” fonta"
+
+#: ../functions.php:4504 ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Bočna traka"
+
+#: ../functions.php:4517
+msgid "Widget Header Font Size"
+msgstr "Veličina fonta zaglavlja vidžeta"
+
+#: ../functions.php:4536
+msgid "Widget Header Font Style"
+msgstr "Stil fonta zaglavlja vidžeta"
+
+#: ../functions.php:4556
+msgid "Remove Vertical Divider"
+msgstr "Ukloni vertikalni razdelnik"
+
+#: ../functions.php:4565
+msgid "Divider"
+msgstr "Razdelnik"
+
+#: ../functions.php:4577
+msgid "Show Divider"
+msgstr "Prikaži razdelnik"
+
+#: ../functions.php:4591
+msgid "Divider Style"
+msgstr "Stil razdelnika"
+
+#: ../functions.php:4596
+msgid "Solid"
+msgstr "Puna ivica"
+
+#: ../functions.php:4597
+msgid "Dotted"
+msgstr "Tačkasta ivica"
+
+#: ../functions.php:4598
+msgid "Dashed"
+msgstr "Isprekidana ivica"
+
+#: ../functions.php:4599
+msgid "Double"
+msgstr "Dvostruka ivica"
+
+#: ../functions.php:4600
+msgid "Groove"
+msgstr "Izdubljeno"
+
+#: ../functions.php:4601
+msgid "Ridge"
+msgstr "Ispupčene"
+
+#: ../functions.php:4602
+msgid "Inset"
+msgstr "Sa unutrašnje strane"
+
+#: ../functions.php:4603
+msgid "Outset"
+msgstr "Sa spoljašnje strane"
+
+#: ../functions.php:4616
+msgid "Divider Weight"
+msgstr "Visina razdelnika"
+
+#: ../functions.php:4635
+msgid "Divider Height"
+msgstr "Visina razdelnika"
+
+#: ../functions.php:4654
+msgid "Divider Position"
+msgstr "Pozicija razdelnika"
+
+#: ../functions.php:4659
+msgid "Top"
+msgstr "Vrh"
+
+#: ../functions.php:4660
+msgid "Vertically Centered"
+msgstr "Vertikalno pozicioniran"
+
+#: ../functions.php:4661
+msgid "Bottom"
+msgstr "Na dno"
+
+#: ../functions.php:4669
+msgid "Person"
+msgstr "Osoba"
+
+#: ../functions.php:4682
+msgid "Name Font Size"
+msgstr "Veličina fonta imena"
+
+#: ../functions.php:4760
+msgid "Social Network Icon Size"
+msgstr "Veličina ikone socijalne mreže"
+
+#: ../functions.php:4787 ../functions.php:4873
+msgid "Post Title Font Size"
+msgstr "Veličina fonta naslova objave"
+
+#: ../functions.php:4826 ../functions.php:4912
+msgid "Meta Font Size"
+msgstr "Veličina fonta meta podataka"
+
+#: ../functions.php:4860
+msgid "Masonry Blog"
+msgstr "Masonry blog"
+
+#: ../functions.php:4946
+msgid "Shop"
+msgstr "Prodavnica"
+
+#: ../functions.php:4959
+msgid "Product Name Font Size"
+msgstr "Veličina fonta imena proizvoda"
+
+#: ../functions.php:4978
+msgid "Product Name Font Style"
+msgstr "Stil fonta imena proizvoda"
+
+#: ../functions.php:4998
+msgid "Sale Badge Font Size"
+msgstr "Veličina fonta značke za rasprodaju"
+
+#: ../functions.php:5017
+msgid "Sale Badge Font Style"
+msgstr "Stil fonta značke za rasprodaju"
+
+#: ../functions.php:5056
+msgid "Price Font Style"
+msgstr "Stil fonta cene"
+
+#: ../functions.php:5076
+msgid "Sale Price Font Size"
+msgstr "Veličina fonta rasprodajne cene"
+
+#: ../functions.php:5095
+msgid "Sale Price Font Style"
+msgstr "Stil fonta rasprodajne cene"
+
+#: ../functions.php:5110
+msgid "Countdown"
+msgstr "Odbrojavanje"
+
+#: ../functions.php:5157
+msgid "Social Follow"
+msgstr "Pratioci na društvenim mrežama"
+
+#: ../functions.php:5170
+msgid "Follow Font & Icon Size"
+msgstr "Font i veličina ikona za praćenje preko društvenih mreža"
+
+#: ../functions.php:5204
+msgid "Full Width Slider"
+msgstr "Klizač pune širine"
+
+#: ../functions.php:7875
+msgid "0 comments"
+msgstr "0 Komentara"
+
+#: ../functions.php:7875
+msgid "1 comment"
+msgstr "1 Komentar"
+
+#: ../functions.php:7875
+msgid "comments"
+msgstr "Komentari"
+
+#: ../functions.php:8026
+msgid "No Gallery Found"
+msgstr ""
+
+#: ../functions.php:8028
+msgid "No items found"
+msgstr ""
+
+#: ../functions.php:8170
+msgid "Password Protected"
+msgstr "Zaštićeno lozinkom"
+
+#: ../functions.php:8171
+msgid "To view this protected post, enter the password below"
+msgstr "Da biste videli ovu zaštićenu objavu ukucajte lozinku ispod"
+
+#: ../functions.php:8174
+msgid "Password"
+msgstr "Šifra"
+
+#: ../functions.php:8175
+msgid "Submit"
+msgstr "Prosledi"
+
+#: ../functions.php:8347
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:8349
+msgid "Item"
+msgstr "Stavka"
+
+#: ../functions.php:8349
+msgid "Items"
+msgstr "Stavke"
+
+#: ../functions.php:8524
+msgid "Connecting..."
+msgstr "Uspostavljanje veze…"
+
+#: ../functions.php:8525
+msgid "Connection failed"
+msgstr "Uspostavljanje veze nije uspelo"
+
+#: ../functions.php:8526
+msgid "Removing connection..."
+msgstr "Uklanjanje veze…"
+
+#: ../functions.php:8527
+msgid "Done"
+msgstr "Završeno"
+
+#: ../functions.php:8556
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr ""
+"Prvi korak: <a href=\"%1$s\" target=\"_blank\">Generiši kod za autorizaciju</"
+"a>"
+
+#: ../functions.php:8557
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Drugi korak: Nalepite kôd za autorizaciju i kliknite dugme „Uspostavi vezu“: "
+
+#: ../functions.php:8558
+msgid "Make a connection"
+msgstr "Uspostavi vezu"
+
+#: ../functions.php:8561
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber je pravilno podešen. Ovde možete da uklonite vezu ukoliko želite."
+
+#: ../functions.php:8562
+msgid "Remove the connection"
+msgstr "Uklonite vezu"
+
+#: ../functions.php:8570
+msgid "Nonce failed."
+msgstr "Nonce nije uspeo."
+
+#: ../functions.php:8576
+msgid "Authorization code is empty."
+msgstr "Kod za autorizaciju je prazan"
+
+#: ../functions.php:8587
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"Kod za autorizaciju je nevažeći. Pokušajte da ga ponovo generišete i da "
+"nalepite  novi  kod."
+
+#: ../functions.php:8609
+msgid "Aweber API Exception"
+msgstr "Aweber API izuzetak"
+
+#: ../functions.php:8611
+msgid "Message"
+msgstr "Poruka"
+
+#: ../functions.php:8622
+msgid "Nonce failed"
+msgstr "Nonce nije uspeo"
+
+#: ../functions.php:8717
+msgid "Read more"
+msgstr "Opširnije"
+
+#: ../functions.php:8845
+msgid "Configuration error"
+msgstr "Greška u konfiguraciji"
+
+#: ../functions.php:8855
+msgid "Please enter first name"
+msgstr "Molimo unesite ime"
+
+#: ../functions.php:8857
+msgid "Incorrect email"
+msgstr "Netačna e-adresa"
+
+#: ../functions.php:8859
+msgid "Configuration error: List is not defined"
+msgstr "Greška u konfiguraciji: Lista nije definisana"
+
+#: ../functions.php:8861
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Pretplatili ste se – potražite e-poruku  "
+"potvrde!</h2>"
+
+#: ../functions.php:8873
+msgid "Configuration error: api key is not defined"
+msgstr "Greška u konfiguraciji: API šifra nije definisana"
+
+#: ../functions.php:8910
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: Pogrešni podaci konfiguracije"
+
+#: ../functions.php:8940 ../functions.php:8961
+msgid "Theme Customizer"
+msgstr "Program za prilagođavanje tema"
+
+#: ../functions.php:8941 ../functions.php:8971
+msgid "Module Customizer"
+msgstr "Program za prilagođavanje modula"
+
+#: ../functions.php:8942
+msgid "Divi Library"
+msgstr "Divi biblioteka"
+
+#: ../header.php:176
+msgid "Search &hellip;"
+msgstr "Pretraga &hellip;"
+
+#: ../header.php:178
+msgid "Search for:"
+msgstr "Pretraži:"
+
+#. translators: 1: date, 2: time
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr "na %1$s pri %2$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Uredi)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Odgovori"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čeka na moderaciju."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Pročitajte Divi dokumentaciju"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "Oblast podnožja"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Gledaj video uputstva"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Stariji unosi"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Sledeći unosi &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Nema pronađenih rezultata"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Stranica koju  ste tražili nije pronađena. Pokušajte da suzite pretragu, ili "
+"koristite navigaciju iznad kako biste pronašli objavu."
+
+#: ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Prikaži informacije o meni"
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "Vidžet „O meni“"
+
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "O meni"
+
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "Naslov"
+
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "Tekst"
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Prikaži oglase"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "Oglas"
+
+#: ../includes/widgets/widget-ads.php:12
+#: ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "Oglas"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "Koristi putanje relativne slike"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "Otvori u novom prozoru"
+
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236
+#: ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "Reklamni natpis"
+
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "URL"
+
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "Alternativni tekst"
+
+#: ../includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr ""
+"Ako ne želite da prikažete neke reklamne natpise – ostavite prikladna polja "
+"prazna"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Prikaži Adsense oglase"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "Adsense vidžet"
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Adsense šifra"
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:105
+msgid "Pages:"
+msgstr "Stranice:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">Divi Documentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Dobrodošli u Divi! Pre nego šro uronite u svoju novu temu posetite <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> stranicu za pristup "
+#~ "desetinama opširnih uputstava."
+
+#~ msgid "%1$s Font"
+#~ msgstr "%1$s font"
+
+#~ msgid "%1$s Font Size"
+#~ msgstr "%1$s veličina fonta"
+
+#~ msgid "%1$s Text Color"
+#~ msgstr "%1$s boja teksta"
+
+#~ msgid "%1$s Letter Spacing"
+#~ msgstr "%1$s razmak između slova"
+
+#~ msgid "%1$s Line Height"
+#~ msgstr "%1$s visina redova"
+
+#~ msgid "%1$s All Caps"
+#~ msgstr "%1$s sve velikim slovima"
+
+#~ msgid "Use Border"
+#~ msgstr "Koristi ivicu"
+
+#~ msgid "Border Style"
+#~ msgstr "Stil ivice"
+
+#~ msgid "Custom Margin"
+#~ msgstr "Prilagođena margina"
+
+#~ msgid "Custom Padding"
+#~ msgstr "Prilagođena unutrašnja margina"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "Koristi prilagođene stilove za taster"
+
+#~ msgid "Button Text Size"
+#~ msgstr "Veličina teksta tastera"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Boja teksta tastera"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Pozadinska boja tastera"
+
+#~ msgid "Button Border Width"
+#~ msgstr "Širina ivice tastera"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Boja ivice tastera"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Radijus ivice tastera"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "Razmak između slova na tasteru"
+
+#~ msgid "Button Font"
+#~ msgstr "Font teksta tastera"
+
+#~ msgid "Button Icon"
+#~ msgstr "Ikona tastera"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "Boja ikone tastera"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "Pokaži ikonu samo pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "Boja teksta tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Pozadinska boja tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Boja ivice tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "Radijus ivice tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "Razmak između slova tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Before"
+#~ msgstr "Pre"
+
+#~ msgid "Main Element"
+#~ msgstr "Glavni elemenat"
+
+#~ msgid "After"
+#~ msgstr "Posle"
+
+#~ msgid "Choose Custom Color"
+#~ msgstr "Izaberi prilagođenu boju"
+
+#~ msgid "Upload"
+#~ msgstr "Otpremi"
+
+#~ msgid "Choose image"
+#~ msgstr "Izaberi sliku"
+
+#~ msgid "Set image"
+#~ msgstr "Postavi sliku"
+
+#~ msgid "Advanced Design Settings"
+#~ msgstr "Napredna podešavanja dizajna"
+
+#~ msgid "Add New %s"
+#~ msgstr "Dodaj novi %s"
+
+#~ msgid "%1$s %2$s Settings"
+#~ msgstr "%1$s %2$s podešavanja"
+
+#~ msgid "Column"
+#~ msgstr "Kolona"
+
+#~ msgid "Modules"
+#~ msgstr "Moduli"
+
+#~ msgid "Rows"
+#~ msgstr "Redovi"
+
+#~ msgid "Sections"
+#~ msgstr "Odeljci"
+
+#~ msgid "Global/not Global"
+#~ msgstr "Globalni/ne globalni"
+
+#~ msgid "Global"
+#~ msgstr "Globalni"
+
+#~ msgid "not Global"
+#~ msgstr "Ne globalni"
+
+#~ msgid "Justified"
+#~ msgstr "Obostrano poravnato"
+
+#~ msgid "Export Divi Builder Layouts"
+#~ msgstr "Izvezi rasporede Divi izrade"
+
+#~ msgid "Select Templates you want to export:"
+#~ msgstr "Izaberi predloške koje želiš da izvezeš:"
+
+#~ msgid "Export Divi Layouts"
+#~ msgstr "Izvezi Divi rasporede"
+
+#~ msgid "Manage Categories"
+#~ msgstr "Upravljaj kategorijama"
+
+#~ msgid "Use The Divi Builder"
+#~ msgstr "Koristi Divi izrađivač"
+
+#~ msgid ""
+#~ "You have not saved any items to your Divi Library yet. Once an item has "
+#~ "been saved to your library, it will appear here for easy use."
+#~ msgstr ""
+#~ "Još uvek niste sačuvali nijednu stavku u vašu Divi biblioteku. Jednom "
+#~ "kada stavka bude sačuvana u vašu biblioteku, pojaviće se ovde zarad lakog "
+#~ "korišćenja."
+
+#~ msgid "No available options for this configuration."
+#~ msgstr "Nema slobodnih opcija za ovu konfiguraciju."
+
+#~ msgid ""
+#~ "You're about to update global module. This change will be applied to all "
+#~ "pages where you use this module. Press OK if you want to update this "
+#~ "module"
+#~ msgstr ""
+#~ "Samo što niste ažurirali grobalni modul. Ova promena će biti primenjena "
+#~ "na sve stranice gde koristite ovaj modul. Pritisnite U REDU ako želite da "
+#~ "ažurirate ovaj modul."
+
+#~ msgid "You cannot add global rows into global sections"
+#~ msgstr "Ne možete da dodate globalne redove u globalne odeljke"
+
+#~ msgid "You cannot add global modules into global sections or rows"
+#~ msgstr "Ne možete da dodate globalne module u globalne sekcije ili redove"
+
+#~ msgid "The Divi Builder"
+#~ msgstr "Divi izrađivač"
+
+#~ msgid "Save to Library"
+#~ msgstr "Sačuvaj u biblioteku"
+
+#~ msgid "Load From Library"
+#~ msgstr "Učitaj iz biblioteke"
+
+#~ msgid "Standard Section"
+#~ msgstr "Standardni odeljak"
+
+#~ msgid "Fullwidth Section"
+#~ msgstr "Odeljak pune širine"
+
+#~ msgid "Specialty Section"
+#~ msgstr "Poseban odeljak"
+
+#~ msgid "Add From Library"
+#~ msgstr "Dodaj iz biblioteke"
+
+#~ msgid "Change Structure"
+#~ msgstr "Promeni strukturu"
+
+#~ msgid "Remove Module"
+#~ msgstr "Ukloni modul"
+
+#~ msgid "Save & Add To Library"
+#~ msgstr "Sačuvaj i dodaj u biblioteku"
+
+#~ msgid "Cancel"
+#~ msgstr "Otkaži"
+
+#~ msgid "Save & Exit"
+#~ msgstr "Sačuvaj i izađi"
+
+#~ msgid "New Row"
+#~ msgstr "Novi red"
+
+#~ msgid "New Module"
+#~ msgstr "Novi modul"
+
+#~ msgid "Predefined Layouts"
+#~ msgstr "Unapred definisani rasporedi"
+
+#~ msgid "Disable Builder"
+#~ msgstr "Onemogući izradu"
+
+#~ msgid ""
+#~ "All content created in the Divi Builder will be lost. Previous content "
+#~ "will be restored."
+#~ msgstr ""
+#~ "Sav sadržaj napravljen u Divi izrađivaču će biti izgubljen. Prethodni "
+#~ "sadržaj će biti vraćen u pređašnje stanje."
+
+#~ msgid "Do you wish to proceed?"
+#~ msgstr "Da li želite da nastavite?"
+
+#~ msgid "All of your current page content will be lost."
+#~ msgstr "Sav vaš sadržaj stranice će biti izgubljen."
+
+#~ msgid "All advanced module settings in will be lost."
+#~ msgstr "Svo napredno podešavanje modula će biti izgubljeno."
+
+#~ msgid "Save To Library"
+#~ msgstr "Sačuvaj u biblioteku"
+
+#~ msgid "Save your current page to the Divi Library for later use."
+#~ msgstr ""
+#~ "Sačuvajte vašu važeću stranicu u Divi biblioteku, zarad kasnije upotrebe."
+
+#~ msgid "Layout Name:"
+#~ msgstr "Ime rasporeda:"
+
+#~ msgid "Save And Add To Library"
+#~ msgstr "Sačuvaj i dodaj u biblioteku"
+
+#~ msgid "Add To Categories:"
+#~ msgstr "Dodaj u kategorije:"
+
+#~ msgid "Create New Category"
+#~ msgstr "Napravi novu kategoriju"
+
+#~ msgid ""
+#~ "Here you can save the current item and add it to your Divi Library for "
+#~ "later use as well."
+#~ msgstr ""
+#~ "Ovde možete sačuvati važeću stavku i dodati je vašoj Divi biblioteci "
+#~ "takođe zarad kasnijeg korišćenja."
+
+#~ msgid "Template Name"
+#~ msgstr "Ime predloška"
+
+#~ msgid "Selective Sync"
+#~ msgstr "Selektivna sinhronizacija"
+
+#~ msgid "Include General settings"
+#~ msgstr "Uključi opšte postavke"
+
+#~ msgid "Include Advanced Design settings"
+#~ msgstr "Uključi napredne postavke dizajna"
+
+#~ msgid "Include Custom CSS"
+#~ msgstr "Uključi prilagođeni CSS"
+
+#~ msgid "Please select at least 1 tab to save"
+#~ msgstr "Izaberite najmanje jednu karticu za čuvanje"
+
+#~ msgid "Save as Global:"
+#~ msgstr "Sačuvaj kao globalni:"
+
+#~ msgid "Make this a global item"
+#~ msgstr "Napravi od ovoga globalnu stavku"
+
+#~ msgid "Scope"
+#~ msgstr "Obim"
+
+#~ msgid "Layout Type"
+#~ msgstr "Tip rasporeda"
+
+#~ msgid "Module Width"
+#~ msgstr "Širina modula"
+
+#~ msgid "New Template Settings"
+#~ msgstr "Podešavanja novog predloška"
+
+#~ msgid "Template Name:"
+#~ msgstr "Ime predloška:"
+
+#~ msgid "Template Type:"
+#~ msgstr "Tip predloška:"
+
+#~ msgid "Full Width Module"
+#~ msgstr "Modul pune širine"
+
+#~ msgid "Row"
+#~ msgstr "Red"
+
+#~ msgid "Section"
+#~ msgstr "Odeljak"
+
+#~ msgid "Include General Settings"
+#~ msgstr "Uključi opšte postavke"
+
+#~ msgid "Include Advanced Design Settings"
+#~ msgstr "Uključi napredne postavke dizajna"
+
+#~ msgid ""
+#~ "Select category(ies) for new template or type a new name ( optional )"
+#~ msgstr ""
+#~ "Sačuvaj kategorij(u)e za novi predložak ili ukucaj novo ime (opcionalno)"
+
+#~ msgid "Open in Lightbox"
+#~ msgstr "Otvori u Lajtboksu"
+
+#~ msgid "Image Alignment"
+#~ msgstr "Poravnjanje slike"
+
+#~ msgid "Here you can choose the image alignment."
+#~ msgstr "Ovde možete izabrati poravnjanje slike."
+
+#~ msgid "Image Max Width"
+#~ msgstr "Maksimalna širina slike"
+
+#~ msgid "Force Fullwidth"
+#~ msgstr "Učini je u potpunosti širokom"
+
+#~ msgid "Always Center Image On Mobile"
+#~ msgstr "Uvek centriraj sliku na mobilnom uređaju"
+
+#~ msgid "Gallery Item"
+#~ msgstr "Stavka u galeriji"
+
+#~ msgid "Overlay"
+#~ msgstr "Preklapanje"
+
+#~ msgid "Overlay Icon"
+#~ msgstr "Ikona koja preklapa"
+
+#~ msgid "Gallery Item Title"
+#~ msgstr "Ime stavke u galeriji"
+
+#~ msgid "Caption Font"
+#~ msgstr "Font natpisa"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "Boja fonta natpisa"
+
+#~ msgid "Hover Icon Picker"
+#~ msgstr "Birač ikone pri zadržavanju pokazivača iznad"
+
+#~ msgid "Video Icon"
+#~ msgstr "Ikona video snimka"
+
+#~ msgid "Play Icon Color"
+#~ msgstr "Boja ikone za reprodukovanje"
+
+#~ msgid "Play Button"
+#~ msgstr "Taster za reprodukovanje"
+
+#~ msgid "Thumbnail Item"
+#~ msgstr "Sličica"
+
+#~ msgid "Thumbnail Overlay Color"
+#~ msgstr "Preklapajuća boja sličice"
+
+#~ msgid "Line Height"
+#~ msgstr "Visina linije"
+
+#~ msgid "Use Border Color"
+#~ msgstr "Koristi boju ivice"
+
+#~ msgid "Max Width"
+#~ msgstr "Maksimalna širina"
+
+#~ msgid "Header"
+#~ msgstr "Zaglavlje"
+
+#~ msgid "Body"
+#~ msgstr "Telo"
+
+#~ msgid "Blurb Image"
+#~ msgstr "Slika paragrafa"
+
+#~ msgid "Blurb Title"
+#~ msgstr "Naziv paragrafa"
+
+#~ msgid "Blurb Content"
+#~ msgstr "Sadržaj paragrafa"
+
+#~ msgid "Use Icon Font Size"
+#~ msgstr "Koristi veličinu fonta ikone"
+
+#~ msgid "Icon Font Size"
+#~ msgstr "Veličina fonta ikone"
+
+#~ msgid "Tabs Controls"
+#~ msgstr "Postavke kartica"
+
+#~ msgid "Active Tab"
+#~ msgstr "Aktivna kartica"
+
+#~ msgid "Active Tab Background Color"
+#~ msgstr "Pozadinska boja aktivne kartice"
+
+#~ msgid "Inactive Tab Background Color"
+#~ msgstr "Pozadinska boja neaktivne kartice"
+
+#~ msgid "Slide Description"
+#~ msgstr "Opis slajda"
+
+#~ msgid "Slide Title"
+#~ msgstr "Naziv slajda"
+
+#~ msgid "Slide Button"
+#~ msgstr "Taster slajda"
+
+#~ msgid "Slide Controllers"
+#~ msgstr "Kontroleri slajda"
+
+#~ msgid "Slide Active Controller"
+#~ msgstr "Upravljač aktivnog slajda"
+
+#~ msgid "Use Parallax effect"
+#~ msgstr "Koristi Paralaksa efekat"
+
+#~ msgid "Remove Inner Shadow"
+#~ msgstr "Ukloni unutrašnju senku"
+
+#~ msgid "Top Padding"
+#~ msgstr "Gornja unutrašnja margina"
+
+#~ msgid "Bottom Padding"
+#~ msgstr "Donja unutrašnja margina"
+
+#~ msgid "Hide Content On Mobile"
+#~ msgstr "Sakrij sadržaj na mobilnom uređaju"
+
+#~ msgid "Hide CTA On Mobile"
+#~ msgstr "Sakrij CTA na mobilnom uređaju"
+
+#~ msgid "Show Image / Video On Mobile"
+#~ msgstr "Prikaži sliku / video snimak na mobilnom uređaju"
+
+#~ msgid "Arrows Custom Color"
+#~ msgstr "Prilagođena boja strelica"
+
+#~ msgid "Dot Nav Custom Color"
+#~ msgstr "Prilagođena boja Dot navigacije"
+
+#~ msgid "Testimonial Portrait"
+#~ msgstr "Portret izjavnog teksta"
+
+#~ msgid "Testimonial Description"
+#~ msgstr "Opis izjavnog teksta"
+
+#~ msgid "Testimonial Author"
+#~ msgstr "Autor izjavnog teksta"
+
+#~ msgid "Testimonial Meta"
+#~ msgstr "Meta podaci izjavnog teksta"
+
+#~ msgid "Body Text Font"
+#~ msgstr "Font teksta u glavnom sadržaju"
+
+#~ msgid "Body Font Size"
+#~ msgstr "Veličina fonta u glavnom sadržaju"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "Razmak slova u glavnom sadržaju"
+
+#~ msgid "Quote Icon Color"
+#~ msgstr "Boja ikone citata"
+
+#~ msgid "Portrait Width"
+#~ msgstr "Širina portreta"
+
+#~ msgid "Portrait Height"
+#~ msgstr "Visina portreta"
+
+#~ msgid "Pricing Tables"
+#~ msgstr "Cenovnici"
+
+#~ msgid "Pricing Heading"
+#~ msgstr "Podnaslov važećeg cenovnika"
+
+#~ msgid "Pricing Title"
+#~ msgstr "Naslov cenovnika"
+
+#~ msgid "Pricing Top"
+#~ msgstr "Vrh cenovnika"
+
+#~ msgid "Pricing Content"
+#~ msgstr "Sadržaj cenovnika"
+
+#~ msgid "Pricing Button"
+#~ msgstr "Taster za kupovinu"
+
+#~ msgid "Featured Table"
+#~ msgstr "Istaknuta tabela"
+
+#~ msgid "Subheader"
+#~ msgstr "Podnaslov"
+
+#~ msgid "Featured Table Background Color"
+#~ msgstr "Pozadinska boja istaknute tabele"
+
+#~ msgid "Table Header Background Color"
+#~ msgstr "Pozadinska boja zaglavlja tabele"
+
+#~ msgid "Featured Table Header Background Color"
+#~ msgstr "Pozadinska boja zaglavlja istaknute tabele"
+
+#~ msgid "Featured Table Header Text Color"
+#~ msgstr "Boja teksta zaglavlja istaknute tabele"
+
+#~ msgid "Featured Table Subheader Text Color"
+#~ msgstr "Boja teksta podnaslova istaknute tabele"
+
+#~ msgid "Featured Table Price Color"
+#~ msgstr "Boja cene na istaknutoj tabeli"
+
+#~ msgid "Featured Table Body Text Color"
+#~ msgstr "Boja teksta glavnog sadržaja istaknute tabele"
+
+#~ msgid "Show Bullet"
+#~ msgstr "Prikaži tačke"
+
+#~ msgid "Bullet Color"
+#~ msgstr "Boja tačaka"
+
+#~ msgid "Featured Table Bullet Color"
+#~ msgstr "Boja tačaka istaknute tabele"
+
+#~ msgid "Remove Featured Table Drop Shadow"
+#~ msgstr "Ukloni padajuću senku sa istaknute tabele"
+
+#~ msgid "Center List Items"
+#~ msgstr "Centriraj listu stavki"
+
+#~ msgid "Promo Description"
+#~ msgstr "Opis"
+
+#~ msgid "Promo Button"
+#~ msgstr "Taster"
+
+#~ msgid "Audio Cover Art"
+#~ msgstr "Slika audio datoteke"
+
+#~ msgid "Audio Content"
+#~ msgstr "Sadržaj audio datoteke"
+
+#~ msgid "Audio Meta"
+#~ msgstr "Meta podaci audio datoteke"
+
+#~ msgid "Signup"
+#~ msgstr "Registrovanje"
+
+#~ msgid "Newsletter Description"
+#~ msgstr "Opis biltena"
+
+#~ msgid "Newsletter Form"
+#~ msgstr "Obrazac za prijavljivanje na bilten"
+
+#~ msgid "Newsletter Button"
+#~ msgstr "Taster biltena"
+
+#~ msgid "Form Field Background Color"
+#~ msgstr "Pozadinska boja polja obrasca"
+
+#~ msgid "Form Field Text Color"
+#~ msgstr "Boja teksta unutar polja obrasca"
+
+#~ msgid "Focus Background Color"
+#~ msgstr "Pozadinska boja dela polja na koji se kliknulo"
+
+#~ msgid "Focus Text Color"
+#~ msgstr "Boja teksta na koji se kliknulo"
+
+#~ msgid "Use Focus Border Color"
+#~ msgstr "Koristi boju ivice za polje na koje se kliknulo"
+
+#~ msgid "Focus Border Color"
+#~ msgstr "Boja ivice polja na koje se kliknulo"
+
+#~ msgid "Portfolio Image"
+#~ msgstr "Slika portfolija"
+
+#~ msgid "Portfolio Post Meta"
+#~ msgstr "Opisni tekst portfolija"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Portfolio Filters"
+#~ msgstr "Filteri portfolija"
+
+#~ msgid "Active Portfolio Filter"
+#~ msgstr "Aktivni filter portfolija"
+
+#~ msgid "Counter Title"
+#~ msgstr "Naziv brojača"
+
+#~ msgid "Counter Container"
+#~ msgstr "Kontejner brojača"
+
+#~ msgid "Counter Amount"
+#~ msgstr "Brojevi brojača"
+
+#~ msgid "Use Percentages"
+#~ msgstr "Koristi procente"
+
+#~ msgid "Bar Top Padding"
+#~ msgstr "Gornja unutrašnja margina polja trake"
+
+#~ msgid "Bar Bottom Padding"
+#~ msgstr "Donja unutrašnja margina polja trake"
+
+#~ msgid "Label Color"
+#~ msgstr "Boja teksta oznake"
+
+#~ msgid "Percentage Color"
+#~ msgstr "Boja procenata"
+
+#~ msgid "Circle Counter Title"
+#~ msgstr "Naslov kružnog brojača"
+
+#~ msgid "Circle Color Opacity"
+#~ msgstr "Zatamnjenost boje kruga"
+
+#~ msgid "Number Counter Title"
+#~ msgstr "Naslov brojevnog brojača"
+
+#~ msgid "Open Toggle"
+#~ msgstr "Otvori preklopnik"
+
+#~ msgid "Toggle Title"
+#~ msgstr "Naslov preklopnika"
+
+#~ msgid "Toggle Icon"
+#~ msgstr "Ikona preklopnika"
+
+#~ msgid "Toggle Content"
+#~ msgstr "Sadržaj preklopnika"
+
+#~ msgid "Open Toggle Background Color"
+#~ msgstr "Pozadinska boja otvorenog preklopnika"
+
+#~ msgid "Closed Toggle Background Color"
+#~ msgstr "Pozadinska boja zatvorenog preklopnika"
+
+#~ msgid "Open Toggle Text Color"
+#~ msgstr "Boja teksta otvorenog preklopnika"
+
+#~ msgid "Closed Toggle Text Color"
+#~ msgstr "Boja teksta zatvorenog preklopnika"
+
+#~ msgid "Form Field"
+#~ msgstr "Polje obrasca"
+
+#~ msgid "Contact Title"
+#~ msgstr "Naslov kontakta"
+
+#~ msgid "Contact Button"
+#~ msgstr "Taster za kontakt"
+
+#~ msgid "Form Background Color"
+#~ msgstr "Pozadinska boja obrasca"
+
+#~ msgid "Input Border Radius"
+#~ msgstr "Radijus ivice polja za unos"
+
+#~ msgid "Widget"
+#~ msgstr "Vidžet"
+
+#~ msgid "Remove Border Separator"
+#~ msgstr "Ukloni ivični razdelnik"
+
+#~ msgid "Define how much space should be added below the divider."
+#~ msgstr "Definišite koliko prostora treba da se doda ispod razdelnika."
+
+#~ msgid "Hide On Mobile"
+#~ msgstr "Sakrij na mobilnom uređaju"
+
+#~ msgid "Member Image"
+#~ msgstr "Slika člana"
+
+#~ msgid "Member Description"
+#~ msgstr "Opis člana"
+
+#~ msgid "Member Position"
+#~ msgstr "Pozicija člana"
+
+#~ msgid "Member Social Links"
+#~ msgstr "Veze ka društvenim mrežama člana"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "Boja ikone pri zadržavanju pokazivača iznad"
+
+#~ msgid "Meta"
+#~ msgstr "Meta podaci"
+
+#~ msgid "Post Meta"
+#~ msgstr "Meta podaci objave"
+
+#~ msgid "Pagenavi"
+#~ msgstr "Navigacija po stranici"
+
+#~ msgid "Grid Tile Background Color"
+#~ msgstr "Pozadinska boja mreže pločica"
+
+#~ msgid "Use Dropshadow"
+#~ msgstr "Koristi padajuću senku"
+
+#~ msgid "Product"
+#~ msgstr "Proizvod"
+
+#~ msgid "Onsale"
+#~ msgstr "Na rasprodaji"
+
+#~ msgid "Rating"
+#~ msgstr "Rejting"
+
+#~ msgid "default"
+#~ msgstr "podrazumevana vrednost"
+
+#~ msgid "Choose how many columns to display."
+#~ msgstr "Izaberi koliko kolona želiš da bude prikazano."
+
+#~ msgid "Sale Badge Color"
+#~ msgstr "Boja značke za rasprodaju"
+
+#~ msgid "Numbers"
+#~ msgstr "Brojevi"
+
+#~ msgid "Label"
+#~ msgstr "Oznaka"
+
+#~ msgid "Container"
+#~ msgstr "Kontejner"
+
+#~ msgid "Timer Section"
+#~ msgstr "Odeljak vremenskog brojača"
+
+#~ msgid "Pin"
+#~ msgstr "Zakačka"
+
+#~ msgid "Use Grayscale Filter"
+#~ msgstr "Koristi filter skale sivih tonova"
+
+#~ msgid "Grayscale Filter Amount (%)"
+#~ msgstr "Količina filtera skale sivih tonova (%)"
+
+#~ msgid "Social Icon"
+#~ msgstr "Ikonica društvene mreže"
+
+#~ msgid "Here you can choose whether or not display the Post Title."
+#~ msgstr "Ovde možete izabrati da li da bude prikazan ili ne naslov objave."
+
+#~ msgid "Show Meta"
+#~ msgstr "Prikaži meta podatke"
+
+#~ msgid "Here you can choose whether or not display the Post Meta"
+#~ msgstr ""
+#~ "Ovde možete izabrati da li da budu prikazani ili ne meta podaci objave"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Author Name in Post Meta"
+#~ msgstr ""
+#~ "Ovde možete izabrati da li da bude prikazano ili ne ime autora u meta "
+#~ "podacima objave"
+
+#~ msgid "Here you can choose whether or not display the Date in Post Meta"
+#~ msgstr ""
+#~ "Ovde možete izabrati da li da bude prikazan ili ne datum u meta podacima "
+#~ "objave"
+
+#~ msgid "Date Format"
+#~ msgstr "Format datuma"
+
+#~ msgid ""
+#~ "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+#~ msgstr ""
+#~ "Ovde možete odrediti format datuma u meta podacima objave. Podrazumevano "
+#~ "je 'M j, Y'"
+
+#~ msgid "Show Post Categories"
+#~ msgstr "Prikaži kategorije objave"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Categories in Post Meta. "
+#~ "Note: This option doesn't work with custom post types."
+#~ msgstr ""
+#~ "Ovde možete izabrati da li da budu prikazane ili ne kategorije u meta "
+#~ "podacima objave. Napomena: Ova opcija ne radi u objavama prilagođenog "
+#~ "tipa."
+
+#~ msgid "Show Comments Count"
+#~ msgstr "Prikaži brojač komentara"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Comments Count in Post "
+#~ "Meta."
+#~ msgstr ""
+#~ "Ovde možete izabrati da li da bude prikazan ili ne brojač komentara u "
+#~ "meta podacima objave."
+
+#~ msgid "Here you can choose whether or not display the Featured Image"
+#~ msgstr "Ovde možete izabrati da li da istaknuta slika bude prikazana ili ne"
+
+#~ msgid "Featured Image Placement"
+#~ msgstr "296: Položaj istaknute slike"
+
+#~ msgid "Below Title"
+#~ msgstr "Ispod naslova"
+
+#~ msgid "Above Title"
+#~ msgstr "Iznad naslova"
+
+#~ msgid "Title/Meta Background Image"
+#~ msgstr "Pozadinska slika naslova"
+
+#~ msgid "Here you can choose where to place the Featured Image"
+#~ msgstr "Ovde možete izabrati gde da smestite istaknutu sliku."
+
+#~ msgid ""
+#~ "Here you can choose whether or not use parallax effect for the featured "
+#~ "image"
+#~ msgstr ""
+#~ "Ovde možete izabrati da li da koristite ili ne paralaksa efekat za "
+#~ "istaknutu sliku."
+
+#~ msgid "Parallax Method"
+#~ msgstr "Paralaksa metod"
+
+#~ msgid ""
+#~ "Here you can choose which parallax method to use for the featured image"
+#~ msgstr ""
+#~ "Ovde možete izabrati koji paralaksa metod će se koristiti za istaknutu "
+#~ "sliku"
+
+#~ msgid "Here you can choose the orientation for the Title/Meta text"
+#~ msgstr "Ovde možete izabrati orijentaciju za tekst naslova"
+
+#~ msgid "Here you can choose the color for the Title/Meta text"
+#~ msgstr "Ovde možete izabrati boju za tekst naslova"
+
+#~ msgid "Use Text Background Color"
+#~ msgstr "Koristi pozadinsku boju teksta"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use the background color for the Title/"
+#~ "Meta text"
+#~ msgstr ""
+#~ "Ovde možete izabrati da li da se koristi ili ne boja pozadine za naslov "
+#~ "teksta"
+
+#~ msgid "Text Background Color"
+#~ msgstr "Boja pozadine teksta"
+
+#~ msgid "Title Styling"
+#~ msgstr "Stil naslova"
+
+#~ msgid "Subhead Styling"
+#~ msgstr "Stil podnaslova"
+
+#~ msgid "Content Styling"
+#~ msgstr "Stil sadržaja"
+
+#~ msgid "Button Styling"
+#~ msgstr "Stil tastera"
+
+#~ msgid "Text & Logo Orientation"
+#~ msgstr "Orijentacija teksta i logotipa"
+
+#~ msgid "Make Fullscreen"
+#~ msgstr "Razvij preko celog ekrana"
+
+#~ msgid ""
+#~ "Here you can choose whether the header is expanded to fullscreen size."
+#~ msgstr ""
+#~ "Ovde možete izabrati da li se zaglavlje proširuje na veličinu celog "
+#~ "ekrana."
+
+#~ msgid "Show Scroll Down Button"
+#~ msgstr "Prikaži taster klizača nadole"
+
+#~ msgid "Here you can choose whether the scroll down button is shown."
+#~ msgstr "Ovde možete izabrati da li će taster klizača na dole biti prikazan."
+
+#~ msgid "Choose an icon to display for the scroll down button."
+#~ msgstr "Izaberi ikonicu kako bi prikazao taster klizača nadole"
+
+#~ msgid "Scroll Down Icon Color"
+#~ msgstr "Boja ikonice klizača nadole"
+
+#~ msgid "Scroll Down Icon Size"
+#~ msgstr "Veličina ikonice klizače nadole"
+
+#~ msgid "Title Font"
+#~ msgstr "Font naslova"
+
+#~ msgid "Title Font Color"
+#~ msgstr "Boja fonta naslova"
+
+#~ msgid "Subhead Font"
+#~ msgstr "Font podnaslova"
+
+#~ msgid "Subhead Font Color"
+#~ msgstr "Boja fonta podnaslova"
+
+#~ msgid "Content Font"
+#~ msgstr "Font sadržaja"
+
+#~ msgid "Content Font Color"
+#~ msgstr "Boja fonta sadržaja"
+
+#~ msgid "Button %1$s Text"
+#~ msgstr "Tekst %1$s tastera"
+
+#~ msgid "Enter the text for the Button."
+#~ msgstr "Unesi tekst za taster"
+
+#~ msgid "Button %1$s URL"
+#~ msgstr "URL %1$s tastera"
+
+#~ msgid "Enter the URL for the Button."
+#~ msgstr "Unesi URL za taster"
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "Font %1$s tastera"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "Boja %1$s fonta tastera"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "Boja %1$s pozadine tastera"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "Veličina fonta %1$s tastera"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "Radijus ivice %1$s  tastera"
+
+#~ msgid "Background Image URL"
+#~ msgstr "URL pozadinske slike"
+
+#~ msgid "Background Overlay Color"
+#~ msgstr "Boja pozadine prekrivke"
+
+#~ msgid "Logo Image URL"
+#~ msgstr "URL slike logotipa"
+
+#~ msgid "Text Vertical Alignment"
+#~ msgstr "Vertikalno poravnanje teksta"
+
+#~ msgid ""
+#~ "This setting determines the vertical alignment of your content. Your "
+#~ "content can either be vertically centered, or aligned to the bottom."
+#~ msgstr ""
+#~ "Ovo podešavanje određuje vertikalno poravnanje vašeg sadržaja. Vaš "
+#~ "sadržaj može biti ili vertikalno centriran ili poravnat do dna."
+
+#~ msgid "Header Image URL"
+#~ msgstr "URL slike zaglavlja"
+
+#~ msgid "Image Vertical Alignment"
+#~ msgstr "Vertikalno poravnanje slike"
+
+#~ msgid "This controls the orientation of the image within the module."
+#~ msgstr "Ovo kontroliše orijentaciju slike unutar modula."
+
+#~ msgid "Code"
+#~ msgstr "Kod"
+
+#~ msgid "Fullwidth Code"
+#~ msgstr "Puna širina koda"
+
+#~ msgid "Fullwidth Image"
+#~ msgstr "Puna širina slike"
+
+#~ msgid "Fullwidth Post Title"
+#~ msgstr "Puna širina naslova objave"
+
+#~ msgid ""
+#~ "Enabling this option will remove the background color of this section, "
+#~ "allowing the website background color or background image to show through."
+#~ msgstr ""
+#~ "Aktiviranje ove opcije će ukloniti boju pozadine za ovu sekciju, "
+#~ "omogućavajući prikaz pozadinske boje veb lokacije ili pozadinske slike."
+
+#~ msgid ""
+#~ "Adjust padding to specific values, or leave blank to use the default "
+#~ "padding."
+#~ msgstr ""
+#~ "Podesite unutrašnju marginu do određenih vrednosti, ili ostavite prazno "
+#~ "da biste koristili podrazumevajuću vrednost unutrašnje margine."
+
+#~ msgid "Keep Custom Padding on Mobile"
+#~ msgstr "Zadržite prilagođenu unutrašnju marginu na mobilnom uređaju"
+
+#~ msgid "Allow custom padding to be retained on mobile screens"
+#~ msgstr ""
+#~ "Dozvolite prilagođenoj unurašnjoj margini da se zadrži na ekranima "
+#~ "mobilnih uređaja"
+
+#~ msgid "Make This Row Fullwidth"
+#~ msgstr "Napravi ovaj red u punoj širini"
+
+#~ msgid ""
+#~ "Enable this option to extend the width of this row to the edge of the "
+#~ "browser window."
+#~ msgstr ""
+#~ "Aktiviraj ovu opciju kako bi povećao širinu ovog reda do ivice prozora "
+#~ "pregledača."
+
+#~ msgid "Use Custom Width"
+#~ msgstr "Koristi prilagođenu širinu"
+
+#~ msgid ""
+#~ "Change to Yes if you would like to adjust the width of this row to a non-"
+#~ "standard width."
+#~ msgstr ""
+#~ "Promeni u Da ako biste voleli da prilagodite širinu ovog reda u "
+#~ "nestandardnu širinu."
+
+#~ msgid "Unit"
+#~ msgstr "Jedinica"
+
+#~ msgid "px"
+#~ msgstr "pikseli"
+
+#~ msgid "Custom Width"
+#~ msgstr "Prilagođena širina"
+
+#~ msgid "Define custom width for this Row"
+#~ msgstr "Odredi prilagođenu širinu za ovaj red"
+
+#~ msgid "Gutter Width"
+#~ msgstr "Razmak između kolona"
+
+#~ msgid "Adjust the spacing between each column in this row."
+#~ msgstr "Prilagodi razmak između svake kolone u ovom redu."
+
+#~ msgid "Equalize Column Heights"
+#~ msgstr "Izjednači visine kolona"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Dobrodošli u Divi! Pre nego šro uronite u svoju novu temu posetite <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> stranicu za pristup "
+#~ "desetinama opširnih uputstava."
+
+#~ msgid "Category Font Size"
+#~ msgstr "Veličina fonta kategorije"
+
+#~ msgid "Category Font Style"
+#~ msgstr "Stil fonta kategorije"

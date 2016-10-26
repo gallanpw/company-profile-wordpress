@@ -1,0 +1,5479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:03+0300\n"
+"PO-Revision-Date: 2015-06-17 18:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Тази публикация е защитена с парола. Въведете паролата, за да видите "
+"коментарите."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 Коментари"
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr "1 Коментар"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "Коментари"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> По-стари коментари"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "По-нови коментари <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Тракбек/пингбек"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "Изпращане на коментар"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "Изпращане на коментар"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Отговорете на %s"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "Записва се..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Опциите са записани."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Опции"
+
+#: ../epanel/core_functions.php:73 ../functions.php:8939
+msgid "Theme Options"
+msgstr "Опции на Темата"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "настройките са записани."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "настройките са нулирани."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448 ../functions.php:616
+msgid "General Settings"
+msgstr "Общи настройки"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Навигация"
+
+#: ../epanel/core_functions.php:117 ../functions.php:621
+msgid "Layout Settings"
+msgstr "Настройки на оформлението"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Управление на рекламите"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Цвят"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Интеграция"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Поддръжка на документи"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "Възстановяване"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "Качване на снимка"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "Нямате никакви страници"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "Запиши промените"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"Това ще върне всички настройки в цялата страница за опциите към техните "
+"стойности по подразбиране. <strong>Сигурни ли сте, че искате да направите "
+"това?</strong>"
+
+#: ../epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "Изберете изображение"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:465 ../header.php:141
+msgid "Home"
+msgstr "Начална страница"
+
+#: ../epanel/custom_functions.php:713
+msgid "Archives"
+msgstr "Архив"
+
+#: ../epanel/custom_functions.php:715
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Резултати от търсенето за \"%s\""
+
+#: ../epanel/custom_functions.php:717
+msgid "404 Not Found"
+msgstr "404 не е намерено"
+
+#: ../epanel/custom_functions.php:788
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "В момента разглеждате архивите от %1$s"
+
+#: ../epanel/custom_functions.php:1021
+msgid "Image doesn't exist"
+msgstr "Изображението не съществува"
+
+#: ../epanel/custom_functions.php:1217
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Това е нова инсталация на темата %1$s. Не "
+"забравяйте да отидете на <a href=\"%2$s\">ePanel</a>, за да направите "
+"настройката. Това съобщение ще изчезне, след като сте кликнали върху бутона "
+"Запиши на <a href=\"%2$s\">страницата с опции за темата</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1229
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"Налична е нова версия на %1$s. <a href=\"%2$s\" class=\"thickbox\" title="
+"\"%1$s\">Преглед на детайли за версията %3$s </a>. <em>Преди да можете да "
+"актуализирате Елегантни Теми, първо трябва да инсталирате <a href=\"https://"
+"www.elegantthemes.com/members-area/documentation.html#updater\" target="
+"\"_blank\">Elegant Updater Plugin</a>, за да удостоверите абонамента си.</em>"
+
+#: ../epanel/custom_functions.php:1233
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Преди да можете да актуализирате вашите Елегантни Теми, първо трябва  да "
+"инсталирате <a href=\"https://www.elegantthemes.com/members-area/"
+"documentation.html#updater\" target=\"_blank\">Elegant Updater Plugin</a>, "
+"за да удостоверите абонамента си."
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "Общи"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "Лого"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "Задай като лого"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Ако искате да използвате свое собствено персонализирано лого, кликнете върху "
+"бутона \"Качване на изображението\"."
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "Задай като Favicon"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Ако искате да използвате изображение на ваша собствена favicon, кликнете "
+"върху бутона Качване на изображение."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "Фиксирана лента за навигация"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"По подразбиране лентата за навигация винаги остава на върха на екрана. Ние "
+"предлагаме да изключите тази опция, ако искате да използвате голямо "
+"изображение на лого."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "Вземи първото следващо изображение"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"По подразбиране миниатюрните изображения са създадени с помощта на "
+"потребителски полета. Ако обаче предпочитате да използвате изображения, "
+"които вече са в публикацията за вашето изображение (и да заобиколите "
+"използването на потребителски полета), можете да активирате тази опция. "
+"Веднъж активирани, миниатюрните изображения ще се генерират автоматично с "
+"помощта на първото изображение, което публикувате. Изображението трябва да "
+"бъде хоствано на вашия собствен сървър."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "Режим на стил на блог"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"По подразбиране темата съкращава публикациите ви автоматично, за да създаде "
+"прегледи на публикациите. Ако предпочитате да покажете вашите публикации "
+"изцяло като традиционен блог, можете да активирате тази функция."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr ""
+"Оформление на страница за пазаруване и страница за категории за WooCommerce"
+
+#: ../epanel/options_divi.php:90 ../functions.php:364
+msgid "Right Sidebar"
+msgstr "Дясна странична лента"
+
+#: ../epanel/options_divi.php:91 ../functions.php:365
+msgid "Left Sidebar"
+msgstr "Лява странична лента"
+
+#: ../epanel/options_divi.php:92 ../functions.php:366
+msgid "Full Width"
+msgstr "Пълна ширина"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"Тук можете да изберете оформление на страница за пазаруване и страница за "
+"категории за WooCommerce."
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "MailChimp API код"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"Въведете вашия MailChimp API код. Можете да създадете API код <a target="
+"\"_blank\" href=\"%1$s\">тук</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Удостоверяване на Aweber"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "Удостоверете вашия Aweber акаунт тук."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "Повторно генериране на MailChimp списъци"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"По подразбиране MailChimp списъците се кешират за един ден. Ако сте добавили "
+"нов списък, но той не се появи в рамките на настройките на модула за "
+"регистрация, активирайте тази опция. Не забравяйте да я деактивирате, след "
+"като списъкът е генериран повторно."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Повторно генериране на Aweber списъци"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"По подразбиране Aweber списъците се кешират за един ден. Ако сте добавили "
+"нов списък, но той не се появи в рамките на настройките на модула за "
+"регистрация, активирайте тази опция. Не забравяйте да я деактивирате, след "
+"като списъкът е генериран повторно."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Показване на икона на Facebook"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr ""
+"Тук можете да изберете да покажете икона на Facebook на началната си "
+"страница. "
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Показване на икона на Twitter"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Тук можете да изберете да покажете икона на Twitter. "
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Показване на икона на Google"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr ""
+"Тук можете да изберете да покажете икона на Google  на началната си "
+"страница. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "Показване на RSS икона"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Тук можете да изберете да покажете RSS икона. "
+
+#: ../epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "URL за Facebook профил"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Въведете URL на вашия Facebook профил. "
+
+#: ../epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "URL на Twitter профил"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Enter the URL of your Twitter Profile."
+
+#: ../epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "Google+ Profile Url"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Enter the URL of your Google+ Profile. "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "URL на RSS икона"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "Въведете URL на вашата RSS емисия. "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "Брой публикации, показани на страницата Категория"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Тук можете да определите колко скорошни статии се показват на страницата "
+"Категория. Тази опция работи независимо от опциите за четене в wp-admin."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Брой публикации, показани на страниците на архива"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Тук можете да определите колко скорошни статии се показват на страниците на "
+"архива. Тази опция работи независимо от опциите за четене в wp-admin."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "Брой публикации, показани на страниците за търсене"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Тук можете да определите колко скорошни статии се показват на страниците с "
+"резултати от търсенето. Тази опция работи независимо от опциите за четене в "
+"wp-admin."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Брой публикации, показани на страниците с етикети"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Тук можете да определите колко скорошни статии се показват на страниците с "
+"етикети. Тази опция работи независимо от опциите за четене в wp-admin."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "Формат на датата"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Тази опция ви позволява да промените как да се показват вашите дати. За "
+"повече информация, моля, вижте кодекса на WordPress тук:<a href='http://"
+"codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Дата и час на "
+"форматиране</a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "Използвайте откъси, когато е дефинирано"
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Това ще разреши използването на откъси в публикации или страници."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "Реагиращи shortcodes"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Разрешете тази опция, за да може shortcodes да реагират на различни размери "
+"на екрана"
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "Подгрупи Google Fonts"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Това ще активира Google Fonts за езици, различни от английски."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "Бутон „Обратно към началото“"
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+"Разрешете тази опция за показване на бутона „Обратно към горната част“, "
+"докато превъртате"
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "Плавно превъртане"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr ""
+"Разрешете тази опция, за да получите ефекта за гладко скролиране с колелцето "
+"на мишката"
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "CSS по избор"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Тук можете да добавяте CSS по избор, за да замените или да удължите "
+"стиловете по подразбиране."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "Страници"
+
+#: ../epanel/options_divi.php:292 ../functions.php:292 ../functions.php:302
+msgid "Categories"
+msgstr "Категории"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "Изключване на страници от лентата за навигация"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Тук можете да изберете да премахнете някои страници от навигационното меню. "
+"Всички страници, маркирани с X, няма да се показват в лентата за навигация. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "Показване на падащи менюта"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Ако желаете да премахнете падащите менюта от лентата за навигация в "
+"страници, изключете тази функция."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "Линк за показване на началната страница"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"По подразбиране темата създава линк към началната страница и кликването "
+"върху този линк води обратно към началната страница на вашия блог . Ако, "
+"обаче, използвате статична начална страница и вече сте създали страница, "
+"наречена Начална страница, която да използвате, това ще доведе до дублиращ "
+"се линк. В този случай трябва да изключите тази функция, за да се премахнете "
+"линка."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "Подреждане на линкове за страници"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr "Тук можете да изберете как да подредите линовете за вашите страници."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Подреждане на линковете за страници по възходящ/низходящ ред"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Тук можете да изберете да промените реда, по който се показват линковете за "
+"вашите страници. .Можете да избирате между възходящ и низходящ."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "Броят на нивата на падащо меню е показан"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Тази опция ви позволява да контролирате колко нива има падащото меню на "
+"вашите страници. Увеличаването на броя позволява да бъдат показани "
+"допълнителни опции в менюто."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "Изключване на категории от лентата за навигация"
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Тук можете да изберете да премахнете някои категории от навигационното меню. "
+"Всички категории, отбелязани с X, няма да се показват в лентата за "
+"навигация. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Ако желаете да премахнете падащите менюта от лентата за навигация на "
+"категории, изключете тази функция."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "Скриване на празни категории"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Ако в лентата за навигация искате да бъдат показвани категории, които "
+"нямата  никакви публикации в тях, изключете тази опция. По подразбиране "
+"празните категории са скрити."
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Подреждане на категории на линкове по Name/ID/Slug/Count/Term група"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"По подразбиране страниците са подредени по име. Въпреки това, ако сте по-"
+"скоро бихте ги подредили по ID, можете да коригирате тази настройка."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Подреждане на категориите на линковете по възходящ или низходящ ред"
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Тук можете да изберете да обърнете реда, по който се показват вашите "
+"категории линкове. .Можете да избирате между възходящ и низходящ."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "Деактивирайте челните линковете на падащото меню"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"В някои случаи потребителите ще искат да създадат родителски категории или "
+"линкове като контейнери за съхранение на списък с дъщерни линкове или "
+"категории. В този случай не е желателно родителските линкове да водят където "
+"и да е, а вместо това само да имат организационна функция. Разрешаването на "
+"тази опция ще премахне линковете от всички родителски страници/категории, "
+"така че те да не водят никъде при кликване върху тях."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "Оформление на една публикация"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "Оформление на една страница"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+"Изберете кои елементи да се показват в раздела Публикуване на информация"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Тук можете да изберете кои елементи да се появяват в раздела Публикуване на "
+"информация на единични страници за публикуване. Това е областта, обикновено "
+"под заглавието на публикацията, което показва основна информация за вашата "
+"публикация. Ще се появят показаните по-долу подчертани елементи. "
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "Показване на коментари върху публикации"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Можете да изключите тази опция, ако искате да премахнете коментарите и "
+"формата за коментари от публикациите. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "Поставете изображения на миниатюри в публикациите"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"По подразбиране миниатюрите са поставени в началото на вашата публикация  на "
+"страниците за единична публикация. Ако желаете да премахнете тази "
+"първоначална миниатюра, за да избегнете повторение, просто деактивирайте "
+"тази опция. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "Поставете изображения на миниатюри на страниците"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"По подразбиране миниатюрите не се поставят на страници (използват се само за "
+"публикации). Все пак, ако искате да използвате миниатюри на страниците, "
+"можете да го направите! Просто активирайте тази опция."
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "Показване на коментари на страниците"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"По подразбиране коментарите не се поставят на страниците, обаче, ако искате "
+"да дадете възможност на хората да коментират на вашите страници, просто "
+"разрешете тази опция. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "Раздел за публикуване на информация"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Тук можете да изберете кои елементи да се появяват в раздела за информация "
+"за статиите на страниците. Това е областта, обикновено под заглавието на "
+"публикацията, което показва основна информация за вашата публикация. Ще се "
+"появят показаните по-долу подчертани елементи. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "Показване на изображения на миниатюри на индексните страници"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Разрешете тази опция за показване на миниатюри на индексните страници."
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "SEO за начална страница"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "SEO за единична страница за публикации"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "SEO за индексна страница"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "Активиране на персонализирано заглавие "
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"По подразбиране темата използва комбинация от името и описанието на вашия "
+"блог, както е определено при създаването на вашия блог, за да създадете "
+"заглавията на своята начална страница . Все пак, ако искате да създадете "
+"потребителско заглавие, просто разрешете тази опция и попълнете полето за "
+"потребителското заглавие по-долу. "
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "Разрешаване на описание на мета тагове"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"По подразбиране темата използва описанието на вашия блог, както е определено "
+"при създаването на вашия блог, за да попълните полето за мета описанието. "
+"Ако искате да използвате различно описание, разрешете тази опция и попълнете "
+"полето за потребителското описание по-долу. "
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "Активиране на мета ключови думи"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"По подразбиране темата не добавя ключови думи към вашия горен колонтитул. "
+"Повечето търсачки не използват ключови думи, за да класират вашия сайт, но "
+"някои хора ги дефинират така или иначе за всеки случай. Ако искате да "
+"добавите мета ключови думи към горния си колонтитул, разрешете тази опция и "
+"попълнете полето за потребителските ключови думи по-долу. "
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "Активиране на канонични URL"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Канонизацията помага за предотвратяване на индексирането на дублиране на "
+"съдържанието от търсачките, както и в резултат на това може да помогне да се "
+"избегнат санкции за дублиращо се съдържание и влошаване на ранга на "
+"страницата. Някои страници могат да има различни URLs, като всички водят до "
+"едно и също място. Например, domain.com, domain.com/index.html  и www.domain."
+"com са различни URLs, които водят към началната страница. От гледна точка на "
+"търсачката тези дублиращи се URLs, които също се срещат често поради "
+"персонализирани линкове, могат да се разглеждат индивидуално, а не като "
+"отделна дестинация. Определяне на каноничен URL показва на търсачката кое "
+"URL бихте искали да използвате официално. Темата основава своите канонични "
+"URLs на базата на вашите линкове и името на домейна, определено в раздела "
+"настройки на wp-admin."
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "Потребителско заглавие на начална страница (ако е разрешено)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Ако сте разрешили потребителски заглавия, можете да добавите вашето "
+"потребителско заглавие тук. Каквото и да напишете тук, ще бъде поставени "
+"между < title >< /title > tags in header.php"
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "Мета описание на началната страница (ако е активирано)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+"Ако сте активирали мета описания, можете да добавите вашето персонализирано "
+"описание тук."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Мета ключови думи на началната страница (ако е активирано)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Ако сте разрешили мета ключови думи, можете да добавите свои персонализирани "
+"ключови думи тук. Ключовите думи трябва да бъдат разделени със запетаи. "
+"Например: wordpress,themes,templates,elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+"Ако потребителските заглавия не са разрешени, изберете метод за автоматично "
+"генериране"
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Ако не използвате потребителски заглавия за публикации,  все още можете да "
+"има контрол върху това как се генерират заглавията ви. Тук можете да "
+"изберете в какъв ред бихте искали да бъде показано заглавието на "
+"публикацията и името на блога, или можете напълно да премахнете името на "
+"блога от заглавието."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+"Определете един символ, който да отделя името на уебсайта и заглавието за "
+"публикуване"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Тук можете да промените кой символ разделя заглавието на блога ви и името на "
+"публикацията при използване на автоматично генерирани заглавия на "
+"публикации. Често срещани стойности са | или -"
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "Разрешаване на потребителски заглавия"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"По подразбиране темата създава заглавия на публикации, базирани върху "
+"заглавието на вашата публикацията и името на вашия блог. Ако искате да "
+"направите вашето мета заглавие различно от действителната си публикация, "
+"можете да дефинирате потребителско заглавие за всяка публикация, като "
+"използвате потребителски полета. Тази опция трябва да бъде разрешена, за да "
+"могат потребителските заглавия да работят, и трябва да изберете име на "
+"потребителско поле за вашето заглавие по-долу."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "Разрешаване на потребителско описание"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Ако желаете да добавите мета описание към публикацията си, можете да го "
+"направите с помощта на потребителски полета. Тази опция трябва да бъде "
+"разрешена, за да може описанията да бъдат показани на страниците с "
+"публикациите. Можете да добавите вашето мета описание, като използвате "
+"потребителски полета на базата на името на потребителското поле, което "
+"дефинирате по-долу."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "Разрешаване на потребителски ключови думи"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Ако желаете да добавите мета ключови думи към публикацията си, можете да го "
+"направите с помощта на потребителски полета. Тази опция трябва да бъде "
+"разрешена, за да може ключовите думи да бъдат показани на публикувани "
+"страници. Можете да добавите вашите мета ключови думи, като използвате "
+"потребителски полета на базата на името на потребителското поле, което "
+"дефинирате по-долу."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "Активиране на канонични URL"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "Име на потребителско поле, което да се използва за заглавие"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Когато определяте вашето заглавие, като използвате потребителски полета, "
+"трябва да използвате тази стойност за име на потребителското поле. "
+"Стойността на вашето потребителско поле трябва да бъде потребителското "
+"заглавие, което бихте искали да използвате."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "Потребителското заглавие „Име“ да се използва за описание"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Когато дефинирате вашето мета описание, като използвате потребителски "
+"полета, трябва да използвате тази стойност като име за потребителското "
+"полето . Стойността на вашето потребителско поле трябва да бъде "
+"потребителското описание, което искате да използвате."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr "Името на потребителското поле да се използва за ключови думи"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Когато дефинирате ключовите си думи с помощта на потребителски полета, "
+"трябва да използвате тази стойност за име на потребителското поле. "
+"Стойността на вашето потребителско поле трябва да бъде мета ключовите думи, "
+"които бихте искали да използвате, разделени със запетая."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Ако не използвате потребителски заглавия за публикации,  все още можете да "
+"има контрол върху това как се генерират заглавията ви. Тук можете да "
+"изберете в какъв ред бихте искали да бъде показано заглавието на "
+"публикацията и името на блога, или можете напълно да премахнете името на "
+"блога от заглавието."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "Активиране на мета описания"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Маркирайте тази отметка, ако искате да покажете мета описанията на страници "
+"за категория/архив. Описанието се основава на описанието на категорията, "
+"което изберете, когато създавате/редактирате вашата категория в wp-admin."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "Изберете метод за генериране на заглавие"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Тук можете да изберете как се генерират вашите заглавия на индексни "
+"страници. Можете да промените реда, в който се появява името на блога ви и "
+"заглавието на индекса, или можете напълно да премахнете името на блога от "
+"заглавието."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Тук можете да изберете кой символ разделя заглавието на блога ви  и името на "
+"индексната страницата, когато използвате автоматично генерирани заглавия на "
+"публикации. Често срещани стойности са | или -"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "Интеграция на код"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "Разрешаване на код на горен колонтитул"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Забраняването на тази опция ще премахне от вашия блог кода на горния "
+"колонтитул по-долу. Това ви позволява да премахнете кода, като го запазите "
+"за по-нататъшно използване."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "Разрешаване на < body > код"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Забраняването на тази опция ще премахне кода на основния текст по-долу от "
+"вашия блог. Това ви позволява да премахнете кода, като го запазите за по-"
+"нататъшно използване."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "Разрешаване на единичен код в горната част"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Забраняването на тази опция ще премахне единичния топ код по-долу от вашия "
+"блог. Това ви позволява да премахнете кода, като го запазите за по-нататъшно "
+"използване."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "Разрешаване на единичен код в долната част"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Забраняването на тази опция ще премахне единичния код в дъното от вашия "
+"блог. Това ви позволява да премахнете кода, като го запазите за по-нататъшно "
+"използване."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "Добавяне на код към < head > на вашия блог"
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Всеки код, който поставите тук, ще се появи в заглавния раздела на всяка "
+"страница на вашия блог. Това е полезно, когато трябва да добавите Javascript "
+"или CSS във всички страници."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Добавяне на код към <body > (полезно при проследяване кодове като Google "
+"Analytics)"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Всеки код, който поставите тук, ще се появи в раздела с основния текст на "
+"всички страници на вашия блог. Това е полезно, ако трябва да въведете "
+"проследяващ пиксел за брояч като Google Analytics."
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "Добавяне на код към горната част на вашите публикации"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Всеки код, който поставите тук, ще бъде поставен в горната част на всички "
+"публикации. Това е полезно, ако желаете да интегрирате неща, като например "
+"линкове за социално маркиране."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+"Добавяне на код към долната част на вашите публикации, преди коментарите"
+
+#: ../epanel/options_divi.php:844 ../functions.php:8612
+msgid "Documentation"
+msgstr "Документация"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Управление на рекламите"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "Разрешаване на 468x60 банер за единична публикация"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Разрешаването на тази опция ще покаже 468x60 рекламен банер в долната част "
+"на вашите страници с публикации под единствено съдържание на публикация. Ако "
+"е разрешено, трябва да въведете изображението на банера и дестинационния URL "
+"адрес по-долу."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "Въвеждане на 468x60 банерно изображение на реклама"
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Тук можете да предоставите 468x60 URL на банерно изображение"
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "Въвеждане на 468x60 URL за дестинация на реклама"
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Тук можете да предоставите 468x60 URL за дестинация на реклама"
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "Въведете 468x60 код на Google Adsense"
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "Поставете вашия Google Adsense код тук."
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:518 ../functions.php:160
+msgid "Previous"
+msgstr "Предишен"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:519 ../functions.php:161
+msgid "Next"
+msgstr "Следващ"
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "Tweet"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "Вход за членове"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "Потребителско име:"
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "Парола:"
+
+#: ../epanel/shortcodes/shortcodes.php:294 ../functions.php:3522
+msgid "Login"
+msgstr "Вход"
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "Добави текст за пояснение"
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "Кликнете тук, за да научите повече"
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "Присъединете се сега!"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "Добави блок за превключване"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "Добави поле"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "Бутон Добавете"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "Добави раздели"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "Добави биография на автора"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "Кратки кодове"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "Надпис"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "Надписът ще е тук"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "Заглавието на надписа ще е тук"
+
+#: ../epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "Щат"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "Изберете между разширено и затворено положение"
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "Съдържание"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "Съдържанието трябва да е тук"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "Текст на съдържанието или HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021 ../functions.php:8610
+msgid "Type"
+msgstr "Тип"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "Тип на кутията"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "Линк"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "Изберете типа бутон"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "Цвят"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "Изберете цвят на бутона"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "Текст на линк"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "Икона"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "Използва се за типа икона за бутон"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "Отваряне на линка в нов прозорец"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Изберете Да, ако линкът трябва да се отваря в нов прозорец"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "Тип плъзгач"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "Изберете типа плъзгач тук"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "Ефект"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "Изберете анимация"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "Автоматична"
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Изберете Да, ако желаете да разрешите автоматична анимация на плъзгач"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "Автоматична скорост"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+"Автоматична скорост на плъзгач (работи само ако Автоматично е настроено на "
+"„Да“)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "Текст в раздела"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "Съдържание в раздела"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"Поставете изображението на URL адреса тук, ако сте избрали тип плъзгач "
+"\"images\""
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "URL на изображението"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "URL на авторско изображение"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "Използвайте преоразмеряване"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ Добавяне на още един раздел"
+
+#: ../epanel/shortcodes/shortcodes.php:1335 ../functions.php:3165
+msgid "Image Height"
+msgstr "Височина на изображението"
+
+#: ../epanel/shortcodes/shortcodes.php:1336 ../functions.php:3146
+msgid "Image Width"
+msgstr "Ширина на изображението"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Проектиран от  %1$s | Изпълняван от %2$s"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "Основно меню"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "Допълнително меню"
+
+#: ../functions.php:32 ../functions.php:706
+msgid "Footer Menu"
+msgstr "Меню в долен колонтитул"
+
+#: ../functions.php:73
+#, php-format
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a "
+"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
+"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+
+#: ../functions.php:97
+msgid "on"
+msgstr " "
+
+#: ../functions.php:154
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Моля, проверете полетата за въвеждане по-долу, за да се уверете, че сте "
+"въвели правилната информация."
+
+#: ../functions.php:155
+msgid "Fill"
+msgstr "Попълване"
+
+#: ../functions.php:156
+msgid "field"
+msgstr "поле"
+
+#: ../functions.php:157
+msgid "Invalid email"
+msgstr "Невалиден имейл"
+
+#: ../functions.php:158
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../functions.php:159
+msgid "Prev"
+msgstr "Предишен"
+
+#: ../functions.php:208
+msgid "Select Page"
+msgstr "Изберете страница"
+
+#: ../functions.php:246
+msgid "Divi Page Settings"
+msgstr ""
+
+#: ../functions.php:247
+msgid "Divi Post Settings"
+msgstr ""
+
+#: ../functions.php:248
+msgid "Divi Product Settings"
+msgstr ""
+
+#: ../functions.php:249
+msgid "Divi Project Settings"
+msgstr ""
+
+#: ../functions.php:255
+msgid "Projects"
+msgstr "Проекти"
+
+#: ../functions.php:256
+msgid "Project"
+msgstr "Проект"
+
+#: ../functions.php:257
+msgid "Add New"
+msgstr "Добави нов"
+
+#: ../functions.php:258
+msgid "Add New Project"
+msgstr "Добави нов проект"
+
+#: ../functions.php:259
+msgid "Edit Project"
+msgstr "Редактиране на проект"
+
+#: ../functions.php:260
+msgid "New Project"
+msgstr "Нов проект"
+
+#: ../functions.php:261
+msgid "All Projects"
+msgstr "Всички проекти"
+
+#: ../functions.php:262
+msgid "View Project"
+msgstr "Преглед на проекта"
+
+#: ../functions.php:263
+msgid "Search Projects"
+msgstr "Търсене на проекти"
+
+#: ../functions.php:264
+msgid "Nothing found"
+msgstr "Нищо не беше открито"
+
+#: ../functions.php:265
+msgid "Nothing found in Trash"
+msgstr "Нищо не беше открито в кошчето"
+
+#: ../functions.php:293
+msgid "Category"
+msgstr "Категория"
+
+#: ../functions.php:294
+msgid "Search Categories"
+msgstr "Търсене в категории"
+
+#: ../functions.php:295
+msgid "All Categories"
+msgstr "Всички категории"
+
+#: ../functions.php:296
+msgid "Parent Category"
+msgstr "Родителска категория"
+
+#: ../functions.php:297
+msgid "Parent Category:"
+msgstr "Родителска категория:"
+
+#: ../functions.php:298
+msgid "Edit Category"
+msgstr "Редакция на категория"
+
+#: ../functions.php:299
+msgid "Update Category"
+msgstr "Актуализация на категория"
+
+#: ../functions.php:300
+msgid "Add New Category"
+msgstr "Добавяне на нова категория"
+
+#: ../functions.php:301
+msgid "New Category Name"
+msgstr "Име на нова категория"
+
+#: ../functions.php:314 ../functions.php:324
+msgid "Tags"
+msgstr "Етикети"
+
+#: ../functions.php:315
+msgid "Tag"
+msgstr "Етикет"
+
+#: ../functions.php:316
+msgid "Search Tags"
+msgstr "Търсене на етикети"
+
+#: ../functions.php:317
+msgid "All Tags"
+msgstr "Всички етикети"
+
+#: ../functions.php:318
+msgid "Parent Tag"
+msgstr "Родителски етикет"
+
+#: ../functions.php:319
+msgid "Parent Tag:"
+msgstr "Родителски етикет:"
+
+#: ../functions.php:320
+msgid "Edit Tag"
+msgstr "Редактиране на етикет"
+
+#: ../functions.php:321
+msgid "Update Tag"
+msgstr "Актуализация на етикет"
+
+#: ../functions.php:322
+msgid "Add New Tag"
+msgstr "Добавяне на нов етикет"
+
+#: ../functions.php:323
+msgid "New Tag Name"
+msgstr "Име на нов етикет"
+
+#: ../functions.php:340
+msgid "Skills"
+msgstr "Умения"
+
+#: ../functions.php:343
+msgid "Posted on"
+msgstr "Публикувано на"
+
+#: ../functions.php:370
+msgid "Light"
+msgstr "Светло"
+
+#: ../functions.php:371
+msgid "Dark"
+msgstr "Тъмно"
+
+#: ../functions.php:384
+msgid "Page Layout"
+msgstr "Оформление на страница"
+
+#: ../functions.php:398
+msgid "Dot Navigation"
+msgstr ""
+
+#: ../functions.php:401 ../functions.php:409
+msgid "Off"
+msgstr "Изкл."
+
+#: ../functions.php:402 ../functions.php:410
+msgid "On"
+msgstr "Вкл."
+
+#: ../functions.php:406
+msgid "Hide Nav Before Scroll"
+msgstr ""
+
+#: ../functions.php:416
+msgid "Post Title"
+msgstr ""
+
+#: ../functions.php:419
+msgid "Show"
+msgstr "Покажи"
+
+#: ../functions.php:420
+msgid "Hide"
+msgstr "Скрий"
+
+#: ../functions.php:425
+msgid "Use Background Color"
+msgstr "Използване на фонов цвят"
+
+#: ../functions.php:430 ../functions.php:5510
+msgid "Hex Value"
+msgstr "Стойност на цвят"
+
+#: ../functions.php:434 ../functions.php:1697 ../functions.php:1722
+#: ../functions.php:1845 ../functions.php:2350 ../functions.php:2449
+#: ../functions.php:2655
+msgid "Text Color"
+msgstr "Цвят на текста"
+
+#: ../functions.php:626
+msgid "Typography"
+msgstr ""
+
+#: ../functions.php:631
+msgid "Mobile Styles"
+msgstr ""
+
+#: ../functions.php:636
+msgid "Tablet"
+msgstr ""
+
+#: ../functions.php:641
+msgid "Phone"
+msgstr ""
+
+#: ../functions.php:646
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../functions.php:651
+msgid "Background"
+msgstr ""
+
+#: ../functions.php:656
+msgid "Header & Navigation"
+msgstr ""
+
+#: ../functions.php:661
+msgid "Header Format"
+msgstr ""
+
+#: ../functions.php:666
+msgid "Primary Menu Bar"
+msgstr ""
+
+#: ../functions.php:671
+msgid "Secondary Menu Bar"
+msgstr ""
+
+#: ../functions.php:676
+msgid "Fixed Navigation Settings"
+msgstr ""
+
+#: ../functions.php:681
+msgid "Header Elements"
+msgstr ""
+
+#: ../functions.php:686
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:691
+msgid "Layout"
+msgstr "Оформление"
+
+#: ../functions.php:696
+msgid "Widgets"
+msgstr ""
+
+#: ../functions.php:701
+msgid "Footer Elements"
+msgstr ""
+
+#: ../functions.php:711
+msgid "Bottom Bar"
+msgstr ""
+
+#: ../functions.php:716 ../functions.php:1411
+msgid "Color Schemes"
+msgstr "Цветови схеми"
+
+#: ../functions.php:718
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Забележка: Зададените по-горе настройки на цветовете трябва да се прилагат "
+"към схемата за цвят по подразбиране."
+
+#: ../functions.php:722
+msgid "Buttons"
+msgstr ""
+
+#: ../functions.php:727
+msgid "Buttons Style"
+msgstr ""
+
+#: ../functions.php:732
+msgid "Buttons Hover Style"
+msgstr ""
+
+#: ../functions.php:737 ../functions.php:4774
+msgid "Blog"
+msgstr "Блог"
+
+#: ../functions.php:742
+msgid "Post"
+msgstr ""
+
+#: ../functions.php:754
+msgid "Meta Text Size"
+msgstr ""
+
+#: ../functions.php:772
+msgid "Meta Line Height"
+msgstr ""
+
+#: ../functions.php:790
+msgid "Meta Letter Spacing"
+msgstr ""
+
+#: ../functions.php:808 ../functions.php:4845 ../functions.php:4931
+msgid "Meta Font Style"
+msgstr ""
+
+#: ../functions.php:812 ../functions.php:885 ../functions.php:1276
+#: ../functions.php:1598 ../functions.php:1682 ../functions.php:2119
+#: ../functions.php:2174 ../functions.php:2303 ../functions.php:2367
+#: ../functions.php:2546 ../functions.php:2825 ../functions.php:2864
+#: ../functions.php:2938 ../functions.php:3024 ../functions.php:3063
+#: ../functions.php:3091 ../functions.php:3111 ../functions.php:3215
+#: ../functions.php:3254 ../functions.php:3293 ../functions.php:3340
+#: ../functions.php:3406 ../functions.php:3445 ../functions.php:3492
+#: ../functions.php:3558 ../functions.php:3652 ../functions.php:3691
+#: ../functions.php:3766 ../functions.php:3805 ../functions.php:3844
+#: ../functions.php:3891 ../functions.php:3930 ../functions.php:4014
+#: ../functions.php:4053 ../functions.php:4100 ../functions.php:4139
+#: ../functions.php:4185 ../functions.php:4205 ../functions.php:4291
+#: ../functions.php:4311 ../functions.php:4396 ../functions.php:4435
+#: ../functions.php:4493 ../functions.php:4540 ../functions.php:4705
+#: ../functions.php:4744 ../functions.php:4810 ../functions.php:4849
+#: ../functions.php:4896 ../functions.php:4935 ../functions.php:4982
+#: ../functions.php:5021 ../functions.php:5060 ../functions.php:5099
+#: ../functions.php:5146 ../functions.php:5193 ../functions.php:5259
+#: ../functions.php:5298
+msgid "Bold"
+msgstr ""
+
+#: ../functions.php:813 ../functions.php:886 ../functions.php:1277
+#: ../functions.php:1599 ../functions.php:1683 ../functions.php:2120
+#: ../functions.php:2175 ../functions.php:2304 ../functions.php:2368
+#: ../functions.php:2547 ../functions.php:2826 ../functions.php:2865
+#: ../functions.php:2939 ../functions.php:3025 ../functions.php:3064
+#: ../functions.php:3092 ../functions.php:3112 ../functions.php:3216
+#: ../functions.php:3255 ../functions.php:3294 ../functions.php:3341
+#: ../functions.php:3407 ../functions.php:3446 ../functions.php:3493
+#: ../functions.php:3559 ../functions.php:3653 ../functions.php:3692
+#: ../functions.php:3767 ../functions.php:3806 ../functions.php:3845
+#: ../functions.php:3892 ../functions.php:3931 ../functions.php:4015
+#: ../functions.php:4054 ../functions.php:4101 ../functions.php:4140
+#: ../functions.php:4186 ../functions.php:4206 ../functions.php:4292
+#: ../functions.php:4312 ../functions.php:4397 ../functions.php:4436
+#: ../functions.php:4494 ../functions.php:4541 ../functions.php:4706
+#: ../functions.php:4745 ../functions.php:4811 ../functions.php:4850
+#: ../functions.php:4897 ../functions.php:4936 ../functions.php:4983
+#: ../functions.php:5022 ../functions.php:5061 ../functions.php:5100
+#: ../functions.php:5147 ../functions.php:5194 ../functions.php:5260
+#: ../functions.php:5299
+msgid "Italic"
+msgstr ""
+
+#: ../functions.php:814 ../functions.php:887 ../functions.php:1278
+#: ../functions.php:1600 ../functions.php:1684 ../functions.php:2121
+#: ../functions.php:2176 ../functions.php:2305 ../functions.php:2369
+#: ../functions.php:2548 ../functions.php:2827 ../functions.php:2866
+#: ../functions.php:2940 ../functions.php:3026 ../functions.php:3065
+#: ../functions.php:3093 ../functions.php:3113 ../functions.php:3217
+#: ../functions.php:3256 ../functions.php:3295 ../functions.php:3342
+#: ../functions.php:3408 ../functions.php:3447 ../functions.php:3494
+#: ../functions.php:3560 ../functions.php:3654 ../functions.php:3693
+#: ../functions.php:3768 ../functions.php:3807 ../functions.php:3846
+#: ../functions.php:3893 ../functions.php:3932 ../functions.php:4016
+#: ../functions.php:4055 ../functions.php:4102 ../functions.php:4141
+#: ../functions.php:4187 ../functions.php:4207 ../functions.php:4293
+#: ../functions.php:4313 ../functions.php:4398 ../functions.php:4437
+#: ../functions.php:4495 ../functions.php:4542 ../functions.php:4707
+#: ../functions.php:4746 ../functions.php:4812 ../functions.php:4851
+#: ../functions.php:4898 ../functions.php:4937 ../functions.php:4984
+#: ../functions.php:5023 ../functions.php:5062 ../functions.php:5101
+#: ../functions.php:5148 ../functions.php:5195 ../functions.php:5261
+#: ../functions.php:5300
+msgid "Uppercase"
+msgstr ""
+
+#: ../functions.php:815 ../functions.php:888 ../functions.php:1279
+#: ../functions.php:1601 ../functions.php:1685 ../functions.php:2122
+#: ../functions.php:2177 ../functions.php:2306 ../functions.php:2370
+#: ../functions.php:2549 ../functions.php:2828 ../functions.php:2867
+#: ../functions.php:2941 ../functions.php:3027 ../functions.php:3066
+#: ../functions.php:3094 ../functions.php:3114 ../functions.php:3218
+#: ../functions.php:3257 ../functions.php:3296 ../functions.php:3343
+#: ../functions.php:3409 ../functions.php:3448 ../functions.php:3495
+#: ../functions.php:3561 ../functions.php:3655 ../functions.php:3694
+#: ../functions.php:3769 ../functions.php:3808 ../functions.php:3847
+#: ../functions.php:3894 ../functions.php:3933 ../functions.php:4017
+#: ../functions.php:4056 ../functions.php:4103 ../functions.php:4142
+#: ../functions.php:4188 ../functions.php:4208 ../functions.php:4294
+#: ../functions.php:4314 ../functions.php:4399 ../functions.php:4438
+#: ../functions.php:4496 ../functions.php:4543 ../functions.php:4708
+#: ../functions.php:4747 ../functions.php:4813 ../functions.php:4852
+#: ../functions.php:4899 ../functions.php:4938 ../functions.php:4985
+#: ../functions.php:5024 ../functions.php:5063 ../functions.php:5102
+#: ../functions.php:5149 ../functions.php:5196 ../functions.php:5262
+#: ../functions.php:5301
+msgid "Underline"
+msgstr ""
+
+#: ../functions.php:827 ../functions.php:1218 ../functions.php:1291
+#: ../functions.php:1309 ../functions.php:2097
+msgid "Header Text Size"
+msgstr ""
+
+#: ../functions.php:845 ../functions.php:1254
+msgid "Header Line Height"
+msgstr ""
+
+#: ../functions.php:863 ../functions.php:1236
+msgid "Header Letter Spacing"
+msgstr ""
+
+#: ../functions.php:881 ../functions.php:1272 ../functions.php:2115
+#: ../functions.php:3020 ../functions.php:3211 ../functions.php:3336
+#: ../functions.php:3402 ../functions.php:3488 ../functions.php:3554
+#: ../functions.php:4392 ../functions.php:5142 ../functions.php:5255
+msgid "Header Font Style"
+msgstr ""
+
+#: ../functions.php:899
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: ../functions.php:912
+msgid "Website Content Width"
+msgstr ""
+
+#: ../functions.php:930
+msgid "Website Gutter Width"
+msgstr ""
+
+#: ../functions.php:947
+msgid "Use Custom Sidebar Width"
+msgstr ""
+
+#: ../functions.php:960
+msgid "Sidebar Width"
+msgstr ""
+
+#: ../functions.php:978 ../functions.php:996 ../functions.php:1014
+msgid "Section Height"
+msgstr ""
+
+#: ../functions.php:1032 ../functions.php:1050 ../functions.php:1068
+msgid "Row Height"
+msgstr ""
+
+#: ../functions.php:1086
+msgid "Stretch Background Image"
+msgstr "Разтягане на фоново изображение"
+
+#: ../functions.php:1093 ../functions.php:1748 ../functions.php:1819
+#: ../functions.php:1832 ../functions.php:2337 ../functions.php:2462
+#: ../functions.php:2668
+msgid "Background Color"
+msgstr "Фонов цвят"
+
+#: ../functions.php:1100
+msgid "Background Image"
+msgstr "Фоново изображение:"
+
+#: ../functions.php:1106
+msgid "Background Repeat"
+msgstr ""
+
+#: ../functions.php:1110
+msgid "No Repeat"
+msgstr ""
+
+#: ../functions.php:1111
+msgid "Tile"
+msgstr ""
+
+#: ../functions.php:1112
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../functions.php:1113
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../functions.php:1118 ../functions.php:1129
+msgid "Background Position"
+msgstr ""
+
+#: ../functions.php:1122 ../functions.php:2626
+msgid "Left"
+msgstr "Ляво"
+
+#: ../functions.php:1123
+msgid "Center"
+msgstr "Център"
+
+#: ../functions.php:1124 ../functions.php:2625
+msgid "Right"
+msgstr "Дясно"
+
+#: ../functions.php:1133
+msgid "Scroll"
+msgstr ""
+
+#: ../functions.php:1134
+msgid "Fixed"
+msgstr ""
+
+#: ../functions.php:1146 ../functions.php:1182 ../functions.php:1200
+msgid "Body Text Size"
+msgstr ""
+
+#: ../functions.php:1164
+msgid "Body Line Height"
+msgstr ""
+
+#: ../functions.php:1328
+msgid "Header Font"
+msgstr "Шрифт на заглавен ред"
+
+#: ../functions.php:1343
+msgid "Body Font"
+msgstr "Шрифт на основния текст"
+
+#: ../functions.php:1359
+msgid "Body Link Color"
+msgstr ""
+
+#: ../functions.php:1372
+msgid "Body Text Color"
+msgstr ""
+
+#: ../functions.php:1385
+msgid "Header Text Color"
+msgstr ""
+
+#: ../functions.php:1398
+msgid "Theme Accent Color"
+msgstr ""
+
+#: ../functions.php:1416 ../functions.php:1436 ../functions.php:5474
+msgid "Default"
+msgstr "По подразбиране"
+
+#: ../functions.php:1417
+msgid "Green"
+msgstr "Зелено"
+
+#: ../functions.php:1418
+msgid "Orange"
+msgstr "Оранжево"
+
+#: ../functions.php:1419
+msgid "Pink"
+msgstr "Розово"
+
+#: ../functions.php:1420
+msgid "Red"
+msgstr "Червено"
+
+#: ../functions.php:1432
+msgid "Header Style"
+msgstr "Стил на горния колонтитул"
+
+#: ../functions.php:1437
+msgid "Centered"
+msgstr "Центрирано"
+
+#: ../functions.php:1438
+msgid "Centered Inline Logo"
+msgstr ""
+
+#: ../functions.php:1449
+msgid "Enable Vertical Navigation"
+msgstr ""
+
+#: ../functions.php:1461
+msgid "Hide Navigation Until Scroll"
+msgstr ""
+
+#: ../functions.php:1473 ../functions.php:2045
+msgid "Show Social Icons"
+msgstr ""
+
+#: ../functions.php:1486
+msgid "Show Search Icon"
+msgstr "Покажи иконата за търсене"
+
+#: ../functions.php:1498 ../functions.php:1619
+msgid "Make Full Width"
+msgstr ""
+
+#: ../functions.php:1510 ../functions.php:1709 ../functions.php:1919
+msgid "Hide Logo Image"
+msgstr ""
+
+#: ../functions.php:1523
+msgid "Menu/Logo Height"
+msgstr ""
+
+#: ../functions.php:1541 ../functions.php:1625 ../functions.php:1950
+#: ../functions.php:2431
+msgid "Text Size"
+msgstr ""
+
+#: ../functions.php:1559 ../functions.php:1643 ../functions.php:2281
+#: ../functions.php:2524 ../functions.php:2712
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../functions.php:1578 ../functions.php:1662
+msgid "Font"
+msgstr ""
+
+#: ../functions.php:1594 ../functions.php:1678 ../functions.php:2299
+#: ../functions.php:2363
+msgid "Font Style"
+msgstr ""
+
+#: ../functions.php:1735
+msgid "Active Link Color"
+msgstr ""
+
+#: ../functions.php:1761 ../functions.php:1858
+msgid "Dropdown Menu Background Color"
+msgstr ""
+
+#: ../functions.php:1774
+msgid "Dropdown Menu Line Color"
+msgstr ""
+
+#: ../functions.php:1787 ../functions.php:1871
+msgid "Dropdown Menu Text Color"
+msgstr ""
+
+#: ../functions.php:1800 ../functions.php:1884
+msgid "Dropdown Menu Animation"
+msgstr ""
+
+#: ../functions.php:1804 ../functions.php:1888
+msgid "Fade"
+msgstr ""
+
+#: ../functions.php:1805 ../functions.php:1889
+msgid "Expand"
+msgstr ""
+
+#: ../functions.php:1806 ../functions.php:1890
+msgid "Slide"
+msgstr ""
+
+#: ../functions.php:1807 ../functions.php:1891
+msgid "Flip"
+msgstr ""
+
+#: ../functions.php:1932
+msgid "Fixed Menu/Logo Height"
+msgstr ""
+
+#: ../functions.php:1968
+msgid "Primary Menu Background Color"
+msgstr ""
+
+#: ../functions.php:1981
+msgid "Secondary Menu Background Color"
+msgstr ""
+
+#: ../functions.php:1994
+msgid "Menu Link Color"
+msgstr ""
+
+#: ../functions.php:2007
+msgid "Active Menu Link Color"
+msgstr "Активен цвят на линковете в менюто"
+
+#: ../functions.php:2020
+msgid "Phone Number"
+msgstr "Телефонен номер"
+
+#: ../functions.php:2032
+msgid "Email"
+msgstr "Имейл"
+
+#: ../functions.php:2058
+msgid "Column Layout"
+msgstr ""
+
+#: ../functions.php:2063 ../functions.php:2064 ../functions.php:2065
+#: ../functions.php:2067 ../functions.php:2068 ../functions.php:2069
+#: ../functions.php:2070 ../functions.php:2071 ../functions.php:2072
+#, php-format
+msgid "%1$s Columns"
+msgstr ""
+
+#: ../functions.php:2066
+msgid "1 Column"
+msgstr ""
+
+#: ../functions.php:2084
+msgid "Footer Background Color"
+msgstr "Фонов цвят на долния колонтитул"
+
+#: ../functions.php:2134
+msgid "Body/Link Text Size"
+msgstr ""
+
+#: ../functions.php:2152
+msgid "Body/Link Line Height"
+msgstr ""
+
+#: ../functions.php:2170
+msgid "Body Font Style"
+msgstr ""
+
+#: ../functions.php:2189
+msgid "Widget Text Color"
+msgstr ""
+
+#: ../functions.php:2202
+msgid "Widget Link Color"
+msgstr ""
+
+#: ../functions.php:2215
+msgid "Widget Header Color"
+msgstr ""
+
+#: ../functions.php:2228
+msgid "Widget Bullet Color"
+msgstr ""
+
+#: ../functions.php:2242
+msgid "Footer Menu Background Color"
+msgstr ""
+
+#: ../functions.php:2255
+msgid "Footer Menu Text Color"
+msgstr ""
+
+#: ../functions.php:2268
+msgid "Footer Menu Active Link Color"
+msgstr ""
+
+#: ../functions.php:2318 ../functions.php:2382
+msgid "Font Size"
+msgstr ""
+
+#: ../functions.php:2400
+msgid "Social Icon Size"
+msgstr ""
+
+#: ../functions.php:2418
+msgid "Social Icon Color"
+msgstr ""
+
+#: ../functions.php:2475
+msgid "Border Width"
+msgstr ""
+
+#: ../functions.php:2493 ../functions.php:2681
+msgid "Border Color"
+msgstr ""
+
+#: ../functions.php:2506 ../functions.php:2694
+msgid "Border Radius"
+msgstr ""
+
+#: ../functions.php:2542 ../functions.php:5189
+msgid "Button Font Style"
+msgstr ""
+
+#: ../functions.php:2562
+msgid "Buttons Font"
+msgstr ""
+
+#: ../functions.php:2578
+msgid "Add Button Icon"
+msgstr ""
+
+#: ../functions.php:2582 ../functions.php:2642
+msgid "Yes"
+msgstr "Si"
+
+#: ../functions.php:2583 ../functions.php:2643
+msgid "No"
+msgstr "No"
+
+#: ../functions.php:2595
+msgid "Select Icon"
+msgstr ""
+
+#: ../functions.php:2608
+msgid "Icon Color"
+msgstr "Цвят на иконата"
+
+#: ../functions.php:2621
+msgid "Icon Placement"
+msgstr ""
+
+#: ../functions.php:2638
+msgid "Only Show Icon on Hover"
+msgstr ""
+
+#: ../functions.php:2727
+msgid "Left to Right"
+msgstr ""
+
+#: ../functions.php:2728
+msgid "Right to Left"
+msgstr ""
+
+#: ../functions.php:2729
+msgid "Top to Bottom"
+msgstr ""
+
+#: ../functions.php:2730
+msgid "Bottom to Top"
+msgstr ""
+
+#: ../functions.php:2731
+msgid "Fade In"
+msgstr "Преход"
+
+#: ../functions.php:2732
+msgid "No Animation"
+msgstr "Без анимация"
+
+#: ../functions.php:2739 ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "Изображение"
+
+#: ../functions.php:2740
+msgid "Image Module Settings"
+msgstr "Настройка на модула за изображение"
+
+#: ../functions.php:2750
+msgid "Animation"
+msgstr "Анимация"
+
+#: ../functions.php:2751
+msgid "This controls default direction of the lazy-loading animation."
+msgstr ""
+
+#: ../functions.php:2761
+msgid "Gallery"
+msgstr "Галерия"
+
+#: ../functions.php:2774 ../functions.php:3601 ../functions.php:3715
+msgid "Zoom Icon Color"
+msgstr ""
+
+#: ../functions.php:2788 ../functions.php:3615 ../functions.php:3729
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: ../functions.php:2802 ../functions.php:2915 ../functions.php:3629
+#: ../functions.php:3743 ../functions.php:4030 ../functions.php:4116
+#: ../functions.php:4162 ../functions.php:4268
+msgid "Title Font Size"
+msgstr ""
+
+#: ../functions.php:2821 ../functions.php:2934 ../functions.php:3648
+#: ../functions.php:3762 ../functions.php:4049 ../functions.php:4135
+#: ../functions.php:4806 ../functions.php:4892
+msgid "Title Font Style"
+msgstr ""
+
+#: ../functions.php:2841 ../functions.php:3668 ../functions.php:3782
+msgid "Caption Font Size"
+msgstr ""
+
+#: ../functions.php:2860 ../functions.php:3687 ../functions.php:3801
+msgid "Caption Font Style"
+msgstr ""
+
+#: ../functions.php:2875
+msgid "Blurb"
+msgstr "Отправка"
+
+#: ../functions.php:2888 ../functions.php:3001 ../functions.php:3192
+#: ../functions.php:3317 ../functions.php:3383 ../functions.php:3469
+#: ../functions.php:3535 ../functions.php:4373 ../functions.php:5123
+#: ../functions.php:5236
+msgid "Header Font Size"
+msgstr ""
+
+#: ../functions.php:2902
+msgid "Tabs"
+msgstr "раздели"
+
+#: ../functions.php:2955 ../functions.php:3356 ../functions.php:3508
+#: ../functions.php:3574
+msgid "Padding"
+msgstr ""
+
+#: ../functions.php:2969
+msgid "Slider"
+msgstr "Плъзгач"
+
+#: ../functions.php:2982 ../functions.php:5217
+msgid "Top & Bottom Padding"
+msgstr ""
+
+#: ../functions.php:3040 ../functions.php:5275
+msgid "Content Font Size"
+msgstr ""
+
+#: ../functions.php:3059 ../functions.php:5294
+msgid "Content Font Style"
+msgstr ""
+
+#: ../functions.php:3074
+msgid "Testimonial"
+msgstr "Отзив"
+
+#: ../functions.php:3087 ../functions.php:4701
+msgid "Name Font Style"
+msgstr ""
+
+#: ../functions.php:3107
+msgid "Details Font Style"
+msgstr ""
+
+#: ../functions.php:3127
+msgid "Portrait Border Radius"
+msgstr ""
+
+#: ../functions.php:3179
+msgid "Pricing Table"
+msgstr "Ценова таблица"
+
+#: ../functions.php:3231 ../functions.php:3422 ../functions.php:4721
+msgid "Subheader Font Size"
+msgstr ""
+
+#: ../functions.php:3250 ../functions.php:3441 ../functions.php:4740
+msgid "Subheader Font Style"
+msgstr ""
+
+#: ../functions.php:3270 ../functions.php:5037
+msgid "Price Font Size"
+msgstr ""
+
+#: ../functions.php:3289
+msgid "Pricing Font Style"
+msgstr ""
+
+#: ../functions.php:3304
+msgid "Call To Action"
+msgstr "Призив за действие"
+
+#: ../functions.php:3370
+msgid "Audio"
+msgstr "Аудио"
+
+#: ../functions.php:3456
+msgid "Subscribe"
+msgstr "Абониране"
+
+#: ../functions.php:3588
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: ../functions.php:3702
+msgid "Filterable Portfolio"
+msgstr "Портфолио, което може да се филтрира"
+
+#: ../functions.php:3821
+msgid "Filters Font Size"
+msgstr ""
+
+#: ../functions.php:3840
+msgid "Filters Font Style"
+msgstr ""
+
+#: ../functions.php:3855
+msgid "Bar Counter"
+msgstr ""
+
+#: ../functions.php:3868
+msgid "Label Font Size"
+msgstr ""
+
+#: ../functions.php:3887
+msgid "Label Font Style"
+msgstr ""
+
+#: ../functions.php:3907
+msgid "Percent Font Size"
+msgstr ""
+
+#: ../functions.php:3926
+msgid "Percent Font Style"
+msgstr ""
+
+#: ../functions.php:3946
+msgid "Bar Padding"
+msgstr ""
+
+#: ../functions.php:3965
+msgid "Bar Border Radius"
+msgstr ""
+
+#: ../functions.php:3979
+msgid "Circle Counter"
+msgstr "Броячи на окръжността"
+
+#: ../functions.php:3991 ../functions.php:4077
+msgid "Number Font Size"
+msgstr ""
+
+#: ../functions.php:4010 ../functions.php:4096
+msgid "Number Font Style"
+msgstr ""
+
+#: ../functions.php:4064
+msgid "Number Counter"
+msgstr "Брояч с числа"
+
+#: ../functions.php:4150
+msgid "Accordion"
+msgstr "Акордеон"
+
+#: ../functions.php:4181 ../functions.php:4287
+msgid "Opened Title Font Style"
+msgstr ""
+
+#: ../functions.php:4201 ../functions.php:4307
+msgid "Closed Title Font Style"
+msgstr ""
+
+#: ../functions.php:4221 ../functions.php:4327
+msgid "Toggle Icon Size"
+msgstr ""
+
+#: ../functions.php:4241 ../functions.php:4346
+msgid "Toggle Padding"
+msgstr ""
+
+#: ../functions.php:4255
+msgid "Toggle"
+msgstr "Превключване"
+
+#: ../functions.php:4360
+msgid "Contact Form"
+msgstr "Контактна форма"
+
+#: ../functions.php:4412
+msgid "Input Font Size"
+msgstr ""
+
+#: ../functions.php:4431
+msgid "Input Font Style"
+msgstr ""
+
+#: ../functions.php:4451
+msgid "Input Field Padding"
+msgstr ""
+
+#: ../functions.php:4470
+msgid "Captcha Font Size"
+msgstr ""
+
+#: ../functions.php:4489
+msgid "Captcha Font Style"
+msgstr ""
+
+#: ../functions.php:4504 ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Странична лента"
+
+#: ../functions.php:4517
+msgid "Widget Header Font Size"
+msgstr ""
+
+#: ../functions.php:4536
+msgid "Widget Header Font Style"
+msgstr ""
+
+#: ../functions.php:4556
+msgid "Remove Vertical Divider"
+msgstr ""
+
+#: ../functions.php:4565
+msgid "Divider"
+msgstr "Устройства за разделяне"
+
+#: ../functions.php:4577
+msgid "Show Divider"
+msgstr "Покажи разделител"
+
+#: ../functions.php:4591
+msgid "Divider Style"
+msgstr ""
+
+#: ../functions.php:4596
+msgid "Solid"
+msgstr ""
+
+#: ../functions.php:4597
+msgid "Dotted"
+msgstr ""
+
+#: ../functions.php:4598
+msgid "Dashed"
+msgstr ""
+
+#: ../functions.php:4599
+msgid "Double"
+msgstr ""
+
+#: ../functions.php:4600
+msgid "Groove"
+msgstr ""
+
+#: ../functions.php:4601
+msgid "Ridge"
+msgstr ""
+
+#: ../functions.php:4602
+msgid "Inset"
+msgstr ""
+
+#: ../functions.php:4603
+msgid "Outset"
+msgstr ""
+
+#: ../functions.php:4616
+msgid "Divider Weight"
+msgstr ""
+
+#: ../functions.php:4635
+msgid "Divider Height"
+msgstr ""
+
+#: ../functions.php:4654
+msgid "Divider Position"
+msgstr ""
+
+#: ../functions.php:4659
+msgid "Top"
+msgstr "Горе"
+
+#: ../functions.php:4660
+msgid "Vertically Centered"
+msgstr ""
+
+#: ../functions.php:4661
+msgid "Bottom"
+msgstr "Долу"
+
+#: ../functions.php:4669
+msgid "Person"
+msgstr "Личност"
+
+#: ../functions.php:4682
+msgid "Name Font Size"
+msgstr ""
+
+#: ../functions.php:4760
+msgid "Social Network Icon Size"
+msgstr ""
+
+#: ../functions.php:4787 ../functions.php:4873
+msgid "Post Title Font Size"
+msgstr ""
+
+#: ../functions.php:4826 ../functions.php:4912
+msgid "Meta Font Size"
+msgstr ""
+
+#: ../functions.php:4860
+msgid "Masonry Blog"
+msgstr ""
+
+#: ../functions.php:4946
+msgid "Shop"
+msgstr "Магазин"
+
+#: ../functions.php:4959
+msgid "Product Name Font Size"
+msgstr ""
+
+#: ../functions.php:4978
+msgid "Product Name Font Style"
+msgstr ""
+
+#: ../functions.php:4998
+msgid "Sale Badge Font Size"
+msgstr ""
+
+#: ../functions.php:5017
+msgid "Sale Badge Font Style"
+msgstr ""
+
+#: ../functions.php:5056
+msgid "Price Font Style"
+msgstr ""
+
+#: ../functions.php:5076
+msgid "Sale Price Font Size"
+msgstr ""
+
+#: ../functions.php:5095
+msgid "Sale Price Font Style"
+msgstr ""
+
+#: ../functions.php:5110
+msgid "Countdown"
+msgstr ""
+
+#: ../functions.php:5157
+msgid "Social Follow"
+msgstr ""
+
+#: ../functions.php:5170
+msgid "Follow Font & Icon Size"
+msgstr ""
+
+#: ../functions.php:5204
+msgid "Full Width Slider"
+msgstr ""
+
+#: ../functions.php:7875
+msgid "0 comments"
+msgstr "0 коментари"
+
+#: ../functions.php:7875
+msgid "1 comment"
+msgstr "1 коментар"
+
+#: ../functions.php:7875
+msgid "comments"
+msgstr "коментари"
+
+#: ../functions.php:8026
+msgid "No Gallery Found"
+msgstr ""
+
+#: ../functions.php:8028
+msgid "No items found"
+msgstr ""
+
+#: ../functions.php:8170
+msgid "Password Protected"
+msgstr "Защита с парола"
+
+#: ../functions.php:8171
+msgid "To view this protected post, enter the password below"
+msgstr "За да видите тази защитена публикация, въведете паролата по-долу"
+
+#: ../functions.php:8174
+msgid "Password"
+msgstr "Парола"
+
+#: ../functions.php:8175
+msgid "Submit"
+msgstr "Изпращане"
+
+#: ../functions.php:8347
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:8349
+msgid "Item"
+msgstr "Елемент"
+
+#: ../functions.php:8349
+msgid "Items"
+msgstr "Елементи"
+
+#: ../functions.php:8524
+msgid "Connecting..."
+msgstr "Свързване..."
+
+#: ../functions.php:8525
+msgid "Connection failed"
+msgstr "Неуспех при свързване"
+
+#: ../functions.php:8526
+msgid "Removing connection..."
+msgstr "Премахване на връзка ..."
+
+#: ../functions.php:8527
+msgid "Done"
+msgstr "Готово"
+
+#: ../functions.php:8556
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr ""
+"Стъпка 1: <a href=\"%1$s\" target=\"_blank\">Генериране на код за "
+"разрешение</a>"
+
+#: ../functions.php:8557
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Стъпка 2: Поставете кода за разрешение и натиснете бутона \"Осъществяване на "
+"връзка\": "
+
+#: ../functions.php:8558
+msgid "Make a connection"
+msgstr "Осъществете връзка"
+
+#: ../functions.php:8561
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber е конфигуриран правилно. Можете да премахнете връзката от тук, ако "
+"желаете."
+
+#: ../functions.php:8562
+msgid "Remove the connection"
+msgstr "Премахване на връзката"
+
+#: ../functions.php:8570
+msgid "Nonce failed."
+msgstr "Nonce беше неуспешен."
+
+#: ../functions.php:8576
+msgid "Authorization code is empty."
+msgstr "Кодът за разрешение е празен."
+
+#: ../functions.php:8587
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"Кодът за разрешение е невалиден. Опитайте се да го генерирате повторни и "
+"поставете новия код."
+
+#: ../functions.php:8609
+msgid "Aweber API Exception"
+msgstr "Aweber API изключение"
+
+#: ../functions.php:8611
+msgid "Message"
+msgstr "Съобщение"
+
+#: ../functions.php:8622
+msgid "Nonce failed"
+msgstr "Nonce беше неуспешен"
+
+#: ../functions.php:8717
+msgid "Read more"
+msgstr "Повече информация"
+
+#: ../functions.php:8845
+msgid "Configuration error"
+msgstr "Грешка в конфигурацията"
+
+#: ../functions.php:8855
+msgid "Please enter first name"
+msgstr "Моля, в﻿ъведете вашето име"
+
+#: ../functions.php:8857
+msgid "Incorrect email"
+msgstr "Неправилен имейл"
+
+#: ../functions.php:8859
+msgid "Configuration error: List is not defined"
+msgstr "Грешка в конфигурацията: Списъкът не е дефиниран"
+
+#: ../functions.php:8861
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Записан - потърсете имейла за потвърждение!</"
+"h2>"
+
+#: ../functions.php:8873
+msgid "Configuration error: api key is not defined"
+msgstr "Грешка в конфигурацията: Не е дефиниран API код"
+
+#: ../functions.php:8910
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: Грешни данни при конфигурацията"
+
+#: ../functions.php:8940 ../functions.php:8961
+msgid "Theme Customizer"
+msgstr ""
+
+#: ../functions.php:8941 ../functions.php:8971
+msgid "Module Customizer"
+msgstr ""
+
+#: ../functions.php:8942
+msgid "Divi Library"
+msgstr ""
+
+#: ../header.php:176
+msgid "Search &hellip;"
+msgstr "Търсене &hellip;"
+
+#: ../header.php:178
+msgid "Search for:"
+msgstr "Търсене за:"
+
+#. translators: 1: date, 2: time
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr "на %1$s at %2$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Редактиране)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Отговор"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Вашият коментар очаква одобрение."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Прочетете Divi документацията"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "Област за долен колонтитул"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Вижте видео уроците"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; По-стари записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следващи записи &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Няма намерени резултати"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Страницата, която търсите, не може да бъде намерена. Опитайте прецизиране на "
+"търсенето или използвайте навигацията по-горе, за да намерите публикацията."
+
+#: ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Показва информация за мен "
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "Графичен модул \"За мен\""
+
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "За мен"
+
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "Заглавие"
+
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "Текст"
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Показва реклами"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "Рекламиране"
+
+#: ../includes/widgets/widget-ads.php:12
+#: ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "Рекламиране"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "Използвай относително пътища за изображение"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "Отвори в нов прозорец"
+
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236
+#: ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "Банер"
+
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "URL"
+
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "Aлт.."
+
+#: ../includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr ""
+"Ако не искате да показвате някои банери - оставете съответните полета празни"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Показва Adsense реклами"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "Графичен модул Adsense"
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Adsense код"
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:105
+msgid "Pages:"
+msgstr "Страници:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#~ msgid "Posts by %s"
+#~ msgstr "Публикации от %s"
+
+#~ msgid "% Comments"
+#~ msgstr "% Коментари"
+
+#~ msgid "No Comments"
+#~ msgstr "Няма коментари"
+
+#~ msgid "by"
+#~ msgstr "от"
+
+#~ msgid "ET Settings"
+#~ msgstr "ЕТ настройки"
+
+#~ msgid "Layouts"
+#~ msgstr "Оформления"
+
+#~ msgid "Add New Layout"
+#~ msgstr "Добавяне на ново оформление"
+
+#~ msgid "Edit Layout"
+#~ msgstr "Редактиране на оформление"
+
+#~ msgid "New Layout"
+#~ msgstr "Ново оформление"
+
+#~ msgid "All Layouts"
+#~ msgstr "Всички оформления"
+
+#~ msgid "View Layout"
+#~ msgstr "Преглед на оформление"
+
+#~ msgid "Search Layouts"
+#~ msgstr "Търсене на оформления"
+
+#~ msgid "Side Navigation"
+#~ msgstr "Странична навигация"
+
+#~ msgid "Theme Settings"
+#~ msgstr "Настройки на тема"
+
+#~ msgid "Fonts"
+#~ msgstr "Шрифтове"
+
+#~ msgid "Schemes"
+#~ msgstr "Схеми"
+
+#~ msgid "Link Color"
+#~ msgstr "Цвят на линка"
+
+#~ msgid "Main Font Color"
+#~ msgstr "Цвят на основния шрифт"
+
+#~ msgid "Accent Color"
+#~ msgstr "Цветови оттенък"
+
+#~ msgid "Menu Links Color"
+#~ msgstr "Цвят на линковете в менюто"
+
+#~ msgid "Boxed Layout"
+#~ msgstr "Оформление в полета"
+
+#~ msgid "Vertical Navigation"
+#~ msgstr "Вертикална навигация"
+
+#~ msgid "Show Social Icons in Header"
+#~ msgstr "Покажи социални икони в горния колонтитул на уебсайта"
+
+#~ msgid "Show Social Icons in Footer"
+#~ msgstr "Покажи социални икони в долния колонтитул на уебсайта"
+
+#~ msgid "Primary Navigation Background"
+#~ msgstr "Фонов цвят на основната навигация"
+
+#~ msgid "Primary Navigation Text Color"
+#~ msgstr "Цвят на текста на основната навигация"
+
+#~ msgid "Secondary Navigation Background"
+#~ msgstr "Фонов цвят на допълнителната навигация"
+
+#~ msgid "Secondary Navigation Text Color"
+#~ msgstr "Цвят на текста на допълнителната навигация"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Tab"
+#~ msgstr "Раздел"
+
+#~ msgid "Follow"
+#~ msgstr "Следвам"
+
+#~ msgid "Days"
+#~ msgstr "Дни"
+
+#~ msgid "Hours"
+#~ msgstr "Часа"
+
+#~ msgid "Hrs"
+#~ msgstr "Час"
+
+#~ msgid "Minutes"
+#~ msgstr "Минути"
+
+#~ msgid "Min"
+#~ msgstr "Мин"
+
+#~ msgid "Seconds"
+#~ msgstr "Секунди"
+
+#~ msgid "Sec"
+#~ msgstr "Сек"
+
+#~ msgid "by <strong>%1$s</strong>"
+#~ msgstr "от <strong>%1$s</strong>"
+
+#~ msgid "First Name"
+#~ msgstr "Име﻿"
+
+#~ msgid "Last Name"
+#~ msgstr "Фамилия"
+
+#~ msgid "Email Address"
+#~ msgstr "Имейл адрес"
+
+#~ msgid "Name"
+#~ msgstr "Име"
+
+#~ msgid "Logged in as %1$s"
+#~ msgstr "Влезли сте като %1$s"
+
+#~ msgid "Log out"
+#~ msgstr "Изход"
+
+#~ msgid "Username"
+#~ msgstr "Потребителско име"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Забравили се паролата си?"
+
+#~ msgid "by %s"
+#~ msgstr "от %s"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "read more..."
+#~ msgstr "повече информация..."
+
+#~ msgid "read more"
+#~ msgstr "повече информация"
+
+#~ msgid "All"
+#~ msgstr "Всички"
+
+#~ msgid "Make sure you entered the captcha."
+#~ msgstr "Уверете се, че сте въвели captcha."
+
+#~ msgid "You entered the wrong number in captcha."
+#~ msgstr "Въвели сте грешно число в captcha."
+
+#~ msgid "Make sure you fill all fields."
+#~ msgstr "Уверете се, че ще попълните всички полета."
+
+#~ msgid "Invalid Email."
+#~ msgstr "Невалиден имейл."
+
+#~ msgid "New Message From %1$s%2$s"
+#~ msgstr "Ново съобщение от %1$s%2$s"
+
+#~ msgid " - %s"
+#~ msgstr " - %s"
+
+#~ msgid "Thanks for contacting us"
+#~ msgstr "Благодарим ви, че се свързахте с нас"
+
+#~ msgid "Export Page Builder Layouts"
+#~ msgstr "Експортиране на оформления на създател на страници"
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to export the content of this site."
+#~ msgstr ""
+#~ "Вие нямате достатъчно права за експортиране на съдържанието на този сайт."
+
+#~ msgid ""
+#~ "When you click the button below WordPress will create an XML file for you "
+#~ "to save to your computer."
+#~ msgstr ""
+#~ "Когато кликнете върху бутона WordPress по-долу, ще създадете XML файл, "
+#~ "който да запишете на вашия компютър."
+
+#~ msgid ""
+#~ "This format, which we call WordPress eXtended RSS or WXR, will contain "
+#~ "all layouts you created using the Page Builder."
+#~ msgstr ""
+#~ "Този формат, който ние наричаме WordPress eXtended RSS или WXR,  ще "
+#~ "съдържа всички оформления, които сте създали с помощта на създаването на "
+#~ "страници (Page Builder)."
+
+#~ msgid ""
+#~ "Once you&#8217;ve saved the download file, you can use the Import "
+#~ "function in another WordPress installation to import all layouts from "
+#~ "this site."
+#~ msgstr ""
+#~ "След като сте записали файла за изтегляне, можете да използвате функцията "
+#~ "за импортиране в друга WordPress инсталация, за да импортирате всички "
+#~ "оформления от този сайт."
+
+#~ msgid "Download Export File"
+#~ msgstr "Изтегляне на файл за експортиране"
+
+#~ msgid "Use Default Editor"
+#~ msgstr "Използване на редактор по подразбиране"
+
+#~ msgid "Use Page Builder"
+#~ msgstr "Използване на създаване на страници (Page Builder)"
+
+#~ msgid "Here you can create new widget areas for use in the Sidebar module"
+#~ msgstr ""
+#~ "Тук можете да създавате нови области за графични компоненти за използване "
+#~ "в модула Странична лента"
+
+#~ msgid ""
+#~ "Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar "
+#~ "3\", \"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+#~ msgstr ""
+#~ "Забележка: Наименуването на областта на вашия графичен компонент  "
+#~ "\"странична лента 1\", \"странична лента 2\", \"странична лента 3\", "
+#~ "\"странична лента 4\" или \"странична лента 5\" ще доведе до конфликт с "
+#~ "тази тема"
+
+#~ msgid "Widget Name"
+#~ msgstr "Име на графичен компонент"
+
+#~ msgid "Create"
+#~ msgstr "Създай"
+
+#~ msgid "Delete"
+#~ msgstr "Изтрий"
+
+#~ msgid ""
+#~ "<strong>%1$s</strong> widget area has been created. You can create more "
+#~ "areas, once you finish update the page to see all the areas."
+#~ msgstr ""
+#~ "Беше създадена <strong>%1$s</strong> област за графични компоненти. "
+#~ "Можете да създадете повече области, след като завърши обновяването на "
+#~ "страницата, за да видите всички области."
+
+#~ msgid "Replace the existing content with loaded layout"
+#~ msgstr "Заменете съществуващото съдържание с новото оформление"
+
+#~ msgid "Saved Layouts:"
+#~ msgstr "Запазени оформления:"
+
+#~ msgid "Load"
+#~ msgstr "Зареди"
+
+#~ msgid "Predefined Layouts:"
+#~ msgstr "Предварително зададени оформления:"
+
+#~ msgid "The section should have at least one row."
+#~ msgstr "Разделът трябва да има поне един ред."
+
+#~ msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+#~ msgstr ""
+#~ "Модул с пълна ширина не може да се използва извън раздела Пълна ширина."
+
+#~ msgid "3 column row can't be used in this column."
+#~ msgstr "Ред с 3 колони не може да се използва в тази колона."
+
+#~ msgid "Preview"
+#~ msgstr "Преглед"
+
+#~ msgid "Module"
+#~ msgstr "Модул"
+
+#~ msgid ""
+#~ "Still images cannot be generated from this video service and/or this "
+#~ "video format"
+#~ msgstr ""
+#~ "Снимките не могат да бъдат генерирани от тази видео услуга и/или видео "
+#~ "формат"
+
+#~ msgid "Geocode was not successful for the following reason"
+#~ msgstr "Геокодът не бе успешен поради следната причина"
+
+#~ msgid "Geocoder failed due to"
+#~ msgstr "Геокодерът не успя поради"
+
+#~ msgid "No results found"
+#~ msgstr "Няма намерени резултати"
+
+#~ msgid "Video"
+#~ msgstr "Видео"
+
+#~ msgid "Video Slider"
+#~ msgstr "Плъзгач за видео"
+
+#~ msgid "Bar Counters"
+#~ msgstr "Броячи на лентата"
+
+#~ msgid "Fullwidth Header"
+#~ msgstr "Заглавка с пълна ширина"
+
+#~ msgid "Fullwidth Menu"
+#~ msgstr "Меню с пълна ширина"
+
+#~ msgid "Fullwidth Slider"
+#~ msgstr "Плъзгач с пълна ширина"
+
+#~ msgid "Fullwidth Portfolio"
+#~ msgstr "Портфолио с пълна ширина"
+
+#~ msgid "Countdown Timer"
+#~ msgstr "Таймер за обратно отброяване"
+
+#~ msgid "Map"
+#~ msgstr "Карта"
+
+#~ msgid "Fullwidth Map"
+#~ msgstr "Пълна ширина Карта"
+
+#~ msgid "Social Media Follow"
+#~ msgstr "Социална медия"
+
+#~ msgid "Page Builder"
+#~ msgstr "Създаване на страници"
+
+#~ msgid "Save Layout"
+#~ msgstr "Запиши оформлението"
+
+#~ msgid "Load Layout"
+#~ msgstr "Зареди оформлението"
+
+#~ msgid "Clear Layout"
+#~ msgstr "Изчисти оформлението"
+
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgid "Clone Section"
+#~ msgstr "Дублиране на раздела"
+
+#~ msgid "Delete Section"
+#~ msgstr "Изтриване на раздела"
+
+#~ msgid "Add Section"
+#~ msgstr "Добави раздел"
+
+#~ msgid "Add Fullwidth Section"
+#~ msgstr "Добави раздел с пълна ширина "
+
+#~ msgid "Add Specialty Section"
+#~ msgstr "Добави специален раздел"
+
+#~ msgid "Clone Row"
+#~ msgstr "Дублирай ред"
+
+#~ msgid "Delete Row"
+#~ msgstr "Изтрий ред"
+
+#~ msgid "Insert Column(s)"
+#~ msgstr "Вмъкни колона(и)"
+
+#~ msgid "Add Row"
+#~ msgstr "Добави ред"
+
+#~ msgid "Module Settings"
+#~ msgstr "Настройка на модула"
+
+#~ msgid "Clone Module"
+#~ msgstr "Дублирай модул"
+
+#~ msgid "Delete Module"
+#~ msgstr "Изтрий модул"
+
+#~ msgid "Close modal window"
+#~ msgstr "Затвори модален прозорец"
+
+#~ msgid "Save"
+#~ msgstr "Запиши"
+
+#~ msgid "Insert Columns"
+#~ msgstr "Вмъкни колони"
+
+#~ msgid "Insert Module"
+#~ msgstr "Вмъкни модул"
+
+#~ msgid "Section Module Settings"
+#~ msgstr "Настройки на раздела за модул"
+
+#~ msgid "Upload an image"
+#~ msgstr "Качи изображение"
+
+#~ msgid "Choose a Background Image"
+#~ msgstr "Изберете фоново изображение"
+
+#~ msgid "Set As Background"
+#~ msgstr "Задайте като фон"
+
+#~ msgid ""
+#~ "If defined, this image will be used as the background for this module. To "
+#~ "remove a background image, simply delete the URL from the settings field."
+#~ msgstr ""
+#~ " Ако е дефинирано, това изображение ще бъде използвано като фон за този "
+#~ "модул. За да премахнете фоново изображение, просто да изтрийте URL от "
+#~ "полето с настройки."
+
+#~ msgid "Transparent Background Color"
+#~ msgstr "Прозрачен цвят на фона"
+
+#~ msgid ""
+#~ "Switch on this option if you need transparent background color for the "
+#~ "section."
+#~ msgstr ""
+#~ "Включете тази опция, ако ви трябва прозрачен цвят за фона на раздела."
+
+#~ msgid ""
+#~ "Define a custom background color for your module, or leave blank to use "
+#~ "the default color."
+#~ msgstr ""
+#~ "Дефинирайте потребителски цвят на фона за вашия модул, или оставете "
+#~ "празно, за да използвате цвета по подразбиране."
+
+#~ msgid "Background Video MP4"
+#~ msgstr "Фоново видео .MP4"
+
+#~ msgid "Upload a video"
+#~ msgstr "Качете видео"
+
+#~ msgid "Choose a Background Video MP4 File"
+#~ msgstr "Изберете файл с фоново видео .MP4"
+
+#~ msgid "Set As Background Video"
+#~ msgstr "Задайте като фоново видео"
+
+#~ msgid ""
+#~ "All videos should be uploaded in both .MP4 .WEBM formats to ensure "
+#~ "maximum compatibility in all browsers. Upload the .MP4 version here. "
+#~ "<b>Important Note: Video backgrounds are disabled from mobile devices. "
+#~ "Instead, your background image will be used. For this reason, you should "
+#~ "define both a background image and a background video to ensure best "
+#~ "results.</b>"
+#~ msgstr ""
+#~ "Всички видео клипове трябва да бъдат качени във формати .MP4 и .WEBM, за "
+#~ "да се гарантира максимална съвместимост с всички браузъри. Качете .WEBM "
+#~ "версията тук. Важна забележка: Видео фоновете са изключени от мобилните "
+#~ "устройства. Вместо това ще бъде използвано вашето фоново изображение. "
+#~ "Поради тази причина трябва да дефинирате както фоново изображение, така и "
+#~ "фоново видео, за да гарантирате най-добрите резултати."
+
+#~ msgid "Background Video Webm"
+#~ msgstr "Фоново видео .WEBM"
+
+#~ msgid "Choose a Background Video WEBM File"
+#~ msgstr "Изберете .WEBM файл за фоново видео"
+
+#~ msgid ""
+#~ "All videos should be uploaded in both .MP4 .WEBM formats to ensure "
+#~ "maximum compatibility in all browsers. Upload the .WEBM version here. "
+#~ "<b>Important Note: Video backgrounds are disabled from mobile devices. "
+#~ "Instead, your background image will be used. For this reason, you should "
+#~ "define both a background image and a background video to ensure best "
+#~ "results.</b>"
+#~ msgstr ""
+#~ "Всички видео клипове трябва да бъдат качени във формати .MP4 и .WEBM, за "
+#~ "да се гарантира максимална съвместимост с всички браузъри. Качете .WEBM "
+#~ "версията тук. Важна забележка: Видео фоновете са изключени от мобилните "
+#~ "устройства. Вместо това ще бъде използвано вашето фоново изображение. "
+#~ "Поради тази причина трябва да дефинирате както фоново изображение, така и "
+#~ "фоново видео, за да гарантирате най-добрите резултати."
+
+#~ msgid "Background Video Width"
+#~ msgstr "Ширина на фоново видео"
+
+#~ msgid ""
+#~ "In order for videos to be sized correctly, you must input the exact width "
+#~ "(in pixels) of your video here."
+#~ msgstr ""
+#~ "За да могат видеоклиповете да бъдат оразмерени правилно, трябва да "
+#~ "въведете точната ширина (в пиксели) на вашето видео тук."
+
+#~ msgid "Background Video Height"
+#~ msgstr "Височина на фоново видео"
+
+#~ msgid ""
+#~ "In order for videos to be sized correctly, you must input the exact "
+#~ "height (in pixels) of your video here."
+#~ msgstr ""
+#~ "За да може видеоклиповете да бъдат оразмерени правилно, трябва да "
+#~ "въведете точната височина (в пиксели) на вашето видео тук."
+
+#~ msgid "Pause Video"
+#~ msgstr "Поставете видеото на пауза"
+
+#~ msgid "Allow video to be paused by other players when they begin playing"
+#~ msgstr ""
+#~ "Разрешете видеото да бъде поставено на пауза от други хора, когато те "
+#~ "започват да го възпроизвеждат"
+
+#~ msgid "Inner Shadow"
+#~ msgstr "Вътрешна сянка"
+
+#~ msgid "Don't Show Inner Shadow"
+#~ msgstr "Не показвай вътрешна сянка"
+
+#~ msgid "Show Inner Shadow"
+#~ msgstr "Покажи вътрешна сянка"
+
+#~ msgid ""
+#~ "Here you can select whether or not your section has an inner shadow. This "
+#~ "can look great when you have colored backgrounds or background images."
+#~ msgstr ""
+#~ "Тук можете да изберете дали вашият раздел да има вътрешна сянка. Това "
+#~ "може да изглежда страхотно, когато имате цветни фонове или фонови "
+#~ "изображения."
+
+#~ msgid "Parallax effect"
+#~ msgstr "Паралакс ефект"
+
+#~ msgid "Don't Use Parallax Effect"
+#~ msgstr "Не използвайте паралакс ефект"
+
+#~ msgid "Use Parallax Effect"
+#~ msgstr "Използвайте паралакс ефект"
+
+#~ msgid ""
+#~ "If enabled, your background image will stay fixed as your scroll, "
+#~ "creating a fun parallax-like effect."
+#~ msgstr ""
+#~ "Ако е разрешено, вашето фоново изображение ще остане фиксирано при "
+#~ "превъртане, като създава приятен ефект, подобен на паралакс."
+
+#~ msgid "Parallax method"
+#~ msgstr "Паралакс метод"
+
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "True Parallax"
+#~ msgstr "Истински паралакс"
+
+#~ msgid "Define the method, used for the parallax effect."
+#~ msgstr "Определете метода, използван за паралакс ефект."
+
+#~ msgid "CSS ID"
+#~ msgstr "CSS ID"
+
+#~ msgid ""
+#~ "Enter an optional CSS ID to be used for this module. An ID can be used to "
+#~ "create custom CSS styling, or to create links to particular sections of "
+#~ "your page."
+#~ msgstr ""
+#~ "Въведете незадължителен CSS ID, който да бъде използван за този модул. ID "
+#~ "може да се използва за създаване на потребителски CSS стилове или за "
+#~ "създаване на линкове към определени раздели от вашата страница."
+
+#~ msgid "CSS Class"
+#~ msgstr "CSS клас"
+
+#~ msgid ""
+#~ "Enter optional CSS classes to be used for this module. A CSS class can be "
+#~ "used to create custom CSS styling. You can add multiple classes, "
+#~ "separated with a space."
+#~ msgstr ""
+#~ "Въведете незадължителни CSS класове, които се използват за този модул. "
+#~ "CSS клас може да се използва за създаване на потребителски CSS стилове "
+#~ "Можете да добавите няколко класове, разделени с интервал."
+
+#~ msgid "Image URL"
+#~ msgstr "URL на изображение"
+
+#~ msgid "Set As Image"
+#~ msgstr "Задайте като изображение"
+
+#~ msgid ""
+#~ "Upload your desired image, or type in the URL to the image you would like "
+#~ "to display."
+#~ msgstr ""
+#~ "Качете желаното изображение или въведете URL на изображението, което "
+#~ "бихте искали да покажете."
+
+#~ msgid "Image Alternative Text"
+#~ msgstr "Алтернативен текст на изображението"
+
+#~ msgid ""
+#~ "This defines the HTML ALT text. A short description of your image can be "
+#~ "placed here."
+#~ msgstr ""
+#~ "Това определя алтернативния текст на изображението Кратко описание на "
+#~ "изображението може да бъдат поставено тук."
+
+#~ msgid "Image Title Text"
+#~ msgstr "Текст на заглавието на изображението"
+
+#~ msgid "This defines the HTML Title text."
+#~ msgstr "Това определя текста на HTML заглавието."
+
+#~ msgid "Lightbox"
+#~ msgstr "Lightbox"
+
+#~ msgid "Don't Open In Lightbox"
+#~ msgstr "Не отваряйте в Lightbox"
+
+#~ msgid "Open In Lightbox"
+#~ msgstr "Отворете в Lightbox"
+
+#~ msgid ""
+#~ "Here you can choose whether or not the image should open in Lightbox. "
+#~ "Note: if you select to open the image in Lightbox, url options below will "
+#~ "be ignored."
+#~ msgstr ""
+#~ "Тук можете да изберете дали изображението трябва да се отвори в Lightbox. "
+#~ "Забележка: ако изберете да отворите изображението в Lightbox, URL опциите "
+#~ "по-долу ще бъдат игнорирани."
+
+#~ msgid "Link URL"
+#~ msgstr "Линк URL"
+
+#~ msgid ""
+#~ "If you would like your image to be a link, input your destination URL "
+#~ "here. No link will be created if this field is left blank."
+#~ msgstr ""
+#~ "Ако искате вашето изображение да бъде линк, въведете URL на вашето "
+#~ "местоназначение тук. Няма да бъде създаден линк, ако това поле бъде "
+#~ "оставено празно."
+
+#~ msgid "Url Opens"
+#~ msgstr "URL се отваря"
+
+#~ msgid "In The Same Window"
+#~ msgstr "В същия прозорец"
+
+#~ msgid "In The New Tab"
+#~ msgstr "В новия раздел"
+
+#~ msgid "Here you can choose whether or not your link opens in a new window"
+#~ msgstr "Тук можете да изберете дали вашият линк да се отваря в нов прозорец"
+
+#~ msgid "Left To Right"
+#~ msgstr "Отляво надясно"
+
+#~ msgid "Right To Left"
+#~ msgstr "Отдясно наляво"
+
+#~ msgid "Top To Bottom"
+#~ msgstr "Отгоре надолу"
+
+#~ msgid "Bottom To Top"
+#~ msgstr "Отдолу нагоре"
+
+#~ msgid "This controls the direction of the lazy-loading animation."
+#~ msgstr "Това контролира посоката на анимацията."
+
+#~ msgid "Remove Space Below The Image"
+#~ msgstr "Махни интервала под изображението"
+
+#~ msgid ""
+#~ "Here you can choose whether or not the image should have a space below it."
+#~ msgstr ""
+#~ "Тук можете да изберете дали изображението трябва да има интервал под него."
+
+#~ msgid "Admin Label"
+#~ msgstr "Етикет на администратор"
+
+#~ msgid ""
+#~ "This will change the label of the module in the builder for easy "
+#~ "identification."
+#~ msgstr ""
+#~ "Това ще се промени етикета на модула в инструмента за създаване за лесна "
+#~ "идентификация."
+
+#~ msgid "Gallery Module Settings"
+#~ msgstr "Настройки на модула галерия"
+
+#~ msgid "Gallery Images"
+#~ msgstr "Галерия със снимки"
+
+#~ msgid "Update Gallery"
+#~ msgstr "Актуализация на галерията"
+
+#~ msgid "Grid"
+#~ msgstr "Мрежа"
+
+#~ msgid "Toggle between the various blog layout types."
+#~ msgstr "Превключвайте между различните видове оформления за блог."
+
+#~ msgid "Images Number"
+#~ msgstr "Номер на изображенията"
+
+#~ msgid "Define the number of images that should be displayed per page."
+#~ msgstr ""
+#~ "Определете броя изображения, които трябва да бъдат показани на страница."
+
+#~ msgid "Show Title and Caption"
+#~ msgstr "Покажи заглавие и надпис"
+
+#~ msgid ""
+#~ "Here you can choose whether to show the images title and caption, if the "
+#~ "image has them."
+#~ msgstr ""
+#~ "Тук можете да изберете дали да покажете заглавието и надписа на "
+#~ "изображенията, ако изображението има такива."
+
+#~ msgid "Pagination"
+#~ msgstr "Номериране на страници"
+
+#~ msgid "Show Pagination"
+#~ msgstr "Покажи номериране на страници"
+
+#~ msgid "Don't Show Pagination"
+#~ msgstr "Не показвай номериране на страници"
+
+#~ msgid "Enable or disable pagination for this feed."
+#~ msgstr "Включи или изключи номерирането на страници за този канал."
+
+#~ msgid ""
+#~ "Here you can choose whether your text should be light or dark. If you are "
+#~ "working with a dark background, then your text should be light. If your "
+#~ "background is light, then your text should be set to dark."
+#~ msgstr ""
+#~ "Тук можете да изберете дали вашият текст да е светъл или тъмен. Ако "
+#~ "работите с тъмен фон, текстът трябва да е светъл. Ако вашата фон е "
+#~ "светъл, текстът трябва да е тъмен."
+
+#~ msgid "Video Module Settings"
+#~ msgstr "Настройки на видео модул"
+
+#~ msgid "Video MP4/URL"
+#~ msgstr "Видео .MP4 URL"
+
+#~ msgid "Choose a Video MP4 File"
+#~ msgstr "Изберете видео .MP4 файл"
+
+#~ msgid "Set As Video"
+#~ msgstr "Задайте като видео"
+
+#~ msgid ""
+#~ "Upload your desired video in .MP4 format, or type in the URL to the video "
+#~ "you would like to display"
+#~ msgstr ""
+#~ "Качете желаното от вас видео в .MP4 формат или въведете URL за видеото, "
+#~ "което искате да покажете."
+
+#~ msgid "Video Webm"
+#~ msgstr "Видео .WEBM"
+
+#~ msgid "Choose a Video WEBM File"
+#~ msgstr "Изберете Video .WEBM файл"
+
+#~ msgid ""
+#~ "Upload the .WEBM version of your video here. All uploaded videos should "
+#~ "be in both .MP4 .WEBM formats to ensure maximum compatibility in all "
+#~ "browsers."
+#~ msgstr ""
+#~ "Качете .WEBM версията на вашето видео тук. Всички качени видео клипове "
+#~ "трябва да бъдат качени във формати .MP4 и .WEBM, за да се гарантира "
+#~ "максимална съвместимост с всички браузъри."
+
+#~ msgid "Image Overlay URL"
+#~ msgstr "URL за насложено изображение"
+
+#~ msgid "Generate From Video"
+#~ msgstr "Генерирайте от видео"
+
+#~ msgid ""
+#~ "Upload your desired image, or type in the URL to the image you would like "
+#~ "to display over your video. You can also generate a still image from your "
+#~ "video."
+#~ msgstr ""
+#~ "Качете желаното изображение или напишете URL в изображението, което бихте "
+#~ "искали да покажете над вашето видео. От вашето видео също можете да "
+#~ "генерирате неподвижно изображение."
+
+#~ msgid "Video Slider Module Settings"
+#~ msgstr "Настройки на модул видео плъзгач"
+
+#~ msgid "Add New Video"
+#~ msgstr "Добави ново видео"
+
+#~ msgid "Display Image Overlays on Main Video"
+#~ msgstr "Покажи насложени изображения върху основното видео"
+
+#~ msgid ""
+#~ "This option will cover the player UI on the main video. This image can "
+#~ "either be uploaded in each video setting or auto-generated by Divi."
+#~ msgstr ""
+#~ "Тази опция ще покрие интерфейса на плейъра на основното видео. Това "
+#~ "изображение може или да бъде качено във всяка видео настройка или "
+#~ "автоматично генерирано от Divi."
+
+#~ msgid "Arrows"
+#~ msgstr "Стрелки"
+
+#~ msgid "Show Arrows"
+#~ msgstr "Покажи стрелките"
+
+#~ msgid "Hide Arrows"
+#~ msgstr "Скрий стрелките"
+
+#~ msgid "This setting will turn on and off the navigation arrows."
+#~ msgstr "Тази настройка ще включва и изключва стрелките за навигация."
+
+#~ msgid "Slider Controls"
+#~ msgstr "Управления на плъзгача"
+
+#~ msgid "Use Thumbnail Track"
+#~ msgstr "Използвайте Проследяване на миниатюра"
+
+#~ msgid "Use Dot Navigation"
+#~ msgstr "Използвайте Навигация чрез точки"
+
+#~ msgid ""
+#~ "This setting will let you choose to use the thumbnail track controls "
+#~ "below the slider or dot navigation at the bottom of the slider."
+#~ msgstr ""
+#~ "Тази настройка ще ви позволи да изберете да използвате управленията за "
+#~ "проследяване на миниатюра под плъзгача или навигация на точка в долната "
+#~ "част на плъзгача."
+
+#~ msgid "Slider Controls Color"
+#~ msgstr "Цвят на управления на плъзгача"
+
+#~ msgid ""
+#~ "This setting will make your slider controls either light or dark in "
+#~ "color. Slider controls are either the arrows on the thumbnail track or "
+#~ "the circles in dot navigation."
+#~ msgstr ""
+#~ "Тази настройка ще направи управленията на вашия плъзгач светли или тъмни "
+#~ "на цвят. Управленията на плъзгача са или стрелките на проследяването на "
+#~ "миниатюра, или кръгчетата в навигацията чрез точки."
+
+#~ msgid "Input the main text content for your slider here."
+#~ msgstr "Въведете основното съдържание за вашия плъзгач тук."
+
+#~ msgid "New Video"
+#~ msgstr "Ново видео"
+
+#~ msgid "Video Settings"
+#~ msgstr "Видео настройки"
+
+#~ msgid ""
+#~ "This will change the label of the video in the builder for easy "
+#~ "identification."
+#~ msgstr ""
+#~ "Това ще промени етикета на видеото в инструмента за създаване за лесна "
+#~ "идентификация."
+
+#~ msgid "Slider Arrows Color"
+#~ msgstr "Цвят на стрелките на плъзгача"
+
+#~ msgid ""
+#~ "This setting will make your slider arrows either light or dark in color."
+#~ msgstr ""
+#~ "Тази настройка ще направи стрелките на вашия плъзгач с по-светъл или по-"
+#~ "тъмен цвят."
+
+#~ msgid "Text Module Settings"
+#~ msgstr "Настройки на текстов модул"
+
+#~ msgid ""
+#~ "Here you can choose the value of your text. If you are working with a "
+#~ "dark background, then your text should be set to light. If you are "
+#~ "working with a light background, then your text should be dark."
+#~ msgstr ""
+#~ "Тук можете да изберете стойността за вашия текст. Ако работите с тъмен "
+#~ "фон, трябва да настроите текста да е светъл. Ако работите със светъл фон, "
+#~ "трябва да настроите текста да е тъмен."
+
+#~ msgid "Text Orientation"
+#~ msgstr "Ориентация на текста"
+
+#~ msgid "This controls the how your text is aligned within the module."
+#~ msgstr "Това управлява как вашият текст е подравнен в модула."
+
+#~ msgid "Here you can create the content that will be used within the module."
+#~ msgstr ""
+#~ "Тук можете да създавате съдържание, което ще се използва в рамките на "
+#~ "модула."
+
+#~ msgid "New Tab"
+#~ msgstr "Нов раздел"
+
+#~ msgid "Tab Settings"
+#~ msgstr "Настройки на раздела"
+
+#~ msgid "The title will be used within the tab button for this tab."
+#~ msgstr ""
+#~ "Заглавието ще бъде използвано в рамките на бутона за раздела за този "
+#~ "раздел."
+
+#~ msgid ""
+#~ "Here you can define the content that will be placed within the current "
+#~ "tab."
+#~ msgstr ""
+#~ "Тук можете да определяте съдържанието, което ще бъдат поставено в текущия "
+#~ "раздел."
+
+#~ msgid "Tabs Module Settings"
+#~ msgstr "Настройки на модула за раздели"
+
+#~ msgid "Add New Tab"
+#~ msgstr "Добави нов раздел"
+
+#~ msgid "Slider Module Settings"
+#~ msgstr "Настройки на модула на плъзгача"
+
+#~ msgid "Add New Slide"
+#~ msgstr "Добави нов слайд"
+
+#~ msgid "Controls"
+#~ msgstr "Контролни проби"
+
+#~ msgid "Show Slider Controls"
+#~ msgstr "Покажи управления на плъзгача"
+
+#~ msgid "Hide Slider Controls"
+#~ msgstr "Скрий управленията на плъзгача"
+
+#~ msgid ""
+#~ "This setting will turn on and off the circle buttons at the bottom of the "
+#~ "slider."
+#~ msgstr ""
+#~ "Тази настройка ще включва и изключва кръглите бутони в долната част на "
+#~ "плъзгача."
+
+#~ msgid "Automatic Animation"
+#~ msgstr "Автоматична анимация"
+
+#~ msgid "Disabled"
+#~ msgstr "Изключено"
+
+#~ msgid "Enabled"
+#~ msgstr "Включено"
+
+#~ msgid ""
+#~ "If you would like the slider to slide automatically, without the visitor "
+#~ "having to click the next button, enable this option and then adjust the "
+#~ "rotation speed below if desired."
+#~ msgstr ""
+#~ "Ако искате плъзгачът да се плъзга автоматично, без на посетителя да се "
+#~ "налага да кликва върху бутона Напред, разрешете тази опция, след което "
+#~ "настройте скоростта на въртене по-долу, ако желаете."
+
+#~ msgid "Automatic Animation Speed (in ms)"
+#~ msgstr "Скорост на автоматичната анимация (в милисекунди)"
+
+#~ msgid ""
+#~ "Here you can designate how fast the slider fades between each slide, if "
+#~ "'Automatic Animation' option is enabled above. The higher the number the "
+#~ "longer the pause between each rotation."
+#~ msgstr ""
+#~ "Тук можете да определи колко бързо плъзгачът избледнява между всеки "
+#~ "слайд, ако опцията \"Автоматична анимация\" е активирана по-горе. Колкото "
+#~ "по-високо е числото, толкова по-дълга е паузата между всяко завъртане."
+
+#~ msgid ""
+#~ "Enabling this option will give your background images a fixed position as "
+#~ "you scroll."
+#~ msgstr ""
+#~ "Активирането на тази опция ще даде на фоновите ви изображения фиксирано "
+#~ "положение при превъртане."
+
+#~ msgid "Fullwidth Slider Module Settings"
+#~ msgstr "Настройки на модул на плъзгач с пълна ширина"
+
+#~ msgid "This setting allows you to turn the navigation arrows on or off."
+#~ msgstr ""
+#~ "Тази настройка ви позволява да включвате или изключвате стрелките за "
+#~ "навигация."
+
+#~ msgid ""
+#~ "Disabling this option will remove the circle button at the bottom of the "
+#~ "slider."
+#~ msgstr ""
+#~ "Забраняването на тази опция ще премахне кръглия бутон в долната част на "
+#~ "плъзгача."
+
+#~ msgid ""
+#~ "If enabled, your background images will have a fixed position as your "
+#~ "scroll, creating a fun parallax-like effect."
+#~ msgstr ""
+#~ "Ако е разрешено, вашите фонови изображения ще имат фиксирано положение "
+#~ "при превъртане, което създава на приятен паралакс ефект."
+
+#~ msgid ""
+#~ "Here you can define the text content that will be used in this slide."
+#~ msgstr ""
+#~ "Тук можете да определите съдържанието на текста, който ще бъде използван "
+#~ "в този слайд."
+
+#~ msgid "New Slide"
+#~ msgstr "Нов слайд"
+
+#~ msgid "Slide Settings"
+#~ msgstr "Настройки на слайда"
+
+#~ msgid "Heading"
+#~ msgstr "Заглавие"
+
+#~ msgid "Define the title text for your slide."
+#~ msgstr "Определете текста за бутона за плъзгане"
+
+#~ msgid "Button Text"
+#~ msgstr "Текст на бутона"
+
+#~ msgid "Define the text for the slide button"
+#~ msgstr "Определете текста за бутона за плъзгане"
+
+#~ msgid "Button URL"
+#~ msgstr "URL на бутона"
+
+#~ msgid "Input a destination URL for the slide button."
+#~ msgstr "Въведете URL на дестинацията за плъзгащия се бутон."
+
+#~ msgid "Use the color picker to choose a background color for this module."
+#~ msgstr ""
+#~ "Използвайте инструмента за избор на цвят, за да изберете фонов цвят за "
+#~ "този модул."
+
+#~ msgid "Slide Image"
+#~ msgstr "Изображение за слайд"
+
+#~ msgid "Upload an Image"
+#~ msgstr "Качете изображение"
+
+#~ msgid "Choose a Slide Image"
+#~ msgstr "Изберете изображение за слайд"
+
+#~ msgid "Set As Slide Image"
+#~ msgstr "Определете како изображение за слайд"
+
+#~ msgid ""
+#~ "If defined, this slide image will appear to the left of your slide text. "
+#~ "Upload an image, or leave blank for a text-only slide."
+#~ msgstr ""
+#~ "Ако е определен, това изображение за слайд ще се появи отляво на текста "
+#~ "на вашия слайд. Качете изображение или оставете празно за слайд само с "
+#~ "текст."
+
+#~ msgid "Slide Image Vertical Alignment"
+#~ msgstr "Вертикално подравняване на изображение на слайд"
+
+#~ msgid ""
+#~ "This setting determines the vertical alignment of your slide image. Your "
+#~ "image can either be vertically centered, or aligned to the bottom of your "
+#~ "slide."
+#~ msgstr ""
+#~ "Тази настройка определя вертикалното подравняване на изображението на "
+#~ "вашия слайд. Изображението може да бъде или вертикално центрирано, или "
+#~ "подравнено с долната част на слайда."
+
+#~ msgid "Slide Video"
+#~ msgstr "Слайд с видео"
+
+#~ msgid ""
+#~ "If defined, this video will appear to the left of your slide text. Enter "
+#~ "youtube or vimeo page url, or leave blank for a text-only slide."
+#~ msgstr ""
+#~ "Ако е определено, това видео ще се появи отляво на текста на вашия слайд. "
+#~ "Въведете URL за страницата на Youtube или Vimeo или оставете празно за "
+#~ "текстов слайд."
+
+#~ msgid ""
+#~ "If you have a slide image defined, input your HTML ALT text for the image "
+#~ "here."
+#~ msgstr ""
+#~ "В случай че имате определен слайд с изображение, тук въведете "
+#~ "алтернативен текст за изображението."
+
+#~ msgid ""
+#~ "Here you can choose whether your text is light or dark. If you have a "
+#~ "slide with a dark background, then choose light text. If you have a light "
+#~ "background, then use dark text."
+#~ msgstr ""
+#~ "Тук можете да изберете дали вашият текст да е светъл или тъмен. Ако имате "
+#~ "слайд с тъмен фон, изберете светъл текст. Ако имате светъл фон, "
+#~ "използвайте тъмен текст."
+
+#~ msgid "Input your main slide text content here."
+#~ msgstr "Въведете текстовото съдържание на основния си слайд тук."
+
+#~ msgid "Blurb Module Settings"
+#~ msgstr "Настройка на модула Отправка"
+
+#~ msgid "The title of your blurb will appear in bold below your blurb image."
+#~ msgstr ""
+#~ "Заглавието на вашата отправка ще се появи в получер шрифт под  "
+#~ "изображението за вашата отправка."
+
+#~ msgid ""
+#~ "If you would like to make your blurb a link, input your destination URL "
+#~ "here."
+#~ msgstr ""
+#~ "Ако искате да направите вашата отправка като линк, въведете URL на вашата "
+#~ "дестинация тук."
+
+#~ msgid "Use Icon"
+#~ msgstr "Използвайте икона"
+
+#~ msgid "Here you can choose whether icon set below should be used."
+#~ msgstr ""
+#~ "Тук можете да изберете дали трябва да се използва иконата, зададена по-"
+#~ "долу."
+
+#~ msgid "Choose an icon to display with your blurb."
+#~ msgstr "Изберете икона, която да бъде покаже с вашата отправка."
+
+#~ msgid "Here you can define a custom color for your icon."
+#~ msgstr "Тук можете да зададете персонализиран цвят за вашата икона."
+
+#~ msgid "Circle Icon"
+#~ msgstr "Икона в окръжност"
+
+#~ msgid ""
+#~ "Here you can choose whether icon set above should display within a circle."
+#~ msgstr ""
+#~ "Тук можете да изберете дали иконата, зададена по-горе, да се покаже в "
+#~ "окръжност."
+
+#~ msgid "Circle Color"
+#~ msgstr "Цвят на окръжността"
+
+#~ msgid "Here you can define a custom color for the icon circle."
+#~ msgstr "Тук можете да зададете персонализиран цвят за иконата в окръжност."
+
+#~ msgid "Show Circle Border"
+#~ msgstr "Покажи граница на окръжността"
+
+#~ msgid ""
+#~ "Here you can choose whether if the icon circle border should display."
+#~ msgstr ""
+#~ "Тук можете да изберете дали да се показва границата на иконата в "
+#~ "окръжност."
+
+#~ msgid "Circle Border Color"
+#~ msgstr "Цвят на границата на окръжността"
+
+#~ msgid "Here you can define a custom color for the icon circle border."
+#~ msgstr ""
+#~ "Тук можете да зададете персонализиран цвят за границата на иконата в "
+#~ "окръжност."
+
+#~ msgid "Upload an image to display at the top of your blurb."
+#~ msgstr "Качете снимка за показване в горната част на вашата отправка."
+
+#~ msgid "Image Alt Text"
+#~ msgstr "Алтернативен текст на изображението"
+
+#~ msgid "Define the HTML ALT text for your image here."
+#~ msgstr "Тук дефинирайте алтернативен текст за вашето изображение."
+
+#~ msgid "Image/Icon Placement"
+#~ msgstr "Изображение/Разположение на икона"
+
+#~ msgid "Here you can choose where to place the icon."
+#~ msgstr "Тук можете да изберете къде да се постави иконата."
+
+#~ msgid "Image/Icon Animation"
+#~ msgstr "Анимация на изображение/икона"
+
+#~ msgid "This will control how your blurb text is aligned."
+#~ msgstr "Това ще управлява как е подравнен текста на вашата отправка "
+
+#~ msgid "Input the main text content for your module here."
+#~ msgstr "Тук въведете основното съдържание на вашия модул."
+
+#~ msgid "Testimonial Module Settings"
+#~ msgstr "Настройка на модула Препоръки"
+
+#~ msgid "Author Name"
+#~ msgstr "Име на автор"
+
+#~ msgid "Input the name of the testimonial author."
+#~ msgstr "Въведете името на автора на препоръката."
+
+#~ msgid "Job Title"
+#~ msgstr "Длъжност"
+
+#~ msgid "Input the job title."
+#~ msgstr "Въведете наименованието на длъжността."
+
+#~ msgid "Company Name"
+#~ msgstr "Име на фирмата"
+
+#~ msgid "Input the name of the company."
+#~ msgstr "Въведете името на фирмата."
+
+#~ msgid "Author/Company URL"
+#~ msgstr "URL на автор/фирма"
+
+#~ msgid "Input the website of the author or leave blank for no link."
+#~ msgstr "Въведете уебсайта на автора или оставете празно за никакъв линк."
+
+#~ msgid "URLs Open"
+#~ msgstr "Отворени URLs"
+
+#~ msgid "Choose whether or not the URL should open in a new window."
+#~ msgstr "Изберете дали или не URL трябва да се отваря в нов прозорец."
+
+#~ msgid "Portrait Image URL"
+#~ msgstr "URL на портретно изображение"
+
+#~ msgid "Quote Icon"
+#~ msgstr "Икона за цитат"
+
+#~ msgid "Visible"
+#~ msgstr "Видима"
+
+#~ msgid "Hidden"
+#~ msgstr "Скрита"
+
+#~ msgid "Choose whether or not the quote icon should be visible."
+#~ msgstr "Изберете дали иконата за цитат трябва да се вижда."
+
+#~ msgid ""
+#~ "Here you can choose whether background color setting below should be used "
+#~ "or not."
+#~ msgstr ""
+#~ "Тук можете да изберете дали да се използва настройката за фонов цвят по-"
+#~ "долу."
+
+#~ msgid "Here you can define a custom background color for your CTA."
+#~ msgstr ""
+#~ "Тук можете да зададете персонализиран фонов цвят за вашата подканваща "
+#~ "фраза."
+
+#~ msgid "This will adjust the alignment of the module text."
+#~ msgstr "Това направи корекция на текста на модула."
+
+#~ msgid "Person Module Settings"
+#~ msgstr "Настройки на модул за лицето"
+
+#~ msgid "Input the name of the person"
+#~ msgstr "Въведете името на лицето"
+
+#~ msgid "Position"
+#~ msgstr "Позиция"
+
+#~ msgid "Input the person's position."
+#~ msgstr "Въведете позицията на лицето."
+
+#~ msgid "Input Facebook Profile Url."
+#~ msgstr "Въведете URL на Facebook профила"
+
+#~ msgid "Input Twitter Profile Url"
+#~ msgstr "Въведете URL на Twitter профила"
+
+#~ msgid "Input Google+ Profile Url"
+#~ msgstr "Въведете URL на Google+ профила"
+
+#~ msgid "LinkedIn Profile Url"
+#~ msgstr "URL на LinkedIn профила"
+
+#~ msgid "Input LinkedIn Profile Url"
+#~ msgstr "Въведете URL на LinkedIn профила"
+
+#~ msgid "Description"
+#~ msgstr "Описание"
+
+#~ msgid "Toggle Module Settings"
+#~ msgstr "Превключване на настройките на модула"
+
+#~ msgid ""
+#~ "The toggle title will appear above the content and when the toggle is "
+#~ "closed."
+#~ msgstr ""
+#~ "Превключването на заглавието ще се появи над съдържанието, и когато "
+#~ "превключването е затворено."
+
+#~ msgid "Close"
+#~ msgstr "Затваряне"
+
+#~ msgid "Open"
+#~ msgstr "Отворен"
+
+#~ msgid ""
+#~ "Choose whether or not this toggle should start in an open or closed state."
+#~ msgstr ""
+#~ "Изберете дали или не това превключване да започне в отворено или "
+#~ "затворено състояние."
+
+#~ msgid "Call To Action Module Settings"
+#~ msgstr "Настройки на модула Призив за действие "
+
+#~ msgid "Input your value to action title here."
+#~ msgstr "Тук въведете стойността на призива за действие "
+
+#~ msgid "Input the destination URL for your CTA button."
+#~ msgstr "Въведете URL на дестинацията за бутона за призива за действие ."
+
+#~ msgid "Input your desired button text, or leave blank for no button."
+#~ msgstr ""
+#~ "Въведете желания текста за бутона, или оставете празно за без бутон."
+
+#~ msgid "Signup Module Settings"
+#~ msgstr "Настройки на модула Регистрация"
+
+#~ msgid "Service Provider"
+#~ msgstr "Доставчик на услуга"
+
+#~ msgid "MailChimp"
+#~ msgstr "MailChimp"
+
+#~ msgid "FeedBurner"
+#~ msgstr "FeedBurner"
+
+#~ msgid "Aweber"
+#~ msgstr "Aweber"
+
+#~ msgid "Here you can choose a service provider."
+#~ msgstr "Тук можете да изберете доставчик на услуги."
+
+#~ msgid "Feed Title"
+#~ msgstr "Заглавие на информационния канал"
+
+#~ msgid "MailChimp lists"
+#~ msgstr "MailChimp списъци"
+
+#~ msgid "Select the list"
+#~ msgstr "Избери списъка"
+
+#~ msgid ""
+#~ "Here you can choose MailChimp list to add customers to. If you don't see "
+#~ "any lists here, you need to make sure MailChimp API key is set in ePanel "
+#~ "and you have at least one list on a MailChimp account. If you added new "
+#~ "list, but it doesn't appear here, activate 'Regenerate MailChimp Lists' "
+#~ "option in ePanel. Don't forget to disable it once the list has been "
+#~ "regenerated."
+#~ msgstr ""
+#~ "Тук можете да изберете MailChimp списък, към който да добавите "
+#~ "потребители. Ако не виждате никакви списъци тук, трябва да се уверите, че "
+#~ "MailChimp API кодът е зададен правилно в ePanel и имате поне един списък "
+#~ "в MailChimp акаунт. Ако сте добавили нов списък, но той не се появява "
+#~ "тук, активирайте опцията \"Повторно генериране на  MailChimp списъци\" в "
+#~ "ePanel. Не забравяйте да го изключите, след като списъкът е генериран "
+#~ "повторно."
+
+#~ msgid "Aweber lists"
+#~ msgstr "Aweber списъци"
+
+#~ msgid ""
+#~ "Here you can choose Aweber list to add customers to. If you don't see any "
+#~ "lists here, you need to make sure Aweber is set up properly in ePanel and "
+#~ "you have at least one list on a Aweber account. If you added new list, "
+#~ "but it doesn't appear here, activate 'Regenerate Aweber Lists' option in "
+#~ "ePanel. Don't forget to disable it once the list has been regenerated."
+#~ msgstr ""
+#~ "Тук можете да изберете Aweber списък, към който да добавите потребители. "
+#~ "Ако не виждате никакви списъци тук, трябва да се уверите, че Aweber е "
+#~ "зададено правилно в ePanel и имате поне един списък в Aweber акаунт. Ако "
+#~ "сте добавили нов списък, но той не се появява тук, активирайте опцията "
+#~ "\"Повторно генериране на  Aweber списъци\" в ePanel. Не забравяйте да го "
+#~ "изключите, след като списъкът е генериран повторно."
+
+#~ msgid "Choose a title of your signup box."
+#~ msgstr "Изберете заглавие на вашата кутия за регистрация."
+
+#~ msgid "Here you can change the text used for the signup button."
+#~ msgstr "Тук можете да промените текста, използван за бутона за регистрация."
+
+#~ msgid "Here you can adjust the alignment of your text."
+#~ msgstr "Тук можете да регулирате подравняването на текста."
+
+#~ msgid "Login Module Settings"
+#~ msgstr "Настройки на модула за вход."
+
+#~ msgid "Choose a title of your login box."
+#~ msgstr "Изберете заглавие на вашето поле за вход."
+
+#~ msgid "Redirect To The Current Page"
+#~ msgstr "Пренасочване към текущата страница"
+
+#~ msgid ""
+#~ "Here you can choose whether the user should be redirected to the current "
+#~ "page."
+#~ msgstr ""
+#~ "Тук можете да изберете дали потребителят трябва да бъде пренасочен към "
+#~ "текущата страница."
+
+#~ msgid "Audio Module Settings"
+#~ msgstr "Настройки на модула Аудио"
+
+#~ msgid "Upload an audio file"
+#~ msgstr "Качване на аудио файл"
+
+#~ msgid "Choose an Audio file"
+#~ msgstr "Изберете аудио файл"
+
+#~ msgid "Set As Audio for the module"
+#~ msgstr "Определете Като Аудио за модула"
+
+#~ msgid ""
+#~ "Define the audio file for use in the module. To remove an audio file from "
+#~ "the module, simply delete the URL from the settings field."
+#~ msgstr ""
+#~ "Задайте аудио файла за използване в модула. За да премахнете аудио файл "
+#~ "от модула, просто да изтрийте URL от полето с настройки."
+
+#~ msgid "Define a title."
+#~ msgstr " Определете заглавие."
+
+#~ msgid "Artist Name"
+#~ msgstr "Има на изпълнител"
+
+#~ msgid "Define an artist name."
+#~ msgstr "Определете име на изпълнител."
+
+#~ msgid "Album name"
+#~ msgstr "Име на албум"
+
+#~ msgid "Define an album name."
+#~ msgstr "Определете име на албума."
+
+#~ msgid "Cover Art Image URL"
+#~ msgstr "URL на изображение на обложка"
+
+#~ msgid "Contact Form Module Settings"
+#~ msgstr "Настройки на модула Формуляр за контакти"
+
+#~ msgid "Display Captcha"
+#~ msgstr "Покажи Captcha"
+
+#~ msgid "Don't Display Captcha"
+#~ msgstr "Не показвай Captcha"
+
+#~ msgid "Turn the captcha on or off using this option."
+#~ msgstr "Включете или изключете Captcha, като използвате тази опция."
+
+#~ msgid "Input the email address where messages should be sent."
+#~ msgstr ""
+#~ "Въведете имейл адреса, на който трябва да бъдат изпратени съобщенията."
+
+#~ msgid "Define a title for your contact form."
+#~ msgstr "Определете заглавие за формата за контакт."
+
+#~ msgid "Divider Module Settings"
+#~ msgstr "Настройки на модула Разделител"
+
+#~ msgid "This will adjust the color of the 1px divider line."
+#~ msgstr "Това ще коригира цвета на  разделителната линия от 1px."
+
+#~ msgid "Visibility"
+#~ msgstr "Видима"
+
+#~ msgid "Don't Show Divider"
+#~ msgstr "Не показвай разделител"
+
+#~ msgid ""
+#~ "This settings turns on and off the 1px divider line, but does not affect "
+#~ "the divider height."
+#~ msgstr ""
+#~ "Тази настройка включва и изключва разделителната линия от 1px, но не "
+#~ "засяга височината на разделителя."
+
+#~ msgid "Height"
+#~ msgstr "Височина"
+
+#~ msgid "Define how much space should be added below the divider (in pixels)."
+#~ msgstr ""
+#~ "Определете колко място трябва да се добави под разделителя (в пиксели)."
+
+#~ msgid "Blog Module Settings"
+#~ msgstr "Настройки на модула Блог"
+
+#~ msgid "Fullwidth"
+#~ msgstr "Пълна ширина"
+
+#~ msgid "Posts Number"
+#~ msgstr "Номер на публикации"
+
+#~ msgid "Choose how much posts you would like to display per page."
+#~ msgstr "Изберете колко публикации бихте искали да покажете на страница."
+
+#~ msgid "Include Categories"
+#~ msgstr "Включи категории"
+
+#~ msgid "Choose which categories you would like to include in the feed."
+#~ msgstr ""
+#~ "Изберете кои категории бихте искали да включите в информационния канал."
+
+#~ msgid "Meta Date Format"
+#~ msgstr "Формат на датата"
+
+#~ msgid ""
+#~ "If you would like to adjust the date format, input the appropriate PHP "
+#~ "date format here."
+#~ msgstr ""
+#~ "Ако искате да настроите формата за датата, въведете съответния PHP формат "
+#~ "за датата тук."
+
+#~ msgid "Featured Image"
+#~ msgstr "Избрано изображение"
+
+#~ msgid "Show Featured Image"
+#~ msgstr "Покажи избраното изображение"
+
+#~ msgid "Don't Show Featured Image"
+#~ msgstr "Не показвай избраното изображение"
+
+#~ msgid "This will turn thumbnails on and off."
+#~ msgstr "Това ще се включи и изключи миниатюрите."
+
+#~ msgid "Show Excerpt"
+#~ msgstr "Покажи откъс"
+
+#~ msgid "Show Content"
+#~ msgstr "Покажи съдържание"
+
+#~ msgid ""
+#~ "Showing the full content will not truncate your posts on the index page. "
+#~ "Showing the excerpt will only display your excerpt text."
+#~ msgstr ""
+#~ "Показването на цялото съдържание няма да се съкрати публикациите ви на "
+#~ "индексната страница. Показването само на откъса ще покаже откъса от вашия "
+#~ "текст."
+
+#~ msgid "Read More Button"
+#~ msgstr "Бутон Прочетете още"
+
+#~ msgid ""
+#~ "Here you can define whether to show \"read more\" link after the excerpts "
+#~ "or not."
+#~ msgstr ""
+#~ "Показването на цялото съдържание няма да се съкрати публикациите ви на "
+#~ "индексната страница. Показването само на откъса ще покаже откъса от вашия "
+#~ "текст."
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "Show Author"
+#~ msgstr "Покажи автор"
+
+#~ msgid "Don't Show Author"
+#~ msgstr "Не показвай автор"
+
+#~ msgid "Turn on or off the author link."
+#~ msgstr "Включете или изключете линка за автора."
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "Show Date"
+#~ msgstr "Показване на датата"
+
+#~ msgid "Don't Show Date"
+#~ msgstr "Не показвай датата"
+
+#~ msgid "Turn the date on or off."
+#~ msgstr "Включете или изключете линка за автора."
+
+#~ msgid "Show Categories"
+#~ msgstr "Покажи категории"
+
+#~ msgid "Don't Show Categories"
+#~ msgstr "Не показвай категории"
+
+#~ msgid "Turn the category links on or off."
+#~ msgstr "Включи или изключи линковете за категория."
+
+#~ msgid "Turn pagination on and off."
+#~ msgstr "Включи или изключи номерирането на страници"
+
+#~ msgid "Offset Number"
+#~ msgstr "Брой за отместване"
+
+#~ msgid "Choose how many posts you would like to offset by"
+#~ msgstr "Изберете колко публикации бихте искали да покажете на страница."
+
+#~ msgid "Portfolio Module Settings"
+#~ msgstr "Изберете колко публикации бихте искали да покажете на страница."
+
+#~ msgid "Choose your desired portfolio layout style."
+#~ msgstr "Изберете желания от вас стил на оформление за портфолиото"
+
+#~ msgid "Define the number of projects that should be displayed per page."
+#~ msgstr "Определете броя на проектите, които да бъдат показани на страница."
+
+#~ msgid "Select the categories that you would like to include in the feed."
+#~ msgstr ""
+#~ "Изберете категориите, които бихте искали да включите в информационния "
+#~ "канал."
+
+#~ msgid "Show Title"
+#~ msgstr "Покажи заглавието"
+
+#~ msgid "Don't Show Title"
+#~ msgstr "Не показвай заглавието"
+
+#~ msgid "Turn project titles on or off."
+#~ msgstr "Включи или изключи заглавия на проекти."
+
+#~ msgid "Filterable Portfolio Module Settings"
+#~ msgstr "Настройки на модул Портфолио, което може да се филтрира"
+
+#~ msgid "Fullwidth Portfolio Module Settings"
+#~ msgstr "Настройки на модул Портфолио с пълна ширина"
+
+#~ msgid "Portfolio Title"
+#~ msgstr "Заглавие на портфолио"
+
+#~ msgid "Title displayed above the portfolio."
+#~ msgstr "Заглавието се показва над портфолиото."
+
+#~ msgid "Carousel"
+#~ msgstr "Въртележка"
+
+#~ msgid ""
+#~ "Control how many projects are displayed. Leave blank or use 0 to not "
+#~ "limit the amount."
+#~ msgstr ""
+#~ "Управлявайте колко проекта да бъдат показвани. Оставете празно или "
+#~ "използвайте 0, за да не ограничите броя."
+
+#~ msgid "Turn the date display on or off."
+#~ msgstr "Включи или изключи показването на датата."
+
+#~ msgid "Automatic Carousel Rotation"
+#~ msgstr "Автоматично въртене на въртележка"
+
+#~ msgid ""
+#~ "If you the carousel layout option is chosen and you would like the "
+#~ "carousel to slide automatically, without the visitor having to click the "
+#~ "next button, enable this option and then adjust the rotation speed below "
+#~ "if desired."
+#~ msgstr ""
+#~ "Ако опцията за оформлението на въртележката е избрано и искате "
+#~ "въртележката да се завърта автоматично, без на посетителя да се налага да "
+#~ "кликва върху бутона Напред, разрешете тази опция, след което настройте "
+#~ "скоростта на въртене по-долу, ако желаете."
+
+#~ msgid "Automatic Carousel Rotation Speed (in ms)"
+#~ msgstr "Скорост на автоматично въртене на въртележка (в милисекунди)"
+
+#~ msgid ""
+#~ "Here you can designate how fast the carousel rotates, if 'Automatic "
+#~ "Carousel Rotation' option is enabled above. The higher the number the "
+#~ "longer the pause between each rotation. (Ex. 1000 = 1 sec)"
+#~ msgstr ""
+#~ "Тук можете да определи колко бързо да се върти въртележката , ако опцията "
+#~ "\"Автоматично въртене на въртележката\" е активирана по-горе. Колкото по-"
+#~ "високо е числото, толкова по-дълга е паузата между всяко завъртане. "
+#~ "(Напр.: 1000 = 1 сек)"
+
+#~ msgid "Shop Module Settings"
+#~ msgstr "Настройки на модула Магазин"
+
+#~ msgid "Recent Products"
+#~ msgstr "Последни продукти"
+
+#~ msgid "Featured Products"
+#~ msgstr "Продукти на фокус"
+
+#~ msgid "Sale Products"
+#~ msgstr "Продукти в разпродажба"
+
+#~ msgid "Best Selling Products"
+#~ msgstr "Най-продавани продукти"
+
+#~ msgid "Top Rated Products"
+#~ msgstr "Продукти с най-висока оценка "
+
+#~ msgid "Choose which type of products you would like to display."
+#~ msgstr "Изберете кой тип продукти бихте искали да бъде показан."
+
+#~ msgid "Control how many products are displayed."
+#~ msgstr " Управлявайте колко продукти да бъдат показвани."
+
+#~ msgid "Columns Number"
+#~ msgstr "Брой колони"
+
+#~ msgid ""
+#~ "Choose how many columns to display. 4 columns should be used for a 1 "
+#~ "column row. 2 columns should be used for a 1/2 row column. 1 column "
+#~ "should be used for a 1/4 row column."
+#~ msgstr ""
+#~ "Изберете колко колони да бъдат показани. 4 колони трябва да се използват "
+#~ "за ред с 1 колона. 2 колони трябва да се използват за ред с 1/2 колона. 1 "
+#~ "колона трябва да се използва за ред с 1/4 колона."
+
+#~ msgid "Order By"
+#~ msgstr "Подреди по"
+
+#~ msgid "Default Sorting"
+#~ msgstr "Сортиране по подразбиране"
+
+#~ msgid "Sort By Popularity"
+#~ msgstr "Сортирай по популярност"
+
+#~ msgid "Sort By Rating"
+#~ msgstr "Сортирай по рейтинг"
+
+#~ msgid "Sort By Date"
+#~ msgstr "Сортирай по дата"
+
+#~ msgid "Sort By Price: Low To High"
+#~ msgstr "Сортирай по цена: От ниска към висока"
+
+#~ msgid "Sort By Price: High To Low"
+#~ msgstr "Сортирай по цена: От висока към ниска"
+
+#~ msgid "Choose how your products should be ordered."
+#~ msgstr "Изберете как да бъдат поръчани вашите продукти."
+
+#~ msgid "Pricing Tables Settings"
+#~ msgstr "Настройки на ценови таблици"
+
+#~ msgid "Add New Pricing Table"
+#~ msgstr "Добави нова ценова таблица"
+
+#~ msgid "New Pricing Table"
+#~ msgstr "Нова ценова таблица"
+
+#~ msgid "Pricing Table Settings"
+#~ msgstr "Настройки на ценова таблица"
+
+#~ msgid "Featured"
+#~ msgstr "Акцентирани"
+
+#~ msgid "Don't Make This Table Featured"
+#~ msgstr "Не правете тази таблица акцентирана"
+
+#~ msgid "Make This Table Featured"
+#~ msgstr "Направи тази таблица акцентирана"
+
+#~ msgid "Featuring a table will make it stand out from the rest."
+#~ msgstr "Акцентирането на таблица ще я открои от останалите."
+
+#~ msgid "Define a title for the pricing table."
+#~ msgstr "Определете заглавие за ценовата таблица"
+
+#~ msgid "Subtitle"
+#~ msgstr "Подзаглавие"
+
+#~ msgid "Define a sub title for the table if desired."
+#~ msgstr "Ако желаете, определете подзаглавие на таблицата."
+
+#~ msgid "Currency"
+#~ msgstr "Валута"
+
+#~ msgid "Input your desired currency symbol here."
+#~ msgstr "Въведете желания символ за валута тук."
+
+#~ msgid "Per"
+#~ msgstr "За"
+
+#~ msgid ""
+#~ "If your pricing is subscription based, input the subscription payment "
+#~ "cycle here."
+#~ msgstr ""
+#~ "Ако ценообразуването ви е с абонамент, въведете цикъла на плащане за "
+#~ "абонамент тук."
+
+#~ msgid "Price"
+#~ msgstr "Цена"
+
+#~ msgid "Input the value of the product here."
+#~ msgstr "Въведете стойността на продукта тук."
+
+#~ msgid "Input the destination URL for the signup button."
+#~ msgstr "Въведете URL на дестинацията за за бутона за регистрация."
+
+#~ msgid "Adjust the text used from the signup button."
+#~ msgstr "Регулиране на текста, използван от бутона за регистрация."
+
+#~ msgid ""
+#~ "Input a list of features that are/are not included in the product. "
+#~ "Separate items on a new line, and begin with either a + or - symbol: "
+#~ msgstr ""
+#~ "Въведете списък с характеристики, които са/не са включени в продукта. "
+#~ "Отделни елементи на нов ред, и да започне или със символ  \"+\", или с \"-"
+#~ "\""
+
+#~ msgid "Included option"
+#~ msgstr "Включена опция"
+
+#~ msgid "Excluded option"
+#~ msgstr "Изключена опция"
+
+#~ msgid "Bar Counters Settings"
+#~ msgstr "Настройки на брояча на лентата"
+
+#~ msgid "Add New Bar Counter"
+#~ msgstr "Добави нов брояч на лентата"
+
+#~ msgid ""
+#~ "This will adjust the color of the empty space in the bar (currently gray)."
+#~ msgstr ""
+#~ "Това ще коригира цвета на празното пространство в лентата (в момента "
+#~ "сиво)."
+
+#~ msgid "Bar Background Color"
+#~ msgstr "Фонов цвят на лентата"
+
+#~ msgid "This will change the fill color for the bar."
+#~ msgstr "Това ще се промени цвета на запълване на лентата."
+
+#~ msgid "New Bar Counter"
+#~ msgstr "Нов брояч на лентата"
+
+#~ msgid "Bar Counter Settings"
+#~ msgstr "Настройки на брояча на лентата"
+
+#~ msgid "Input a title for your bar."
+#~ msgstr "Въведете заглавие за вашата лента."
+
+#~ msgid "Percent"
+#~ msgstr "Процент"
+
+#~ msgid "Define a percentage for this bar."
+#~ msgstr "Определете процент за тази лента."
+
+#~ msgid "Accordion Settings"
+#~ msgstr "Настройки на акордеон"
+
+#~ msgid "Add New Item"
+#~ msgstr "Добави нов елемент"
+
+#~ msgid "Accordion Item Settings"
+#~ msgstr "Настройки на елемент акордеон "
+
+#~ msgid "Countdown Timer Settings"
+#~ msgstr "Настройки на таймер за обратно отброяване"
+
+#~ msgid "Countdown Timer Title"
+#~ msgstr "Настройки на елемент акордеон "
+
+#~ msgid "This is the title displayed for the countdown timer."
+#~ msgstr ""
+#~ "Това е заглавието, което е показано за таймера за обратно отброяване."
+
+#~ msgid "Countdown To"
+#~ msgstr "Отброяване до"
+
+#~ msgid "This is the date the countdown timer is counting down to."
+#~ msgstr "Това е датата, до която отброява таймерът за обратно отброяване."
+
+#~ msgid ""
+#~ "Here you can define a custom background color for your countdown timer."
+#~ msgstr ""
+#~ "Тук можете да зададете персонализиран фонов цвят на таймера за обратно "
+#~ "отброяване."
+
+#~ msgid "New Pin"
+#~ msgstr "Ново закачване"
+
+#~ msgid "Pin Settings"
+#~ msgstr "Настройки на закачване"
+
+#~ msgid "Map Pin Address"
+#~ msgstr "Закачване на адрес на карта"
+
+#~ msgid "Find"
+#~ msgstr "търсене"
+
+#~ msgid ""
+#~ "Enter an address for this map pin, and the address will be geocoded and "
+#~ "displayed on the map below."
+#~ msgstr ""
+#~ "Въведете адрес за тази карфица на карта, както и адреса, ще бъде гео-"
+#~ "кодиран и показан на картата по-долу."
+
+#~ msgid ""
+#~ "Here you can define the content that will be placed within the infobox "
+#~ "for the pin."
+#~ msgstr ""
+#~ "Тук можете да определяте съдържанието, което ще бъдат поставено в полето "
+#~ "с информация за  карфицата."
+
+#~ msgid "Map Settings"
+#~ msgstr "Настройки на картата"
+
+#~ msgid "Add New Pin"
+#~ msgstr "Добави нова карфица"
+
+#~ msgid "Map Center Address"
+#~ msgstr "Адрес в центъра на картата"
+
+#~ msgid ""
+#~ "Enter an address for the map center point, and the address will be "
+#~ "geocoded and displayed on the map below."
+#~ msgstr ""
+#~ "Въведете адрес за централната точка на картата и адресът ще бъде гео-"
+#~ "кодиран и показан на картата по-долу."
+
+#~ msgid "Mouse Wheel Zoom"
+#~ msgstr "Мащабиране чрез колелцето на мишката"
+
+#~ msgid ""
+#~ "Here you can choose whether the zoom level will be controlled by mouse "
+#~ "wheel or not."
+#~ msgstr ""
+#~ "Тук можете да изберете дали нивото на мащабиране ще се контролира чрез "
+#~ "колелцето на мишката или не"
+
+#~ msgid "Circle Counter Settings"
+#~ msgstr "Настройки на брояча на окръжността"
+
+#~ msgid "Input a title for the circle counter."
+#~ msgstr "Въведете заглавие за брояча за окръжността."
+
+#~ msgid "Number"
+#~ msgstr "Номер"
+
+#~ msgid ""
+#~ "Define a number for the circle counter. (Don't include the percentage "
+#~ "sign, use the option below.). <strong>Note: You can use only natural "
+#~ "numbers from 0 to 100</strong>"
+#~ msgstr ""
+#~ "Определете число за брояча за окръжността. (Не включвайте процента знак, "
+#~ "използвайте опцията по-долу.). Забележка: Можете да използвате само "
+#~ "естествени числа от 0 до 100"
+
+#~ msgid "Percent Sign"
+#~ msgstr "Знак за процент"
+
+#~ msgid ""
+#~ "Here you can choose whether the percent sign should be added after the "
+#~ "number set above."
+#~ msgstr ""
+#~ "Тук можете да изберете дали да бъде добавен знак за процента след "
+#~ "числото, зададено по-горе."
+
+#~ msgid "Number Counter Settings"
+#~ msgstr "Настройки на числото на брояча"
+
+#~ msgid "Input a title for the counter."
+#~ msgstr "Въведете заглавие за брояча за окръжността."
+
+#~ msgid ""
+#~ "Define a number for the counter. (Don't include the percentage sign, use "
+#~ "the option below.)"
+#~ msgstr ""
+#~ "Определете число за брояча. (Не включвайте знака за процент, използвайте "
+#~ "опцията по-долу.)"
+
+#~ msgid "Counter Text Color"
+#~ msgstr "Цвят на текста на брояча"
+
+#~ msgid ""
+#~ "Here you can choose whether your title text should be light or dark. If "
+#~ "you are working with a dark background, then your text should be light. "
+#~ "If your background is light, then your text should be set to dark."
+#~ msgstr ""
+#~ "Тук можете да изберете дали текста на заглавието да е светъл или тъмен. "
+#~ "Ако работите с тъмен фон, текстът трябва да е светъл. Ако вашата фон е "
+#~ "светъл, текстът трябва да е тъмен."
+
+#~ msgid "Sidebar Module Settings"
+#~ msgstr "Настройка на модул Странична лента"
+
+#~ msgid "Orientation"
+#~ msgstr "Ориентация"
+
+#~ msgid ""
+#~ "Choose which side of the page your sidebar will be on. This setting "
+#~ "controls text orientation and border position."
+#~ msgstr ""
+#~ "Изберете от коя страна на страницата ще бъде страничната лента. Тази "
+#~ "настройка контролира ориентацията на текста и позицията на границата."
+
+#~ msgid "Widget Area"
+#~ msgstr "Област за графичен компонент"
+
+#~ msgid ""
+#~ "Select a widget-area that you would like to display. You can create new "
+#~ "widget areas within the Appearances > Widgets tab."
+#~ msgstr ""
+#~ "Изберете област за графичен компонент, която искате да покажете. Можете "
+#~ "да създавате нови области за графичен компонент в рамките на Външен вид > "
+#~ "Раздела Графични компоненти."
+
+#~ msgid "Fullwidth Header Module Settings"
+#~ msgstr "Настройки на модул Заглавка с пълна ширина"
+
+#~ msgid "Enter your page title here."
+#~ msgstr "Въведете заглавието на страницата тук."
+
+#~ msgid "Subheading Text"
+#~ msgstr "Текст на подзаглавие"
+
+#~ msgid ""
+#~ "If you would like to use a subhead, add it here. Your subhead will appear "
+#~ "below your title in a small font."
+#~ msgstr ""
+#~ "Ако желаете да използвате подзаглавие, го добавете тук. Вашето "
+#~ "подзаглавие ще се появи под заглавието в малък шрифт."
+
+#~ msgid "Fullwidth Menu Module Settings"
+#~ msgstr "Настройки на модула на меню с пълна ширина"
+
+#~ msgid "Menu"
+#~ msgstr "Меню"
+
+#~ msgid "Select a menu"
+#~ msgstr "Изберете меню"
+
+#~ msgid "Select a menu that should be used in the module"
+#~ msgstr "Изберете меню, което да се използва в модула"
+
+#~ msgid "Click here to create new menu"
+#~ msgstr "Кликнете тук, за да създадете ново меню"
+
+#~ msgid "Sub-Menus Open"
+#~ msgstr "Отваряне на подменюта"
+
+#~ msgid "Downwards"
+#~ msgstr "Надолу"
+
+#~ msgid "Upwards"
+#~ msgstr "Нагоре"
+
+#~ msgid ""
+#~ "Here you can choose the direction that your sub-menus will open. You can "
+#~ "choose to have them open downwards or upwards."
+#~ msgstr ""
+#~ "Тук можете да изберете посоката, в която ще се отварят подменютата. "
+#~ "Можете да изберете да ги отваряте надолу или нагоре."
+
+#~ msgid "Social Media Follow Settings"
+#~ msgstr "Настройки за следване в социални медии"
+
+#~ msgid "Add Social Network"
+#~ msgstr "Добавете социална мрежа"
+
+#~ msgid "Link Shape"
+#~ msgstr "Форма на линка"
+
+#~ msgid "Rounded Rectangle"
+#~ msgstr "Правоъгълник със заоблени краища"
+
+#~ msgid "Circle"
+#~ msgstr "Окръжност"
+
+#~ msgid "Here you can choose the shape of your social network icons."
+#~ msgstr "Тук можете да изберете формата на вашите икони за социални мрежи."
+
+#~ msgid "Follow Button"
+#~ msgstr "Бутон Следвайте"
+
+#~ msgid ""
+#~ "Here you can choose whether or not to include the follow button next to "
+#~ "the icon."
+#~ msgstr ""
+#~ "Тук можете да изберете дали или не  до иконата.да включите бутона за "
+#~ "следване."
+
+#~ msgid "New Social Network"
+#~ msgstr "Нова социална мрежа"
+
+#~ msgid "Social Network Settings"
+#~ msgstr "Настройки на социална мрежа"
+
+#~ msgid "Social Network"
+#~ msgstr "Социална мрежа"
+
+#~ msgid "Select a Network"
+#~ msgstr "Изберете мрежа"
+
+#~ msgid "facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "tumblr"
+#~ msgstr "tumblr"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "skype"
+#~ msgstr "skype"
+
+#~ msgid "flikr"
+#~ msgstr "flikr"
+
+#~ msgid "MySpace"
+#~ msgstr "MySpace"
+
+#~ msgid "dribbble"
+#~ msgstr "dribbble"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "Choose the social network"
+#~ msgstr "Изберете социалната мрежа"
+
+#~ msgid "Account URL"
+#~ msgstr "URL на акаунт"
+
+#~ msgid "The URL for this social network link."
+#~ msgstr "URL за този линк за социална мрежа."
+
+#~ msgid "Reset Color"
+#~ msgstr "Нулиране на цвета"
+
+#~ msgid "This will change the icon color."
+#~ msgstr "Това ще се промени цвета на иконата."
+
+#~ msgid "Insert Module(s)"
+#~ msgstr "Вмъкни модул(и)"
+
+#~ msgid ""
+#~ "All content created in the Page Builder will be lost. Previous content "
+#~ "will be restored."
+#~ msgstr ""
+#~ "Цялото съдържание, създадено в инструмента за създаване на страници, ще "
+#~ "бъде загубени. Предишното съдържание ще бъде възстановено."
+
+#~ msgid "Do you want to proceed?"
+#~ msgstr "Искате ли да продължите?"
+
+#~ msgid "All content created in the Page Builder will be lost."
+#~ msgstr ""
+#~ "Цялото съдържание, създадено в инструмента за създаване на страници, ще "
+#~ "бъде загубени."
+
+#~ msgid "You can save the Page Builder Layout for later use here."
+#~ msgstr ""
+#~ "Можете да запишете оформлението на инструмента за създаване на страници "
+#~ "за по-късно използване тук."
+
+#~ msgid "Layout Name"
+#~ msgstr "Име на оформлението"
+
+#~ msgid "Close Modal Window"
+#~ msgstr "Затвори модален прозорец"
+
+#~ msgid "Homepage Basic"
+#~ msgstr "Основна начална страница"
+
+#~ msgid "Homepage Shop"
+#~ msgstr "Начална страница на магазин"
+
+#~ msgid "Homepage Portfolio"
+#~ msgstr "Начална страница на портфолио"
+
+#~ msgid "Homepage Company"
+#~ msgstr "Начална страница на компания"
+
+#~ msgid "Homepage Corporate"
+#~ msgstr "Начална страница за корпоративна информация"
+
+#~ msgid "Homepage Extended"
+#~ msgstr "Разширена начална страница"
+
+#~ msgid "Page Fullwidth"
+#~ msgstr "Page пълна ширина"
+
+#~ msgid "Page Right Sidebar"
+#~ msgstr "Page Право на страничната лента"
+
+#~ msgid "Page Left Sidebar"
+#~ msgstr "Page Left Sidebar"
+
+#~ msgid "Page Dual Sidebars"
+#~ msgstr "Страница Dual Странични ленти"
+
+#~ msgid "Portfolio Grid"
+#~ msgstr "Портфейл"
+
+#~ msgid "Portfolio 1 Column"
+#~ msgstr "Портфолио 1 Колона"
+
+#~ msgid "Portfolio Fullwidth Carousel"
+#~ msgstr "Въртележка с портфолио с пълна ширина "
+
+#~ msgid "Portfolio Fullwidth Grid"
+#~ msgstr "Мрежа за портфолио с пълна ширина"
+
+#~ msgid "Project Extended"
+#~ msgstr "Разширен проект"
+
+#~ msgid "Project Extended 2"
+#~ msgstr "Разширяване на проект 2"
+
+#~ msgid "Blog Masonry"
+#~ msgstr "Основи на блока"
+
+#~ msgid "Blog Standard"
+#~ msgstr "Стандартен блог"
+
+#~ msgid "Shop Basic"
+#~ msgstr "Основен магазин"
+
+#~ msgid "Shop Extended"
+#~ msgstr "Разширен магазин"
+
+#~ msgid "Splash Page"
+#~ msgstr "Първоначална страница с приветствие"
+
+#~ msgid "Maintenance Mode"
+#~ msgstr "Режим за поддръжка"
+
+#~ msgid "Coming Soon"
+#~ msgstr "Очаквайте скоро..."
+
+#~ msgid "Landing Page"
+#~ msgstr "Начална страница"
+
+#~ msgid "About Us"
+#~ msgstr "За нас"
+
+#~ msgid "Contact Us"
+#~ msgstr "Свържете се с нас"
+
+#~ msgid "Our Team"
+#~ msgstr "Нашият екип"
+
+#~ msgid "Creative Agency"
+#~ msgstr "Креативна агенция"
+
+#~ msgid "Sales Page"
+#~ msgstr "Продажби"
+
+#~ msgid "Case Study"
+#~ msgstr "Конкретен пример"
+
+#~ msgid "Product Features"
+#~ msgstr "Характеристики на продукта"
+
+#~ msgid ""
+#~ "Canonicalization helps to prevent the indexing of duplicate content by "
+#~ "search engines, and as a result, may help avoid duplicate content "
+#~ "penalties and pagerank degradation. Some pages may have different URL's "
+#~ "all leading to the same place. For example domain.com, domain.com/index."
+#~ "html, and www.domain.com are all different URLs leading to your homepage. "
+#~ "From a search engine's perspective these duplicate URLs, which also occur "
+#~ "often due to custom permalinks, may be treaded individually instead of as "
+#~ "a single destination. Defining a canonical URL tells the search engine "
+#~ "which URL you would like to use officially. The theme bases its canonical "
+#~ "URLs off your permalinks and the domain name defined in the settings tab "
+#~ "of wp-admin."
+#~ msgstr ""
+#~ "Каноникализацията помага за предотвратяване на индексирането на дублиращо "
+#~ "се съдържание от търсачките, и в резултат на това може да помогне да се "
+#~ "избегнат санкции за дублиращо се съдържание и понижение в Google "
+#~ "Pagerank. Някои страници могат да имат различни URL адреси, като всички "
+#~ "да водят до едно и също място. Например, domain.com, domain.com/index."
+#~ "html и www.domain.com са различни URL адреси, водещи към вашата началната "
+#~ "страница. От гледна точка на търсачката, тези дублиращи се URL адреси, "
+#~ "които също се срещат често поради потребителски линкове, могат да бъдат "
+#~ "показани поотделно, а не като една дестинация. Определяне на каноничен "
+#~ "URL казва на търсачката кой URL адрес бихте искали да използвате "
+#~ "официално. Темата основава своите канонични URL адреси на вашите линкове "
+#~ "и името на домейна е определено в раздела Настройки на wp-admin."

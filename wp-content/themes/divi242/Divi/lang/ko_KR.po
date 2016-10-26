@@ -1,0 +1,4211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:07+0300\n"
+"PO-Revision-Date: 2015-06-17 19:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"이 포스트는 암호로 보호 되어 있습니다. 코멘트를 보려면 암호를 입력하세요."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "코멘트 0개"
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr "코멘트 1개"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "코멘트"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> 오래된 코멘트"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "새로운 코멘트 <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "트랙백/핑백"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "코멘트 제출"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "코멘트 제출"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "%s 에 답신 남기기"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "저장 중…"
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "옵션이 저장되었습니다."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "옵션"
+
+#: ../epanel/core_functions.php:73 ../functions.php:8939
+msgid "Theme Options"
+msgstr "테마 옵션"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "설정이 저장되었습니다."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "설정이 리셋되었습니다."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448 ../functions.php:616
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "네비게이션"
+
+#: ../epanel/core_functions.php:117 ../functions.php:621
+msgid "Layout Settings"
+msgstr "레이아웃 설정"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "광고 관리"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "색상"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "통합"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "문서 지원"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "리셋"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "페이지가 없습니다"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "변경 사항 저장"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"이 것은 옵션 페이지 전체의 모든 설정을 기본 값으로 돌리는 것입니다. <strong>"
+"정말 이렇게 하시겠습니까?</strong>"
+
+#: ../epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "이미지 선택하기"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:465 ../header.php:141
+msgid "Home"
+msgstr "홈"
+
+#: ../epanel/custom_functions.php:713
+msgid "Archives"
+msgstr "아카이브"
+
+#: ../epanel/custom_functions.php:715
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "\"%s\" 에 대한 검색 결과"
+
+#: ../epanel/custom_functions.php:717
+msgid "404 Not Found"
+msgstr "404 을/를 찾지 못했습니다"
+
+#: ../epanel/custom_functions.php:788
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "현재 보고 있는 아카이브는 %1$s 에서 온 것입니다"
+
+#: ../epanel/custom_functions.php:1021
+msgid "Image doesn't exist"
+msgstr "이미지가 존재하지 않습니다"
+
+#: ../epanel/custom_functions.php:1217
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>이것은 %1$s 테마의 신규 인스톨입니다. 설정을 위해 "
+"<a href=\"%2$s\">ePanel</a>을/를 방문하시기 바랍니다. 이 메시지는 <a href="
+"\"%2$s\"> 테마 옵션 페이지</a>.</p></div>에서 저장 버튼을 클릭하면 없어집니"
+"다."
+
+#: ../epanel/custom_functions.php:1229
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"이용할 수 있는 %1$s 신규 버전이 있습니다. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\"> %3$s 버전 세부 사항 보기</a>.<em>당신의 멋진 테마를 업데이"
+"트할 수 있기 전에, 구독을 인증하기 위해서 우선 <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a>을/를 인스톨하셔야 합니다.</em>"
+
+#: ../epanel/custom_functions.php:1233
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"당신의 멋진 테마를 업데이트할 수 있기 전에, 구독을 인증하기 위해서 우선 <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a>을/를 인스톨하셔야 합니다.</"
+"em>"
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "일반"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "로고"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "로고로 설정하기"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"사용자 맞춤 로고 이미지를 사용하기 원하시면 “이미지 업로드” 버튼을 클릭하십시"
+"오."
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "Favicon으로 설정하기"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"사용자 맞춤 favicon 이미지를 사용하기 원하시면 이미지 업로드 버튼을 클릭하십"
+"시오."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "고정 네비게이션 바"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"기본적으로 네이게이션 바는 항상 화면의 상단에 놓여 있습니다. 커다란 로고 이미"
+"지를 사용하셔야 한다면 이 옵션을 비활성화 하시기를 바랍니다."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "첫번째 포스트 이미지 사용"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"기본적으로 썸네일 이미지는 사용자 맞춤 필드를 사용하여 만들어 집니다. 하지"
+"만, 당신의 썸네일 (사용자 맞춤 필드를 사용한 바이패스)을 위해 포스트에 이미 "
+"존재하는 이미지를 사용하려면 이 옵션을 활성화할 수 있습니다. 활성화 되면, 썸"
+"네일 이미지가 당신의 포스트의 첫번째 이미지를 사용하여 자동으로 생성될 것입니"
+"다. 이미지는 당신의 서버에서 관리되어야 합니다."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "블로그 스타일 모드"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"기본적으로 테마는 포스트 미리보기를 만들기 위해 자동으로 발췌된 포스트를 줄입"
+"니다. 포스트가 기존의 전체 크기로 보이기를 원한다면 블로그한 후에 이 기능을 "
+"활성화할 수 있습니다."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "WooCommerce 을/를 위한 쇼핑 페이지 & 카테고리 페이지 레이아웃"
+
+#: ../epanel/options_divi.php:90 ../functions.php:364
+msgid "Right Sidebar"
+msgstr "오른쪽 사이드바"
+
+#: ../epanel/options_divi.php:91 ../functions.php:365
+msgid "Left Sidebar"
+msgstr "왼쪽 사이드바"
+
+#: ../epanel/options_divi.php:92 ../functions.php:366
+msgid "Full Width"
+msgstr "전체 너비"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"여기서 WooCommerce 을/를 위한 쇼핑 페이지 & 카테고리 페이지 레이아웃을 선택"
+"할 수 있습니다."
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "MailChimp API 키"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"당신의 MailChimp API 키를 입력하세요. 당신은 api 키를 만들 수 있습니다 <a "
+"target=\"_blank\" href=\"%1$s\">here</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Aweber 인증"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "당신의 Aweber 계정을 여기서 인증하세요."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "MailChimp 목록 재생성"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"기본적으로, MailChimp 목록은 하룻동안 캐쉬됩니다. 하지만, 이 옵션을 활성화하"
+"면 새로운 목록을 추가해도 등록 모듈 설정에 나타나지 않습니다. 목록이 재생성 "
+"되면 이 옵션을 비활성화 해주십시오."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Aweber 목록 재생성"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"기본적으로, Aweber 목록은 하룻동안 캐쉬됩니다. 하지만, 이 옵션을 활성화하면 "
+"새로운 목록을 추가해도 등록 모듈 설정에 나타나지 않습니다. 목록이 재생성 되"
+"면 이 옵션을 비활성화 해주십시오."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Facebook 아이콘 보이기"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr "당신의 홈페이지에 Facebook 아이콘이 보여지도록 선택할 수 있습니다. "
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Twitter 아이콘 보이기"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "당신의 홈페이지에 Twitter 아이콘이 보여지도록 선택할 수 있습니다. "
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Google+ 아이콘 보이기"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr "당신의 홈페이지에 Google+ 아이콘이 보여지도록 선택할 수 있습니다. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "RSS 아이콘 보이기"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "당신의 홈페이지에 RSS 아이콘이 보여지도록 선택할 수 있습니다."
+
+#: ../epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "Facebook 프로필 URL"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Facebook 프로필 URL 을 입력하십시오. "
+
+#: ../epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "Twitter 프로필 URL"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Twitter 프로필 URL 을 입력하십시오."
+
+#: ../epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "Google+ 프로필 URL"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Google+ 프로필 URL 을 입력하십시오. "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "RSS 아이콘 URL"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "RSS 피드 URL 을 입력하십시오. "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "포스트 수가 카테고리 페이지에 표시됩니다"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"최근 글이 몇 개나 카테고리 페이지에 표시될 지 여기에서 정할 수 있습니다. 이 "
+"옵션은 wp-admin 의 읽기 옵션과는 따로 작동합니다."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "포스트 수가 아카이브 페이지에 표시됩니다"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"최근 글이 몇 개나 아카이브 페이지에 표시될 지 여기에서 정할 수 있습니다. 이 "
+"옵션은 wp-admin 의 읽기 옵션과는 따로 작동합니다."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "검색 페이지에서 표시되는 포스트 수"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"최근 글이 몇 개나 검색 결과 페이지에 표시될 지 여기에서 정할 수 있습니다. 이 "
+"옵션은 wp-admin 의 읽기 옵션과는 따로 작동합니다."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "태그 페이지에서 표시되는 포스트 수"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"최근 글이 몇 개나 태그 페이지에 표시될 지 여기에서 정할 수 있습니다. 이 옵션"
+"은 wp-admin 의 읽기 옵션과는 따로 작동합니다."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "날짜 포맷"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"이 옵션은 날짜가 어떻게 표시될 지를 바꿀 수 있도록 해줍니다. 더 많은 정보를 "
+"원하시면 WordPress 사본을 여기에서 참고하시기 바랍니다:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>포맷 날짜와 시간</a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "정의될 때 발췌 사용"
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "이것은 포스트나 페이지에서 발췌를 사용할 수 있게 해줍니다."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "반응하는 shortcodes"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"shortcodes 이/가 여러 가지의 화면 크기로 응답하게 하려면 이 옵션을 활성화시키"
+"세요"
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "Google Fonts 서브세트"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "이것은 영어 이외의 언어를 위한 Google Fonts 을/를 활성화 합니다."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "탑 버튼으로 돌아가기"
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+"스크롤 하는 동안 탑 버튼으로 돌아가기를 표시하려면 이 옵션을 활성화시키세요"
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "매끄러운 스크롤"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr "마우스 휠로 매끄러운 스크롤 효과를 얻으려면 이 옵션을 활성화시키세요"
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "사용자 맞춤 CSS"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"기본 스타일을 덮어쓰거나 확장할 수 있는 사용자 맞춤 CSS 를 여기에서 추가할 "
+"수 있습니다."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "페이지"
+
+#: ../epanel/options_divi.php:292 ../functions.php:292 ../functions.php:302
+msgid "Categories"
+msgstr "카테고리"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "네비게이션 바에서 페이지 제외"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"네비게이션 메뉴에서 특정 페이지를 삭제하는 선택을 여기에서 할 수 있습니다. X "
+"표시가 된 페이지는 네비게이션 바에 나타나지 않습니다. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "드롭다운 메뉴 보여주기"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"네비게이션 바에서 드롭다운 메뉴를 삭제하려면 이 기능을 비활성화 해주십시오."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "홈 링크 표시"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"기본적으로, 테마는 클릭되었을 때 당신의 블로그 홈페이지로 다시 돌아갈 수 있도"
+"록 해 주는 홈 링크를 만듭니다. 하지만, 당신이 고정된 홈페이지를 사용하고 있"
+"고 홈이라고 명명된 페이지를 이미 만들었다면, 이것은 반복된 링크를 만들게 됩니"
+"다. 이럴 경우 링크를 삭제하기 위해서 이 기능을 비활성화 하십시오."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "페이지 링크 분류"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr "페이지 링크를 분류하는 법을 여기서 선택할 수 있습니다."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "올림차순/ 내림차순으로 페이지 링크 순서 정하기"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"당신의 페이지 링크가 표시되는 순서를 바꾸는 선택을 여기서 할 수 있습니다. 올"
+"림차순과 내림차순 사이에서 선택할 수 있습니다."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "보여지는 드롭다운 계층 수"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"이 옵션은 당신의 페이지 드롭다운 메뉴의 계층 수를 관리하게 해 줍니다. 숫자를 "
+"늘리면 추가 메뉴 아이템을 보여주게 합니다."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "네비게이션 바에서 카테고리 제외하기"
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"네비게이션 메뉴에서 특정 카테고리를 삭제하는 선택을 여기에서 할 수 있습니다. "
+"X 표시가 된 카테고리는 네비게이션 바에 나타나지 않습니다. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"카테고리 네비게이션 바에서 드롭다운 메뉴를 삭제하시려면 이 기능을 비활성화 하"
+"십시오."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "비어 있는 카테고리 숨기기"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"포스트가 없는 네비게이션 바에서 카테고리가 표시되길 원한다면 이 옵션을 비활성"
+"화 하십시오. 기본적으로 비어 있는 카테고리는 숨겨집니다."
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Name/ID/Slug/Count/Term 그룹으로 카테고리 링크 분류"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"기본적으로 페이지는 이름으로 분류됩니다. 하지만 ID 로 분류하기 원한다면 이러"
+"한 설정으로 조정할 수 있습니다."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "오름차순 혹은 내림차순으로 카테고리 링크 순서 정하기"
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"당신의 카테고리 링크가 표시되는 순서를 바꾸는 선택을 여기서 할 수 있습니다. "
+"올림차순과 내림차순 사이에서 선택할 수 있습니다."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "탑 계층 드롭다운 메뉴 링크 비활성화 하기"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"몇 몇 경우에 사용자가 상위 카테고리나 링크를 하위 링크나 카테고리 목록을 보유"
+"하기 위한 플레이스 홀더로서 사용하기 원할 것입니다. 이러한 경우에는 상위 링크"
+"가 어느 곳으로 이끄는 것은 바람직하지 않고, 대신 단순히 조직 기능을 수행합니"
+"다. 이 기능을 활성화 시키면 모든 상위 페이지/카테고리에서 링크가 삭제되어 클"
+"릭해도 어느 곳으로도 이끌지 않게 됩니다."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "개별 포스트 레이아웃"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "개별 페이지 레이아웃"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr "포스트 정보 섹션에 어떤 항목이 표시될지 선택"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"개별 포스트 페이지의 포스트 정보 섹션에 어떤 항목이 보여질 지를 여기서 선택"
+"할 수 있습니다. 이것은 당신의 포스트에 대한 기본 정보가 표시되는 영역으로 보"
+"통 포스트 제목 아래에 있습니다. 아래에 하이라이트된 항목이 나타날 것입니다. "
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "포스트에 코멘트 보여주기"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"코멘트나 포스트에서의 코멘트 양식을 삭제하기 원하면 이 옵션을 비활성화 하십시"
+"오. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "포스트에 썸네일 이미지 넣기"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"기본적으로 개별 포스트 페이지의 처음에 썸네일이 배치됩니다. 반복을 피하기 위"
+"해 이 썸네일 이미지를 삭제하고 싶다면 이 옵션을 비활성화 하십시오. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "페이지에 썸네일 이미지 넣기"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"기본으로 썸네일들은 페이지에 배치하지 않습니다(포스트 내에만 사용합니다). 하"
+"지만, 페에지에 썸네일들을 배치하기 원하시면 하실 수 있습니다! 이 옵션을 켜십"
+"시오."
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "페이지에서 코멘트 보여주기"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"기본적으로 코멘트는 페이지에 들어가지 않습니다. 하지만, 당신의 페이지에 사람"
+"들이 코멘트를 할 수 있도록 허락하길 원한다면 이 옵션을 활성화 해 주세요. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "포스트 정보 섹션"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"페이지의 글 정보 섹션에 어떤 항목이 보여질 지를 여기서 선택할 수 있습니다. 이"
+"것은 당신의 포스트에 대한 기본 정보가 표시되는 영역으로 보통 포스트 제목 아래"
+"에 있습니다. 아래 에 하이라이트된 항목이 나타날 것입니다. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "색인 페이지에서 썸네일 이미지 보여주기"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "색인 페이지에서 썸네일을 보여주려면 이 옵션을 활성화 하십시오."
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "홈페이지 SEO"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "개별 포스트 페이지 SEO"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "색인 페이지 SEO"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "사용자 맞춤 제목 활성화 "
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"기본적으로, 당신이 블로그를 만들었을 때 정의된 것처럼, 홈페이지 제목을 만들"
+"기 위해서 테마는 당신의 블로그 이름과 블로그 설명을 통합해서 사용합니다. 하지"
+"만 사용자 맞춤 제목을 만들고 싶다면 이 기능을 활성화 해서 아래에 사용자 맞춤 "
+"제목 필드를 채우면 됩니다. "
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "메타 태그 설명 활성화"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"기본적으로, 당신이 블로그를 만들었을 때 정의된 것처럼, 메타 설명 필드를 채우"
+"기 위해서 테마는 당신의 블로그 설명을 사용합니다. 다른 설명을 사용하고 싶다"
+"면 이 기능을 활성화 해서 아래에 사용자 맞춤 설명 필드를 채우면 됩니다. "
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "메타 키워드 활성화"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"기본적으로 테마는 헤더에 키워드를 추가하지 않습니다. 대부분의 검색 엔진이 당"
+"신의 사이트를 배열하기 위해 더 이상 키워드를 사용하지 않습니다. 그러나 어떤 "
+"사람들은 특별한 경우 어쨌든 그들을 정의합니다. 메타 키워드를 당신의 헤더에 추"
+"가하고 싶으면 이 기능을 활성화 해서 아래에 사용자 맞춤 설명 필드를 채우면 됩"
+"니다. "
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "표준 URL's 활성화"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"정규화는 검색엔진이 중복되는 내용을 인덱싱하는 것을 예방하고 결과적으로 중복 "
+"내용에 따르는 피해를 줄일 수 있도록 도와줍니다. 어떤 페이지들은 서로 다른 URL"
+"들이 모두 같은 위치를 기리키기도 합니다. 예를 들어, domain.com, domain.com/"
+"index.html 그리고 www.domain.com은 모두 당신의 홈페이지로 가는 각각 다른 URL"
+"들입니다. 검색엔진의 관점에서 커스텀 링크들 때문에도 종종 발생하는 이러한 중"
+"복 URL들은 하나의 목적지가 아닌 개별의 것들로 취급됩니다. 표준 URL을 정의하"
+"는 것은 검색엔진에게 어떤 URL을 공식적으로 사용할 것인지를 알려줍니다. 이런 "
+"테마는 표준 URL들을 당신의 링크들과 설정 탭의 wp-admin에 정의되어 있는 도메"
+"인 이름에 바탕을 두고 있습니다."
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "홈페이지 사용자 맞춤 제목 (활성화 된다면)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"사용자 맞춤 제목을 활성화 한다면, 여기에서 사용자 맞춤 제목을 추가할 수 있습"
+"니다. 여기에 무엇을 입력하든지 header.php 의 < title >< /title > 태그 사이에 "
+"놓이게 됩니다."
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "홈페이지 메타 설명 (활성화 된다면)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+"메타 설명을 활성화 한다면, 여기에서 사용자 맞춤 설명을 추가할 수 있습니다."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "홈페이지 메타 키워드 (활성화 된다면)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"메타 키워드를 활성화 한다면, 여기에서 사용자 맞춤 키워드를 추가할 수 있습니"
+"다. 키워드는 콤마로 분리 되어야 합니다. 예를 들면, wordpress,themes,"
+"templates,elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "사용자 맞춤 제목이 비활성화 되면, 자동 생성 방법을 선택하세요"
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"사용자 맞춤 포스트를 사용하지 않아도, 당신의 제목을 어떻게 생성하는지에 대해 "
+"여전히 통제할 수 있습니다. 여기서, 당신의 포스트 제목과 블로그 이름이 표시되"
+"는 순서를 정할 수 있고 제목으로부터 블로그 이름을 완전히 삭제할 수도 있습니"
+"다."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr "웹사이트 이름과 포스트 제목을 분리하는 특징 정의"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"여기서, 자동 생성 포스트 제목을 사용할 때 어떤 캐릭터가 블로그 제목과 포스트 "
+"이름을 분리할 지 변경할 수 있습니다. 일반 값은 | 혹은  ? 입니다."
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "사용자 맞춤 제목 활성화"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"기본적으로, 테마는 당신의 포스트와 블로그 이름을 기반으로 포스트 제목을 생성"
+"합니다. 당신의 메타 제목을 실제 포스트 제목과 다르게 만들고 싶으면 사용자 맞"
+"춤 필드를 사용해서 각 포스트를 위한 사용자 맞춤 제목을 정의할 수 있습니다. "
+"이 옵션은 사용자 맞춤 제목이 작동하도록 활성화 되어야 합니다. 그리고 아래에 "
+"당신의 제목을 위한 사용자 맞춤 필드 이름을 선택해야 합니다."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "사용자 맞춤 설명 활성화"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"당신의 포스트에 메타 설명을 추가하고 싶으면 사용자 맞춤 필드를 사용해서 그렇"
+"게 할 수 있습니다. 포스트 페이지에 설명이 표시되려면 이 옵션이 활성화 되어야 "
+"합니다. 당신이 아래에서 정의한 사용자 맞춤 필드 이름을 기반으로 하는 사용자 "
+"맞춤 필드를 사용해서 메타 설명을 추가할 수 있습니다."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "사용자 키워드 활성화"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"포스트에 메타 키워드를 추가하시려면 사용자 필드를 이용하실 수 있습니다. 포스"
+"트 페이지에 키워드가 보여지려면 이 옵션이 활성화되어야 합니다.  당신이 아래 "
+"지정하신 사용자 필드 이름에 기반한 사용자 필드를 이용해서 메타 키워드를 추가"
+"할 수 있습니다."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "표준 URL's 활성화"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "타이틀을 위하여 사용자 필드 이름 사용"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"사용자 맞춤 필드를 사용하여 당신의 제목을 정의하려면 사용자 맞춤 필드 이름을 "
+"위해 이 값을 사용해야 합니다. 당신의 사용자 맞춤 필드 값은 당신이 사용하기 원"
+"하는 사용자 맞춤 제목이 되어야 합니다."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "설명으로 사용되는 사용자 맞춤 필드 이름"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"사용자 맞춤 필드를 사용하여 당신의 메타 설명을 정의하려면 사용자 맞춤 필드 이"
+"름을 위해 이 값을 사용해야 합니다. 당신의 사용자 필드 값은 당신이 사용하길 원"
+"하는 사용자 맞춤 설명이 되어야 합니다."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr "키워드로 사용되는 사용자 맞춤 필드 이름"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"사용자 맞춤 필드를 사용해서 키워드를 정의하려면 이 값을 사용자 맞춤 필드 이름"
+"으로 사용해야 합니다. 당신의 사용자 맞춤 필드 값은 콤마로 분리된 당신이 사용"
+"하길 원하는 메타 키워드여야 합니다."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"사용자 맞춤 포스트 이름을 사용하지 않아도 당신의 제목이 어떻게 생성되어야 하"
+"는지 통제할 수 있습니다. 여기서 어떤 순서로 당신의 포스트 제목과 블로그 이름"
+"이 보여질 것인지 선택하거나 블로그 이름을 제목에서 완전히 삭제할 수도 있습니"
+"다."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "메타 설명 활성화"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"카테고리/아카이브 페이지에 메타 설명이 보여지기 원하면 이 박스를 첵크하십시"
+"오. 설명은 당신이 wp-admin. 에서 카테고리를 생성/편집할 때 선택한 카테고리 설"
+"명에 기반하고 있습니다."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "제목 생성 방법 선택"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"여기서 당신의 제목이 색인 페이지에서 어떻게 생성될 것인지 선택할 수 있습니"
+"다. 당신의 블로그 이름과 색인 제목이 어떤 순서로 보여질 것인지 변경할 수 있"
+"고 혹은 제목에서 블로그 이름을 제목에서 완전히 삭제할 수 있습니다."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"여기서 자동 생성되는 포스트 제목을 이용할 때 어떤 문자로 당신의 블로그 제목"
+"과 인덱스 페이지를 구분할 것인지 반경할 수 있습니다. 보통 값은 | 혹은  ? 입니"
+"다"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "코드 통합"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "헤더 코드 활성화"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"이 옵션의 비활성화는 당신의 블로그로부터 아래 헤더 코드를 삭제할 것입니다. 향"
+"후 사용을 위해 저장 중에 당신이 코드를 삭제할 수 있도록 할 것입니다."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "< body > 코드 활성화"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"이 옵션의 비활성화는 당신의 블로그로부터 아래 바디 코드를 삭제할 것입니다. 향"
+"후 사용을 위해 저장 중에 당신이 코드를 삭제할 수 있도록 할 것입니다."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "싱글 상단 코드 활성화"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"이 옵션의 비활성화는 당신의 블로그로부터 아래 싱글 상단 코드를 삭제할 것입니"
+"다. 향후 사용을 위해 저장 중에 당신이 코드를 삭제할 수 있도록 할 것입니다."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "싱글 하단 코드 활성화"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"이 옵션의 비활성화는 당신의 블로그로부터 아래 싱글 하단 코드를 삭제할 것입니"
+"다. 향후 사용을 위해 저장 중에 당신이 코드를 삭제할 수 있도록 할 것입니다."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "당신의 블로그의 < head > 에 코드 추가"
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"당신이 여기 추가하는 코드는 당신의 블로그의 모든 페이지 헤드 섹션에 나타납니"
+"다. 이 기능은 모든 페이지에 Javascript 혹은 CSS 를 추가할 때 유용합니다."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr "< body > 에 코드 추가 (Google Analytics 같은 코드로서 추적하기 좋음)"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"당신이 여기 추가하는 코드는 당신의 블로그의 모든 페이지 바디 섹션에 나타납니"
+"다. 이 기능은 당신이  Google Analytics 같은 상태 카운터를 위한 추적 픽셀을 입"
+"력할 때 유용합니다."
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "당신의 포스트 상단에 코드 추가"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"당신이 여기 추가하는 코드는 모든 포스트 상단에 나타납니다. 이 기능은 당신이 "
+"소셜 즐겨찾기 링크와 같은 통합된 것들을 볼 때 유용합니다."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "코멘트 전 당신의 포스트 하단에 코드 추가"
+
+#: ../epanel/options_divi.php:844 ../functions.php:8612
+msgid "Documentation"
+msgstr "문서"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "광고 관리"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "개별 푸스트 468x60 배너 활성화"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"이 옵션을 활성화 하면 포스트 내용 밑의 포스트 페이지 마지막에 468x60 배너가 "
+"보여집니다. 활성화 되면 배너 이미지와 관련 URL을 입력해야 합니다."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "468x60 광고 배너 이미지 입력"
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "여기에 468x60 배너 이미지 URL을 넣을 수 있습니다."
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "468x60 광고 목적지 URL 입력"
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "여기에 468x60 배너 이미지 목적지 URL 을 넣을 수 있습니다."
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "468x60 Google Adsense 코드 입력"
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "Google Adsense 코드를 이곳에 넣으십시오."
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:518 ../functions.php:160
+msgid "Previous"
+msgstr "이전"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:519 ../functions.php:161
+msgid "Next"
+msgstr "다음"
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "트윗"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "회원 로그인"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "아이디: "
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "암호: "
+
+#: ../epanel/shortcodes/shortcodes.php:294 ../functions.php:3522
+msgid "Login"
+msgstr "로그인"
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "말풍선 텍스트 추가"
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "보다 자세히 알고 싶으시면 이곳을 클릭하세요"
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "가입하기"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "토글블럭 추가"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "박스 추가"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "버튼 추가"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "탭 추가"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "저작자 이력 추가"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "숏코드"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "캡션"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "캡션은 이곳으로 갑니다."
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "캡션 제목은 이곳으로 갑니다."
+
+#: ../epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "상태"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "열림 혹은 닫힘 상태 중 선택"
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "내용"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "내용은 이곳으로 갑니다"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "내용 텍스트 혹은 HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021 ../functions.php:8610
+msgid "Type"
+msgstr "유형"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "박스 유형"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "링크"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "버튼 유형 선택"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "색상"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "버튼 색상 선택"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "링크 텍스트"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "아이콘"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "아이콘 버튼 유형을 위해 사용됨"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "새 윈도우에서 링크열기"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "링크가 새 윈도우에서 열려야 한다면 ‘예’를 선택"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "슬라이더 유형"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "이곳에서 슬라이더 유형을 선택"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "효과"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "애니메이션 효과 선택"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "자동"
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "자동 슬라이더 애니메이션을 활성화 하려면 ‘예’를 선택"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "자동 속도"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "자동 슬라이더 속도 (자동이 활성화 되어 있어야 작동)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "탭 텍스트"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "탭 내용"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"\"images\" 슬라이더 유형을 선택하신다면 이곳에 이미지 URL 를 붙여 넣으십시오."
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "이미지 URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "작성자 이미지 URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "사이즈 조정 사용"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ 탭 한 개더 추가"
+
+#: ../epanel/shortcodes/shortcodes.php:1335 ../functions.php:3165
+msgid "Image Height"
+msgstr "이미지 높이"
+
+#: ../epanel/shortcodes/shortcodes.php:1336 ../functions.php:3146
+msgid "Image Width"
+msgstr "이미지 너비"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "%1$s 디자인 | %2$s 제공"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "기본 메뉴"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "2차 메뉴"
+
+#: ../functions.php:32 ../functions.php:706
+msgid "Footer Menu"
+msgstr "푸터 메뉴"
+
+#: ../functions.php:73
+#, php-format
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a "
+"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
+"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+"Divi에 오신 것을 환영합니다! 당신의 새로운 테마를 경험하시기 전에 <a style="
+"\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">Divi "
+"Documentation</a> 페이지에 방문하셔서 여러 심화 튜토리얼을 체험하세요.."
+
+#: ../functions.php:97
+msgid "on"
+msgstr "on"
+
+#: ../functions.php:154
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"정확한 정보를 입력하셨는지 확인하려면 아래의 입력 필드를 확인하시기 바랍니다."
+
+#: ../functions.php:155
+msgid "Fill"
+msgstr "채우기"
+
+#: ../functions.php:156
+msgid "field"
+msgstr "필드"
+
+#: ../functions.php:157
+msgid "Invalid email"
+msgstr "유효하지 않은 이메일"
+
+#: ../functions.php:158
+msgid "Captcha"
+msgstr "캡차"
+
+#: ../functions.php:159
+msgid "Prev"
+msgstr "이전"
+
+#: ../functions.php:208
+msgid "Select Page"
+msgstr "페이지 선택"
+
+#: ../functions.php:246
+msgid "Divi Page Settings"
+msgstr "Divi 페이지 설정"
+
+#: ../functions.php:247
+msgid "Divi Post Settings"
+msgstr "Divi 포스트 설정"
+
+#: ../functions.php:248
+msgid "Divi Product Settings"
+msgstr "Divi 제품 설정"
+
+#: ../functions.php:249
+msgid "Divi Project Settings"
+msgstr "Divi 프로젝트 설정"
+
+#: ../functions.php:255
+msgid "Projects"
+msgstr "프로젝트"
+
+#: ../functions.php:256
+msgid "Project"
+msgstr "프로젝트"
+
+#: ../functions.php:257
+msgid "Add New"
+msgstr "새로운 항목 추가"
+
+#: ../functions.php:258
+msgid "Add New Project"
+msgstr "새로운 프로젝트 추가"
+
+#: ../functions.php:259
+msgid "Edit Project"
+msgstr "프로젝트 편집"
+
+#: ../functions.php:260
+msgid "New Project"
+msgstr "새로운 프로젝트"
+
+#: ../functions.php:261
+msgid "All Projects"
+msgstr "모든 프로젝트"
+
+#: ../functions.php:262
+msgid "View Project"
+msgstr "프로젝트 보기"
+
+#: ../functions.php:263
+msgid "Search Projects"
+msgstr "프로젝트 검색"
+
+#: ../functions.php:264
+msgid "Nothing found"
+msgstr "아무 것도 찾지 못했습니다"
+
+#: ../functions.php:265
+msgid "Nothing found in Trash"
+msgstr "휴지통에서 아무 것도 찾지 못했습니다"
+
+#: ../functions.php:293
+msgid "Category"
+msgstr "카테고리"
+
+#: ../functions.php:294
+msgid "Search Categories"
+msgstr "카테고리 검색"
+
+#: ../functions.php:295
+msgid "All Categories"
+msgstr "모든 카테고리"
+
+#: ../functions.php:296
+msgid "Parent Category"
+msgstr "상위 카테고리"
+
+#: ../functions.php:297
+msgid "Parent Category:"
+msgstr "상위 카테고리:"
+
+#: ../functions.php:298
+msgid "Edit Category"
+msgstr "카테고리 편집"
+
+#: ../functions.php:299
+msgid "Update Category"
+msgstr "카테고리 업데이트"
+
+#: ../functions.php:300
+msgid "Add New Category"
+msgstr "새로운 카테고리 추가"
+
+#: ../functions.php:301
+msgid "New Category Name"
+msgstr "새로운 카테고리 이름"
+
+#: ../functions.php:314 ../functions.php:324
+msgid "Tags"
+msgstr "태그"
+
+#: ../functions.php:315
+msgid "Tag"
+msgstr "태그"
+
+#: ../functions.php:316
+msgid "Search Tags"
+msgstr "태그 검색"
+
+#: ../functions.php:317
+msgid "All Tags"
+msgstr "모든 태그"
+
+#: ../functions.php:318
+msgid "Parent Tag"
+msgstr "상위 태그"
+
+#: ../functions.php:319
+msgid "Parent Tag:"
+msgstr "상위 태그:"
+
+#: ../functions.php:320
+msgid "Edit Tag"
+msgstr "태그 편집"
+
+#: ../functions.php:321
+msgid "Update Tag"
+msgstr "태그 업데이트"
+
+#: ../functions.php:322
+msgid "Add New Tag"
+msgstr "새로운 태그 추가"
+
+#: ../functions.php:323
+msgid "New Tag Name"
+msgstr "새로운 태그 이름"
+
+#: ../functions.php:340
+msgid "Skills"
+msgstr "특기"
+
+#: ../functions.php:343
+msgid "Posted on"
+msgstr "에 포스트 됨"
+
+#: ../functions.php:370
+msgid "Light"
+msgstr "밝은"
+
+#: ../functions.php:371
+msgid "Dark"
+msgstr "어두운"
+
+#: ../functions.php:384
+msgid "Page Layout"
+msgstr "페이지 레이아웃"
+
+#: ../functions.php:398
+msgid "Dot Navigation"
+msgstr "닷 네비게이션"
+
+#: ../functions.php:401 ../functions.php:409
+msgid "Off"
+msgstr "끄기"
+
+#: ../functions.php:402 ../functions.php:410
+msgid "On"
+msgstr "켜기"
+
+#: ../functions.php:406
+msgid "Hide Nav Before Scroll"
+msgstr "스크롤 이전의 네비게이션 숨기기"
+
+#: ../functions.php:416
+msgid "Post Title"
+msgstr "포스트 제목"
+
+#: ../functions.php:419
+msgid "Show"
+msgstr "보여주기"
+
+#: ../functions.php:420
+msgid "Hide"
+msgstr "숨기기"
+
+#: ../functions.php:425
+msgid "Use Background Color"
+msgstr "배경 색상 사용"
+
+#: ../functions.php:430 ../functions.php:5510
+msgid "Hex Value"
+msgstr "색상 값"
+
+#: ../functions.php:434 ../functions.php:1697 ../functions.php:1722
+#: ../functions.php:1845 ../functions.php:2350 ../functions.php:2449
+#: ../functions.php:2655
+msgid "Text Color"
+msgstr "문자 색상"
+
+#: ../functions.php:626
+msgid "Typography"
+msgstr "활판기술"
+
+#: ../functions.php:631
+msgid "Mobile Styles"
+msgstr "모바일 양식"
+
+#: ../functions.php:636
+msgid "Tablet"
+msgstr "타블렛"
+
+#: ../functions.php:641
+msgid "Phone"
+msgstr "폰"
+
+#: ../functions.php:646
+msgid "Mobile Menu"
+msgstr "모바일 메뉴"
+
+#: ../functions.php:651
+msgid "Background"
+msgstr "배경"
+
+#: ../functions.php:656
+msgid "Header & Navigation"
+msgstr "헤더 및 네비게이션"
+
+#: ../functions.php:661
+msgid "Header Format"
+msgstr "헤더 양식"
+
+#: ../functions.php:666
+msgid "Primary Menu Bar"
+msgstr "주요 메뉴바"
+
+#: ../functions.php:671
+msgid "Secondary Menu Bar"
+msgstr "보조 메뉴바"
+
+#: ../functions.php:676
+msgid "Fixed Navigation Settings"
+msgstr "고정 네비게이션 설정"
+
+#: ../functions.php:681
+msgid "Header Elements"
+msgstr "헤더 요소"
+
+#: ../functions.php:686
+msgid "Footer"
+msgstr "푸터"
+
+#: ../functions.php:691
+msgid "Layout"
+msgstr "레이아웃"
+
+#: ../functions.php:696
+msgid "Widgets"
+msgstr "위젯"
+
+#: ../functions.php:701
+msgid "Footer Elements"
+msgstr "푸터 요소"
+
+#: ../functions.php:711
+msgid "Bottom Bar"
+msgstr "하단 바"
+
+#: ../functions.php:716 ../functions.php:1411
+msgid "Color Schemes"
+msgstr "색 배합"
+
+#: ../functions.php:718
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr "알림: 위의 색상 설정 세트는 기본 색 배합에 적용되어야 합니다."
+
+#: ../functions.php:722
+msgid "Buttons"
+msgstr "버튼"
+
+#: ../functions.php:727
+msgid "Buttons Style"
+msgstr "버튼 양식"
+
+#: ../functions.php:732
+msgid "Buttons Hover Style"
+msgstr "버튼 맴돌 때 양식"
+
+#: ../functions.php:737 ../functions.php:4774
+msgid "Blog"
+msgstr "블로그"
+
+#: ../functions.php:742
+msgid "Post"
+msgstr "포스트"
+
+#: ../functions.php:754
+msgid "Meta Text Size"
+msgstr "메타 문구 사이즈"
+
+#: ../functions.php:772
+msgid "Meta Line Height"
+msgstr "메타 줄 높이"
+
+#: ../functions.php:790
+msgid "Meta Letter Spacing"
+msgstr "메타 글자 간격"
+
+#: ../functions.php:808 ../functions.php:4845 ../functions.php:4931
+msgid "Meta Font Style"
+msgstr "메타 폰트 양식"
+
+#: ../functions.php:812 ../functions.php:885 ../functions.php:1276
+#: ../functions.php:1598 ../functions.php:1682 ../functions.php:2119
+#: ../functions.php:2174 ../functions.php:2303 ../functions.php:2367
+#: ../functions.php:2546 ../functions.php:2825 ../functions.php:2864
+#: ../functions.php:2938 ../functions.php:3024 ../functions.php:3063
+#: ../functions.php:3091 ../functions.php:3111 ../functions.php:3215
+#: ../functions.php:3254 ../functions.php:3293 ../functions.php:3340
+#: ../functions.php:3406 ../functions.php:3445 ../functions.php:3492
+#: ../functions.php:3558 ../functions.php:3652 ../functions.php:3691
+#: ../functions.php:3766 ../functions.php:3805 ../functions.php:3844
+#: ../functions.php:3891 ../functions.php:3930 ../functions.php:4014
+#: ../functions.php:4053 ../functions.php:4100 ../functions.php:4139
+#: ../functions.php:4185 ../functions.php:4205 ../functions.php:4291
+#: ../functions.php:4311 ../functions.php:4396 ../functions.php:4435
+#: ../functions.php:4493 ../functions.php:4540 ../functions.php:4705
+#: ../functions.php:4744 ../functions.php:4810 ../functions.php:4849
+#: ../functions.php:4896 ../functions.php:4935 ../functions.php:4982
+#: ../functions.php:5021 ../functions.php:5060 ../functions.php:5099
+#: ../functions.php:5146 ../functions.php:5193 ../functions.php:5259
+#: ../functions.php:5298
+msgid "Bold"
+msgstr "굵게"
+
+#: ../functions.php:813 ../functions.php:886 ../functions.php:1277
+#: ../functions.php:1599 ../functions.php:1683 ../functions.php:2120
+#: ../functions.php:2175 ../functions.php:2304 ../functions.php:2368
+#: ../functions.php:2547 ../functions.php:2826 ../functions.php:2865
+#: ../functions.php:2939 ../functions.php:3025 ../functions.php:3064
+#: ../functions.php:3092 ../functions.php:3112 ../functions.php:3216
+#: ../functions.php:3255 ../functions.php:3294 ../functions.php:3341
+#: ../functions.php:3407 ../functions.php:3446 ../functions.php:3493
+#: ../functions.php:3559 ../functions.php:3653 ../functions.php:3692
+#: ../functions.php:3767 ../functions.php:3806 ../functions.php:3845
+#: ../functions.php:3892 ../functions.php:3931 ../functions.php:4015
+#: ../functions.php:4054 ../functions.php:4101 ../functions.php:4140
+#: ../functions.php:4186 ../functions.php:4206 ../functions.php:4292
+#: ../functions.php:4312 ../functions.php:4397 ../functions.php:4436
+#: ../functions.php:4494 ../functions.php:4541 ../functions.php:4706
+#: ../functions.php:4745 ../functions.php:4811 ../functions.php:4850
+#: ../functions.php:4897 ../functions.php:4936 ../functions.php:4983
+#: ../functions.php:5022 ../functions.php:5061 ../functions.php:5100
+#: ../functions.php:5147 ../functions.php:5194 ../functions.php:5260
+#: ../functions.php:5299
+msgid "Italic"
+msgstr "기울이기"
+
+#: ../functions.php:814 ../functions.php:887 ../functions.php:1278
+#: ../functions.php:1600 ../functions.php:1684 ../functions.php:2121
+#: ../functions.php:2176 ../functions.php:2305 ../functions.php:2369
+#: ../functions.php:2548 ../functions.php:2827 ../functions.php:2866
+#: ../functions.php:2940 ../functions.php:3026 ../functions.php:3065
+#: ../functions.php:3093 ../functions.php:3113 ../functions.php:3217
+#: ../functions.php:3256 ../functions.php:3295 ../functions.php:3342
+#: ../functions.php:3408 ../functions.php:3447 ../functions.php:3494
+#: ../functions.php:3560 ../functions.php:3654 ../functions.php:3693
+#: ../functions.php:3768 ../functions.php:3807 ../functions.php:3846
+#: ../functions.php:3893 ../functions.php:3932 ../functions.php:4016
+#: ../functions.php:4055 ../functions.php:4102 ../functions.php:4141
+#: ../functions.php:4187 ../functions.php:4207 ../functions.php:4293
+#: ../functions.php:4313 ../functions.php:4398 ../functions.php:4437
+#: ../functions.php:4495 ../functions.php:4542 ../functions.php:4707
+#: ../functions.php:4746 ../functions.php:4812 ../functions.php:4851
+#: ../functions.php:4898 ../functions.php:4937 ../functions.php:4984
+#: ../functions.php:5023 ../functions.php:5062 ../functions.php:5101
+#: ../functions.php:5148 ../functions.php:5195 ../functions.php:5261
+#: ../functions.php:5300
+msgid "Uppercase"
+msgstr "대문자"
+
+#: ../functions.php:815 ../functions.php:888 ../functions.php:1279
+#: ../functions.php:1601 ../functions.php:1685 ../functions.php:2122
+#: ../functions.php:2177 ../functions.php:2306 ../functions.php:2370
+#: ../functions.php:2549 ../functions.php:2828 ../functions.php:2867
+#: ../functions.php:2941 ../functions.php:3027 ../functions.php:3066
+#: ../functions.php:3094 ../functions.php:3114 ../functions.php:3218
+#: ../functions.php:3257 ../functions.php:3296 ../functions.php:3343
+#: ../functions.php:3409 ../functions.php:3448 ../functions.php:3495
+#: ../functions.php:3561 ../functions.php:3655 ../functions.php:3694
+#: ../functions.php:3769 ../functions.php:3808 ../functions.php:3847
+#: ../functions.php:3894 ../functions.php:3933 ../functions.php:4017
+#: ../functions.php:4056 ../functions.php:4103 ../functions.php:4142
+#: ../functions.php:4188 ../functions.php:4208 ../functions.php:4294
+#: ../functions.php:4314 ../functions.php:4399 ../functions.php:4438
+#: ../functions.php:4496 ../functions.php:4543 ../functions.php:4708
+#: ../functions.php:4747 ../functions.php:4813 ../functions.php:4852
+#: ../functions.php:4899 ../functions.php:4938 ../functions.php:4985
+#: ../functions.php:5024 ../functions.php:5063 ../functions.php:5102
+#: ../functions.php:5149 ../functions.php:5196 ../functions.php:5262
+#: ../functions.php:5301
+msgid "Underline"
+msgstr "밑줄"
+
+#: ../functions.php:827 ../functions.php:1218 ../functions.php:1291
+#: ../functions.php:1309 ../functions.php:2097
+msgid "Header Text Size"
+msgstr "헤더 문구 사이즈"
+
+#: ../functions.php:845 ../functions.php:1254
+msgid "Header Line Height"
+msgstr "헤더 줄 높이"
+
+#: ../functions.php:863 ../functions.php:1236
+msgid "Header Letter Spacing"
+msgstr "헤더 글자 간격"
+
+#: ../functions.php:881 ../functions.php:1272 ../functions.php:2115
+#: ../functions.php:3020 ../functions.php:3211 ../functions.php:3336
+#: ../functions.php:3402 ../functions.php:3488 ../functions.php:3554
+#: ../functions.php:4392 ../functions.php:5142 ../functions.php:5255
+msgid "Header Font Style"
+msgstr "헤드 폰트 양식"
+
+#: ../functions.php:899
+msgid "Enable Boxed Layout"
+msgstr "박스 레이아웃 활성화"
+
+#: ../functions.php:912
+msgid "Website Content Width"
+msgstr "웹사이트 내용 너비"
+
+#: ../functions.php:930
+msgid "Website Gutter Width"
+msgstr "웹사이트 열 간격"
+
+#: ../functions.php:947
+msgid "Use Custom Sidebar Width"
+msgstr ""
+
+#: ../functions.php:960
+msgid "Sidebar Width"
+msgstr "사이드바 너비"
+
+#: ../functions.php:978 ../functions.php:996 ../functions.php:1014
+msgid "Section Height"
+msgstr "절 높이"
+
+#: ../functions.php:1032 ../functions.php:1050 ../functions.php:1068
+msgid "Row Height"
+msgstr "행 높이"
+
+#: ../functions.php:1086
+msgid "Stretch Background Image"
+msgstr "배경 이미지 늘리기"
+
+#: ../functions.php:1093 ../functions.php:1748 ../functions.php:1819
+#: ../functions.php:1832 ../functions.php:2337 ../functions.php:2462
+#: ../functions.php:2668
+msgid "Background Color"
+msgstr "배경 색상"
+
+#: ../functions.php:1100
+msgid "Background Image"
+msgstr "배경 이미지:"
+
+#: ../functions.php:1106
+msgid "Background Repeat"
+msgstr "배경 반복"
+
+#: ../functions.php:1110
+msgid "No Repeat"
+msgstr "반복 없음"
+
+#: ../functions.php:1111
+msgid "Tile"
+msgstr "타일"
+
+#: ../functions.php:1112
+msgid "Tile Horizontally"
+msgstr "수평 타일"
+
+#: ../functions.php:1113
+msgid "Tile Vertically"
+msgstr "수직 타일"
+
+#: ../functions.php:1118 ../functions.php:1129
+msgid "Background Position"
+msgstr "배경 위치"
+
+#: ../functions.php:1122 ../functions.php:2626
+msgid "Left"
+msgstr "왼쪽"
+
+#: ../functions.php:1123
+msgid "Center"
+msgstr "가운데"
+
+#: ../functions.php:1124 ../functions.php:2625
+msgid "Right"
+msgstr "오른쪽"
+
+#: ../functions.php:1133
+msgid "Scroll"
+msgstr "스크롤"
+
+#: ../functions.php:1134
+msgid "Fixed"
+msgstr "고정"
+
+#: ../functions.php:1146 ../functions.php:1182 ../functions.php:1200
+msgid "Body Text Size"
+msgstr "본문 문구 사이즈"
+
+#: ../functions.php:1164
+msgid "Body Line Height"
+msgstr "본문 줄 높이"
+
+#: ../functions.php:1328
+msgid "Header Font"
+msgstr "헤더 폰트"
+
+#: ../functions.php:1343
+msgid "Body Font"
+msgstr "바디 폰트"
+
+#: ../functions.php:1359
+msgid "Body Link Color"
+msgstr "본문 링크 색"
+
+#: ../functions.php:1372
+msgid "Body Text Color"
+msgstr "본문 문구 색"
+
+#: ../functions.php:1385
+msgid "Header Text Color"
+msgstr "헤더 문구 색"
+
+#: ../functions.php:1398
+msgid "Theme Accent Color"
+msgstr "테마 강조 색"
+
+#: ../functions.php:1416 ../functions.php:1436 ../functions.php:5474
+msgid "Default"
+msgstr "기본"
+
+#: ../functions.php:1417
+msgid "Green"
+msgstr "초록"
+
+#: ../functions.php:1418
+msgid "Orange"
+msgstr "주황"
+
+#: ../functions.php:1419
+msgid "Pink"
+msgstr "분홍"
+
+#: ../functions.php:1420
+msgid "Red"
+msgstr "빨강"
+
+#: ../functions.php:1432
+msgid "Header Style"
+msgstr "헤더 스타일"
+
+#: ../functions.php:1437
+msgid "Centered"
+msgstr "가운데 정렬"
+
+#: ../functions.php:1438
+msgid "Centered Inline Logo"
+msgstr "중앙 일렬 로고"
+
+#: ../functions.php:1449
+msgid "Enable Vertical Navigation"
+msgstr "수직 네비게이션 활성화"
+
+#: ../functions.php:1461
+msgid "Hide Navigation Until Scroll"
+msgstr "스크롤까지 네비게이션 숨기기"
+
+#: ../functions.php:1473 ../functions.php:2045
+msgid "Show Social Icons"
+msgstr "소셜 아이콘 보이기"
+
+#: ../functions.php:1486
+msgid "Show Search Icon"
+msgstr "검색 아이콘 보여주기"
+
+#: ../functions.php:1498 ../functions.php:1619
+msgid "Make Full Width"
+msgstr "전체 너비 만들기"
+
+#: ../functions.php:1510 ../functions.php:1709 ../functions.php:1919
+msgid "Hide Logo Image"
+msgstr "로고 이미지 숨기기"
+
+#: ../functions.php:1523
+msgid "Menu/Logo Height"
+msgstr "메뉴/로고 높이"
+
+#: ../functions.php:1541 ../functions.php:1625 ../functions.php:1950
+#: ../functions.php:2431
+msgid "Text Size"
+msgstr "문구 사이즈"
+
+#: ../functions.php:1559 ../functions.php:1643 ../functions.php:2281
+#: ../functions.php:2524 ../functions.php:2712
+msgid "Letter Spacing"
+msgstr "글자 간격"
+
+#: ../functions.php:1578 ../functions.php:1662
+msgid "Font"
+msgstr "폰트"
+
+#: ../functions.php:1594 ../functions.php:1678 ../functions.php:2299
+#: ../functions.php:2363
+msgid "Font Style"
+msgstr "폰트 양식"
+
+#: ../functions.php:1735
+msgid "Active Link Color"
+msgstr "활성 링크 색"
+
+#: ../functions.php:1761 ../functions.php:1858
+msgid "Dropdown Menu Background Color"
+msgstr "드랍다운 메뉴 배경 색"
+
+#: ../functions.php:1774
+msgid "Dropdown Menu Line Color"
+msgstr "드랍다운 메뉴 줄 색"
+
+#: ../functions.php:1787 ../functions.php:1871
+msgid "Dropdown Menu Text Color"
+msgstr "드랍다운 메뉴 문구 색"
+
+#: ../functions.php:1800 ../functions.php:1884
+msgid "Dropdown Menu Animation"
+msgstr "드랍다운 메뉴 애니메이션"
+
+#: ../functions.php:1804 ../functions.php:1888
+msgid "Fade"
+msgstr "페이드"
+
+#: ../functions.php:1805 ../functions.php:1889
+msgid "Expand"
+msgstr "확장"
+
+#: ../functions.php:1806 ../functions.php:1890
+msgid "Slide"
+msgstr "슬라이드"
+
+#: ../functions.php:1807 ../functions.php:1891
+msgid "Flip"
+msgstr "반전"
+
+#: ../functions.php:1932
+msgid "Fixed Menu/Logo Height"
+msgstr "고정 메뉴/로고 높이"
+
+#: ../functions.php:1968
+msgid "Primary Menu Background Color"
+msgstr "주요 메뉴 배경 색"
+
+#: ../functions.php:1981
+msgid "Secondary Menu Background Color"
+msgstr "보조 메뉴 배경 색"
+
+#: ../functions.php:1994
+msgid "Menu Link Color"
+msgstr "메뉴 링크 색"
+
+#: ../functions.php:2007
+msgid "Active Menu Link Color"
+msgstr "메뉴 링크 색상 활성화"
+
+#: ../functions.php:2020
+msgid "Phone Number"
+msgstr "전화 번호"
+
+#: ../functions.php:2032
+msgid "Email"
+msgstr "이메일"
+
+#: ../functions.php:2058
+msgid "Column Layout"
+msgstr "열 레이아웃"
+
+#: ../functions.php:2063 ../functions.php:2064 ../functions.php:2065
+#: ../functions.php:2067 ../functions.php:2068 ../functions.php:2069
+#: ../functions.php:2070 ../functions.php:2071 ../functions.php:2072
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s 열"
+
+#: ../functions.php:2066
+msgid "1 Column"
+msgstr "1열"
+
+#: ../functions.php:2084
+msgid "Footer Background Color"
+msgstr "푸터 배경 색상"
+
+#: ../functions.php:2134
+msgid "Body/Link Text Size"
+msgstr "본문/링크 문구 사이즈"
+
+#: ../functions.php:2152
+msgid "Body/Link Line Height"
+msgstr "본문/링크 줄 높이"
+
+#: ../functions.php:2170
+msgid "Body Font Style"
+msgstr "본문 폰트 양식"
+
+#: ../functions.php:2189
+msgid "Widget Text Color"
+msgstr "위젯 문구 색"
+
+#: ../functions.php:2202
+msgid "Widget Link Color"
+msgstr "위젯 링크 색"
+
+#: ../functions.php:2215
+msgid "Widget Header Color"
+msgstr "위젯 헤더 색"
+
+#: ../functions.php:2228
+msgid "Widget Bullet Color"
+msgstr "위젯 점 색"
+
+#: ../functions.php:2242
+msgid "Footer Menu Background Color"
+msgstr "푸터 메뉴 배경 색"
+
+#: ../functions.php:2255
+msgid "Footer Menu Text Color"
+msgstr "푸터 메뉴 문구 색"
+
+#: ../functions.php:2268
+msgid "Footer Menu Active Link Color"
+msgstr "푸터 메뉴 활성 링크 색"
+
+#: ../functions.php:2318 ../functions.php:2382
+msgid "Font Size"
+msgstr "폰트 사이즈"
+
+#: ../functions.php:2400
+msgid "Social Icon Size"
+msgstr "소셜 아이콘 사이즈"
+
+#: ../functions.php:2418
+msgid "Social Icon Color"
+msgstr "소셜 아이콘 색"
+
+#: ../functions.php:2475
+msgid "Border Width"
+msgstr "테두리 너비"
+
+#: ../functions.php:2493 ../functions.php:2681
+msgid "Border Color"
+msgstr "테두리 색"
+
+#: ../functions.php:2506 ../functions.php:2694
+msgid "Border Radius"
+msgstr "테두리 반경"
+
+#: ../functions.php:2542 ../functions.php:5189
+msgid "Button Font Style"
+msgstr "버튼 폰트 양식"
+
+#: ../functions.php:2562
+msgid "Buttons Font"
+msgstr "버튼 폰트"
+
+#: ../functions.php:2578
+msgid "Add Button Icon"
+msgstr "버튼 아이콘 추가"
+
+#: ../functions.php:2582 ../functions.php:2642
+msgid "Yes"
+msgstr "네"
+
+#: ../functions.php:2583 ../functions.php:2643
+msgid "No"
+msgstr "아니요"
+
+#: ../functions.php:2595
+msgid "Select Icon"
+msgstr "아이콘 선택"
+
+#: ../functions.php:2608
+msgid "Icon Color"
+msgstr "아이콘 색상"
+
+#: ../functions.php:2621
+msgid "Icon Placement"
+msgstr "아이콘 배치"
+
+#: ../functions.php:2638
+msgid "Only Show Icon on Hover"
+msgstr "맴돌 때만 아이콘 보이기"
+
+#: ../functions.php:2727
+msgid "Left to Right"
+msgstr "왼쪽에서 오른쪽"
+
+#: ../functions.php:2728
+msgid "Right to Left"
+msgstr "오른쪽에서 왼쪽"
+
+#: ../functions.php:2729
+msgid "Top to Bottom"
+msgstr "위에서 아래로"
+
+#: ../functions.php:2730
+msgid "Bottom to Top"
+msgstr "아래에서 위로"
+
+#: ../functions.php:2731
+msgid "Fade In"
+msgstr "페이드인"
+
+#: ../functions.php:2732
+msgid "No Animation"
+msgstr "애니메이션 없음"
+
+#: ../functions.php:2739 ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "이미지"
+
+#: ../functions.php:2740
+msgid "Image Module Settings"
+msgstr "이미지 모듈 성정"
+
+#: ../functions.php:2750
+msgid "Animation"
+msgstr "애니메이션"
+
+#: ../functions.php:2751
+msgid "This controls default direction of the lazy-loading animation."
+msgstr "이것은 느린 로딩 애니메이션의 기본방향을 제어합니다."
+
+#: ../functions.php:2761
+msgid "Gallery"
+msgstr "갤러리"
+
+#: ../functions.php:2774 ../functions.php:3601 ../functions.php:3715
+msgid "Zoom Icon Color"
+msgstr "아이콘 색 확대"
+
+#: ../functions.php:2788 ../functions.php:3615 ../functions.php:3729
+msgid "Hover Overlay Color"
+msgstr "맴돌 때 오버레이 색"
+
+#: ../functions.php:2802 ../functions.php:2915 ../functions.php:3629
+#: ../functions.php:3743 ../functions.php:4030 ../functions.php:4116
+#: ../functions.php:4162 ../functions.php:4268
+msgid "Title Font Size"
+msgstr "제목 폰트 사이즈"
+
+#: ../functions.php:2821 ../functions.php:2934 ../functions.php:3648
+#: ../functions.php:3762 ../functions.php:4049 ../functions.php:4135
+#: ../functions.php:4806 ../functions.php:4892
+msgid "Title Font Style"
+msgstr "제목 폰트 양식"
+
+#: ../functions.php:2841 ../functions.php:3668 ../functions.php:3782
+msgid "Caption Font Size"
+msgstr "자막 폰트 사이즈"
+
+#: ../functions.php:2860 ../functions.php:3687 ../functions.php:3801
+msgid "Caption Font Style"
+msgstr "자막 폰트 양식"
+
+#: ../functions.php:2875
+msgid "Blurb"
+msgstr "안내문"
+
+#: ../functions.php:2888 ../functions.php:3001 ../functions.php:3192
+#: ../functions.php:3317 ../functions.php:3383 ../functions.php:3469
+#: ../functions.php:3535 ../functions.php:4373 ../functions.php:5123
+#: ../functions.php:5236
+msgid "Header Font Size"
+msgstr "헤더 폰트 사이즈"
+
+#: ../functions.php:2902
+msgid "Tabs"
+msgstr "탭"
+
+#: ../functions.php:2955 ../functions.php:3356 ../functions.php:3508
+#: ../functions.php:3574
+msgid "Padding"
+msgstr "내부여백"
+
+#: ../functions.php:2969
+msgid "Slider"
+msgstr "슬라이더"
+
+#: ../functions.php:2982 ../functions.php:5217
+msgid "Top & Bottom Padding"
+msgstr "상단 및 하단 내부여백"
+
+#: ../functions.php:3040 ../functions.php:5275
+msgid "Content Font Size"
+msgstr "내용 폰트 사이즈"
+
+#: ../functions.php:3059 ../functions.php:5294
+msgid "Content Font Style"
+msgstr "내용 폰트 양식"
+
+#: ../functions.php:3074
+msgid "Testimonial"
+msgstr "추천글"
+
+#: ../functions.php:3087 ../functions.php:4701
+msgid "Name Font Style"
+msgstr "이름 폰트 양식"
+
+#: ../functions.php:3107
+msgid "Details Font Style"
+msgstr "상세 폰트 양식"
+
+#: ../functions.php:3127
+msgid "Portrait Border Radius"
+msgstr "인물사진 반지름"
+
+#: ../functions.php:3179
+msgid "Pricing Table"
+msgstr "가격 테이블"
+
+#: ../functions.php:3231 ../functions.php:3422 ../functions.php:4721
+msgid "Subheader Font Size"
+msgstr "소제목 폰트 사이즈"
+
+#: ../functions.php:3250 ../functions.php:3441 ../functions.php:4740
+msgid "Subheader Font Style"
+msgstr "소제목 폰트 양식"
+
+#: ../functions.php:3270 ../functions.php:5037
+msgid "Price Font Size"
+msgstr "가격 폰트 사이즈"
+
+#: ../functions.php:3289
+msgid "Pricing Font Style"
+msgstr "가격 폰트 양식"
+
+#: ../functions.php:3304
+msgid "Call To Action"
+msgstr "행동개시"
+
+#: ../functions.php:3370
+msgid "Audio"
+msgstr "오디오"
+
+#: ../functions.php:3456
+msgid "Subscribe"
+msgstr "구독"
+
+#: ../functions.php:3588
+msgid "Portfolio"
+msgstr "포트폴리오"
+
+#: ../functions.php:3702
+msgid "Filterable Portfolio"
+msgstr "필터 가능한 포트폴리오"
+
+#: ../functions.php:3821
+msgid "Filters Font Size"
+msgstr "필터 폰트 사이즈"
+
+#: ../functions.php:3840
+msgid "Filters Font Style"
+msgstr "필터 폰트 양식"
+
+#: ../functions.php:3855
+msgid "Bar Counter"
+msgstr "바 카운터"
+
+#: ../functions.php:3868
+msgid "Label Font Size"
+msgstr "라벨 폰트 사이즈"
+
+#: ../functions.php:3887
+msgid "Label Font Style"
+msgstr "라벨 폰트 양식"
+
+#: ../functions.php:3907
+msgid "Percent Font Size"
+msgstr "퍼센트 폰트 사이즈"
+
+#: ../functions.php:3926
+msgid "Percent Font Style"
+msgstr "퍼센트 폰트 양식"
+
+#: ../functions.php:3946
+msgid "Bar Padding"
+msgstr "바 내부여백"
+
+#: ../functions.php:3965
+msgid "Bar Border Radius"
+msgstr "바 테두리 반지름"
+
+#: ../functions.php:3979
+msgid "Circle Counter"
+msgstr "원형 카운터"
+
+#: ../functions.php:3991 ../functions.php:4077
+msgid "Number Font Size"
+msgstr "숫자 폰트 사이즈"
+
+#: ../functions.php:4010 ../functions.php:4096
+msgid "Number Font Style"
+msgstr "숫자 폰트 양식"
+
+#: ../functions.php:4064
+msgid "Number Counter"
+msgstr "숫자 카운터"
+
+#: ../functions.php:4150
+msgid "Accordion"
+msgstr "아코디언"
+
+#: ../functions.php:4181 ../functions.php:4287
+msgid "Opened Title Font Style"
+msgstr "열린 제목 폰트 양식"
+
+#: ../functions.php:4201 ../functions.php:4307
+msgid "Closed Title Font Style"
+msgstr "닫힌 제목 폰트 양식"
+
+#: ../functions.php:4221 ../functions.php:4327
+msgid "Toggle Icon Size"
+msgstr "토글 아이콘 사이즈"
+
+#: ../functions.php:4241 ../functions.php:4346
+msgid "Toggle Padding"
+msgstr "토글 내부여백"
+
+#: ../functions.php:4255
+msgid "Toggle"
+msgstr "토글"
+
+#: ../functions.php:4360
+msgid "Contact Form"
+msgstr "연락처 양식"
+
+#: ../functions.php:4412
+msgid "Input Font Size"
+msgstr "입력 폰트 사이즈"
+
+#: ../functions.php:4431
+msgid "Input Font Style"
+msgstr "입력 폰트 양식"
+
+#: ../functions.php:4451
+msgid "Input Field Padding"
+msgstr "입력 칸 내부여백"
+
+#: ../functions.php:4470
+msgid "Captcha Font Size"
+msgstr "캡챠 폰트 사이즈"
+
+#: ../functions.php:4489
+msgid "Captcha Font Style"
+msgstr "캡챠 폰트 양식"
+
+#: ../functions.php:4504 ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "사이드바"
+
+#: ../functions.php:4517
+msgid "Widget Header Font Size"
+msgstr "위젯 헤더 폰트 사이즈"
+
+#: ../functions.php:4536
+msgid "Widget Header Font Style"
+msgstr "위젯 헤더 폰트 양식"
+
+#: ../functions.php:4556
+msgid "Remove Vertical Divider"
+msgstr "수직 분리기호 제거"
+
+#: ../functions.php:4565
+msgid "Divider"
+msgstr "디바이더"
+
+#: ../functions.php:4577
+msgid "Show Divider"
+msgstr "디바이더 보여주기"
+
+#: ../functions.php:4591
+msgid "Divider Style"
+msgstr "분리기호 양식"
+
+#: ../functions.php:4596
+msgid "Solid"
+msgstr "순"
+
+#: ../functions.php:4597
+msgid "Dotted"
+msgstr "점"
+
+#: ../functions.php:4598
+msgid "Dashed"
+msgstr "대시"
+
+#: ../functions.php:4599
+msgid "Double"
+msgstr "이중"
+
+#: ../functions.php:4600
+msgid "Groove"
+msgstr "홈"
+
+#: ../functions.php:4601
+msgid "Ridge"
+msgstr "곡선"
+
+#: ../functions.php:4602
+msgid "Inset"
+msgstr "삽화"
+
+#: ../functions.php:4603
+msgid "Outset"
+msgstr "시작"
+
+#: ../functions.php:4616
+msgid "Divider Weight"
+msgstr "분리기호 무게"
+
+#: ../functions.php:4635
+msgid "Divider Height"
+msgstr "분리기호 높이"
+
+#: ../functions.php:4654
+msgid "Divider Position"
+msgstr "분리기호 위치"
+
+#: ../functions.php:4659
+msgid "Top"
+msgstr "상단"
+
+#: ../functions.php:4660
+msgid "Vertically Centered"
+msgstr "수직 중앙배치"
+
+#: ../functions.php:4661
+msgid "Bottom"
+msgstr "아래"
+
+#: ../functions.php:4669
+msgid "Person"
+msgstr "인물"
+
+#: ../functions.php:4682
+msgid "Name Font Size"
+msgstr "이름 폰트 사이즈"
+
+#: ../functions.php:4760
+msgid "Social Network Icon Size"
+msgstr "소셜 네트워크 아이콘 사이즈"
+
+#: ../functions.php:4787 ../functions.php:4873
+msgid "Post Title Font Size"
+msgstr "포스트 제목 폰트 사이즈"
+
+#: ../functions.php:4826 ../functions.php:4912
+msgid "Meta Font Size"
+msgstr "메타 폰트 사이즈"
+
+#: ../functions.php:4860
+msgid "Masonry Blog"
+msgstr "메이슨리 블로그"
+
+#: ../functions.php:4946
+msgid "Shop"
+msgstr "상점"
+
+#: ../functions.php:4959
+msgid "Product Name Font Size"
+msgstr "제품명 폰트 사이즈"
+
+#: ../functions.php:4978
+msgid "Product Name Font Style"
+msgstr "제품명 폰트 사이즈"
+
+#: ../functions.php:4998
+msgid "Sale Badge Font Size"
+msgstr "판매 뱃지"
+
+#: ../functions.php:5017
+msgid "Sale Badge Font Style"
+msgstr "판매 뱃지 폰트 양식"
+
+#: ../functions.php:5056
+msgid "Price Font Style"
+msgstr "가격 폰트 양식"
+
+#: ../functions.php:5076
+msgid "Sale Price Font Size"
+msgstr "판매가격 폰트 사이즈"
+
+#: ../functions.php:5095
+msgid "Sale Price Font Style"
+msgstr "판매가격 폰트 양식"
+
+#: ../functions.php:5110
+msgid "Countdown"
+msgstr "카운트다운"
+
+#: ../functions.php:5157
+msgid "Social Follow"
+msgstr "소셜 팔로우"
+
+#: ../functions.php:5170
+msgid "Follow Font & Icon Size"
+msgstr "폰트 및 아이콘 사이즈 따라가기"
+
+#: ../functions.php:5204
+msgid "Full Width Slider"
+msgstr "전체 너비 슬라이더"
+
+#: ../functions.php:7875
+msgid "0 comments"
+msgstr "코멘트 0개"
+
+#: ../functions.php:7875
+msgid "1 comment"
+msgstr "코멘트 1개"
+
+#: ../functions.php:7875
+msgid "comments"
+msgstr "코멘트"
+
+#: ../functions.php:8026
+msgid "No Gallery Found"
+msgstr ""
+
+#: ../functions.php:8028
+msgid "No items found"
+msgstr ""
+
+#: ../functions.php:8170
+msgid "Password Protected"
+msgstr "암호로 보호됨"
+
+#: ../functions.php:8171
+msgid "To view this protected post, enter the password below"
+msgstr "이 보호된 포스트를 보시려면 아래에 암호를 입력하세요"
+
+#: ../functions.php:8174
+msgid "Password"
+msgstr "암호"
+
+#: ../functions.php:8175
+msgid "Submit"
+msgstr "제출"
+
+#: ../functions.php:8347
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:8349
+msgid "Item"
+msgstr "항목"
+
+#: ../functions.php:8349
+msgid "Items"
+msgstr "항목"
+
+#: ../functions.php:8524
+msgid "Connecting..."
+msgstr "연결 중…"
+
+#: ../functions.php:8525
+msgid "Connection failed"
+msgstr "연결 실패"
+
+#: ../functions.php:8526
+msgid "Removing connection..."
+msgstr "커넥션 제거 중…"
+
+#: ../functions.php:8527
+msgid "Done"
+msgstr "완료"
+
+#: ../functions.php:8556
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr "1단계: <a href=\"%1$s\" target=\"_blank\">인증 코드 생성</a>"
+
+#: ../functions.php:8557
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr "2단계: 인증 코드를 붙여 넣고 “연결하기” 버튼을 클릭하세요: "
+
+#: ../functions.php:8558
+msgid "Make a connection"
+msgstr "연결하기"
+
+#: ../functions.php:8561
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber 이/가 적절하게 설치되었습니다. 원하시면 여기서 연결을 삭제할 수 있습니"
+"다."
+
+#: ../functions.php:8562
+msgid "Remove the connection"
+msgstr "연결 삭제"
+
+#: ../functions.php:8570
+msgid "Nonce failed."
+msgstr "Nonce 을/를 실패했습니다."
+
+#: ../functions.php:8576
+msgid "Authorization code is empty."
+msgstr "인증 코드가 비어 있습니다."
+
+#: ../functions.php:8587
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"유효하지 않은 인증 코드입니다. 다시 코드를 생성해서 새로운 코드를 붙여 넣으십"
+"시오."
+
+#: ../functions.php:8609
+msgid "Aweber API Exception"
+msgstr "Aweber API 예외"
+
+#: ../functions.php:8611
+msgid "Message"
+msgstr "메시지"
+
+#: ../functions.php:8622
+msgid "Nonce failed"
+msgstr "Nonce 을/를 실패했습니다"
+
+#: ../functions.php:8717
+msgid "Read more"
+msgstr "더 읽기"
+
+#: ../functions.php:8845
+msgid "Configuration error"
+msgstr "설정 오류"
+
+#: ../functions.php:8855
+msgid "Please enter first name"
+msgstr "이름을 입력하시기 바랍니다"
+
+#: ../functions.php:8857
+msgid "Incorrect email"
+msgstr "정확하지 않은 이메일"
+
+#: ../functions.php:8859
+msgid "Configuration error: List is not defined"
+msgstr "설정 오류: 목록이 정의되지 않았습니다"
+
+#: ../functions.php:8861
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr "<h2 class=\"et_pb_subscribed\">구독 - 확인 이메일을 기다리세요!</h2>"
+
+#: ../functions.php:8873
+msgid "Configuration error: api key is not defined"
+msgstr "설정 오류: API 키가 정의되지 않았습니다"
+
+#: ../functions.php:8910
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: 잘못된 설정 데이터"
+
+#: ../functions.php:8940 ../functions.php:8961
+msgid "Theme Customizer"
+msgstr "테마 커스터마이저"
+
+#: ../functions.php:8941 ../functions.php:8971
+msgid "Module Customizer"
+msgstr "모듈 커스터마이저"
+
+#: ../functions.php:8942
+msgid "Divi Library"
+msgstr "Divi 라이브러리"
+
+#: ../header.php:176
+msgid "Search &hellip;"
+msgstr "검색 &hellip;"
+
+#: ../header.php:178
+msgid "Search for:"
+msgstr "다음을 검색:"
+
+#. translators: 1: date, 2: time
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr "%1$s %2$s 에"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(편집)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "회신"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "코멘트가 허가를 기다리고 있습니다."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Divi 문서 읽기"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "풋터 영역"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "동영상 튜토리얼 보기"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; 과거 입력사항"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "다음 입력사항 &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "결과 없음"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"요청하신 페이지를 찾을 수 없습니다. 검색 조건을 다시 입력하시거나 위의 네비게"
+"이션을 사용해서 포스트를 찾으십시오."
+
+#: ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "나에 대한 정보를 표시"
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "내 소개 위젯"
+
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "내 소개"
+
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "제목"
+
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "텍스트"
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "광고 표시함"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "광고"
+
+#: ../includes/widgets/widget-ads.php:12
+#: ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "광고"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "이미지의 상대경로 사용하기"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "새 창에서 열기"
+
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236
+#: ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "배너"
+
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "URL"
+
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "알트"
+
+#: ../includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr "배너들을 표시하고 싶지 않으시면 - 적절한 영역값들을 공란으로 남기세요"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Adsense 광고를 표시함"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "Adsense 위젯"
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Adsense 코드"
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:105
+msgid "Pages:"
+msgstr "페이지:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">Divi Documentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Divi에 오신 것을 환영합니다! 당신의 새로운 테마를 경험하시기 전에 <a href="
+#~ "\"%1$s\" target=\"_blank\">DiviDocumentation</a> 페이지에 방문하셔서 여러 "
+#~ "심화 튜토리얼을 체험하세요.."
+
+#~ msgid "%1$s Font"
+#~ msgstr "%1$s 폰트"
+
+#~ msgid "%1$s Font Size"
+#~ msgstr "%1$s 폰트 사이즈"
+
+#~ msgid "%1$s Text Color"
+#~ msgstr "%1$s 폰트 색"
+
+#~ msgid "%1$s Letter Spacing"
+#~ msgstr "%1$s 글자 간격"
+
+#~ msgid "%1$s Line Height"
+#~ msgstr "%1$s 줄 높이"
+
+#~ msgid "%1$s All Caps"
+#~ msgstr "%1$s 전체 대문자"
+
+#~ msgid "Use Border"
+#~ msgstr "테두리 사용"
+
+#~ msgid "Border Style"
+#~ msgstr "테두리 양식"
+
+#~ msgid "Custom Margin"
+#~ msgstr "사용자정의 외부여백"
+
+#~ msgid "Custom Padding"
+#~ msgstr "사용자정의 내부여백"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "사용자정의 버튼 양식 사용"
+
+#~ msgid "Button Text Size"
+#~ msgstr "버튼 문구 사이즈"
+
+#~ msgid "Button Text Color"
+#~ msgstr "버튼 문구 색"
+
+#~ msgid "Button Background Color"
+#~ msgstr "버튼 배경 색"
+
+#~ msgid "Button Border Width"
+#~ msgstr "버튼 테두리 너비"
+
+#~ msgid "Button Border Color"
+#~ msgstr "버튼 테두리 색"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "버튼 테두리 반지름"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "버튼 글자 간격"
+
+#~ msgid "Button Font"
+#~ msgstr "버튼 폰트"
+
+#~ msgid "Button Icon"
+#~ msgstr "버튼 아이콘"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "버튼 아이콘 색"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "맴돌 때만 아이콘 노출"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "버튼에 맴돌 때 문구 색"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "버튼에 맴돌 때 배경 색"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "버튼에 맴돌 때 테두리 색"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "버튼에 맴돌 때 테두리 반지름"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "버튼에 맴돌 때 글자 간격"
+
+#~ msgid "Before"
+#~ msgstr "이전"
+
+#~ msgid "Main Element"
+#~ msgstr "주요소"
+
+#~ msgid "After"
+#~ msgstr "이후"
+
+#~ msgid "Choose Custom Color"
+#~ msgstr "사용자정의 색 선택"
+
+#~ msgid "Upload"
+#~ msgstr "업로드"
+
+#~ msgid "Choose image"
+#~ msgstr "이미지 선택"
+
+#~ msgid "Set image"
+#~ msgstr "이미지 설정"
+
+#~ msgid "Advanced Design Settings"
+#~ msgstr "고급 디자인설정"
+
+#~ msgid "Add New %s"
+#~ msgstr "새 %s 추가"
+
+#~ msgid "%1$s %2$s Settings"
+#~ msgstr "%1$s %2$s 설정"
+
+#~ msgid "Column"
+#~ msgstr "열"
+
+#~ msgid "Modules"
+#~ msgstr "모듈"
+
+#~ msgid "Rows"
+#~ msgstr "행"
+
+#~ msgid "Sections"
+#~ msgstr "절"
+
+#~ msgid "Global/not Global"
+#~ msgstr "포괄/비포괄"
+
+#~ msgid "Global"
+#~ msgstr "포괄"
+
+#~ msgid "not Global"
+#~ msgstr "비포괄"
+
+#~ msgid "Justified"
+#~ msgstr "여백조절됨"
+
+#~ msgid "Export Divi Builder Layouts"
+#~ msgstr "Divi 빌더 레이아웃 내보내기"
+
+#~ msgid "Select Templates you want to export:"
+#~ msgstr "내보내기를 할 템플릿을 선택하세요:"
+
+#~ msgid "Export Divi Layouts"
+#~ msgstr "Divi 레이아웃 내보내기"
+
+#~ msgid "Manage Categories"
+#~ msgstr "카테고리 관리"
+
+#~ msgid "Use The Divi Builder"
+#~ msgstr "Divi 빌더 사용"
+
+#~ msgid ""
+#~ "You have not saved any items to your Divi Library yet. Once an item has "
+#~ "been saved to your library, it will appear here for easy use."
+#~ msgstr ""
+#~ "당신의 Divi 라이브러리에 아이템을 저장하지 않으셨습니다. 아이템이 당신의 "
+#~ "라이브러리에 저장되면 쉽게 사용할 수 있도록 여기에 나타납니다."
+
+#~ msgid "No available options for this configuration."
+#~ msgstr "이 설정에 대한 이용가능한 옵션이 없습니다."
+
+#~ msgid ""
+#~ "You're about to update global module. This change will be applied to all "
+#~ "pages where you use this module. Press OK if you want to update this "
+#~ "module"
+#~ msgstr ""
+#~ "당신은 전세계 모듈을 갱신하려고 합니다. 이 변경은 이 모듈을 이용하는 모든 "
+#~ "페이지에 적용됩니다. 이 모듈을 갱신하시려면 확인을 누르세요."
+
+#~ msgid "You cannot add global rows into global sections"
+#~ msgstr "포괄 절에 포괄 행을 추가할 수 없습니다"
+
+#~ msgid "You cannot add global modules into global sections or rows"
+#~ msgstr "포괄 절 혹은 행에 포괄 모듈을 추가할 수 없습니다"
+
+#~ msgid "The Divi Builder"
+#~ msgstr "Divi 빌더"
+
+#~ msgid "Save to Library"
+#~ msgstr "라이브러리에 저장"
+
+#~ msgid "Load From Library"
+#~ msgstr "라이브러리에서 로딩"
+
+#~ msgid "Standard Section"
+#~ msgstr "표준 절"
+
+#~ msgid "Fullwidth Section"
+#~ msgstr "전체 너비 절"
+
+#~ msgid "Specialty Section"
+#~ msgstr "특별 절"
+
+#~ msgid "Add From Library"
+#~ msgstr "라이브러리에서 추가"
+
+#~ msgid "Change Structure"
+#~ msgstr "구조 변경"
+
+#~ msgid "Remove Module"
+#~ msgstr "모듈 제거"
+
+#~ msgid "Save & Add To Library"
+#~ msgstr "라이브러리에 저장 및 추가"
+
+#~ msgid "Cancel"
+#~ msgstr "취소"
+
+#~ msgid "Save & Exit"
+#~ msgstr "저장 및 나가기"
+
+#~ msgid "New Row"
+#~ msgstr "새 행"
+
+#~ msgid "New Module"
+#~ msgstr "새 모듈"
+
+#~ msgid "Predefined Layouts"
+#~ msgstr "사전정의된 레이아웃"
+
+#~ msgid "Disable Builder"
+#~ msgstr "빌더 비활성화"
+
+#~ msgid ""
+#~ "All content created in the Divi Builder will be lost. Previous content "
+#~ "will be restored."
+#~ msgstr ""
+#~ "Divi 빌더에서 생성된 모든 내용을 잃게 됩니다. 이전 내용은 복구될 것입니다."
+
+#~ msgid "Do you wish to proceed?"
+#~ msgstr "계속 진행하시겠습니까?"
+
+#~ msgid "All of your current page content will be lost."
+#~ msgstr "당신의 현제 페이지 내용의 모든 것을 잃게 됩니다."
+
+#~ msgid "All advanced module settings in will be lost."
+#~ msgstr "모든 고급 모듈 설정을 잃게 됩니다."
+
+#~ msgid "Save To Library"
+#~ msgstr "라이브러리에 저장"
+
+#~ msgid "Save your current page to the Divi Library for later use."
+#~ msgstr ""
+#~ "나중에 사용하기 위해 당신의 현재 페이지를 Divi 라이브러리에 저장하세요."
+
+#~ msgid "Layout Name:"
+#~ msgstr "레이아웃 이름:"
+
+#~ msgid "Save And Add To Library"
+#~ msgstr "라이브러리에 저장 및 추가"
+
+#~ msgid "Add To Categories:"
+#~ msgstr "카테고리에 추가:"
+
+#~ msgid "Create New Category"
+#~ msgstr "새 카테고리 생성"
+
+#~ msgid ""
+#~ "Here you can save the current item and add it to your Divi Library for "
+#~ "later use as well."
+#~ msgstr ""
+#~ "여기에서 현재 아이템을 저장하고 나중에 사용하기 위해 당신의 Divi 라이브러"
+#~ "리에 추가할 수 있습니다."
+
+#~ msgid "Template Name"
+#~ msgstr "템플릿 이름"
+
+#~ msgid "Selective Sync"
+#~ msgstr "선택 동기화"
+
+#~ msgid "Include General settings"
+#~ msgstr "일반설정 포함"
+
+#~ msgid "Include Advanced Design settings"
+#~ msgstr "고급 디자인설정 포함"
+
+#~ msgid "Include Custom CSS"
+#~ msgstr "사용자정의 CSS 포함"
+
+#~ msgid "Please select at least 1 tab to save"
+#~ msgstr "저장할 최소 1개의 탭을 선택해주세요"
+
+#~ msgid "Save as Global:"
+#~ msgstr "포괄로 저장:"
+
+#~ msgid "Make this a global item"
+#~ msgstr "이것을 포괄 아이템으로 만들기"
+
+#~ msgid "Scope"
+#~ msgstr "범위"
+
+#~ msgid "Layout Type"
+#~ msgstr "레이아웃 방식"
+
+#~ msgid "Module Width"
+#~ msgstr "모듈 너비"
+
+#~ msgid "New Template Settings"
+#~ msgstr "새 템플릿 설정"
+
+#~ msgid "Template Name:"
+#~ msgstr "템플릿 이름:"
+
+#~ msgid "Template Type:"
+#~ msgstr "템플릿 방식:"
+
+#~ msgid "Fullwidth Module"
+#~ msgstr "전체 너비 모듈"
+
+#~ msgid "Row"
+#~ msgstr "행"
+
+#~ msgid "Section"
+#~ msgstr "절"
+
+#~ msgid "Include General Settings"
+#~ msgstr "일반설정 포함"
+
+#~ msgid "Include Advanced Design Settings"
+#~ msgstr "고급 디자인설정 포함"
+
+#~ msgid ""
+#~ "Select category(ies) for new template or type a new name ( optional )"
+#~ msgstr "새 템플릿의 카테고리를 선택하거나 새 이름을 입력하세요(선택)"
+
+#~ msgid "Open in Lightbox"
+#~ msgstr "Lightbox에서 열기"
+
+#~ msgid "Image Alignment"
+#~ msgstr "이미지 정렬"
+
+#~ msgid "Here you can choose the image alignment."
+#~ msgstr "여기에서 이미지 정렬을 선택하실 수 있습니다."
+
+#~ msgid "Image Max Width"
+#~ msgstr "이미지 최대 너비"
+
+#~ msgid "Force Fullwidth"
+#~ msgstr "전체 너비 만들기"
+
+#~ msgid "Always Center Image On Mobile"
+#~ msgstr "모바일에서 항상 이미지를 중앙으로"
+
+#~ msgid "Gallery Item"
+#~ msgstr "갤러리 아이템"
+
+#~ msgid "Overlay"
+#~ msgstr "오버레이"
+
+#~ msgid "Overlay Icon"
+#~ msgstr "오버레이 아이콘"
+
+#~ msgid "Gallery Item Title"
+#~ msgstr "갤러리 아이템 제목"
+
+#~ msgid "Caption Font"
+#~ msgstr "자막 폰트"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "자막 폰트 색"
+
+#~ msgid "Hover Icon Picker"
+#~ msgstr "맴돌 때 아이콘 추출기"
+
+#~ msgid "Video Icon"
+#~ msgstr "동영상 아이콘"
+
+#~ msgid "Play Icon Color"
+#~ msgstr "플레이 아이콘 색"
+
+#~ msgid "Play Button"
+#~ msgstr "플레이 버튼"
+
+#~ msgid "Thumbnail Item"
+#~ msgstr "썸네일 아이템"
+
+#~ msgid "Thumbnail Overlay Color"
+#~ msgstr "썸네일 오버레이 색"
+
+#~ msgid "Line Height"
+#~ msgstr "줄 높이"
+
+#~ msgid "Use Border Color"
+#~ msgstr "테두리 색 사용"
+
+#~ msgid "Max Width"
+#~ msgstr "최대 너비"
+
+#~ msgid "Header"
+#~ msgstr "헤더"
+
+#~ msgid "Body"
+#~ msgstr "본문"
+
+#~ msgid "Blurb Image"
+#~ msgstr "안내문 이미지"
+
+#~ msgid "Blurb Title"
+#~ msgstr "안내문 제목"
+
+#~ msgid "Blurb Content"
+#~ msgstr "안내문 내용"
+
+#~ msgid "Use Icon Font Size"
+#~ msgstr "아이콘 폰트 사이즈 사용"
+
+#~ msgid "Icon Font Size"
+#~ msgstr "아이콘 폰트 사이즈"
+
+#~ msgid "Tabs Controls"
+#~ msgstr "탭 제어"
+
+#~ msgid "Active Tab"
+#~ msgstr "활성 탭"
+
+#~ msgid "Active Tab Background Color"
+#~ msgstr "활성 탭 배경 색"
+
+#~ msgid "Inactive Tab Background Color"
+#~ msgstr "비활성 탭 배경 색"
+
+#~ msgid "Slide Description"
+#~ msgstr "슬라이드 설명"
+
+#~ msgid "Slide Title"
+#~ msgstr "슬라이드 제목"
+
+#~ msgid "Slide Button"
+#~ msgstr "슬라이드 버튼"
+
+#~ msgid "Slide Controllers"
+#~ msgstr "슬라이드 제어기"
+
+#~ msgid "Slide Active Controller"
+#~ msgstr "슬라이드 활성 제어기"
+
+#~ msgid "Use Parallax effect"
+#~ msgstr "시차효과 사용"
+
+#~ msgid "Remove Inner Shadow"
+#~ msgstr "내부 그림자 제거"
+
+#~ msgid "Top Padding"
+#~ msgstr "상단 내부여백"
+
+#~ msgid "Bottom Padding"
+#~ msgstr "하단 내부여백"
+
+#~ msgid "Hide Content On Mobile"
+#~ msgstr "모바일에서 내용 감추기"
+
+#~ msgid "Hide CTA On Mobile"
+#~ msgstr "모바일에서 CTA 감추기"
+
+#~ msgid "Show Image / Video On Mobile"
+#~ msgstr "모바일에서 이미지/동영상 보이기"
+
+#~ msgid "Arrows Custom Color"
+#~ msgstr "화살표 사용자정의 색"
+
+#~ msgid "Dot Nav Custom Color"
+#~ msgstr "Dot Nav 사용자정의 색"
+
+#~ msgid "Testimonial Portrait"
+#~ msgstr "추천서 인물사진"
+
+#~ msgid "Testimonial Description"
+#~ msgstr "추천서 설명"
+
+#~ msgid "Testimonial Author"
+#~ msgstr "추천서 발행인"
+
+#~ msgid "Testimonial Meta"
+#~ msgstr "추천서 메타"
+
+#~ msgid "Body Text Font"
+#~ msgstr "본문 문구 폰트"
+
+#~ msgid "Body Font Size"
+#~ msgstr "본문 문구 사이즈"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "본문 글자 간격"
+
+#~ msgid "Quote Icon Color"
+#~ msgstr "아이콘 색 인용"
+
+#~ msgid "Portrait Width"
+#~ msgstr "인물사진 너비"
+
+#~ msgid "Portrait Height"
+#~ msgstr "인물사진 높이"
+
+#~ msgid "Pricing Tables"
+#~ msgstr "가격표"
+
+#~ msgid "Pricing Heading"
+#~ msgstr "가격 소제목"
+
+#~ msgid "Pricing Title"
+#~ msgstr "가격 제목"
+
+#~ msgid "Pricing Top"
+#~ msgstr "가격 상단"
+
+#~ msgid "Pricing Content"
+#~ msgstr "가격 내용"
+
+#~ msgid "Pricing Button"
+#~ msgstr "가격 버튼"
+
+#~ msgid "Featured Table"
+#~ msgstr "포함된 표"
+
+#~ msgid "Subheader"
+#~ msgstr "소제목"
+
+#~ msgid "Featured Table Background Color"
+#~ msgstr "포함된 표 배경 색"
+
+#~ msgid "Table Header Background Color"
+#~ msgstr "표 헤더 배경 색"
+
+#~ msgid "Featured Table Header Background Color"
+#~ msgstr "포함된 표 헤더 배경 색"
+
+#~ msgid "Featured Table Header Text Color"
+#~ msgstr "포함된 표 헤더 문구 색"
+
+#~ msgid "Featured Table Subheader Text Color"
+#~ msgstr "포함된 표 소제목 문구 색"
+
+#~ msgid "Featured Table Price Color"
+#~ msgstr "포함된 표 가격 색"
+
+#~ msgid "Featured Table Body Text Color"
+#~ msgstr "포함된 표 본문 문구 색"
+
+#~ msgid "Show Bullet"
+#~ msgstr "점 보이기"
+
+#~ msgid "Bullet Color"
+#~ msgstr "점 색"
+
+#~ msgid "Featured Table Bullet Color"
+#~ msgstr "포함된 표 점 색"
+
+#~ msgid "Remove Featured Table Drop Shadow"
+#~ msgstr "포함된 표 드랏 새도우 제거"
+
+#~ msgid "Center List Items"
+#~ msgstr "목록 아이템 중앙배치"
+
+#~ msgid "Promo Description"
+#~ msgstr "설명"
+
+#~ msgid "Promo Button"
+#~ msgstr "버튼"
+
+#~ msgid "Audio Cover Art"
+#~ msgstr "오디오 이미지"
+
+#~ msgid "Audio Content"
+#~ msgstr "오디오 내용"
+
+#~ msgid "Audio Meta"
+#~ msgstr "오디오 메타"
+
+#~ msgid "Signup"
+#~ msgstr "가입"
+
+#~ msgid "Newsletter Description"
+#~ msgstr "뉴스레터 설명"
+
+#~ msgid "Newsletter Form"
+#~ msgstr "뉴스레터 양식"
+
+#~ msgid "Newsletter Button"
+#~ msgstr "뉴스레터 버튼"
+
+#~ msgid "Form Field Background Color"
+#~ msgstr "양식 칸 배경 색"
+
+#~ msgid "Form Field Text Color"
+#~ msgstr "양식 칸 문구 색"
+
+#~ msgid "Focus Background Color"
+#~ msgstr "포커스 배경 색"
+
+#~ msgid "Focus Text Color"
+#~ msgstr "포커스 문구 색"
+
+#~ msgid "Use Focus Border Color"
+#~ msgstr "포커스 테두리 색 사용"
+
+#~ msgid "Focus Border Color"
+#~ msgstr "포커스 테두리 색"
+
+#~ msgid "Portfolio Image"
+#~ msgstr "포트폴리오 이미지"
+
+#~ msgid "Portfolio Post Meta"
+#~ msgstr "포트폴리오 포스트 메타"
+
+#~ msgid "Filter"
+#~ msgstr "필터"
+
+#~ msgid "Portfolio Filters"
+#~ msgstr "포트폴리오 필터"
+
+#~ msgid "Active Portfolio Filter"
+#~ msgstr "활성 폴트폴리오 필터"
+
+#~ msgid "Counter Title"
+#~ msgstr "카운터 제목"
+
+#~ msgid "Counter Container"
+#~ msgstr "카운터 컨테이너"
+
+#~ msgid "Counter Amount"
+#~ msgstr "카운터 번호"
+
+#~ msgid "Use Percentages"
+#~ msgstr "퍼센트 사용"
+
+#~ msgid "Bar Top Padding"
+#~ msgstr "바 상단 내부여백"
+
+#~ msgid "Bar Bottom Padding"
+#~ msgstr "바 하단 내부여백"
+
+#~ msgid "Label Color"
+#~ msgstr "라벨 색"
+
+#~ msgid "Percentage Color"
+#~ msgstr "퍼센트 색"
+
+#~ msgid "Circle Counter Title"
+#~ msgstr "원형 카운터 제목"
+
+#~ msgid "Circle Color Opacity"
+#~ msgstr "원형 색 불투명도"
+
+#~ msgid "Number Counter Title"
+#~ msgstr "숫자 카운터 제목"
+
+#~ msgid "Open Toggle"
+#~ msgstr "토글 열기"
+
+#~ msgid "Toggle Title"
+#~ msgstr "제목 토글"
+
+#~ msgid "Toggle Icon"
+#~ msgstr "아이콘 토글"
+
+#~ msgid "Toggle Content"
+#~ msgstr "내용 토글"
+
+#~ msgid "Open Toggle Background Color"
+#~ msgstr "열린 토글 배경 색"
+
+#~ msgid "Closed Toggle Background Color"
+#~ msgstr "닫힌 토글 배경 색"
+
+#~ msgid "Open Toggle Text Color"
+#~ msgstr "열린 토글 문구 색"
+
+#~ msgid "Closed Toggle Text Color"
+#~ msgstr "닫힌 토글 문구 색"
+
+#~ msgid "Form Field"
+#~ msgstr "양식란"
+
+#~ msgid "Contact Title"
+#~ msgstr "연락처 제목"
+
+#~ msgid "Contact Button"
+#~ msgstr "연락처 버튼"
+
+#~ msgid "Form Background Color"
+#~ msgstr "양식 배경 색"
+
+#~ msgid "Input Border Radius"
+#~ msgstr "입력 테두리 반지름"
+
+#~ msgid "Widget"
+#~ msgstr "위젯"
+
+#~ msgid "Remove Border Separator"
+#~ msgstr "테두리 분리기호 제거"
+
+#~ msgid "Define how much space should be added below the divider."
+#~ msgstr "분리기호 밑의 공백 크기를 설정하세요."
+
+#~ msgid "Hide On Mobile"
+#~ msgstr "모바일에서 숨기기"
+
+#~ msgid "Member Image"
+#~ msgstr "멤버 이미지"
+
+#~ msgid "Member Description"
+#~ msgstr "멤버 설명"
+
+#~ msgid "Member Position"
+#~ msgstr "멤버 위치"
+
+#~ msgid "Member Social Links"
+#~ msgstr "멤버 소셜 링크"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "아이콘 맴돌 때 색"
+
+#~ msgid "Meta"
+#~ msgstr "메타"
+
+#~ msgid "Post Meta"
+#~ msgstr "메타 올리기"
+
+#~ msgid "Pagenavi"
+#~ msgstr "페이지 둘러보기"
+
+#~ msgid "Grid Tile Background Color"
+#~ msgstr "격자 타일 배경 색"
+
+#~ msgid "Use Dropshadow"
+#~ msgstr "드랍 섀도우 사용"
+
+#~ msgid "Product"
+#~ msgstr "제품"
+
+#~ msgid "Onsale"
+#~ msgstr "판매 중"
+
+#~ msgid "Rating"
+#~ msgstr "평가"
+
+#~ msgid "default"
+#~ msgstr "기본"
+
+#~ msgid "Choose how many columns to display."
+#~ msgstr "표시할 열의 수를 선택하세요."
+
+#~ msgid "Sale Badge Color"
+#~ msgstr "판매 뱃지 색"
+
+#~ msgid "Numbers"
+#~ msgstr "수"
+
+#~ msgid "Label"
+#~ msgstr "라벨"
+
+#~ msgid "Container"
+#~ msgstr "컨테이너"
+
+#~ msgid "Timer Section"
+#~ msgstr "타이머 절"
+
+#~ msgid "Pin"
+#~ msgstr "핀"
+
+#~ msgid "Use Grayscale Filter"
+#~ msgstr "흑백 필터 사용"
+
+#~ msgid "Grayscale Filter Amount (%)"
+#~ msgstr "흑백 필터 양 (%)"
+
+#~ msgid "Social Icon"
+#~ msgstr "소셜 아이콘"
+
+#~ msgid "Here you can choose whether or not display the Post Title"
+#~ msgstr "여기에서 포스트 제목의 표시여부를 선택할 수 있습니다"
+
+#~ msgid "Show Meta"
+#~ msgstr "메타 보이기"
+
+#~ msgid "Here you can choose whether or not display the Post Meta"
+#~ msgstr "여기에서 포스트 메타의 표시여부를 선택할 수 있습니다"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Author Name in Post Meta"
+#~ msgstr "여기에서 발행자명의 포스트 메타에서의 표시여부를 선택할 수 있습니다"
+
+#~ msgid "Here you can choose whether or not display the Date in Post Meta"
+#~ msgstr "여기에서 날짜의 포스트 메타에서의 표시여부를 선택할 수 있습니다"
+
+#~ msgid "Date Format"
+#~ msgstr "날짜 양식"
+
+#~ msgid ""
+#~ "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+#~ msgstr ""
+#~ "여기에서 포스트 메타에서의 날짜 양식을 정의할 수 있습니다. 기본값은 'M j, "
+#~ "Y'입니다"
+
+#~ msgid "Show Post Categories"
+#~ msgstr "포스트 카테고리 보이기"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Categories in Post Meta. "
+#~ "Note: This option doesn't work with custom post types."
+#~ msgstr ""
+#~ "여기에서 포스트 메타에서의 카테고리의 표시여부를 선택할 수 있습니다. 참"
+#~ "고: 이 옵션은 사용자정의 포스트 형태와 호환되지 않습니다."
+
+#~ msgid "Show Comments Count"
+#~ msgstr "코멘트 수 보이기"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Comments Count in Post "
+#~ "Meta."
+#~ msgstr ""
+#~ "여기에서 포스트 메타에서의 코멘트수의 표시여부를 선택할 수 있습니다."
+
+#~ msgid "Here you can choose whether or not display the Featured Image"
+#~ msgstr "여기에서 포함된 이미지의 표시여부를 선택할 수 있습니다"
+
+#~ msgid "Featured Image Placement"
+#~ msgstr "포함된 이미지 배치"
+
+#~ msgid "Below Title"
+#~ msgstr "제목 아래"
+
+#~ msgid "Above Title"
+#~ msgstr "제목 위"
+
+#~ msgid "Title/Meta Background Image"
+#~ msgstr "제목 배경 이미지"
+
+#~ msgid "Here you can choose where to place the Featured Image"
+#~ msgstr "여기에서 인기 이미지를 배치할 곳을 선택할 수 있습니다"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use parallax effect for the featured "
+#~ "image"
+#~ msgstr ""
+#~ "여기에서 포함된 이미지에 대한 시차효과의 사용여부를 선택할 수 있습니다"
+
+#~ msgid "Parallax Method"
+#~ msgstr "시차방법"
+
+#~ msgid ""
+#~ "Here you can choose which parallax method to use for the featured image"
+#~ msgstr "여기에서 포함된 이미지에 대한 시차방법을 선택할 수 있습니다"
+
+#~ msgid "Here you can choose the orientation for the Title/Meta text"
+#~ msgstr "여기에서 제목문구에 대한 방향을 선택할 수 있습니다"
+
+#~ msgid "Here you can choose the color for the Title/Meta text"
+#~ msgstr "여기에서 제목문구에 대한 색을 선택할 수 있습니다"
+
+#~ msgid "Use Text Background Color"
+#~ msgstr "문구 배경 색 사용"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use the background color for the Title/"
+#~ "Meta text"
+#~ msgstr "여기에서 제목문구에 대한 배경색의 사용여부를 선택할 수 있습니다"
+
+#~ msgid "Text Background Color"
+#~ msgstr "문구 배경색"
+
+#~ msgid "Title Styling"
+#~ msgstr "제목 양식"
+
+#~ msgid "Subhead Styling"
+#~ msgstr "소제목 양식"
+
+#~ msgid "Content Styling"
+#~ msgstr "내용 양식"
+
+#~ msgid "Button Styling"
+#~ msgstr "버튼 양식"
+
+#~ msgid "Text & Logo Orientation"
+#~ msgstr "문구 및 로고 방향"
+
+#~ msgid "Make Fullscreen"
+#~ msgstr "전체화면 만들기"
+
+#~ msgid ""
+#~ "Here you can choose whether the header is expanded to fullscreen size."
+#~ msgstr "여기에서 헤더의 전체화면 사이즈로의 확장여부를 선택할 수 있습니다."
+
+#~ msgid "Show Scroll Down Button"
+#~ msgstr "스크롤 다운 버튼 보이기"
+
+#~ msgid "Here you can choose whether the scroll down button is shown."
+#~ msgstr "여기에서 스크롤다운 버튼의 노출여부를 선택할 수 있습니다."
+
+#~ msgid "Choose an icon to display for the scroll down button."
+#~ msgstr "스크롤다운 버튼에 대해 표시할 아이콘을 선택하세요."
+
+#~ msgid "Scroll Down Icon Color"
+#~ msgstr "스크롤다운 아이콘 색"
+
+#~ msgid "Scroll Down Icon Size"
+#~ msgstr "스크롤다운 아이콘 사이즈"
+
+#~ msgid "Title Font"
+#~ msgstr "제목 폰트"
+
+#~ msgid "Title Font Color"
+#~ msgstr "제목 폰트 색"
+
+#~ msgid "Subhead Font"
+#~ msgstr "소제목 폰트"
+
+#~ msgid "Subhead Font Color"
+#~ msgstr "소제목 폰트 색"
+
+#~ msgid "Content Font"
+#~ msgstr "내용 폰트"
+
+#~ msgid "Content Font Color"
+#~ msgstr "내용 폰트 색"
+
+#~ msgid "Button %1$s Text"
+#~ msgstr "버튼 %1$s 문구"
+
+#~ msgid "Enter the text for the Button."
+#~ msgstr "버튼에 대한 문구를 입력하세요."
+
+#~ msgid "Button %1$s URL"
+#~ msgstr "버튼 %1$s URL"
+
+#~ msgid "Enter the URL for the Button."
+#~ msgstr "버튼이 대한 URL을 입력하세요"
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "버튼 %1$s 폰트"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "버튼 %1$s 폰트 색"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "버튼 %1$s 배경 색"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "버튼 %1$s 폰트 사이즈"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "버튼 %1$s 테두리 반지름"
+
+#~ msgid "Background Image URL"
+#~ msgstr "배경 이미지 URL"
+
+#~ msgid "Background Overlay Color"
+#~ msgstr "배경 오버레이 색"
+
+#~ msgid "Logo Image URL"
+#~ msgstr "로고 이미지 URL"
+
+#~ msgid "Text Vertical Alignment"
+#~ msgstr "문구 수직 정렬"
+
+#~ msgid ""
+#~ "This setting determines the vertical alignment of your content. Your "
+#~ "content can either be vertically centered, or aligned to the bottom."
+#~ msgstr ""
+#~ "이 설정은 당신의 내용의 수직정렬을 결정합니다. 당신의 내용은 수직 중앙배"
+#~ "치 혹은 수직 하단배치가 될 수 있습니다."
+
+#~ msgid "Header Image URL"
+#~ msgstr "헤더 이미지 URL"
+
+#~ msgid "Image Vertical Alignment"
+#~ msgstr "이미지 수직정렬"
+
+#~ msgid "This controls the orientation of the image within the module."
+#~ msgstr "이것은 모듈 내의 이미지의 방향을 제어합니다."
+
+#~ msgid "Code"
+#~ msgstr "코드"
+
+#~ msgid "Fullwidth Code"
+#~ msgstr "전체 너비 코드"
+
+#~ msgid "Fullwidth Image"
+#~ msgstr "전체 너비 이미지"
+
+#~ msgid "Fullwidth Post Title"
+#~ msgstr "전체 너비 포스트 제목"
+
+#~ msgid ""
+#~ "Enabling this option will remove the background color of this section, "
+#~ "allowing the website background color or background image to show through."
+#~ msgstr ""
+#~ "이 옵션을 활성화하는 것은 이 절의 배경색을 제거하여 웹사이트 배경색 혹은 "
+#~ "배경이미지가 보이도록 할 것입니다."
+
+#~ msgid ""
+#~ "Adjust padding to specific values, or leave blank to use the default "
+#~ "padding."
+#~ msgstr ""
+#~ "내부여백을 특정값으로 조절하거나 빈칸을 만들어 기본 내부여백을 사용하세요."
+
+#~ msgid "Keep Custom Padding on Mobile"
+#~ msgstr "모바일에서 사용자정의 내부여백 유지"
+
+#~ msgid "Allow custom padding to be retained on mobile screens"
+#~ msgstr "사용자정의 내부여백이 모바일 화면에 유지되도록 허용"
+
+#~ msgid "Make This Row Fullwidth"
+#~ msgstr "이 행을 전체 너비로 만들기"
+
+#~ msgid ""
+#~ "Enable this option to extend the width of this row to the edge of the "
+#~ "browser window."
+#~ msgstr ""
+#~ "이 옵션을 활성화하여 이 행의 너비를 브라우저창의 끝까지 확장시키세요."
+
+#~ msgid "Use Custom Width"
+#~ msgstr "사용자정의 너비를 사용"
+
+#~ msgid ""
+#~ "Change to Yes if you would like to adjust the width of this row to a non-"
+#~ "standard width."
+#~ msgstr "이 행의 너비를 비표준 너비로 조정하시려면 예로 바꾸세요."
+
+#~ msgid "Unit"
+#~ msgstr "단위"
+
+#~ msgid "px"
+#~ msgstr "픽셀"
+
+#~ msgid "Custom Width"
+#~ msgstr "사용자정의 너비"
+
+#~ msgid "Define custom width for this Row"
+#~ msgstr "이 행의 사용자정의 너비를 결정"
+
+#~ msgid "Gutter Width"
+#~ msgstr "사용자정의 간격"
+
+#~ msgid "Adjust the spacing between each column in this row."
+#~ msgstr "이 행의 각 열 사이의 간격을 조정하세요."
+
+#~ msgid "Equalize Column Heights"
+#~ msgstr "열의 높이 균둥화"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Divi에 오신 것을 환영합니다! 당신의 새로운 테마를 경험하시기 전에 <a href="
+#~ "\"%1$s\" target=\"_blank\">DiviDocumentation</a> 페이지에 방문하셔서 여러 "
+#~ "심화 튜토리얼을 체험하세요.."
+
+#~ msgid "Category Font Size"
+#~ msgstr "카테고리 폰트 사이즈"
+
+#~ msgid "Category Font Style"
+#~ msgstr "카테고리 폰트 양식"

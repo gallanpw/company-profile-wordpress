@@ -1,0 +1,4336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:09+0300\n"
+"PO-Revision-Date: 2015-06-17 19:56+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: fil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Protektado ng password ang post na ito. I-enter ang password upang tingnan "
+"ang mga komento."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 Komento"
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr "1 Komento"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "Mga Komento"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Mas Lumang Komento"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Mas Bagong Komento <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Mga Trackback/Mga Pingback"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "Isumite ang Komento"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "Isumite ang Komento"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Mag-iwan ng Reply kay %s"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "Isini-save..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Nai-save na ang mga Opsyon."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Mga Opsyon"
+
+#: ../epanel/core_functions.php:73 ../functions.php:8939
+msgid "Theme Options"
+msgstr "Mga Opsyon ng Theme"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "nai-save na ang mga setting."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "nai-reset na ang mga setting."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448 ../functions.php:616
+msgid "General Settings"
+msgstr "Mga Pangkalahatang Setting"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Navigation"
+
+#: ../epanel/core_functions.php:117 ../functions.php:621
+msgid "Layout Settings"
+msgstr "Mga Setting ng Layout"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Pamamahala ng Ad"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Kulay"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Pagsasama"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Dokumento ng Suporta"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "I-reset"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "Mag-upload ng Larawan"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "Wala kang anumang mga page"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "I-save ang mga pagbabago"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"Ibabalik nito ang lahat ng mga setting sa buong page ng mga opsyon sa mga "
+"default na value ng mga ito. <strong>Sigurado ka bang gusto mong gawin ito?</"
+"strong>"
+
+#: ../epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "Pumili ng Larawan"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:465 ../header.php:141
+msgid "Home"
+msgstr "Home"
+
+#: ../epanel/custom_functions.php:713
+msgid "Archives"
+msgstr "Mga Archive"
+
+#: ../epanel/custom_functions.php:715
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Mga resulta ng paghahanap para sa \"%s\""
+
+#: ../epanel/custom_functions.php:717
+msgid "404 Not Found"
+msgstr "404 Hindi Nahanap"
+
+#: ../epanel/custom_functions.php:788
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "Kasalukuyang tinitingnan ang mga archive mula sa %1$s"
+
+#: ../epanel/custom_functions.php:1021
+msgid "Image doesn't exist"
+msgstr "Hindi umiiral ang larawan"
+
+#: ../epanel/custom_functions.php:1217
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Ito ang pinakabagong installation ng %1$s na "
+"theme. Huwag kalimutang pumunta sa <a href=\"%2$s\">ePanel</a> upang i-set "
+"up ito. Mawawala ang mensaheng ito sa oras na i-click mo ang button na I-"
+"save na nasa <a href=\"%2$s\">page ng opsyon ng theme</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1229
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"May available nang bagong bersyon ng %1$s. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">Tingnan ang mga detalye ng bersyon %3$s</a>. <em>Bago mo "
+"mai-update ang iyong Mga Eleganteng Theme, dapat mo munang i-install ang <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Plugin na Elegant Updater</a> upang patunayang tunay "
+"ang iyong subscription.</em>"
+
+#: ../epanel/custom_functions.php:1233
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Bago mo mai-update ang iyong Mga Eleganteng Theme, dapat mo munang i-install "
+"ang <a href=\"https://www.elegantthemes.com/members-area/documentation."
+"html#updater\" target=\"_blank\">Plugin na Elegant Updater</a> upang "
+"patunayang tunay ang iyong subscription."
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "Pangkalahatan"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "Logo"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "I-set bilang Logo"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Kung sakaling gusto mong gamiting ang sarili mong custom na larawan ng logo, "
+"i-click ang button na \"I-upload ang Larawan.\""
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "I-set bilang Favicon"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Kung sakaling gusto mong gamiting ang sarili mong custom na larawan ng "
+"favicon, i-click ang button na I-upload ang Larawan."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "Naka-fix na Bar ng Navigation"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"Bilang default, mananatili ang navigation bar sa itaas ng screen sa lahat ng "
+"panahon. Iminumungkahi namin na i-disable ang opsyong ito kung kailangan "
+"mong gumamit ng malaking larawan ng logo."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "Kunin ang larawan ng unang post"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"Bilang default, ginagawa ang mga larawan sa thumbnail gamit ang mga custom "
+"na field. Gayunpaman, kung mas pipiliin mong gumamit ng mga larawan na nasa "
+"post mo na para sa iyong thumbnail (at lampasan ang mga custom na field) "
+"maaari mong i-activate ang opsyon ito. Sa oras na na-activate na, "
+"awtomatikong mabubuo ang mga larawan sa thumbnail gamit ang unang larawan sa "
+"iyong post. Dapat na naka-host ang larawan sa sarili mong server."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "Mode na Estilo ng Blog"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"Bilang default, awtomatikong pinapaikli ng theme ang mga sipi mo sa iyong "
+"mga post upang gumawa ng mga preview ng post. Kung mas pipiliin mong ipakita "
+"ang iyong mga post gaya ng sa tradisyonal na blog, kung ganoon, maaari mong "
+"i-activate ang feature na ito."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "Layout ng Page sa Pagbili at Page ng Kategorya para sa WooCommerce"
+
+#: ../epanel/options_divi.php:90 ../functions.php:364
+msgid "Right Sidebar"
+msgstr "Kanang Sidebar"
+
+#: ../epanel/options_divi.php:91 ../functions.php:365
+msgid "Left Sidebar"
+msgstr "Kaliwang Sidebar"
+
+#: ../epanel/options_divi.php:92 ../functions.php:366
+msgid "Full Width"
+msgstr "Buong Width"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"Saan ka makakapili ng Layout ng Page sa Pagbili at Page ng Kategorya para sa "
+"WooCommerce."
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "Key ng API ng MailChimp"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"Ilagay ang key ng API ng iyong MailChimp. Makakagawa ka ng isang key ng api "
+"<a target=\"_blank\" href=\"%1$s\">dito</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Awtorisasyon ng Aweber"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "Bigyan ng awtorisasyon ang iyong Aweber account dito."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "Muling Buuin ang mga Listahan ng MailChimp"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Bilang default, kina-cached ang mga listahan ng MailChimp sa loob ng isang "
+"araw. Kung nagdagdag ka ng bagong listahan, ngunit hindi ito lumalabas sa "
+"mga setting ng module ng SignUp, i-activate ang opsyon ito. Huwag kalimutang "
+"i-disable ito sa oras na mabuo nang muli ang listahan."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Muling Buuin ang mga Listahan ng Aweber"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Bilang default, kina-cached ang mga listahan ng Aweber sa loob ng isang "
+"araw. Kung nagdadag ka ng bagong listahan, ngunit hindi ito lumalabas sa mga "
+"setting ng module ng SignUp, i-activate ang opsyon ito. Huwag kalimutang i-"
+"disable ito sa oras na mabuo nang muli ang listahan."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Ipakita ang Icon ng Facebook"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr ""
+"Dito, maaari mong piliing ipakita ang Icon ng Facebook sa iyong homepage. "
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Ipakita ang Icon ng Twitter"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Dito, maaari mong piliing ipakita ang Icon ng Twitter. "
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Ipakita ang Icon ng Google+"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr ""
+"Dito, maaari mong piliing ipakita ang Icon ng Google+ sa iyong homepage. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "Ipakita ang Icon ng RSS"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Dito, maaari mong piliing ipakita ang Icon ng RSS. "
+
+#: ../epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "URL ng Profile sa Facebook"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Ilagay ang URL ng iyong Profile ng Facebook. "
+
+#: ../epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "URL ng Profile sa Twitter"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Ilagay ang URL ng iyong Profile ng Twitter."
+
+#: ../epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "URL ng Profile sa Google+"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Ilagay ang URL ng iyong Profile ng Google+. "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "URL ng Icon ng RSS"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "Ilagay ang URL ng iyong RSS feed. "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "Bilang ng mga Post na ipinapakita sa page ng Kategorya"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Maaari mong itakda dito kung ilang mga kamakailang artikulo ang ipinapakita "
+"sa page ng Kategorya. Gumagana ang opsyong ito nang hindi nakadepende sa mga "
+"opsyon ng Pagbabasa sa wp-admin."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Bilang ng mga Post na ipinapakita sa mga page ng Archive"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Maaari mong itakda dito kung ilang mga kamakailang artikulo ang ipinapakita "
+"sa mga page ng Archive. Gumagana ang opsyong ito nang hindi nakadepende sa "
+"mga opsyon ng Pagbabasa sa wp-admin."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "Bilang ng mga Post na ipinapakita sa mga page ng Paghahanap"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Maaari mong itakda dito kung ilang mga kamakailang artikulo ang ipinapakita "
+"sa mga page ng mga resulta ng Paghahanap. Gumagana ang opsyong ito nang "
+"hindi nakadepende sa mga opsyon ng Pagbabasa sa wp-admin."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Bilang ng mga Post na ipinapakita sa mga page ng Tag"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Maaari mong itakda dito kung ilang mga kamakailang artikulo ang ipinapakita "
+"sa mga page ng Tag. Gumagana ang opsyong ito nang hindi nakadepende sa mga "
+"opsyon ng Pagbabasa sa wp-admin."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "Format ng petsa"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Gamit ang opsyon na ito, mababago mo kung paano ipinapakita ang mga petsa. "
+"Para sa higit pang impormasyon, pakisuyong sumangguni sa codex ng WordPress "
+"dito:<a href='http://codex.wordpress.org/Formatting_Date_and_Time' "
+"target='_blank'>Pagfo-format ng Petsa at Oras</a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "Gamitin ang mga sipi kapag tinukoy"
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr ""
+"Gagawin nitong posible ang paggamit ng mga sipi sa mga post o mga page."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "Tumutugong shortcodes"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"I-enable ang opsyong ito upang gawing tumutugon ang shortcodes sa iba't "
+"ibang mga laki ng screen"
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "Mga subset ng Google Fonts"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Ie-enable nito ang Google Fonts para sa mga wikang hindi Ingles."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "Button na Bumalik sa Itaas"
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+"I-enable ang opsyong ito upang ipakita ang Button na Bumalik Sa Itaas habang "
+"nag-e-scroll"
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "Mahusay na Pag-e-scroll"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr ""
+"I-enable ang opsyong ito upang magkaroon ng effect ng mahusay na pag-e-"
+"scroll gamit ang wheel ng mouse"
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "Custom na CSS"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Maaari mong idagdag dito ang custom na CSS upang i-override o i-extend ang "
+"mga default na estilo."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "Mga Page"
+
+#: ../epanel/options_divi.php:292 ../functions.php:292 ../functions.php:302
+msgid "Categories"
+msgstr "Mga Kategorya"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "Ibukod ang mga page mula sa navigation bar"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Maaari mong piliin ditong alisin ang ilang page mula sa menu ng navigation. "
+"Ang lahat ng page na minarkahan ng X ay hindi lalabas sa iyong navigation "
+"bar. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "Ipakita ang mga dropdown na menu"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Kung gugustuhin mong alisin ang mga dropdown na menu mula sa navigation bar "
+"ng mga page, i-disable ang feature na ito."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "Ipakita ang link ng Home"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"Bilang default, gumagawa ang theme ng isang link ng Home na, kapag na-click, "
+"mapupunta pabalik sa homepage ng iyong blog. Gayunpaman, kung gumagamit ka "
+"ng static na homepage at nakagawa ka na ng magagamit na isang page na "
+"tinatawag na Home, magreresulta ito sa duplicate na link. Sa ganitong "
+"sitwasyon, dapat mong i-disable ang feature na ito para maalis ang link."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "Pag-uuri ng Link ng mga Page"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr ""
+"Maaari mong piliin dito kung paano pag-uuriin ang mga link ng iyong mga page."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Ayusin ang mga Link ng mga Page nang Pataas/Pababa"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Maaari mong piliin dito na baligtarin ang ayos ng kung paano ipinapakita ang "
+"mga link ng iyong mga page. Maaari mong piliin sa pagitan ng pataas at "
+"pababang ayos."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "Ipinapakita ang bilang ng mga tier ng dropdown"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Gamit ang opsyon na ito, makokontrol mo kung ilang mga tier mayroon ang "
+"dropdown na menu ng iyong mga page. Sa pamamagitan ng pagpapataas ng bilang, "
+"maaaring maipakita ang dagdag na mga item ng menu."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "Ibukod ang mga kategorya mula sa navigation bar"
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Maaari mong piliin ditong alisin ang ilang kategorya mula sa menu ng "
+"navigation. Ang lahat ng kategorya na minarkahan ng X ay hindi lalabas sa "
+"iyong navigation bar. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Kung gugustuhin mong alisin ang mga dropdown na menu mula sa navigation bar "
+"ng mga kategorya, i-disable ang feature na ito."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "Itago ang walang lamang kategorya"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Kung gusto mong maipakita ang mga kategorya sa iyong navigation bar na "
+"walang anumang mga post sa mga ito, kung gayon, i-disable ang opsyong ito. "
+"Bilang default, ang mga kategoryang walang laman ay hindi ipinapakita."
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr ""
+"Pag-uriin ang mga Link ng mga Kategorya ayon sa Pangkat ng Name/ID/Slug/"
+"Count/Term"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"Bilang default, inuuri ang mga page ayon sa pangalan. Gayunpaman, kung mas "
+"gusto mong mapag-uri-uri ang mga ito ayon sa ID, maaari mong isaayos ang "
+"setting na ito."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Ayusin ang mga Link ng mga Kategorya nang Pataas/Pababa"
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Maaari mong piliin dito na baligtarin ang ayos ng kung paano ipinapakita ang "
+"mga link ng iyong mga kategorya. Maaari mong piliin sa pagitan ng pataas at "
+"pababang ayos."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "I-disable ang mga link ng nauunang tier ng dropdown na menu"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"Sa ilang mga kalagayan, gugustuhin ng mga user na gumawa ng mga parent na "
+"kategorya o link bilang mga placeholder upang magdala ng isang listahan ng "
+"mga child na link o kategorya. Sa ganitong sitwasyon, hindi maganda kung "
+"humahantong sa kung saan ang mga parent link, ngunit para lang sa function "
+"na para sa pag-oorganisa. Aalisin ng pag-e-enable sa mga opsyong ito ang mga "
+"link mula sa lahat ng parent na page/kategorya upang hindi ito humantonng sa "
+"kung saan kapag na-click."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "Layout na May Iisang Post"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "Layout na May Iisang Page"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+"Piliin kung aling mga item ang ipapakita sa seksyon ng impormasyon tungkol "
+"sa post"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Maaari mong piliin dito kung aling mga item ang lalabas sa seksyon ng "
+"impormasyon tungkol sa post sa mga page ng iisang post. Ito ang lugar, "
+"kadalasang sa ibaba ng pamagat ng post, na nagpapakita ng pangunahing "
+"impormasyon tungkol sa iyong post. Lalabas ang mga naka-highlight na item na "
+"ipinapakita sa ibaba. "
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "Ipakita ang mga komento sa mga post"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Maaari mong i-disable ang opsyong ito kung gusto mong alisin ang mga komento "
+"at ang form ng komento mula sa iyong mga post. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "Ilagay ang mga Larawan ng Thumbnail sa mga Post"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"Bilang default, ang mga thumbnail ay nakalagay sa simula ng iyong mga page "
+"ng iisang post. Kung gugustuhin mong alisin ang inisyal na larawan ng "
+"thumbnail upang maiwasan ang pag-uulit, i-disable lang ang opsyong ito. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "Ilagay ang mga Larawan ng Thumbnail sa mga Page"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"Bilang default, ang mga thumbnail ay hindi inilalagay sa mga page (ginagamit "
+"lang ang mga ito sa mga post). Ngunit, kung gusto mong gumamit ng mga "
+"thumbnail sa mga page, pwede! I-enable lang ang opsyong ito."
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "Ipakita ang mga komento sa mga page"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"Bilang default, ang mga komento ay hindi nakalagay sa mga page, gayunpaman, "
+"kung gusto mong hayaan ang mga taong magkomento sa iyong mga page, i-enable "
+"lang ang opsyong ito. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "Seksyon ng impormasyon ng post"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Maaari mong piliin dito kung aling mga item ang lalabas sa seksyon ng "
+"impormasyon tungkol sa artikulo sa mga page. Ito ang lugar, kadalasang sa "
+"ibaba ng pamagat ng post, na nagpapakita ng pangunahing impormasyon tungkol "
+"sa iyong post. Lalabas ang mga naka-highlight na item na ipinapakita sa "
+"ibaba. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "Ipakita ang mga Larawan ng Thumbnail sa mga Index na page"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr ""
+"I-enable ang opsyong ito upang ipakita ang mga thumbnail sa mga Index na "
+"Page."
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "SEO sa Homepage"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "SEO ng Page ng Iisang Post"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "SEO ng Index na Page"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "I-enable ang custom na pamagat "
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"Bilang default, gumagamit ang theme ng isang kombinasyon ng pangalan ng "
+"iyong blog at paglalarawan ng iyong blog, gaya ng tinukoy nang ginawa mo ang "
+"iyong blog, upang gawin ang mga pamagat ng iyong homepage. Gayunpaman, kung "
+"gusto mong gumawa ng isang custom na pamagat, kung gayon, i-enable lang ang "
+"opsyong ito at punan ang field sa ibaba para sa custom na pamagat. "
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "I-enable ang paglalarawan ng  meta na tag"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"Bilang default, gumagamit ang theme ng paglalarawan ng iyong blog, gaya ng "
+"tinukoy nang ginawa mo ang iyong blog, upang punan ang field para sa "
+"paglalarawan ng meta. Kung gusto mong gumamit ng ibang paglalarawan, kung "
+"gayon, i-enable ang opsyong ito at punan ang field na nasa ibaba para sa "
+"custom na paglalarawan. "
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "I-enable ang mga meta na keyword"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"Bilang default, hindi nagdadagdag ang theme ng mga keyword sa iyong header. "
+"Hindi na gumagamit ng mga keyword ang karamihan ng mga engine sa paghahanap "
+"upang i-rank ang iyong site, ngunit tinutukoy pa rin ang mga ito ng ilang "
+"tao kung sakali lang na kailanganin. Kung gusto mong magdagdag ng mga meta "
+"na keyword sa iyong header, kung gayon, i-enable ang opsyong ito at punan "
+"ang field na nasa ibaba para sa custom na mga keyword. "
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "I-enable ang canonical na URL's"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Tumutulong ang canonicalization (paglo-load ng kani-kaniyang page ng iba-iba "
+"ang URL) na mapigilan ang pag-iindex ng mga parehong content ng mga search "
+"engine, at bilang resulta, ay makakatulong sa paghahadlang sa doble-dobleng "
+"penalty sa content at pagbaba ng pagerank. Maaaring may iba-ibang URL ang "
+"ilan sa mga page ngunit ang lahat ay hahantong sa parehong lugar. Halimbawa, "
+"ang domain.com, domain.com/index.html, at www.domain.com ay magkakaibang "
+"URLs na humahantong sa iyong homepage. Sa perspektibo ng isang search "
+"engine, ang mga doble-dobleng URL na ito, na karaniwang nagaganap dahil sa "
+"mga custom na link, ay maaaring ituring nang magkakahiwalay sa halip na "
+"iisang destinasyon. ang pagtukoy sa isang canonical na URL ay magsasabi sa "
+"search engine kung aling URL ang gusto mong opisyal na gamitin. Binabase ng "
+"theme ang mga canonical na URL nito sa iyong mga link at sa domain name na "
+"tinukoy sa mga tab ng setting na wp-admin."
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "Custom na pamagat ng homepage (kung naka-enable)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Kung nai-enable mo ang mga custom na pamagat, maaari mong idagdag dito ang "
+"iyong custom na pamagat. Anuman ang iyong i-type dito ay ilalagay sa pagitan "
+"ng mga tag ng < title >< /title > sa header.php"
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "Paglalarawan na meta ng homepage (kung naka-enable)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+"Kung nai-enable mo ang mga paglalarawan na meta, maaari mong idagdag dito "
+"ang iyong custom na paglalarawan."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Mga keyword na meta ng homepage (kung naka-enable)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Kung nai-enable mo ang mga keyword na meta, maaari mong idagdag dito ang "
+"iyong mga custom na keyword. Ang mga keyword ay dapat na pinaghihiwalay ng "
+"mga kuwit. Halimbawa: wordpress,themes,templates,elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+"Kung naka-disable ang mga custom na pamagat, pumili ng awtomatikong paraan "
+"ng pagbuo"
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Kung hindi ka gumagamit ng mga custom na pamagat ng post, maaari ka pa ring "
+"magkaroon ng kontrol sa kung paano binubuo ang iyong mga pamagat. Maaari "
+"mong pilin dito kung sa aling ayos mo gustong maipakita ang pamagat ng post "
+"at ang pangalan ng blog mo, o maaari mong alisin nang lubusan ang pangalan "
+"ng blog mula sa pamagat."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+"Tukuyin ang isang character upang ihiwalay ang Pangalan ng Website at "
+"Pamagat ng Post"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Maaari mong baguhin dito kung aling character ang ginagamit upang ihiwalay "
+"ang iyong pamagat ng blog at pangalan ng post kapag bumagamit ng mga pamagat "
+"ng post na awtomatikong binuo. Ang mga karaniwang value ay | o -"
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "I-enable ang mga custom na pamagat"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"Bilang default, gumagawa ang theme ng mga pamagat ng post batay sa pamagat "
+"ng iyong post at sa pangalan ng iyong blog. Kung gusto mong iba ang iyong "
+"pamagat na meta kaysa sa aktuwal na pamagat ng post mo, maaari kang tumukoy "
+"ng isang custom na pamagat para sa bawat post gamit ang mga custom na "
+"field.  Dapat i-enable ang opsyon na ito para sa mga custom na pamagat upang "
+"gumana, at dapat kang pumili sa ibaba ng custom na pangalan ng field para sa "
+"iyong pamagat."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "I-enable ang custom na paglalarawan"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Kung gusto mong magdagdag ng isang meta na paglalarawan sa iyong post, "
+"magagawa mo iyon gamit ang mga custom na field. Dapat na naka-enable ang "
+"opsyong ito para sa mga paglalarawan para maipakita sa iyong mga page ng "
+"post. Maaari mong idagdag ang iyong meta na paglalarawan gamit ang mga "
+"custom na field batay sa pangalan ng custon na field na tinukoy o sa ibaba."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "I-enable ang mga custom na keyword"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Kung gusto mong magdagdag ng mga meta na keyword sa iyong post, magagawa mo "
+"iyon gamit ang mga custom na field. Dapat na naka-enable ang opsyong ito "
+"para sa mga keyword para maipakita sa iyong mga page ng post. Maaari mong "
+"idagdag ang iyong meta na keyword gamit ang mga custom na field batay sa "
+"pangalan ng custon na field na tinukoy o sa ibaba."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "I-enable ang canonical na URL's"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "Pangalan ng custom na field na gagamitin para sa pamagat"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Kapag tinukoy mo ang iyong pamagat gamit ang mga custom na field, dapat mong "
+"gamitin ang value na ito para sa Pangalan ng custom na field. Ang Value ng "
+"iyong custom na field ay dapat na ang custom na pamagat na gusto mong "
+"gamitin."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "Pangalan ng custom na field na gagamitin para sa paglalarawan"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Kapag tinukoy mo ang iyong meta na paglalarawan gamit ang mga custom na "
+"field, dapat mong gamitin ang value na ito para sa Pangalan ng custom na "
+"field. Ang Value ng iyong custom na field ay dapat na ang custom na "
+"paglalarawan na gusto mong gamitin."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr "Pangalan ng custom na field na gagamitin para sa mga keyword"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Kapag tinukoy mo ang iyong mga keyword gamit ang mga custom na field, dapat "
+"mong gamitin ang value na ito para sa Pangalan ng custom na field. Ang Value "
+"ng iyong custom na field ay dapat na ang mga meta na keyword na gusto mong "
+"gamitin, nang pinaghihiwalay ng mga kuwit."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Kung hindi ka gumagamit ng mga custom na pamagat ng post, maaari ka pa ring "
+"magkaroon ng kontrol sa kung paano binubuo ang iyong mga pamagat. Maaari "
+"mong pilin dito kung sa aling ayos mo gustong maipakita ang pamagat ng post "
+"at ang pangalan ng blog mo, o maaari mong alisin nang lubusan ang pangalan "
+"ng blog mula sa pamagat."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "I-enable ang mga meta na paglalarawan"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Lagyan ng check ang kahon na ito kung gusto mong ipakita ang mga meta na "
+"paglalarawan sa mga page ng kategorya/archive. Nakabatay ang paglalarawan sa "
+"paglalarawan ng kategorya na pinili mo nang gumagawa/nag-e-edit ng iyong "
+"kategorya sa wp-admin."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "Pumili ng paraan ng pagbuo ng pamagat"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Maaari mong piliin dito kung paano binubuo ang iyong mga pamagat sa mga "
+"index na page. Maaari mong baguhin kung sa aling ayos ipinapakita ang iyong "
+"pangalan ng blog at index na pamagat, o maaari mong alisin nang lubusan ang "
+"pangalan ng blog mula sa pamagat."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Maaari mong baguhin dito kung aling character ang ginagamit upang ihiwalay "
+"ang iyong pamagat ng blog at pangalan ng index na page kapag bumagamit ng "
+"mga pamagat ng post na awtomatikong binuo. Ang mga karaniwang value ay | o -"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "Pagsasama-sama ng Code"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "I-enable ang code ng header"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Aalisin ng pagdi-disable ng opsyon na ito ang code ng header na nasa ibaba "
+"mula sa iyong blog. Hinahayaan ka nitong alisin ang code habang sine-save "
+"ito para magamit sa ibang pagkakataon."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "I-enable ang code ng < body >"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Aalisin ng pagdi-disable ng opsyon na ito ang code ng body na nasa ibaba "
+"mula sa iyong blog. Hinahayaan ka nitong alisin ang code habang sine-save "
+"ito para magamit sa ibang pagkakataon."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "I-enable ang iisang itaas na code"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Aalisin ng pagdi-disable ng opsyon na ito ang iisang itaas na code na nasa "
+"ibaba mula sa iyong blog. Hinahayaan ka nitong alisin ang code habang sine-"
+"save ito para magamit sa ibang pagkakataon."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "I-enable ang iisang code sa ibaba"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Aalisin ng pagdi-disable ng opsyon na ito ang iisang ibabang code na nasa "
+"ibaba mula sa iyong blog. Hinahayaan ka nitong alisin ang code habang sine-"
+"save ito para magamit sa ibang pagkakataon."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "Magdagdag ng code sa < head > ng iyong blog"
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Anumang code ang ilagay mo dito ay lalabas sa unahang seksyon ng bawat page "
+"ng iyong blog. Kapaki-pakinabang ito kapag kailangan mong magdagdag ng "
+"Javascript o CSS sa lahat ng page."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Magdagdag ng code sa < body > (mabuti para sa pagta-track ng mga code gaya "
+"ng Google Analytics)"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Anumang code ang ilagay mo dito ay lalabas sa pangunahing seksyon ng bawat "
+"page ng iyong blog. Kapaki-pakinabang ito kung kailangan mong maglagay ng "
+"isang pixel sa pagta-track para sa counter ng katayuan gaya ng Google "
+"Analytics."
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "Magdagdag ng code sa itaas ng iyong mga post"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Anumang code ang ilagay mo dito ay ilalagay sa itaas ng lahat ng post. "
+"Kapaki-pakinabang ito kapag pinaplano mong isama ang mga bagay gaya ng mga "
+"link ng social bookmarking."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Magdagdag ng code sa ibaba ng iyong mga post, bago ang mga koment"
+
+#: ../epanel/options_divi.php:844 ../functions.php:8612
+msgid "Documentation"
+msgstr "Dokumentasyon"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Pamahalaan ang mga Advertisement"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "I-enable ang Iisang Post na banner na 468x60"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Ipapakita ng pag-e-enable ng opsyong ito ang isang banner ad na 468x60 sa "
+"ibabang bahagi ng iyong mga page ng post sa ibaba ng content ng iisang post. "
+"Kung in-enable, daat mong punan ang larawan ng banner at URL ng patutunguhan "
+"sa ibaba."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "I-input ang 468x60 na larawan ng advertisement banner"
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Maaari mong ibigay dito ang URL ng 468x60 na larawan ng banner"
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "I-input ang 468x60 na URL ng patutunguhan ng advertisement"
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Maaari mong ibigay dito ang URL ng patutunguhan ng 468x60 na banner"
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "Code ng input na 468x60 sa Google Adsense"
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "Ilagay ang iyong code para sa Google Adsense dito."
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:518 ../functions.php:160
+msgid "Previous"
+msgstr "Nauna"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:519 ../functions.php:161
+msgid "Next"
+msgstr "Susunod"
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "I-tweet"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "Login ng Member"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "Username: "
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "Password: "
+
+#: ../epanel/shortcodes/shortcodes.php:294 ../functions.php:3522
+msgid "Login"
+msgstr "Mag-login"
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "Magdagdag ng Text para sa Tooltip"
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "Mag-click dito upang matuto pa"
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "Sumali Ngayon"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "Magdagdag ng Toggle Block"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "Magdagdag ng Box"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "Magdagdag ng Button"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "Magdagdag ng mga Tab"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "Idagdag ang Bio ng May-sulat"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "Maiikling code (Shortcodes)"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "Caption"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "Dito ang caption"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "Dito ang pamagat ng caption"
+
+#: ../epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "Katayuan"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "Pumili sa pagitan ng katayuang pinalawak at isinara"
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "Content"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "Dito ang content"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "Text ng content o HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021 ../functions.php:8610
+msgid "Type"
+msgstr "Uri"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "Uri ng box"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "Link"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "Pumili ng uri ng button"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "Kulay"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "Pumili ng kulay para sa button"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "Text ng link"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "Icon"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "Ginagamit para sa uri ng button ng icon"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "Buksan ang link sa bagong window"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Piliin ang oo kung dapat mabuksan ang link sa isang bagong window"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "Uri ng Slider"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "Pumili dito ng Uri ng Slider"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "Effect"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "Pumili ng Effect para sa Animation"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "Awtomatiko"
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr ""
+"Piliin ang oo kung gusto mong i-enable ang awtomatikong animation ng slider"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "Awtomatikong Bilis"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+"Awtomatikong bilis ng slider (gumagana lang kung nakatakda sa oo ang "
+"Awtomatiko)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "Text ng Tab"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "Nilalaman ng Tab"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"I-paste ang URL ng larawan dito, kung pinili mo ang \"images\" na uri ng "
+"slider"
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "URL ng Larawan"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "URL ng Larawan ng May-akda"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "Gamitin ang pagre-resize"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ Magdagdag ng Isa Pang Tab"
+
+#: ../epanel/shortcodes/shortcodes.php:1335 ../functions.php:3165
+msgid "Image Height"
+msgstr "Taas ng Larawan"
+
+#: ../epanel/shortcodes/shortcodes.php:1336 ../functions.php:3146
+msgid "Image Width"
+msgstr "Width ng Larawan"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Dinisenyo ni/ng %1$s | Pinapagana ng %2$s"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "Pangunahing Menu"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "Pangalawahing Menu"
+
+#: ../functions.php:32 ../functions.php:706
+msgid "Footer Menu"
+msgstr "Menu sa Footer"
+
+#: ../functions.php:73
+#, php-format
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a "
+"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
+"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+"Maligayang pagdating sa Divi! Bago tuklasin ang lahat tungkol sa bago mong "
+"tema, mangyaring bumisita sa pahina ng <a style=\"color: #fff; font-weight: "
+"bold;\" href=\"%1$s\" target=\"_blank\">Divi Documentation</a> para maka-"
+"access ng maraming detalyadong pagtuturo."
+
+#: ../functions.php:97
+msgid "on"
+msgstr " "
+
+#: ../functions.php:154
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Pakisuri ang mga field ng input sa ibaba upang matiyak na inilagay mo ang "
+"tamang impormasyon."
+
+#: ../functions.php:155
+msgid "Fill"
+msgstr "Punan"
+
+#: ../functions.php:156
+msgid "field"
+msgstr "field"
+
+#: ../functions.php:157
+msgid "Invalid email"
+msgstr "Di-wastong email"
+
+#: ../functions.php:158
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../functions.php:159
+msgid "Prev"
+msgstr "Nauna"
+
+#: ../functions.php:208
+msgid "Select Page"
+msgstr "Pumili Ng Page"
+
+#: ../functions.php:246
+msgid "Divi Page Settings"
+msgstr "Mga Setting ng Divi Page"
+
+#: ../functions.php:247
+msgid "Divi Post Settings"
+msgstr "Mga Setting ng Divi Post"
+
+#: ../functions.php:248
+msgid "Divi Product Settings"
+msgstr "Mga Setting ng Produkto na Divi"
+
+#: ../functions.php:249
+msgid "Divi Project Settings"
+msgstr "Mga Setting ng Proyekto na Divi"
+
+#: ../functions.php:255
+msgid "Projects"
+msgstr "Mga Proyekto"
+
+#: ../functions.php:256
+msgid "Project"
+msgstr "Proyekto"
+
+#: ../functions.php:257
+msgid "Add New"
+msgstr "Magdagdag ng Bago"
+
+#: ../functions.php:258
+msgid "Add New Project"
+msgstr "Magdadag ng Bagong Proyekto"
+
+#: ../functions.php:259
+msgid "Edit Project"
+msgstr "I-edit ang Proyekto"
+
+#: ../functions.php:260
+msgid "New Project"
+msgstr "Bagong Proyekto"
+
+#: ../functions.php:261
+msgid "All Projects"
+msgstr "Lahat ng Proyekto"
+
+#: ../functions.php:262
+msgid "View Project"
+msgstr "Tingnan ang Proyekto"
+
+#: ../functions.php:263
+msgid "Search Projects"
+msgstr "Maghanap ng mga Proyekto"
+
+#: ../functions.php:264
+msgid "Nothing found"
+msgstr "Walang nahanap"
+
+#: ../functions.php:265
+msgid "Nothing found in Trash"
+msgstr "Walang nahanap sa Trash"
+
+#: ../functions.php:293
+msgid "Category"
+msgstr "Kategorya"
+
+#: ../functions.php:294
+msgid "Search Categories"
+msgstr "Maghanap ng mga Kategorya"
+
+#: ../functions.php:295
+msgid "All Categories"
+msgstr "Lahat ng Kategorya"
+
+#: ../functions.php:296
+msgid "Parent Category"
+msgstr "Parent na Kategorya"
+
+#: ../functions.php:297
+msgid "Parent Category:"
+msgstr "Parent na Kategorya:"
+
+#: ../functions.php:298
+msgid "Edit Category"
+msgstr "Mag-edit ng Kategorya"
+
+#: ../functions.php:299
+msgid "Update Category"
+msgstr "Mag-update ng Kategorya"
+
+#: ../functions.php:300
+msgid "Add New Category"
+msgstr "Magdagdag ng Bagong Kategorya"
+
+#: ../functions.php:301
+msgid "New Category Name"
+msgstr "Pangalan ng Bagong Kategorya"
+
+#: ../functions.php:314 ../functions.php:324
+msgid "Tags"
+msgstr "Mga Tag"
+
+#: ../functions.php:315
+msgid "Tag"
+msgstr "Tag"
+
+#: ../functions.php:316
+msgid "Search Tags"
+msgstr "Maghanap ng mga Tag"
+
+#: ../functions.php:317
+msgid "All Tags"
+msgstr "Lahat ng Tag"
+
+#: ../functions.php:318
+msgid "Parent Tag"
+msgstr "Parent na Tag"
+
+#: ../functions.php:319
+msgid "Parent Tag:"
+msgstr "Parent na Tag:"
+
+#: ../functions.php:320
+msgid "Edit Tag"
+msgstr "I-edit ang Tag"
+
+#: ../functions.php:321
+msgid "Update Tag"
+msgstr "I-update ang Tag"
+
+#: ../functions.php:322
+msgid "Add New Tag"
+msgstr "Magdagdag ng Bagong Tag"
+
+#: ../functions.php:323
+msgid "New Tag Name"
+msgstr "Pangalan ng Bagong Tag"
+
+#: ../functions.php:340
+msgid "Skills"
+msgstr "Mga Skill"
+
+#: ../functions.php:343
+msgid "Posted on"
+msgstr "Nai-post noong"
+
+#: ../functions.php:370
+msgid "Light"
+msgstr "Maliwanag"
+
+#: ../functions.php:371
+msgid "Dark"
+msgstr "Madilim"
+
+#: ../functions.php:384
+msgid "Page Layout"
+msgstr "Layout ng Page"
+
+#: ../functions.php:398
+msgid "Dot Navigation"
+msgstr "Dot Navigation"
+
+#: ../functions.php:401 ../functions.php:409
+msgid "Off"
+msgstr "I-off"
+
+#: ../functions.php:402 ../functions.php:410
+msgid "On"
+msgstr "I-on"
+
+#: ../functions.php:406
+msgid "Hide Nav Before Scroll"
+msgstr "Itago ang Nav Bago ang Scroll"
+
+#: ../functions.php:416
+msgid "Post Title"
+msgstr "Pamagat ng Post"
+
+#: ../functions.php:419
+msgid "Show"
+msgstr "Ipakita"
+
+#: ../functions.php:420
+msgid "Hide"
+msgstr "Itago"
+
+#: ../functions.php:425
+msgid "Use Background Color"
+msgstr "Gamitin ang Kulay sa Background"
+
+#: ../functions.php:430 ../functions.php:5510
+msgid "Hex Value"
+msgstr "Value ng Kulay"
+
+#: ../functions.php:434 ../functions.php:1697 ../functions.php:1722
+#: ../functions.php:1845 ../functions.php:2350 ../functions.php:2449
+#: ../functions.php:2655
+msgid "Text Color"
+msgstr "Kulay ng Text"
+
+#: ../functions.php:626
+msgid "Typography"
+msgstr "Typography"
+
+#: ../functions.php:631
+msgid "Mobile Styles"
+msgstr "Mga Estilo ng Mobile"
+
+#: ../functions.php:636
+msgid "Tablet"
+msgstr "Tablet"
+
+#: ../functions.php:641
+msgid "Phone"
+msgstr "Phone"
+
+#: ../functions.php:646
+msgid "Mobile Menu"
+msgstr "Mobile Menu"
+
+#: ../functions.php:651
+msgid "Background"
+msgstr "Background"
+
+#: ../functions.php:656
+msgid "Header & Navigation"
+msgstr "Header at Pagna-navigate"
+
+#: ../functions.php:661
+msgid "Header Format"
+msgstr "Format ng Header"
+
+#: ../functions.php:666
+msgid "Primary Menu Bar"
+msgstr "Pangunahing Menu Bar"
+
+#: ../functions.php:671
+msgid "Secondary Menu Bar"
+msgstr "Pangalawang Menu Bar"
+
+#: ../functions.php:676
+msgid "Fixed Navigation Settings"
+msgstr "Mga Setting ng Nakapirming Pagna-navigate"
+
+#: ../functions.php:681
+msgid "Header Elements"
+msgstr "Mga Elemento ng Header"
+
+#: ../functions.php:686
+msgid "Footer"
+msgstr "Footer"
+
+#: ../functions.php:691
+msgid "Layout"
+msgstr "Layout"
+
+#: ../functions.php:696
+msgid "Widgets"
+msgstr "Mga Widget"
+
+#: ../functions.php:701
+msgid "Footer Elements"
+msgstr "Mga Elemento ng Footer"
+
+#: ../functions.php:711
+msgid "Bottom Bar"
+msgstr "Pinakaibabang Bar"
+
+#: ../functions.php:716 ../functions.php:1411
+msgid "Color Schemes"
+msgstr "Mga Scheme ng Kulay"
+
+#: ../functions.php:718
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Paalala: Dapat ilapat ang mga setting ng kulay na itinakda sa itaas sa "
+"Default na scheme ng kulay."
+
+#: ../functions.php:722
+msgid "Buttons"
+msgstr "Mga Button"
+
+#: ../functions.php:727
+msgid "Buttons Style"
+msgstr "Estilo ng mga Button"
+
+#: ../functions.php:732
+msgid "Buttons Hover Style"
+msgstr "Estilo ng Button sa Pagho-hover"
+
+#: ../functions.php:737 ../functions.php:4774
+msgid "Blog"
+msgstr "Blog"
+
+#: ../functions.php:742
+msgid "Post"
+msgstr "I-post"
+
+#: ../functions.php:754
+msgid "Meta Text Size"
+msgstr "Laki ng Text ng Meta"
+
+#: ../functions.php:772
+msgid "Meta Line Height"
+msgstr "Taas ng Linya ng Meta"
+
+#: ../functions.php:790
+msgid "Meta Letter Spacing"
+msgstr "Espasyo ng Titik ng Meta"
+
+#: ../functions.php:808 ../functions.php:4845 ../functions.php:4931
+msgid "Meta Font Style"
+msgstr "Estilo ng Font ng Meta"
+
+#: ../functions.php:812 ../functions.php:885 ../functions.php:1276
+#: ../functions.php:1598 ../functions.php:1682 ../functions.php:2119
+#: ../functions.php:2174 ../functions.php:2303 ../functions.php:2367
+#: ../functions.php:2546 ../functions.php:2825 ../functions.php:2864
+#: ../functions.php:2938 ../functions.php:3024 ../functions.php:3063
+#: ../functions.php:3091 ../functions.php:3111 ../functions.php:3215
+#: ../functions.php:3254 ../functions.php:3293 ../functions.php:3340
+#: ../functions.php:3406 ../functions.php:3445 ../functions.php:3492
+#: ../functions.php:3558 ../functions.php:3652 ../functions.php:3691
+#: ../functions.php:3766 ../functions.php:3805 ../functions.php:3844
+#: ../functions.php:3891 ../functions.php:3930 ../functions.php:4014
+#: ../functions.php:4053 ../functions.php:4100 ../functions.php:4139
+#: ../functions.php:4185 ../functions.php:4205 ../functions.php:4291
+#: ../functions.php:4311 ../functions.php:4396 ../functions.php:4435
+#: ../functions.php:4493 ../functions.php:4540 ../functions.php:4705
+#: ../functions.php:4744 ../functions.php:4810 ../functions.php:4849
+#: ../functions.php:4896 ../functions.php:4935 ../functions.php:4982
+#: ../functions.php:5021 ../functions.php:5060 ../functions.php:5099
+#: ../functions.php:5146 ../functions.php:5193 ../functions.php:5259
+#: ../functions.php:5298
+msgid "Bold"
+msgstr "Bold"
+
+#: ../functions.php:813 ../functions.php:886 ../functions.php:1277
+#: ../functions.php:1599 ../functions.php:1683 ../functions.php:2120
+#: ../functions.php:2175 ../functions.php:2304 ../functions.php:2368
+#: ../functions.php:2547 ../functions.php:2826 ../functions.php:2865
+#: ../functions.php:2939 ../functions.php:3025 ../functions.php:3064
+#: ../functions.php:3092 ../functions.php:3112 ../functions.php:3216
+#: ../functions.php:3255 ../functions.php:3294 ../functions.php:3341
+#: ../functions.php:3407 ../functions.php:3446 ../functions.php:3493
+#: ../functions.php:3559 ../functions.php:3653 ../functions.php:3692
+#: ../functions.php:3767 ../functions.php:3806 ../functions.php:3845
+#: ../functions.php:3892 ../functions.php:3931 ../functions.php:4015
+#: ../functions.php:4054 ../functions.php:4101 ../functions.php:4140
+#: ../functions.php:4186 ../functions.php:4206 ../functions.php:4292
+#: ../functions.php:4312 ../functions.php:4397 ../functions.php:4436
+#: ../functions.php:4494 ../functions.php:4541 ../functions.php:4706
+#: ../functions.php:4745 ../functions.php:4811 ../functions.php:4850
+#: ../functions.php:4897 ../functions.php:4936 ../functions.php:4983
+#: ../functions.php:5022 ../functions.php:5061 ../functions.php:5100
+#: ../functions.php:5147 ../functions.php:5194 ../functions.php:5260
+#: ../functions.php:5299
+msgid "Italic"
+msgstr "Italic"
+
+#: ../functions.php:814 ../functions.php:887 ../functions.php:1278
+#: ../functions.php:1600 ../functions.php:1684 ../functions.php:2121
+#: ../functions.php:2176 ../functions.php:2305 ../functions.php:2369
+#: ../functions.php:2548 ../functions.php:2827 ../functions.php:2866
+#: ../functions.php:2940 ../functions.php:3026 ../functions.php:3065
+#: ../functions.php:3093 ../functions.php:3113 ../functions.php:3217
+#: ../functions.php:3256 ../functions.php:3295 ../functions.php:3342
+#: ../functions.php:3408 ../functions.php:3447 ../functions.php:3494
+#: ../functions.php:3560 ../functions.php:3654 ../functions.php:3693
+#: ../functions.php:3768 ../functions.php:3807 ../functions.php:3846
+#: ../functions.php:3893 ../functions.php:3932 ../functions.php:4016
+#: ../functions.php:4055 ../functions.php:4102 ../functions.php:4141
+#: ../functions.php:4187 ../functions.php:4207 ../functions.php:4293
+#: ../functions.php:4313 ../functions.php:4398 ../functions.php:4437
+#: ../functions.php:4495 ../functions.php:4542 ../functions.php:4707
+#: ../functions.php:4746 ../functions.php:4812 ../functions.php:4851
+#: ../functions.php:4898 ../functions.php:4937 ../functions.php:4984
+#: ../functions.php:5023 ../functions.php:5062 ../functions.php:5101
+#: ../functions.php:5148 ../functions.php:5195 ../functions.php:5261
+#: ../functions.php:5300
+msgid "Uppercase"
+msgstr "Malalaking Titik"
+
+#: ../functions.php:815 ../functions.php:888 ../functions.php:1279
+#: ../functions.php:1601 ../functions.php:1685 ../functions.php:2122
+#: ../functions.php:2177 ../functions.php:2306 ../functions.php:2370
+#: ../functions.php:2549 ../functions.php:2828 ../functions.php:2867
+#: ../functions.php:2941 ../functions.php:3027 ../functions.php:3066
+#: ../functions.php:3094 ../functions.php:3114 ../functions.php:3218
+#: ../functions.php:3257 ../functions.php:3296 ../functions.php:3343
+#: ../functions.php:3409 ../functions.php:3448 ../functions.php:3495
+#: ../functions.php:3561 ../functions.php:3655 ../functions.php:3694
+#: ../functions.php:3769 ../functions.php:3808 ../functions.php:3847
+#: ../functions.php:3894 ../functions.php:3933 ../functions.php:4017
+#: ../functions.php:4056 ../functions.php:4103 ../functions.php:4142
+#: ../functions.php:4188 ../functions.php:4208 ../functions.php:4294
+#: ../functions.php:4314 ../functions.php:4399 ../functions.php:4438
+#: ../functions.php:4496 ../functions.php:4543 ../functions.php:4708
+#: ../functions.php:4747 ../functions.php:4813 ../functions.php:4852
+#: ../functions.php:4899 ../functions.php:4938 ../functions.php:4985
+#: ../functions.php:5024 ../functions.php:5063 ../functions.php:5102
+#: ../functions.php:5149 ../functions.php:5196 ../functions.php:5262
+#: ../functions.php:5301
+msgid "Underline"
+msgstr "Salungguhit"
+
+#: ../functions.php:827 ../functions.php:1218 ../functions.php:1291
+#: ../functions.php:1309 ../functions.php:2097
+msgid "Header Text Size"
+msgstr "Laki ng Text ng Header"
+
+#: ../functions.php:845 ../functions.php:1254
+msgid "Header Line Height"
+msgstr "Taas ng Linya ng Header"
+
+#: ../functions.php:863 ../functions.php:1236
+msgid "Header Letter Spacing"
+msgstr "Espasyo ng Titik ng Header"
+
+#: ../functions.php:881 ../functions.php:1272 ../functions.php:2115
+#: ../functions.php:3020 ../functions.php:3211 ../functions.php:3336
+#: ../functions.php:3402 ../functions.php:3488 ../functions.php:3554
+#: ../functions.php:4392 ../functions.php:5142 ../functions.php:5255
+msgid "Header Font Style"
+msgstr "Estilo ng Font ng Header"
+
+#: ../functions.php:899
+msgid "Enable Boxed Layout"
+msgstr "Naka-enable ang Nakakahon na Layout"
+
+#: ../functions.php:912
+msgid "Website Content Width"
+msgstr "Lapad ng Nilalaman ng Website"
+
+#: ../functions.php:930
+msgid "Website Gutter Width"
+msgstr "Espasyo ng Column ng Website"
+
+#: ../functions.php:947
+msgid "Use Custom Sidebar Width"
+msgstr ""
+
+#: ../functions.php:960
+msgid "Sidebar Width"
+msgstr "Lapad ng Sidebar"
+
+#: ../functions.php:978 ../functions.php:996 ../functions.php:1014
+msgid "Section Height"
+msgstr "Taas ng Seksyon"
+
+#: ../functions.php:1032 ../functions.php:1050 ../functions.php:1068
+msgid "Row Height"
+msgstr "Taas ng Row"
+
+#: ../functions.php:1086
+msgid "Stretch Background Image"
+msgstr "Palakihin ang Larawan sa Background"
+
+#: ../functions.php:1093 ../functions.php:1748 ../functions.php:1819
+#: ../functions.php:1832 ../functions.php:2337 ../functions.php:2462
+#: ../functions.php:2668
+msgid "Background Color"
+msgstr "Kulay sa Background"
+
+#: ../functions.php:1100
+msgid "Background Image"
+msgstr "Larawan sa Background:"
+
+#: ../functions.php:1106
+msgid "Background Repeat"
+msgstr "Pag-ulit sa Background"
+
+#: ../functions.php:1110
+msgid "No Repeat"
+msgstr "Walang Pag-uulit"
+
+#: ../functions.php:1111
+msgid "Tile"
+msgstr "Tile"
+
+#: ../functions.php:1112
+msgid "Tile Horizontally"
+msgstr "Pahalang na Tile"
+
+#: ../functions.php:1113
+msgid "Tile Vertically"
+msgstr "Patayong Tile"
+
+#: ../functions.php:1118 ../functions.php:1129
+msgid "Background Position"
+msgstr "Puwesto ng Background"
+
+#: ../functions.php:1122 ../functions.php:2626
+msgid "Left"
+msgstr "Kaliwa"
+
+#: ../functions.php:1123
+msgid "Center"
+msgstr "Gitna"
+
+#: ../functions.php:1124 ../functions.php:2625
+msgid "Right"
+msgstr "Kanan"
+
+#: ../functions.php:1133
+msgid "Scroll"
+msgstr "Scroll"
+
+#: ../functions.php:1134
+msgid "Fixed"
+msgstr "Nakapirme"
+
+#: ../functions.php:1146 ../functions.php:1182 ../functions.php:1200
+msgid "Body Text Size"
+msgstr "Laki ng Text ng Body"
+
+#: ../functions.php:1164
+msgid "Body Line Height"
+msgstr "Taas ng Linya sa Body"
+
+#: ../functions.php:1328
+msgid "Header Font"
+msgstr "Font ng Header"
+
+#: ../functions.php:1343
+msgid "Body Font"
+msgstr "Font ng Body"
+
+#: ../functions.php:1359
+msgid "Body Link Color"
+msgstr "Kulay ng Link ng Body"
+
+#: ../functions.php:1372
+msgid "Body Text Color"
+msgstr "Kulay ng Text sa Body"
+
+#: ../functions.php:1385
+msgid "Header Text Color"
+msgstr "Kulay ng Text ng Header"
+
+#: ../functions.php:1398
+msgid "Theme Accent Color"
+msgstr "Kulay ng Accent ng Tema"
+
+#: ../functions.php:1416 ../functions.php:1436 ../functions.php:5474
+msgid "Default"
+msgstr "Default"
+
+#: ../functions.php:1417
+msgid "Green"
+msgstr "Berde"
+
+#: ../functions.php:1418
+msgid "Orange"
+msgstr "Dalandan"
+
+#: ../functions.php:1419
+msgid "Pink"
+msgstr "Rosas"
+
+#: ../functions.php:1420
+msgid "Red"
+msgstr "Pula"
+
+#: ../functions.php:1432
+msgid "Header Style"
+msgstr "Estilo ng Header"
+
+#: ../functions.php:1437
+msgid "Centered"
+msgstr "Iginitna"
+
+#: ../functions.php:1438
+msgid "Centered Inline Logo"
+msgstr "Logo na Nakasentro Inline"
+
+#: ../functions.php:1449
+msgid "Enable Vertical Navigation"
+msgstr "I-enable ang Patayong Pagna-navigate"
+
+#: ../functions.php:1461
+msgid "Hide Navigation Until Scroll"
+msgstr "Itago ang Pagna-navigate Hanggang Scroll"
+
+#: ../functions.php:1473 ../functions.php:2045
+msgid "Show Social Icons"
+msgstr "Ipakita ang mga Social Icon"
+
+#: ../functions.php:1486
+msgid "Show Search Icon"
+msgstr "Ipakita ang Icon ng Paghahanap"
+
+#: ../functions.php:1498 ../functions.php:1619
+msgid "Make Full Width"
+msgstr "Gawing Sagad ang Lapad"
+
+#: ../functions.php:1510 ../functions.php:1709 ../functions.php:1919
+msgid "Hide Logo Image"
+msgstr "Itago ang Larawan ng Logo"
+
+#: ../functions.php:1523
+msgid "Menu/Logo Height"
+msgstr "Taas ng Menu/Logo"
+
+#: ../functions.php:1541 ../functions.php:1625 ../functions.php:1950
+#: ../functions.php:2431
+msgid "Text Size"
+msgstr "Laki ng Text"
+
+#: ../functions.php:1559 ../functions.php:1643 ../functions.php:2281
+#: ../functions.php:2524 ../functions.php:2712
+msgid "Letter Spacing"
+msgstr "Pag-aagwat ng Titik"
+
+#: ../functions.php:1578 ../functions.php:1662
+msgid "Font"
+msgstr "Font"
+
+#: ../functions.php:1594 ../functions.php:1678 ../functions.php:2299
+#: ../functions.php:2363
+msgid "Font Style"
+msgstr "Estilo ng Font"
+
+#: ../functions.php:1735
+msgid "Active Link Color"
+msgstr "Aktibong Kulay ng Link"
+
+#: ../functions.php:1761 ../functions.php:1858
+msgid "Dropdown Menu Background Color"
+msgstr "Kulay ng Background ng Dropdown na Menu"
+
+#: ../functions.php:1774
+msgid "Dropdown Menu Line Color"
+msgstr "Kulay ng Linya ng Dropdown na Menu"
+
+#: ../functions.php:1787 ../functions.php:1871
+msgid "Dropdown Menu Text Color"
+msgstr "Kulay ng Text ng Dropdown na Menu"
+
+#: ../functions.php:1800 ../functions.php:1884
+msgid "Dropdown Menu Animation"
+msgstr "Animation ng Dropdown na Menu"
+
+#: ../functions.php:1804 ../functions.php:1888
+msgid "Fade"
+msgstr "Fade"
+
+#: ../functions.php:1805 ../functions.php:1889
+msgid "Expand"
+msgstr "Palawakin"
+
+#: ../functions.php:1806 ../functions.php:1890
+msgid "Slide"
+msgstr "Slide"
+
+#: ../functions.php:1807 ../functions.php:1891
+msgid "Flip"
+msgstr "Baligtarin"
+
+#: ../functions.php:1932
+msgid "Fixed Menu/Logo Height"
+msgstr "Taas ng Nakapirming Menu/Logo"
+
+#: ../functions.php:1968
+msgid "Primary Menu Background Color"
+msgstr "Kulay ng Background ng Pangunahing Menu"
+
+#: ../functions.php:1981
+msgid "Secondary Menu Background Color"
+msgstr "Kulay ng Background ng Pangalawang Menu"
+
+#: ../functions.php:1994
+msgid "Menu Link Color"
+msgstr "Kulay ng Link ng Menu"
+
+#: ../functions.php:2007
+msgid "Active Menu Link Color"
+msgstr "Aktibong Kulay ng Link ng Menu"
+
+#: ../functions.php:2020
+msgid "Phone Number"
+msgstr "Numero ng Telepono"
+
+#: ../functions.php:2032
+msgid "Email"
+msgstr "Email"
+
+#: ../functions.php:2058
+msgid "Column Layout"
+msgstr "Layout ng Column"
+
+#: ../functions.php:2063 ../functions.php:2064 ../functions.php:2065
+#: ../functions.php:2067 ../functions.php:2068 ../functions.php:2069
+#: ../functions.php:2070 ../functions.php:2071 ../functions.php:2072
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s mga Column"
+
+#: ../functions.php:2066
+msgid "1 Column"
+msgstr "1 Column"
+
+#: ../functions.php:2084
+msgid "Footer Background Color"
+msgstr "Kulay sa Background ng Footer"
+
+#: ../functions.php:2134
+msgid "Body/Link Text Size"
+msgstr "Laki ng Text ng Body/Link"
+
+#: ../functions.php:2152
+msgid "Body/Link Line Height"
+msgstr "Taas ng Linya ng Body/Link"
+
+#: ../functions.php:2170
+msgid "Body Font Style"
+msgstr "Estilo ng Font ng Body"
+
+#: ../functions.php:2189
+msgid "Widget Text Color"
+msgstr "Kulay ng Text ng Widget"
+
+#: ../functions.php:2202
+msgid "Widget Link Color"
+msgstr "Kulay ng Link ng Widget"
+
+#: ../functions.php:2215
+msgid "Widget Header Color"
+msgstr "Kulay ng Header ng Widget"
+
+#: ../functions.php:2228
+msgid "Widget Bullet Color"
+msgstr "Kulay ng Dot ng Widget"
+
+#: ../functions.php:2242
+msgid "Footer Menu Background Color"
+msgstr "Kulay ng Background ng Menu ng Footer"
+
+#: ../functions.php:2255
+msgid "Footer Menu Text Color"
+msgstr "Kulay ng Text ng Menu ng Footer"
+
+#: ../functions.php:2268
+msgid "Footer Menu Active Link Color"
+msgstr "Kulay ng Aktibong Link ng Menu ng Footer"
+
+#: ../functions.php:2318 ../functions.php:2382
+msgid "Font Size"
+msgstr "Laki ng Font"
+
+#: ../functions.php:2400
+msgid "Social Icon Size"
+msgstr "Laki ng Social Icon"
+
+#: ../functions.php:2418
+msgid "Social Icon Color"
+msgstr "Kulay ng Social Icon"
+
+#: ../functions.php:2475
+msgid "Border Width"
+msgstr "Lapad ng Border"
+
+#: ../functions.php:2493 ../functions.php:2681
+msgid "Border Color"
+msgstr "Kulay ng Border"
+
+#: ../functions.php:2506 ../functions.php:2694
+msgid "Border Radius"
+msgstr "Radius ng Border"
+
+#: ../functions.php:2542 ../functions.php:5189
+msgid "Button Font Style"
+msgstr "Estilo ng Font ng Button"
+
+#: ../functions.php:2562
+msgid "Buttons Font"
+msgstr "Font ng mga Button"
+
+#: ../functions.php:2578
+msgid "Add Button Icon"
+msgstr "Icon para sa Add Button"
+
+#: ../functions.php:2582 ../functions.php:2642
+msgid "Yes"
+msgstr "Oo"
+
+#: ../functions.php:2583 ../functions.php:2643
+msgid "No"
+msgstr "Hindi"
+
+#: ../functions.php:2595
+msgid "Select Icon"
+msgstr "Pumili ng Icon"
+
+#: ../functions.php:2608
+msgid "Icon Color"
+msgstr "Kulay ng Icon"
+
+#: ../functions.php:2621
+msgid "Icon Placement"
+msgstr "Paglalagay sa lugar ng Icon"
+
+#: ../functions.php:2638
+msgid "Only Show Icon on Hover"
+msgstr "Ipakita Lang ang Icon kapag Nag-hover"
+
+#: ../functions.php:2727
+msgid "Left to Right"
+msgstr "Mula sa Kaliwa, Pakanan"
+
+#: ../functions.php:2728
+msgid "Right to Left"
+msgstr "Mula sa Kanan, Pakaliwa"
+
+#: ../functions.php:2729
+msgid "Top to Bottom"
+msgstr "Mula sa Itaas, Pababa"
+
+#: ../functions.php:2730
+msgid "Bottom to Top"
+msgstr "Mula sa Ibaba, Pataas"
+
+#: ../functions.php:2731
+msgid "Fade In"
+msgstr "Mag-fade In"
+
+#: ../functions.php:2732
+msgid "No Animation"
+msgstr "Walang Animation"
+
+#: ../functions.php:2739 ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "Larawan"
+
+#: ../functions.php:2740
+msgid "Image Module Settings"
+msgstr "Mga Setting ng Modyul ng Larawan"
+
+#: ../functions.php:2750
+msgid "Animation"
+msgstr "Animation"
+
+#: ../functions.php:2751
+msgid "This controls default direction of the lazy-loading animation."
+msgstr "Kinokontrol nito ang default na direksyon ng animation na lazy-loading"
+
+#: ../functions.php:2761
+msgid "Gallery"
+msgstr "Gallery"
+
+#: ../functions.php:2774 ../functions.php:3601 ../functions.php:3715
+msgid "Zoom Icon Color"
+msgstr "Kulay ng Pang-zoom na Icon"
+
+#: ../functions.php:2788 ../functions.php:3615 ../functions.php:3729
+msgid "Hover Overlay Color"
+msgstr "Kulay ng Overlay kapag Nagho-Hover"
+
+#: ../functions.php:2802 ../functions.php:2915 ../functions.php:3629
+#: ../functions.php:3743 ../functions.php:4030 ../functions.php:4116
+#: ../functions.php:4162 ../functions.php:4268
+msgid "Title Font Size"
+msgstr "Laki ng Font ng Pamagat"
+
+#: ../functions.php:2821 ../functions.php:2934 ../functions.php:3648
+#: ../functions.php:3762 ../functions.php:4049 ../functions.php:4135
+#: ../functions.php:4806 ../functions.php:4892
+msgid "Title Font Style"
+msgstr "Estilo ng Font ng Pamagat"
+
+#: ../functions.php:2841 ../functions.php:3668 ../functions.php:3782
+msgid "Caption Font Size"
+msgstr "Laki ng Font ng Caption"
+
+#: ../functions.php:2860 ../functions.php:3687 ../functions.php:3801
+msgid "Caption Font Style"
+msgstr "Estilo ng Font ng Caption"
+
+#: ../functions.php:2875
+msgid "Blurb"
+msgstr "Blurb"
+
+#: ../functions.php:2888 ../functions.php:3001 ../functions.php:3192
+#: ../functions.php:3317 ../functions.php:3383 ../functions.php:3469
+#: ../functions.php:3535 ../functions.php:4373 ../functions.php:5123
+#: ../functions.php:5236
+msgid "Header Font Size"
+msgstr "Laki ng Font ng Header"
+
+#: ../functions.php:2902
+msgid "Tabs"
+msgstr "Mga Tab"
+
+#: ../functions.php:2955 ../functions.php:3356 ../functions.php:3508
+#: ../functions.php:3574
+msgid "Padding"
+msgstr "Padding"
+
+#: ../functions.php:2969
+msgid "Slider"
+msgstr "Slider"
+
+#: ../functions.php:2982 ../functions.php:5217
+msgid "Top & Bottom Padding"
+msgstr "Padding na Top & Bottom"
+
+#: ../functions.php:3040 ../functions.php:5275
+msgid "Content Font Size"
+msgstr "Laki ng Font ng Nilalaman"
+
+#: ../functions.php:3059 ../functions.php:5294
+msgid "Content Font Style"
+msgstr "Estilo ng Font ng Nilalaman"
+
+#: ../functions.php:3074
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: ../functions.php:3087 ../functions.php:4701
+msgid "Name Font Style"
+msgstr "Estilo ng Font ng Pangalan"
+
+#: ../functions.php:3107
+msgid "Details Font Style"
+msgstr "Estilo ng Font ng mga Detalye"
+
+#: ../functions.php:3127
+msgid "Portrait Border Radius"
+msgstr "Radius ng Border ng Larawan"
+
+#: ../functions.php:3179
+msgid "Pricing Table"
+msgstr "Lista ng Presyo"
+
+#: ../functions.php:3231 ../functions.php:3422 ../functions.php:4721
+msgid "Subheader Font Size"
+msgstr "Laki ng Font ng Subhead"
+
+#: ../functions.php:3250 ../functions.php:3441 ../functions.php:4740
+msgid "Subheader Font Style"
+msgstr "Estilo ng Font ng Subhead"
+
+#: ../functions.php:3270 ../functions.php:5037
+msgid "Price Font Size"
+msgstr "Laki ng Font ng Presyo"
+
+#: ../functions.php:3289
+msgid "Pricing Font Style"
+msgstr "Estilo ng Font ng Pagpepresyo"
+
+#: ../functions.php:3304
+msgid "Call To Action"
+msgstr "Call To Action"
+
+#: ../functions.php:3370
+msgid "Audio"
+msgstr "Audio"
+
+#: ../functions.php:3456
+msgid "Subscribe"
+msgstr "Mag-subscribe"
+
+#: ../functions.php:3588
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../functions.php:3702
+msgid "Filterable Portfolio"
+msgstr "Nafi-filter na Portfolio"
+
+#: ../functions.php:3821
+msgid "Filters Font Size"
+msgstr "Laki ng Font ng mga Filter"
+
+#: ../functions.php:3840
+msgid "Filters Font Style"
+msgstr "Estilo ng Font ng mga Filter"
+
+#: ../functions.php:3855
+msgid "Bar Counter"
+msgstr "Bar Counter"
+
+#: ../functions.php:3868
+msgid "Label Font Size"
+msgstr "Laki ng Font ng Label"
+
+#: ../functions.php:3887
+msgid "Label Font Style"
+msgstr "Estilo ng Font ng Label"
+
+#: ../functions.php:3907
+msgid "Percent Font Size"
+msgstr "Laki ng Font ng Porsiyento"
+
+#: ../functions.php:3926
+msgid "Percent Font Style"
+msgstr "Estilo ng Font ng Porsiyento"
+
+#: ../functions.php:3946
+msgid "Bar Padding"
+msgstr "Bar Padding"
+
+#: ../functions.php:3965
+msgid "Bar Border Radius"
+msgstr "Radius ng Bar Border"
+
+#: ../functions.php:3979
+msgid "Circle Counter"
+msgstr "Mga Circle Counter"
+
+#: ../functions.php:3991 ../functions.php:4077
+msgid "Number Font Size"
+msgstr "Laki ng Font ng Numero"
+
+#: ../functions.php:4010 ../functions.php:4096
+msgid "Number Font Style"
+msgstr "Estilo ng Font ng Numero"
+
+#: ../functions.php:4064
+msgid "Number Counter"
+msgstr "Counter ng Numero"
+
+#: ../functions.php:4150
+msgid "Accordion"
+msgstr "Accordion"
+
+#: ../functions.php:4181 ../functions.php:4287
+msgid "Opened Title Font Style"
+msgstr "Estilo ng Font ng Bukas na Pamagat"
+
+#: ../functions.php:4201 ../functions.php:4307
+msgid "Closed Title Font Style"
+msgstr "Estilo ng Font ng Saradong Pamagat"
+
+#: ../functions.php:4221 ../functions.php:4327
+msgid "Toggle Icon Size"
+msgstr "Laki ng Icon ng Toggle"
+
+#: ../functions.php:4241 ../functions.php:4346
+msgid "Toggle Padding"
+msgstr "Toggle Padding"
+
+#: ../functions.php:4255
+msgid "Toggle"
+msgstr "Pagpalit-palitin (Toggle)"
+
+#: ../functions.php:4360
+msgid "Contact Form"
+msgstr "Form sa Pakikipag-ugnayan"
+
+#: ../functions.php:4412
+msgid "Input Font Size"
+msgstr "Laki ng Font ng Pag-input"
+
+#: ../functions.php:4431
+msgid "Input Font Style"
+msgstr "Estilo ng Font ng Pag-input"
+
+#: ../functions.php:4451
+msgid "Input Field Padding"
+msgstr "Field Padding ng Pag-input"
+
+#: ../functions.php:4470
+msgid "Captcha Font Size"
+msgstr "Laki ng Font ng Captcha"
+
+#: ../functions.php:4489
+msgid "Captcha Font Style"
+msgstr "Estilo ng Font ng Captcha"
+
+#: ../functions.php:4504 ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../functions.php:4517
+msgid "Widget Header Font Size"
+msgstr "Laki ng Font ng Widget Header"
+
+#: ../functions.php:4536
+msgid "Widget Header Font Style"
+msgstr "Estilo ng Font ng Widget Header"
+
+#: ../functions.php:4556
+msgid "Remove Vertical Divider"
+msgstr "Alisin ang Patayong Divider"
+
+#: ../functions.php:4565
+msgid "Divider"
+msgstr "Divider"
+
+#: ../functions.php:4577
+msgid "Show Divider"
+msgstr "Ipakita ang Divider"
+
+#: ../functions.php:4591
+msgid "Divider Style"
+msgstr "Estilo ng Divider"
+
+#: ../functions.php:4596
+msgid "Solid"
+msgstr "Solid na border"
+
+#: ../functions.php:4597
+msgid "Dotted"
+msgstr "Dotted na border"
+
+#: ../functions.php:4598
+msgid "Dashed"
+msgstr "Dashed na border"
+
+#: ../functions.php:4599
+msgid "Double"
+msgstr "Double na border"
+
+#: ../functions.php:4600
+msgid "Groove"
+msgstr "Groove"
+
+#: ../functions.php:4601
+msgid "Ridge"
+msgstr "Ridge"
+
+#: ../functions.php:4602
+msgid "Inset"
+msgstr "Sa loob (inset)"
+
+#: ../functions.php:4603
+msgid "Outset"
+msgstr "Sa labas (ouset)"
+
+#: ../functions.php:4616
+msgid "Divider Weight"
+msgstr "Taas ng Linya ng Divider"
+
+#: ../functions.php:4635
+msgid "Divider Height"
+msgstr "Taas ng Divider"
+
+#: ../functions.php:4654
+msgid "Divider Position"
+msgstr "Posisyon ng Divider"
+
+#: ../functions.php:4659
+msgid "Top"
+msgstr "Pinakaitaas"
+
+#: ../functions.php:4660
+msgid "Vertically Centered"
+msgstr "Patayong Nakagitna"
+
+#: ../functions.php:4661
+msgid "Bottom"
+msgstr "Ibaba"
+
+#: ../functions.php:4669
+msgid "Person"
+msgstr "Tao"
+
+#: ../functions.php:4682
+msgid "Name Font Size"
+msgstr "Laki ng Font ng Pangalan"
+
+#: ../functions.php:4760
+msgid "Social Network Icon Size"
+msgstr "Laki ng Icon ng Social Network"
+
+#: ../functions.php:4787 ../functions.php:4873
+msgid "Post Title Font Size"
+msgstr "Laki ng Font ng Pamagat ng Font"
+
+#: ../functions.php:4826 ../functions.php:4912
+msgid "Meta Font Size"
+msgstr "Laki ng Font ng Meta"
+
+#: ../functions.php:4860
+msgid "Masonry Blog"
+msgstr "Blog ng Masonry"
+
+#: ../functions.php:4946
+msgid "Shop"
+msgstr "Bumili"
+
+#: ../functions.php:4959
+msgid "Product Name Font Size"
+msgstr "Laki ng Font ng Pangalan ng Produkto"
+
+#: ../functions.php:4978
+msgid "Product Name Font Style"
+msgstr "Estilo ng Font ng Pangalan ng Produkto"
+
+#: ../functions.php:4998
+msgid "Sale Badge Font Size"
+msgstr "Laki ng Font ng Badge ng Benta"
+
+#: ../functions.php:5017
+msgid "Sale Badge Font Style"
+msgstr "Estilo ng Font ng Badge ng Benta"
+
+#: ../functions.php:5056
+msgid "Price Font Style"
+msgstr "Estilo ng Font ng Presyo"
+
+#: ../functions.php:5076
+msgid "Sale Price Font Size"
+msgstr "Laki ng Font ng Presyo ng"
+
+#: ../functions.php:5095
+msgid "Sale Price Font Style"
+msgstr "Estilo ng Font ng Presyo ng Pagbebenta"
+
+#: ../functions.php:5110
+msgid "Countdown"
+msgstr "Countdown"
+
+#: ../functions.php:5157
+msgid "Social Follow"
+msgstr "I-follow sa Social Media"
+
+#: ../functions.php:5170
+msgid "Follow Font & Icon Size"
+msgstr "Font sa Pag-follow at Laki ng Icon"
+
+#: ../functions.php:5204
+msgid "Full Width Slider"
+msgstr "Slider na Full Width"
+
+#: ../functions.php:7875
+msgid "0 comments"
+msgstr "0 Komento"
+
+#: ../functions.php:7875
+msgid "1 comment"
+msgstr "1 Komento"
+
+#: ../functions.php:7875
+msgid "comments"
+msgstr "Mga Komento"
+
+#: ../functions.php:8026
+msgid "No Gallery Found"
+msgstr ""
+
+#: ../functions.php:8028
+msgid "No items found"
+msgstr ""
+
+#: ../functions.php:8170
+msgid "Password Protected"
+msgstr "Pinoprotektahan ng Password"
+
+#: ../functions.php:8171
+msgid "To view this protected post, enter the password below"
+msgstr ""
+"Upang makita ang protektadong post na ito, ilagay ang password sa ibaba"
+
+#: ../functions.php:8174
+msgid "Password"
+msgstr "Password"
+
+#: ../functions.php:8175
+msgid "Submit"
+msgstr "Isumite"
+
+#: ../functions.php:8347
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:8349
+msgid "Item"
+msgstr "Item"
+
+#: ../functions.php:8349
+msgid "Items"
+msgstr "Mga Item"
+
+#: ../functions.php:8524
+msgid "Connecting..."
+msgstr "Kinokonekta..."
+
+#: ../functions.php:8525
+msgid "Connection failed"
+msgstr "Nabigo ang pagkonekta"
+
+#: ../functions.php:8526
+msgid "Removing connection..."
+msgstr "Inaalis ang koneksyon..."
+
+#: ../functions.php:8527
+msgid "Done"
+msgstr "Tapos na"
+
+#: ../functions.php:8556
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr ""
+"Hakbang 1: <a href=\"%1$s\" target=\"_blank\">Bumuo ng code ng awtorisasyon</"
+"a>"
+
+#: ../functions.php:8557
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Hakbang 2: I-paste ang code ng awtorisasyon at i-click ang button na "
+"\"Gumawa ng koneksyon\": "
+
+#: ../functions.php:8558
+msgid "Make a connection"
+msgstr "Gumawa ng koneksyon"
+
+#: ../functions.php:8561
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Nai-setup nang tama ang Aweber. Maaalis mo ang koneksyon dito kung "
+"gugustuhin mo."
+
+#: ../functions.php:8562
+msgid "Remove the connection"
+msgstr "Alisin ang koneksyon"
+
+#: ../functions.php:8570
+msgid "Nonce failed."
+msgstr "Nabigo ang Nonce."
+
+#: ../functions.php:8576
+msgid "Authorization code is empty."
+msgstr "Walang laman ang code ng awtorisasyon."
+
+#: ../functions.php:8587
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"Di-wasto ang code ng awtorisasyon. Subukang itong buuin muli at i-paste ang "
+"bagong code."
+
+#: ../functions.php:8609
+msgid "Aweber API Exception"
+msgstr "Exception ng Aweber API "
+
+#: ../functions.php:8611
+msgid "Message"
+msgstr "Mensahe"
+
+#: ../functions.php:8622
+msgid "Nonce failed"
+msgstr "Nabigo ang Nonce"
+
+#: ../functions.php:8717
+msgid "Read more"
+msgstr "Magbasa pa"
+
+#: ../functions.php:8845
+msgid "Configuration error"
+msgstr "Error sa configuration"
+
+#: ../functions.php:8855
+msgid "Please enter first name"
+msgstr "Pakilagay ang pangalan"
+
+#: ../functions.php:8857
+msgid "Incorrect email"
+msgstr "Maling email"
+
+#: ../functions.php:8859
+msgid "Configuration error: List is not defined"
+msgstr "Error sa configuration: Hindi natukoy ang listahan"
+
+#: ../functions.php:8861
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Naka-subscribe na - tingnan ang email para sa "
+"kompirmasyon!</h2>"
+
+#: ../functions.php:8873
+msgid "Configuration error: api key is not defined"
+msgstr "Error sa configuration: Hindi natukoy ang API"
+
+#: ../functions.php:8910
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: Maling data ng configuration"
+
+#: ../functions.php:8940 ../functions.php:8961
+msgid "Theme Customizer"
+msgstr "Pang-customize ng Tema"
+
+#: ../functions.php:8941 ../functions.php:8971
+msgid "Module Customizer"
+msgstr "Pang-customize ng Modyul"
+
+#: ../functions.php:8942
+msgid "Divi Library"
+msgstr "Library ng Divi"
+
+#: ../header.php:176
+msgid "Search &hellip;"
+msgstr "Maghanap &hellip;"
+
+#: ../header.php:178
+msgid "Search for:"
+msgstr "Maghanap para sa:"
+
+#. translators: 1: date, 2: time
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr "noong %1$s sa ganap na %2$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(I-edit)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Mag-reply"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Naghihintay ang iyong komento ng pagmo-moderate."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Basahin ang Dokumentasyon ng Divi"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "Dako para sa Footer"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Manood ng mga pagtuturo sa video"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Mga Mas Lumang Entry"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Mga Susunod na Entry &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Walang Nahanap na mga Resulta"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Hindi mahanap ang page na hiniling mo. Subukang pinuhin ang iyong "
+"paghahanap, o gamitin ang navigation sa itaas upang hanapin ang post."
+
+#: ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Ipinapakita ang Impormasyong Tungkol sa Akin "
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "Widget na Tungkol sa Akin "
+
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "Tungkol sa Akin"
+
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "Pamagat"
+
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "Text"
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Ipinapakita ang mga Advertisement"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "Advertisement"
+
+#: ../includes/widgets/widget-ads.php:12
+#: ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "Advertisement"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "Gumamit ng Magkakaugnay na Path ng Larawan"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "Buksan sa bagong window"
+
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236
+#: ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "Banner"
+
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "URL"
+
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "Alt"
+
+#: ../includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr ""
+"Kung ayaw mong magpakita ng ilang banner - iwanang blangkong ang kaukulang "
+"mga field"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Nagpapakita ng mga Adsense na Ad"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "Widget ng Adsense "
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Code ng Adsense "
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:105
+msgid "Pages:"
+msgstr "Mga Page:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">Divi Documentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Maligayang pagdating sa Divi! Bago tuklasin ang lahat tungkol sa bago "
+#~ "mong tema, mangyaring bumisita sa pahina ng <a href=\"%1$s\" target="
+#~ "\"_blank\">Divi Documentation</a> para maka-access ng maraming "
+#~ "detalyadong pagtuturo."
+
+#~ msgid "﻿%1$s Font"
+#~ msgstr "%1$s Font"
+
+#~ msgid "%1$s Font Size"
+#~ msgstr "%1$s Laki ng Font"
+
+#~ msgid "%1$s Text Color"
+#~ msgstr "%1$s Kulay ng Font"
+
+#~ msgid "%1$s Letter Spacing"
+#~ msgstr "%1$s Agwat sa Titik"
+
+#~ msgid "%1$s Line Height"
+#~ msgstr "%1$s Taas ng Linya"
+
+#~ msgid "%1$s All Caps"
+#~ msgstr "%1$s Lahat Malaking Titik"
+
+#~ msgid "Use Border"
+#~ msgstr "Gumamit ng Border"
+
+#~ msgid "Border Style"
+#~ msgstr "Estilo ng Border"
+
+#~ msgid "Custom Margin"
+#~ msgstr "Custom na Margin"
+
+#~ msgid "Custom Padding"
+#~ msgstr "Custom na Padding"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "Gumamit ng mga custom na Estilo ng Button"
+
+#~ msgid "Button Text Size"
+#~ msgstr "Laki ng Text sa Button"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Kulay ng Text sa Button"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Kulay ng Background ng Button"
+
+#~ msgid "Button Border Width"
+#~ msgstr "Lapad ng Border ng Button"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Kulay ng Border ng Button"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Radius ng Border ng Button"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "Pag-aagwat ng Titik sa Button"
+
+#~ msgid "Button Font"
+#~ msgstr "Font ng Button"
+
+#~ msgid "Button Icon"
+#~ msgstr "Icon sa Button"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "Kulay ng Icon sa Button"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "Ipakita lang ang Icon kapag nagho-Hover"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "Kulay ng Text sa Button kapag nagho-Hover"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Kulay ng Background ng Button kapag nagho-Hover"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Kulay ng Border ng Button kapag nagho-Hover"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "Radius ng Border ng Button kapag nagho-Hover"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "Pag-aagwat ng Titik sa Button kapag nagho-Hover"
+
+#~ msgid "Before"
+#~ msgstr "Bago"
+
+#~ msgid "Main Element"
+#~ msgstr "Pangunahing Elemento"
+
+#~ msgid "After"
+#~ msgstr "Pagkatapos"
+
+#~ msgid "Choose Custom Color"
+#~ msgstr "Pumili ng Custom na  kulay"
+
+#~ msgid "Upload"
+#~ msgstr "I-upload"
+
+#~ msgid "Choose image"
+#~ msgstr "Pumili ng larawan"
+
+#~ msgid "Set image"
+#~ msgstr "I-set ang larawan"
+
+#~ msgid "Advanced Design Settings"
+#~ msgstr "Mga Advanced na Setting ng Disenyo"
+
+#~ msgid "Add New %s"
+#~ msgstr "Magdagdag ng Bago %s"
+
+#~ msgid "%1$s %2$s Settings"
+#~ msgstr "%1$s %2$s Mga Setting"
+
+#~ msgid "Column"
+#~ msgstr "Column"
+
+#~ msgid "Modules"
+#~ msgstr "Mga Modyul"
+
+#~ msgid "Rows"
+#~ msgstr "Mga Row"
+
+#~ msgid "Sections"
+#~ msgstr "Mga Seksyon"
+
+#~ msgid "Global/not Global"
+#~ msgstr "Pangkalahatan/hindi Pangkalahatan"
+
+#~ msgid "Global"
+#~ msgstr "Pangkalahatan"
+
+#~ msgid "not Global"
+#~ msgstr "hindi Pangkalahatan"
+
+#~ msgid "Justified"
+#~ msgstr "Naka Justify"
+
+#~ msgid "Export Divi Builder Layouts"
+#~ msgstr "I-export ang mga Layout ng Divi Builder"
+
+#~ msgid "Select Templates you want to export:"
+#~ msgstr "Pumili ng mga Template na gusto mong i-export:"
+
+#~ msgid "Export Divi Layouts"
+#~ msgstr "I-export ang mga Layout ng Divi"
+
+#~ msgid "Manage Categories"
+#~ msgstr "Pamahalaan ang mga Kategorya"
+
+#~ msgid "Use The Divi Builder"
+#~ msgstr "Gamitin ang Divi Builder"
+
+#~ msgid ""
+#~ "You have not saved any items to your Divi Library yet. Once an item has "
+#~ "been saved to your library, it will appear here for easy use."
+#~ msgstr ""
+#~ "Wala ka pang nai-sa-save ng mga item sa iyong DiviLibrary. Kapag ang item "
+#~ "ay nai-save na sa iyong library, lalabas ito dito para sa madaling "
+#~ "paggamit."
+
+#~ msgid "No available options for this configuration."
+#~ msgstr "Walang mga opsyon na magagamit para sa configuration na ito."
+
+#~ msgid ""
+#~ "You're about to update global module. This change will be applied to all "
+#~ "pages where you use this module. Press OK if you want to update this "
+#~ "module."
+#~ msgstr ""
+#~ "Ikaw ay mag-u-update ng global module. Ang pagbabagong ito ay gagamitin "
+#~ "sa lahat ng pahina kung saan mo ginagamit ang module na ito. Pindutin ang "
+#~ "OK kung gusto mong i-update ang module na ito."
+
+#~ msgid "You cannot add global rows into global sections"
+#~ msgstr ""
+#~ "Hindi mo maaaring idagdag ang mga global na row sa mga global na seksyon"
+
+#~ msgid "You cannot add global modules into global sections or rows"
+#~ msgstr ""
+#~ "Hindi mo maaaring idagdag ang mga global module sa mga global na seksyon "
+#~ "o mga row"
+
+#~ msgid "The Divi Builder"
+#~ msgstr "Ang Divi Builder"
+
+#~ msgid "Save to Library"
+#~ msgstr "I-save sa Library"
+
+#~ msgid "Load From Library"
+#~ msgstr "I-load Galing sa Library"
+
+#~ msgid "Standard Section"
+#~ msgstr "Standard na Seksyon"
+
+#~ msgid "Fullwidth Section"
+#~ msgstr "Sagad na lapad ng Seksyon"
+
+#~ msgid "Specialty Section"
+#~ msgstr "Espesyal na Seksyon"
+
+#~ msgid "Add From Library"
+#~ msgstr "Idagdag Galing sa Library"
+
+#~ msgid "Change Structure"
+#~ msgstr "Palitan ang Estruktura"
+
+#~ msgid "Remove Module"
+#~ msgstr "Alisin ang Module"
+
+#~ msgid "Save & Add To Library"
+#~ msgstr "I-save & Idagdag Sa Library"
+
+#~ msgid "Cancel"
+#~ msgstr "Ikansela"
+
+#~ msgid "Save & Exit"
+#~ msgstr "I-save & Lumabas"
+
+#~ msgid "New Row"
+#~ msgstr "Bagong Row"
+
+#~ msgid "New Module"
+#~ msgstr "Bagong Module"
+
+#~ msgid "Predefined Layouts"
+#~ msgstr "Mga Layout na buo na"
+
+#~ msgid "Disable Builder"
+#~ msgstr "Hindi gumaganang Builder"
+
+#~ msgid ""
+#~ "All content created in the Divi Builder will be lost. Previous content "
+#~ "will be restored."
+#~ msgstr ""
+#~ "Lahat ng nilalaman na ginawa sa Divi Builder ay mawawala.  Ang dating "
+#~ "nilalaman ay maibabalik."
+
+#~ msgid "Do you wish to proceed?"
+#~ msgstr "Nais mo bang magpatuloy?"
+
+#~ msgid "All of your current page content will be lost."
+#~ msgstr "Lahat ng nilalaman ng iyong kasalukuyang pahina ay mawawala."
+
+#~ msgid "All advanced module settings in will be lost."
+#~ msgstr "Lahat ng mga advanced na setting ng module ay mawawala."
+
+#~ msgid "Save To Library"
+#~ msgstr "I-save Sa Library"
+
+#~ msgid "Save your current page to the Divi Library for later use."
+#~ msgstr ""
+#~ "I-save ang iyong kasalukuyang pahina sa DiviLibrary para sa paggamit "
+#~ "mamaya."
+
+#~ msgid "Layout Name:"
+#~ msgstr "Pangalan ng Layout:"
+
+#~ msgid "Save And Add To Library"
+#~ msgstr "I-save At Idagdag Sa Library"
+
+#~ msgid "Add To Categories:"
+#~ msgstr "Idagdag Sa Mga Kategorya:"
+
+#~ msgid "Create New Category"
+#~ msgstr "Gumawa ng Bagong Kategorya"
+
+#~ msgid ""
+#~ "Here you can save the current item and add it to your Divi Library for "
+#~ "later use as well."
+#~ msgstr ""
+#~ "Dito maaari mong i-save ang kasalukuyang item at idagdag ito sa iyong "
+#~ "DiviLibrary para rin sa paggamit mamaya."
+
+#~ msgid "Template Name"
+#~ msgstr "Pangalan ng Template"
+
+#~ msgid "Selective Sync"
+#~ msgstr "Pinipiling Sync"
+
+#~ msgid "Include General settings"
+#~ msgstr "Isama ang mga Pangkalahatang setting"
+
+#~ msgid "Include Advanced Design settings"
+#~ msgstr "Isama ang mga Advanced na setting ng Design"
+
+#~ msgid "Include Custom CSS"
+#~ msgstr "Isama ang Custom na CSS"
+
+#~ msgid "Please select at least 1 tab to save"
+#~ msgstr "Mangyaring pumili ng kahit 1 tab para ma-i-save."
+
+#~ msgid "Save as Global:"
+#~ msgstr "I-save bilang Pangkalahatan:"
+
+#~ msgid "Make this a global item"
+#~ msgstr "Gawin itong pangkalahatang item"
+
+#~ msgid "Scope"
+#~ msgstr "Saklaw"
+
+#~ msgid "Layout Type"
+#~ msgstr "Uri ng Layout"
+
+#~ msgid "Module Width"
+#~ msgstr "Lapad ng Module"
+
+#~ msgid "New Template Settings"
+#~ msgstr "Mga Bagong Setting ng Template"
+
+#~ msgid "Template Name:"
+#~ msgstr "Pangalan ng Template:"
+
+#~ msgid "Template Type:"
+#~ msgstr "Uri ng Template:"
+
+#~ msgid "Fullwidth Module"
+#~ msgstr "Module na lumalaki nang full-width"
+
+#~ msgid "Row"
+#~ msgstr "Row"
+
+#~ msgid "Section"
+#~ msgstr "Seksyon"
+
+#~ msgid "Include General Settings"
+#~ msgstr "Isama ang mga Pangkalahatang Setting"
+
+#~ msgid "Include Advanced Design Settings"
+#~ msgstr "Isama ang mga Advanced Setting ng Design"
+
+#~ msgid ""
+#~ "Select category(ies) for new template or type a new name ( optional )"
+#~ msgstr ""
+#~ "Pumili ng kategorya o mga kategorya para sa bagong template o mag-type ng "
+#~ "bagong pangalan (opsyonal)"
+
+#~ msgid "Open in Lightbox"
+#~ msgstr "Buksan ang Lightobox"
+
+#~ msgid "Image Alignment"
+#~ msgstr "Pagkakahanay ng Larawan"
+
+#~ msgid "Here you can choose the image alignment."
+#~ msgstr "Dito maaari mong piliin ang pagkakahanay ng larawan."
+
+#~ msgid "Image Max Width"
+#~ msgstr "Pinakamalapad na sukat ng Larawan"
+
+#~ msgid "Force Fullwidth"
+#~ msgstr "Gawing Sagad ang Lapad"
+
+#~ msgid "Always Center Image On Mobile"
+#~ msgstr "Laging Igitna ang Larawan Sa Mobile"
+
+#~ msgid "Gallery Item"
+#~ msgstr "Item sa Gallery"
+
+#~ msgid "Overlay"
+#~ msgstr "Overlay"
+
+#~ msgid "Overlay Icon"
+#~ msgstr "Pang-overlay na Icon"
+
+#~ msgid "Gallery Item Title"
+#~ msgstr "Pamagat ng Item sa Gallery"
+
+#~ msgid "Caption Font"
+#~ msgstr "Font ng Caption"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "Kulay ng Font ng Caption"
+
+#~ msgid "Hover Icon Picker"
+#~ msgstr "Icon ng Picker kapag nagho-Hover"
+
+#~ msgid "Video Icon"
+#~ msgstr "Icon ng Video"
+
+#~ msgid "Play Icon Color"
+#~ msgstr "Kulay ng Icon ng Play"
+
+#~ msgid "Play Button"
+#~ msgstr "Button ng Play"
+
+#~ msgid "Thumbnail Item"
+#~ msgstr "Item na Thumbnail"
+
+#~ msgid "Thumbnail Overlay Color"
+#~ msgstr "Kulay ng Overlay ng thumbnail"
+
+#~ msgid "Line Height"
+#~ msgstr "Taas ng Linya"
+
+#~ msgid "Use Border Color"
+#~ msgstr "Gumamit ng Kulay sa Border"
+
+#~ msgid "Max Width"
+#~ msgstr "Pinakamalapad na sukat"
+
+#~ msgid "Header"
+#~ msgstr "Header"
+
+#~ msgid "Body"
+#~ msgstr "Body"
+
+#~ msgid "Blurb Image"
+#~ msgstr "Larawan ng Blurb"
+
+#~ msgid "Blurb Title"
+#~ msgstr "Pamagat ng Blurb"
+
+#~ msgid "Blurb Content"
+#~ msgstr "Nilalaman ng Blurb"
+
+#~ msgid "Use Icon Font Size"
+#~ msgstr "Gumamit ng Laki ng Font para sa Icon"
+
+#~ msgid "Icon Font Size"
+#~ msgstr "Laki ng Font ng Icon"
+
+#~ msgid "Tabs Controls"
+#~ msgstr "Mga kontrol ng mga Tab"
+
+#~ msgid "Active Tab"
+#~ msgstr "Aktibong Tab"
+
+#~ msgid "Active Tab Background Color"
+#~ msgstr "Kulay ng Background ng Aktibong Tab"
+
+#~ msgid "Inactive Tab Background Color"
+#~ msgstr "Kulay ng Background ng Di-aktibong Tab"
+
+#~ msgid "Slide Description"
+#~ msgstr "Paglalarawan ng Slide"
+
+#~ msgid "Slide Title"
+#~ msgstr "Pamagat ng Slide"
+
+#~ msgid "Slide Button"
+#~ msgstr "Button ng Slide"
+
+#~ msgid "Slide Controllers"
+#~ msgstr "Mga Nagkokontrol sa Slide"
+
+#~ msgid "Slide Active Controller"
+#~ msgstr "Nagkokontrol sa Aktibong Slide"
+
+#~ msgid "Use Parallax effect"
+#~ msgstr "Gumamit ng Parallax effect"
+
+#~ msgid "Remove Inner Shadow"
+#~ msgstr "Tanggalin ang Anino"
+
+#~ msgid "Top Padding"
+#~ msgstr "Padding sa Itaas"
+
+#~ msgid "Bottom Padding"
+#~ msgstr "Padding sa Ibaba"
+
+#~ msgid "Hide Content On Mobile"
+#~ msgstr "Itago ang Nilalaman sa Mobile"
+
+#~ msgid "Hide CTA On Mobile"
+#~ msgstr "Itago ang CTA Sa Mobile"
+
+#~ msgid "Show Image / Video On Mobile"
+#~ msgstr "Ipakita ang Larawan/Video Sa Mobile"
+
+#~ msgid "Arrows Custom Color"
+#~ msgstr "Custom na Kulay ng mga Arrow"
+
+#~ msgid "Dot Nav Custom Color"
+#~ msgstr "Custom na Kulay ng Dot Nav"
+
+#~ msgid "Testimonial Portrait"
+#~ msgstr "Larawan ng nagbibigay ng Testimonial"
+
+#~ msgid "Testimonial Description"
+#~ msgstr "Paglalarawan sa Testimonial"
+
+#~ msgid "Testimonial Author"
+#~ msgstr "Sumulat ng Testimonial"
+
+#~ msgid "Testimonial Meta"
+#~ msgstr "Meta ng Testimonial"
+
+#~ msgid "Body Text Font"
+#~ msgstr "Font ng Text sa Body"
+
+#~ msgid "Body Font Size"
+#~ msgstr "Laki ng Font sa Body"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "Pag-aagwat ng Titik sa Body"
+
+#~ msgid "Quote Icon Color"
+#~ msgstr "Kulay ng Icon ng Quote"
+
+#~ msgid "Portrait Width"
+#~ msgstr "Lapad ng Larawan"
+
+#~ msgid "Portrait Height"
+#~ msgstr "Taas ng Larawan"
+
+#~ msgid "Pricing Tables"
+#~ msgstr "Mga Talahanayan sa Pagpepresyo"
+
+#~ msgid "Pricing Heading"
+#~ msgstr "Subhead sa Pagpepresyo"
+
+#~ msgid "Pricing Title"
+#~ msgstr "Pamagat sa Pagpepresyo"
+
+#~ msgid "Pricing Top"
+#~ msgstr "Itaas na Bahagi ng Pagprepresyo"
+
+#~ msgid "Pricing Content"
+#~ msgstr "Nilalaman ng Pagpepresyo"
+
+#~ msgid "Pricing Button"
+#~ msgstr "Button sa Pagprepresyo"
+
+#~ msgid "Featured Table"
+#~ msgstr "Tampok na Talahanayan"
+
+#~ msgid "Subheader"
+#~ msgstr "Subhead"
+
+#~ msgid "Featured Table Background Color"
+#~ msgstr "Kulay ng Background ng Tampok na Talahanayan"
+
+#~ msgid "Table Header Background Color"
+#~ msgstr "Kulay ng Background ng Header ng Talahanayan"
+
+#~ msgid "Featured Table Header Background Color"
+#~ msgstr "Kulay ng Background ng Tampok na Header ng Talahanayan"
+
+#~ msgid "Featured Table Header Text Color"
+#~ msgstr "Kulay ng Text ng Tampok na Header ng Talahanayan"
+
+#~ msgid "Featured Table Subheader Text Color"
+#~ msgstr "Kulay ng Text ng Tampok na Subhead ng Talahanayan"
+
+#~ msgid "Featured Table Price Color"
+#~ msgstr "Kulay ng Tampok na Talahanayan ng Presyo"
+
+#~ msgid "Featured Table Body Text Color"
+#~ msgstr "Kulay ng Text sa Body ng Tampok na Talahanayan"
+
+#~ msgid "Show Bullet"
+#~ msgstr "Ipakita ang Dot"
+
+#~ msgid "Bullet Color"
+#~ msgstr "Kulay ng Dot"
+
+#~ msgid "Featured Table Bullet Color"
+#~ msgstr "Kulay ng Dot sa Tampok na Talahanayan"
+
+#~ msgid "Remove Featured Table Drop Shadow"
+#~ msgstr "Alisin ang Drop Shadow sa Tampok na Talahanayan"
+
+#~ msgid "Center List Items"
+#~ msgstr "Igitna ang Lista ng mga Item"
+
+#~ msgid "Promo Description"
+#~ msgstr "Paglalarawan"
+
+#~ msgid "Promo Button"
+#~ msgstr "Button"
+
+#~ msgid "Audio Cover Art"
+#~ msgstr "Larawan sa tabi ng Audio"
+
+#~ msgid "Audio Content"
+#~ msgstr "Nilalaman ng Audio"
+
+#~ msgid "Audio Meta"
+#~ msgstr "Meta ng Audio"
+
+#~ msgid "Signup"
+#~ msgstr "Mag sign-up"
+
+#~ msgid "Newsletter Description"
+#~ msgstr "Paglalarawan ng Newsletter"
+
+#~ msgid "Newsletter Form"
+#~ msgstr "Form ng Newsletter"
+
+#~ msgid "Newsletter Button"
+#~ msgstr "Button ng Newsletter"
+
+#~ msgid "Form Field Background Color"
+#~ msgstr "Kulay ng Background ng Field sa Form"
+
+#~ msgid "Form Field Text Color"
+#~ msgstr "Kulay ng Text sa Field ng Form"
+
+#~ msgid "Focus Background Color"
+#~ msgstr "Kulay ng Focus Background"
+
+#~ msgid "Focus Text Color"
+#~ msgstr "Kulay ng Focus Text"
+
+#~ msgid "Use Focus Border Color"
+#~ msgstr "Gumamit ng kulay sa Focus Border"
+
+#~ msgid "Focus Border Color"
+#~ msgstr "Kulay ng Focus Border"
+
+#~ msgid "Portfolio Image"
+#~ msgstr "Larawan sa Portfolio"
+
+#~ msgid "Portfolio Post Meta"
+#~ msgstr "Post Meta sa Portfolio"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Portfolio Filters"
+#~ msgstr "Mga Filter ng Portfolio"
+
+#~ msgid "Active Portfolio Filter"
+#~ msgstr "Aktibong Filter ng Portfolio"
+
+#~ msgid "Counter Title"
+#~ msgstr "Pamagat ng Counter"
+
+#~ msgid "Counter Container"
+#~ msgstr "Lalagyan ng Counter"
+
+#~ msgid "Counter Amount"
+#~ msgstr "Numero ng Counter"
+
+#~ msgid "Use Percentages"
+#~ msgstr "Gumamit ng mga simbolo ng Porsiyento"
+
+#~ msgid "Bar Top Padding"
+#~ msgstr "Padding sa Ibabaw ng Bar"
+
+#~ msgid "Bar Bottom Padding"
+#~ msgstr "Padding sa Ilalim ng Bar"
+
+#~ msgid "Label Color"
+#~ msgstr "Kulay ng Label"
+
+#~ msgid "Percentage Color"
+#~ msgstr "Kulay ng simbolo ng Porsiyento"
+
+#~ msgid "Circle Counter Title"
+#~ msgstr "Pamagat ng Circle Counter"
+
+#~ msgid "Circle Color Opacity"
+#~ msgstr "Labo ng Kulay ng Circle"
+
+#~ msgid "Number Counter Title"
+#~ msgstr "Pamagat ng Counter ng Numero"
+
+#~ msgid "Open Toggle"
+#~ msgstr "Buksan ang Toggle"
+
+#~ msgid "Toggle Title"
+#~ msgstr "Pamagat ng Toggle"
+
+#~ msgid "Toggle Icon"
+#~ msgstr "Icon ng Toggle"
+
+#~ msgid "Toggle Content"
+#~ msgstr "Nilalaman ng Toggle"
+
+#~ msgid "Open Toggle Background Color"
+#~ msgstr "Kulay ng Background ng Bukas ng Toggle"
+
+#~ msgid "Closed Toggle Background Color"
+#~ msgstr "Kulay ng Background ng Saradong Toggle"
+
+#~ msgid "Open Toggle Text Color"
+#~ msgstr "Kulay ng Text ng Bukas na Toggle"
+
+#~ msgid "Closed Toggle Text Color"
+#~ msgstr "Kulay ng Text ng Saradong Toggle"
+
+#~ msgid "Form Field"
+#~ msgstr "Field sa Form"
+
+#~ msgid "Contact Title"
+#~ msgstr "Pamagat ng Contact"
+
+#~ msgid "Contact Button"
+#~ msgstr "Button ng Contact"
+
+#~ msgid "Form Background Color"
+#~ msgstr "Kulay ng Background ng Form"
+
+#~ msgid "Input Border Radius"
+#~ msgstr "Radius ng Input Border"
+
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgid "Remove Border Separator"
+#~ msgstr "Alisin ang Separator ng Border"
+
+#~ msgid "Define how much space should be added below the divider."
+#~ msgstr "Ilagay kung ilan ang idadagdag na agwat sa ilalim ng divider."
+
+#~ msgid "Hide On Mobile"
+#~ msgstr "Itago sa Mobile"
+
+#~ msgid "Member Image"
+#~ msgstr "Larawan ng Miyembro"
+
+#~ msgid "Member Description"
+#~ msgstr "Paglalarawan sa Miyembro"
+
+#~ msgid "Member Position"
+#~ msgstr "Posisyon ng Miyembro"
+
+#~ msgid "Member Social Links"
+#~ msgstr "Mga Social Link ng Miyembro"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "Kulay ng Icon pag naho-Hover"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Post Meta"
+#~ msgstr "Post Meta"
+
+#~ msgid "Pagenavi"
+#~ msgstr "Navigation ng Pahina"
+
+#~ msgid "Grid Tile Background Color"
+#~ msgstr "Kulay ng Background ng Grid Tile"
+
+#~ msgid "Use Dropshadow"
+#~ msgstr "Gumamit ng Dropshadow"
+
+#~ msgid "Product"
+#~ msgstr "Produkto"
+
+#~ msgid "Onsale"
+#~ msgstr "Ibinebenta"
+
+#~ msgid "Rating"
+#~ msgstr "Pagbibigay ng Grado"
+
+#~ msgid "default"
+#~ msgstr "default"
+
+#~ msgid "Choose how many columns to display."
+#~ msgstr "Pumili kung ilang mga column ang ipapakita."
+
+#~ msgid "Sale Badge Color"
+#~ msgstr "Kulay ng Sale Badge"
+
+#~ msgid "Numbers"
+#~ msgstr "Mga Numero"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Container"
+#~ msgstr "Lalagyan"
+
+#~ msgid "Timer Section"
+#~ msgstr "Seksyon ng Timer"
+
+#~ msgid "Pin"
+#~ msgstr "Pin"
+
+#~ msgid "Use Grayscale Filter"
+#~ msgstr "Gumamit ng Grayscale Filter"
+
+#~ msgid "Grayscale Filter Amount (%)"
+#~ msgstr "Pagkatingkad ng Grayscale Filter (%)"
+
+#~ msgid "Social Icon"
+#~ msgstr "Icon ng Social Media"
+
+#~ msgid "Here you can choose whether or not display the Post Title"
+#~ msgstr "Dito maaari kang pumili kung ipapakita o hindi ang Pamagat ng Post"
+
+#~ msgid "Show Meta"
+#~ msgstr "Ipakita ang Meta"
+
+#~ msgid "Here you can choose whether or not display the Post Meta"
+#~ msgstr "Dito maaari kang pumili kung ipapakita o hindi ang Post Meta"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Author Name in Post Meta"
+#~ msgstr ""
+#~ "Dito maaari kang pumili kung ipapakita o hindi ang pangalan ng sumulat sa "
+#~ "Post Meta"
+
+#~ msgid "Here you can choose whether or not display the Date in Post Meta"
+#~ msgstr ""
+#~ "Dito maaari kang pumili kung ipapakita o hindi ang Petsa sa Post Meta"
+
+#~ msgid "Date Format"
+#~ msgstr "Format ng Petsa"
+
+#~ msgid ""
+#~ "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+#~ msgstr ""
+#~ "Dito maaari mong ilagay ang Format ng Petsa sa Post Meta. Ang Default ay "
+#~ "'M j, Y'"
+
+#~ msgid "Show Post Categories"
+#~ msgstr "Ipakita ang mga Kategorya ng Post"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Categories in Post Meta. "
+#~ "Note: This option doesn't work with custom post types."
+#~ msgstr ""
+#~ "Dito maaari kang pumili kung ipapakita o hindi ang mga Kategorya sa Post "
+#~ "Meta. Nota: Ang opsyon na ito ay hindi maaari sa mga uri ng custom na "
+#~ "post."
+
+#~ msgid "Show Comments Count"
+#~ msgstr "Ipakita ang bilang ng mga komentaryo"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Comments Count in Post "
+#~ "Meta."
+#~ msgstr ""
+#~ "Dito maaari kang pumili kung ipapakita o hindi ang mga Komentaryo sa Post "
+#~ "Meta."
+
+#~ msgid "Here you can choose whether or not display the Featured Image"
+#~ msgstr ""
+#~ "Dito maaari kang pumili kung ipapakita o hindi ang Tampok na Larawan"
+
+#~ msgid "Featured Image Placement"
+#~ msgstr "Paglalagay ng Tampok na Larawan"
+
+#~ msgid "Below Title"
+#~ msgstr "Sa Ilalim ng Pamagat"
+
+#~ msgid "Above Title"
+#~ msgstr "Sa Ibabaw ng Pamagat"
+
+#~ msgid "Title/Meta Background Image"
+#~ msgstr "Larawan sa Background ng Pamagat"
+
+#~ msgid "Here you can choose where to place the Featured Image"
+#~ msgstr "Dito maaari kang pumili kung saan ilalagay ang Tampok na Larawan"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use parallax effect for the featured "
+#~ "image"
+#~ msgstr ""
+#~ "Dito maaari kang pumili kung gagamitin ang parallax effect o hindi para "
+#~ "sa tampok na larawan"
+
+#~ msgid "Parallax Method"
+#~ msgstr "Paraan sa paggamit ng Parallax"
+
+#~ msgid ""
+#~ "Here you can choose which parallax method to use for the featured image"
+#~ msgstr ""
+#~ "Dito maaari kang pumili kung anong paraan ng parallax ang gagamitin para "
+#~ "sa tampok na larawan"
+
+#~ msgid "Here you can choose the orientation for the Title/Meta text"
+#~ msgstr ""
+#~ "Dito maaari kang pumili ng direksyon ng pagkakahanay para sa text ng "
+#~ "Pamagat"
+
+#~ msgid "Here you can choose the color for the Title/Meta text"
+#~ msgstr "Dito maaari kang pumili ng kulay para sa text ng Pamagat"
+
+#~ msgid "Use Text Background Color"
+#~ msgstr "Gumamit ng kulay sa Text Background"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use the background color for the Title/"
+#~ "Meta text"
+#~ msgstr ""
+#~ "Dito maaari kang pumili kung gagamit ng kulay sa background para sa text "
+#~ "ng Pamagat o hindi"
+
+#~ msgid "Text Background Color"
+#~ msgstr "Kulay ng Text Background"
+
+#~ msgid "Title Styling"
+#~ msgstr "Pag-e-estilo ng Pamagat"
+
+#~ msgid "Subhead Styling"
+#~ msgstr "Pag-e-estilo ng Subhead"
+
+#~ msgid "Content Styling"
+#~ msgstr "Pag-e-estilo ng Nilalaman"
+
+#~ msgid "Button Styling"
+#~ msgstr "Pag-e-estilo ng Button"
+
+#~ msgid "Text & Logo Orientation"
+#~ msgstr "Paglalagay sa Lugar ng Text & Logo"
+
+#~ msgid "Make Fullscreen"
+#~ msgstr "Gawing Fullscreen"
+
+#~ msgid ""
+#~ "Here you can choose whether the header is expanded to fullscreen size."
+#~ msgstr ""
+#~ "Dito maaari kang pumili kung ang size ng header ay gagawing fullscreen."
+
+#~ msgid "Show Scroll Down Button"
+#~ msgstr "Ipakita ang Button ng Scroll Down"
+
+#~ msgid "Here you can choose whether the scroll down button is shown."
+#~ msgstr "Dito maaari kang pumili kung ipapakita ang button ng scroll down."
+
+#~ msgid "Choose an icon to display for the scroll down button."
+#~ msgstr "Pumili ng icon na ipapakita para sa button ng scroll down."
+
+#~ msgid "Scroll Down Icon Color"
+#~ msgstr "Kulay ng Icon ng Scroll Down"
+
+#~ msgid "Scroll Down Icon Size"
+#~ msgstr "Laki ng Icon ng Scroll Down"
+
+#~ msgid "Title Font"
+#~ msgstr "Font ng Pamagat"
+
+#~ msgid "Title Font Color"
+#~ msgstr "Kulay ng Font ng Pamagat"
+
+#~ msgid "Subhead Font"
+#~ msgstr "Font ng Subhead"
+
+#~ msgid "Subhead Font Color"
+#~ msgstr "Kulay ng Font ng Subhead"
+
+#~ msgid "Content Font"
+#~ msgstr "Font ng Nilalaman"
+
+#~ msgid "Content Font Color"
+#~ msgstr "Kulay ng Font ng Nilalaman"
+
+#~ msgid "Button %1$s Text"
+#~ msgstr "%1$s ng Text sa Button"
+
+#~ msgid "Enter the text for the Button."
+#~ msgstr "I-enter ang text para sa Button."
+
+#~ msgid "Button %1$s URL"
+#~ msgstr "Button para sa %1$s ng URL"
+
+#~ msgid "Enter the URL for the Button."
+#~ msgstr "I-enter ang URL para sa Button."
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "%1$s ng Font sa Button"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "Kulay ng %1$s Font sa Button"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "Kulay ng %1$s Background sa Button"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "Laki ng %1$s Font  sa Button"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "Radius ng %1$s Border sa Button"
+
+#~ msgid "Background Image URL"
+#~ msgstr "URL ng Larawan sa Background"
+
+#~ msgid "Background Overlay Color"
+#~ msgstr "Kulay ng Overlay ng Background"
+
+#~ msgid "Logo Image URL"
+#~ msgstr "URL ng Larawan ng Logo"
+
+#~ msgid "Text Vertical Alignment"
+#~ msgstr "Patayong Pagkakahanay ng Text"
+
+#~ msgid ""
+#~ "This setting determines the vertical alignment of your content. Your "
+#~ "content can either be vertically centered, or aligned to the bottom."
+#~ msgstr ""
+#~ "Ang setting na ito ay tumutukoy sa patayong pagkakahanay ng nilalaman. "
+#~ "Ang nilalaman ay maaaring nakagitna na patayo, o nakapantay sa ibaba."
+
+#~ msgid "Header Image URL"
+#~ msgstr "URL ng Larawan ng Header"
+
+#~ msgid "Image Vertical Alignment"
+#~ msgstr "Patayong Pagkakahanay ng Larawan"
+
+#~ msgid "This controls the orientation of the image within the module."
+#~ msgstr "Kinokontrol nito ang paglalagay sa lugar ng larawan na nasa module."
+
+#~ msgid "Code"
+#~ msgstr "Code"
+
+#~ msgid "Fullwidth Code"
+#~ msgstr "Code para sa paglaki nang Full-Width"
+
+#~ msgid "Fullwidth Image"
+#~ msgstr "Larawan na lumalaki nang Full-Width"
+
+#~ msgid "Fullwidth Post Title"
+#~ msgstr "Pamagat ng Post na lumalaki nang Full-Width"
+
+#~ msgid ""
+#~ "Enabling this option will remove the background color of this section, "
+#~ "allowing the website background color or background image to show through."
+#~ msgstr ""
+#~ "Pagpapagana ng opsyon na ito ay magtatanggal ng kulay ng background ng "
+#~ "seksyon na ito, hinahayaang ipakita ang kulay ng background ng website o "
+#~ "larawan sa background."
+
+#~ msgid ""
+#~ "Adjust padding to specific values, or leave blank to use the default "
+#~ "padding."
+#~ msgstr ""
+#~ "Iayos ang padding sa tiyak na agwat, o iwanang bakante para gamitin ang "
+#~ "default na padding."
+
+#~ msgid "Keep Custom Padding on Mobile"
+#~ msgstr "Panatilihin ang Custom na Padding sa Mobile"
+
+#~ msgid "Allow custom padding to be retained on mobile screens"
+#~ msgstr "Hayaang manatili ang custom na padding sa mga screen ng mobile"
+
+#~ msgid "Make This Row Fullwidth"
+#~ msgstr "Gawin ang laki ng Row na ito na Full-Width"
+
+#~ msgid ""
+#~ "Enable this option to extend the width of this row to the edge of the "
+#~ "browser window."
+#~ msgstr ""
+#~ "Paganahin ang opsyon na ito para mapalaki ang lapad ng row na ito sa "
+#~ "gilid ng browser window."
+
+#~ msgid "Use Custom Width"
+#~ msgstr "Gamitin ang Custom na Width"
+
+#~ msgid ""
+#~ "Change to Yes if you would like to adjust the width of this row to a non-"
+#~ "standard width."
+#~ msgstr ""
+#~ "Palitan ng OO kung gusto mong iayos ang lapad ng row na ito sa hindi "
+#~ "standard na width."
+
+#~ msgid "Unit"
+#~ msgstr "Unit"
+
+#~ msgid "px"
+#~ msgstr "Mga pixel"
+
+#~ msgid "Custom Width"
+#~ msgstr "Custom na Width"
+
+#~ msgid "Define custom width for this Row"
+#~ msgstr "Itakda ang custom na width para sa Row na ito"
+
+#~ msgid "Gutter Width"
+#~ msgstr "Pag-aagwat ng Column"
+
+#~ msgid "Adjust the spacing between each column in this row."
+#~ msgstr "Iayos ang pag-aagwat sa pagitan ng bawat column sa row na ito."
+
+#~ msgid "Equalize Column Heights"
+#~ msgstr "Pantay-pantayin ang mga Taas ng Column"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Maligayang pagdating sa Divi! Bago tuklasin ang lahat tungkol sa bago "
+#~ "mong tema, mangyaring bumisita sa pahina ng Dokumentasyon ng Divi para "
+#~ "maka-access ng maraming detalyadong pagtuturo."
+
+#~ msgid "Category Font Size"
+#~ msgstr "Laki ng Font ng Kategorya"
+
+#~ msgid "Category Font Style"
+#~ msgstr "Estilo ng Font ng Kategorya"

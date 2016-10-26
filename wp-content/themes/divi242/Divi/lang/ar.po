@@ -1,0 +1,4123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 19:29+0300\n"
+"PO-Revision-Date: 2015-06-17 19:29+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: ar_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;esc_attr_e;"
+"esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n"
+"%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "هذا المقال محمي بكلمة مرور. أدخل كلمة المرور لرؤية التعليقات."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 تعليقات"
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr "1 تعليق"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "تعليقات"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "‏<span class=\"meta-nav\">&larr;</span> التعليقات الأقدم"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "التعليقات الأحدث <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "روابط تتبع / روابط عائدة"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "تقديم تعليق"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "تقديم تعليق"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "اترك رداً لـ %s"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "حفظ...."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "تم حفظ الخيارات."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "الخيارات"
+
+#: ../epanel/core_functions.php:73 ../functions.php:8939
+msgid "Theme Options"
+msgstr "إعدادات السمة"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "تم حفظ الاعدادات."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "تمت إعادة ضبط الاعدادات"
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448 ../functions.php:616
+msgid "General Settings"
+msgstr "الاعدادات العامة"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "شريط التصفح"
+
+#: ../epanel/core_functions.php:117 ../functions.php:621
+msgid "Layout Settings"
+msgstr "إعدادات التخطيط"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "إدارة الإعلانات"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "اللون"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "‏SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "التكامل"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "مستندات الدعم"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "إعادة الضبط"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "تحميل الصور"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "ليس لديك أي صفحات"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"سيعيد هذا كل الاعدادات في كافة أنحاء صفحة الخيارات إلى قيمها الافترضية. "
+"<strong>هل أنت واثق أنك تريد عمل هذا؟</strong>"
+
+#: ../epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "اختيار صورة"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "‏&hellip;"
+
+#: ../epanel/custom_functions.php:465 ../header.php:141
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: ../epanel/custom_functions.php:713
+msgid "Archives"
+msgstr "الأرشيفات"
+
+#: ../epanel/custom_functions.php:715
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "نتائج البحث عن \"%s\""
+
+#: ../epanel/custom_functions.php:717
+msgid "404 Not Found"
+msgstr "404 غير موجود"
+
+#: ../epanel/custom_functions.php:788
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "تستعرض حالياً أرشيفات من %1$s"
+
+#: ../epanel/custom_functions.php:1021
+msgid "Image doesn't exist"
+msgstr "الصورة غير موجودة"
+
+#: ../epanel/custom_functions.php:1217
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"‏<div class=\"updated\"><p> هذا تثبيت جديد للسمة %1$s. لا تنسى الذهاب إلى <a "
+"href=\"%2$s\">ePanel</a> لإعدادها. ستحتفي هذه الرسالة بمجرد النقر على زر الحفظ "
+"في صفحة خيارات سمة <a href=\"%2$s\">، </a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1229
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" "
+"title=\"%1$s\">View version %3$s details</a>. <em>Before you can update your "
+"Elegant Themes, you must first install the <a href=\"https://www.elegantthemes."
+"com/members-area/documentation.html#updater\" target=\"_blank\">Elegant Updater "
+"Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"هناك نسخة جديدة متاحة من %1$s. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s"
+"\">انظر تفاصيل النسخة %3$s </a>. <em>قيل أن يمكنك تحديث السمات الراقية الخاصة "
+"بك، يجب أن تقوم أولاً بتثبيت <a href=\"https://www.elegantthemes.com/members-"
+"area/documentation.html#updater\" target=\"_blank\">Elegant Updater Plugin</a> "
+"لتوثيق اشتراكك.</em>"
+
+#: ../epanel/custom_functions.php:1233
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a href="
+"\"https://www.elegantthemes.com/members-area/documentation.html#updater\" "
+"target=\"_blank\">Elegant Updater Plugin</a> to authenticate your subscription."
+msgstr ""
+"قبل أن يمكنك تحديث السمات الراقية الخاصة بك، يجب أن تقوم أولاً بتثبيت <a href="
+"\"https://www.elegantthemes.com/members-area/documentation.html#updater\" "
+"target=\"_blank\">Elegant Updater Plugin</a> لتوثيق اشتراكك."
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "عام"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "شعار"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "الإعداد كشعار"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr "إذا أردت استخدام صورة شعارك الخاصة، انقر على زر \"تحميل صورة\"."
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "‏Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "الإعداد كـ Favicon"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload Image "
+"button."
+msgstr "إذا أردت استخدام صورة favicon الخاصة بك، انقر على زر تحميل صورة."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "شريط التصفح الثابت"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"افترضياً، يظل شريط التصفح على قمة الشاشة في جميع الأوقات. ونقترح تعطيل هذا "
+"الخيار إذا كنت بحاجة لاستخدام صورة شعار كبيرة."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "التقاط أول صورة في المقال"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once activcated "
+"thumbnail images will be generated automatically using the first image in your "
+"post. The image must be hosted on your own server."
+msgstr ""
+"افتراضياً، تنشأ الصور المصغرة باستخدام حقول خاصة. بيد أنك إن فضلت استخدام الصور "
+"الموجودة بالفعل في مقالك كصورة مصغرة (وتجاوز استخدام الحقول الخاصة)، يمكنك تنشط "
+"هذا الخيار. وبمجرد تنشطيه، ستولد الصور المصغرة تلقائياً باستخدام أول صورة في "
+"المقال. يجب أن تكون الصورة مستضافة على خادمك الخاص."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "نمط أسلوب مدونة"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically to "
+"create post previews. If you would rather show your posts in full on index "
+"pages like a traditional blog then you can activate this feature."
+msgstr ""
+"افتراضياً، تقتطع السمة تلقائياً مقتطفات مما تنشره لإنشاء معاينات لما هو منشور. "
+"إذا كنت تفضل عرض ما تنشره كاملاً، مثل المدونة التقليدية، يمكنك تنشط هذه الميزة."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "تخطيط صفحة المتجر وصفحة الفئات الخاصتين بـ WooCommerce"
+
+#: ../epanel/options_divi.php:90 ../functions.php:364
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي الأيمن"
+
+#: ../epanel/options_divi.php:91 ../functions.php:365
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي الأيسر"
+
+#: ../epanel/options_divi.php:92 ../functions.php:366
+msgid "Full Width"
+msgstr "العرض الكامل"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr "يمكنك هنا اختيار تخطيط صفحة المتجر وصفحة الفئات الخاصتين بـ WooCommerce"
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "مفتاح واجهة برمجة التطبيقات الخاصة بـ MailChimp"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"أدخل مفتاح واجهة برمجة التطبيقات الخاصة بـ MailChimp. يمكنك إنشاء مفتاح واجهة "
+"برمجة التطبيقات <a target=\"_blank\" href=\"%1$s\">here</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "تفويض Aweber"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "صرح بحساب Aweber الخاص بك هنا."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "أعد توليد قوائم MailChimp"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"افتراضياً، يُحتفظ بقوائم MailChimp ليوم واحد. إذا أضفت قائمةً جديدة، لكنها لم تظهر "
+"ضمن إعدادات وحدة تسجيل الاشتراك، نشّط هذا الخيار. لا تنس تعطيله بمجرد إعادة "
+"توليد القائمة."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "إعادة توليد قوائم Aweber"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but it "
+"doesn't appear within the SignUp module settings, activate this option. Don't "
+"forget to disable it once the list has been regenerated."
+msgstr ""
+"افتراضياً، يُحتفظ بقوائم Aweber ليوم واحد. إذا أضفت قائمةً جديدة، لكنها لم تظهر "
+"ضمن إعدادات وحدة تسجيل الاشتراك، نشّط هذا الخيار. لا تنس تعطيله بمجرد إعادة "
+"توليد القائمة."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "عرض أيقونة Facebook"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr "يمكنك هنا اختيار عرض أيقونة Facebook على صفحتك الرئيسية. "
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "عرض أيقونة Twitter"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "يمكنك هنا اختيار عرض أيقونة Twitter. "
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "عرض أيقونة Google +"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr "يمكنك هنا اختيار عرض أيقونة Google + على صفحتك الرئيسية. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "عرض أيقونة RSS"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "يمكنك هنا اختيار عرض أيقونة RSS. "
+
+#: ../epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "‏URL اللمحة الشخصية على Facebook"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "أدخل URL اللمحة الشخصية الخاصة بك على Facebook. "
+
+#: ../epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "‏URL اللمحة الشخصية الخاصة بك على Twitter"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "أدخل URL اللمحة الشخصية الخاصة بك على Twitter."
+
+#: ../epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "‏URL اللمحة الشخصية على Google+"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "أدخل URL اللمحة الشخصية على Google+. "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "‏URL أيقونة RSS"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "أدخل URL أيقونة تغذية RSS الخاصة بك. "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "عدد المقالات المعروضة على صفحة الفئة"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the Category "
+"page. This option works independently from the Settings > Reading options in wp-"
+"admin."
+msgstr ""
+"يمكنك هنا تحديد عدد المقالات الحديثة المعروض على صفحة الفئة. يعمل هذا الخيار "
+"بشكل مستقل عن خيارات القراءة في wp-admin."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "عدد المقالات المعروضة على صفحات الأرشيف"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options in "
+"wp-admin."
+msgstr ""
+"يمكنك هنا تحديد عدد المقالات الحديثة المعروضة على صفحات الارشيف. يعمل هذا "
+"الخيار بشكل مستقل عن خيارات القراءة في wp-admin."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "عدد المقالات المعروضة على صفحات البحث"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"يمكنك هنا تحديد عدد المقالات الحديثة المعروضة على صفحات البحث. يعمل هذا الخيار "
+"بشكل مستقل عن خيارات القراءة في wp-admin."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "عدد المقالات المعروضة على صفحات العلامة"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag pages. "
+"This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+"يمكنك هنا تحديد عدد المقالات الحديثة المعروضة على صفحات العلامة. يعمل هذا "
+"الخيار بشكل مستقل عن خيارات القراءة في wp-admin."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "صيغة التاريخ"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"يتيح لك هذا الخيار تغيير كيفية عرض التواريخ. لمزيد من المعلومات، يُرجى مراجعة "
+"قوانين WordPress هنا Wordpress: <a href='http://codex.wordpress.org/"
+"Formatting_Date_and_Time' target='_blank'> تهيئة التاريخ والوقت </a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "استخدام المقتطفات عند تعريفها"
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "سيمكّن هذا من استخدام المقتطفات في مقالات أو الصفحات."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "‏shortcodes مستجيبة"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr "يمكّن هذا الخيار جعل shortcodes تستجيب للقياسات المختلفة للشاشة"
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "المجموعات الثانوية لـ Google"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "سيمكن هذا Google Fonts من أجل اللغات غير الإنجليزية."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "زر الرجوع إلى البداية"
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr "يمكّن هذا الخيار عرض زر الرجوع إلى البداية أثناء التحريك"
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "التحريك السلس"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr "يمكّن هذا الخيار الحصول على أثر التحريك السلس بواسطة عجلة الفأرة"
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "‏CSS الخاص"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr "يمكنك هنا إضافة CSS الخاص لتجاوز الأساليب الأفتراضية أو تمديدها."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "الصفحات"
+
+#: ../epanel/options_divi.php:292 ../functions.php:292 ../functions.php:302
+msgid "Categories"
+msgstr "الفئات"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "استثناء صفحات من شريط التصفح"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All pages "
+"marked with an X will not appear in your navigation bar. "
+msgstr ""
+"يمكنك هنا اختيار إزالة صفحات معينة من قائمة التصفح. لن تظهر كل الصفحات المؤشر "
+"عليها بعلامة X في شريط التصفح الخاص بك. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "إظهار القوائم المنسدلة"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr "إذا كنت تود إزالة القوائم المنسدلة من شريط تصفح الصفحات، عطل هذه الميزة."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "عرض وصلة الصفحة الرئيسية"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to your "
+"blog's homepage. If, however, you are using a static homepage and have already "
+"created a page called Home to use, this will result in a duplicate link. In "
+"this case you should disable this feature to remove the link."
+msgstr ""
+"افتراضياً، تنشيء السمة وصلة للصفحة الرئيسية تؤدي عند النقر عليها إلى العودة إلى "
+"الصفحة الرئيسية لمدونتك. بيد أنه إن كنت تستخدم صفحة رئيسية ساكنة وكنت قد أنشأت "
+"بالفعل صفحة باسم الصفحة الرئيسية لاستخدام، فإن هذا سيؤدي إلى وجود وصلة مزدوجة. "
+"في هذه الحالة، يجب أن تعطل هذه الميزة لإزالة الوصلة."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "ترتيب وصلات الصفحات"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr "يمكنك هنا اختيار كيفية ترتيب وصلات صفحاتك."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "رتب وصلات الصفحات تصاعدياً / تنازلياً"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are displayed. "
+"You can choose between ascending and descending."
+msgstr ""
+"يمكنك هنا اختيار عكس الترتيب الذي تظهر فيه وصلات صفحاتك. فيمكنك أن تختار بين "
+"ترتيب تصاعدي وترتيب تنازلي."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "عدد المستويات المنسدلة الظاهرة"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu has. "
+"Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"تتيح لك هذه الخيارات بالتحكم في عدد المستويات المنسدلة الظاهرة في القائمة "
+"المنسدلة لصفحاتك. وتتيح زيادة العدد إظهار مواد إضافية في القائمة."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "استثناء فئات من شريط التصفح"
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. All "
+"categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"يمكنك هنا اختيار إزالة فئات معينة من قائمة التصفح. لن تظهر كل الصفحات المؤشر "
+"عليها بعلامة X في شريط التصفح الخاص بك. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories navigation "
+"bar disable this feature."
+msgstr "عطل هذه الميزة إذا أردت إزالة القوائم المنسدلة من شريط تصفح الفئات."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "إخفاء الفئات الخاوية"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that don't "
+"have any posts in them then disable this option. By default empty categories "
+"are hidden"
+msgstr ""
+"إذا كنت تود عرض الفئات التي لا تحتوي أي مقالات في شريطك للتصفح، عطل هذا الخيار. "
+"افتراضياً، الفئات الخاوية يتم إخفائها."
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "صنّف وصلات الفئات طبقاً للمجموعات Name/ID/Slug/Count/Term"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"افتراضياً، تُصنّف الصفحات بالاسم. بيد أنك إن أردت تصنيفها حسب الـ ID، فإنه من "
+"الممكن تعديل هذا الإعداد."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "ترتيب وصلات الفئات ترتيباً تصاعدياً أو تنازلياً."
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"يمكنك هنا اختيار عكس الترتيب الذي تظهر فيه وصلات فئاتك. فيمكنك أن تختار بين "
+"ترتيب تصاعدي وترتيب تنازلي."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "تعطيل وصلات أعلى مستوى في القائمة المنسدلة"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely serve "
+"an organizational function. Enabling this options will remove the links from "
+"all parent pages/categories so that they don't lead anywhere when clicked."
+msgstr ""
+"في بعض الحالات، سيريد المستخدمون إنشاء فئات أو وصلات رئيسية كعناصر نائبة "
+"لاحتواء وصلات أو فئات وليدة. في هذه الحالة، من غير المرغوب أن تقود الوصلات "
+"الرئيسة إلى أي مكان، ولكن أن تخدم بدلاً من ذلك كمجرد وظيفة تنظيمية. سيزيل تمكين "
+"هذه الخيارات الوصلات من كل الصفحات / الفئات الرئيسية حتى لا تقود إلى أي مكان "
+"عند النقر عليها."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "تخطيط مقال واحد"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "تخطيط صفحة واحدة"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr "اختيار أي المواد ستُعرض في جزء المعلومات الخاصة بالمقال"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single post "
+"pages. This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"يمكنك هنا اختيار أي المواد ستظهر في جزء المعلومات الخاصة بالمقال في الصفحات "
+"التي بها مقال واحد. هذه هي المنطقة، عادة أسفل عنوان المقال، التي تعرض المعلومات "
+"الأساسية عن مقالتك. ستظهر المواد المبرزة أدناه. "
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "إظهار التعليقات على المقالات"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment form "
+"from single post pages. "
+msgstr ""
+"يمكنك تعطيل هذا الخيار إذا كنت تريد إزالة التعليقات ونموذج التعليق من المقالات. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "وضع الصور المصغرة على المقالات"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single post "
+"pages. If you would like to remove this initial thumbnail image to avoid "
+"repetition simply disable this option. "
+msgstr ""
+"افتراضياً، توضع الصور المصغرة في بداية المقال على صفحات المقال الواحدة. إذا كنت "
+"تود إزالة هذه الصورة المصغرة الأولية لتفادي التكرار، عليك ببساطة تعطيل هذا "
+"الخيار. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "وضع الصور المصغرة في الصفحات"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"الصور المصغرة لا توضع على الصفحات في الوضع الافتراضي (هي مستعملة في المقالات "
+"فقط). إلا أنه يمكنك استعمال صور مصغرة على الصفحات إن أردت! عليك فقط تمكين هذا "
+"الخيار. "
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "عرض التعليقات في الصفحات"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"افتراضياً، لا توضع التعليقات في الصفحات، بيد أنك إن أردت السماح للناس بالتعليق "
+"على صفحاتك، فعليك فقط تمكين هذا الخيار. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "جزء المعلومات الخاصة بالمقال"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. This "
+"is the area, usually below the post title, which displays basic information "
+"about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"يمكنك هنا اختيار أي المواد ستظهر في جزء المعلومات الخاصة بالمقال في الصفحات. "
+"هذه هي المنطقة، عادة أسفل عنوان المقال، التي تعرض المعلومات الأساسية عن مقالتك. "
+"ستظهر المواد المبرزة أدناه. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "عرض الصور المصغرة على صفحات الفهرس"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "تمكين هذا الخيار لعرض الصور المصغرة على صفحات الفهرس."
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "‏SEO الصفحة الرئيسية"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "‏SEO صفحة مقال واحد"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "‏SEO صفحة فهرس"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "تمكين العناوين الخاصة "
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"افتراضياً، تستعمل السمة مزجاً من اسم مدونتك ووصفها، كما هما معرّفان عند إنشائك "
+"لها، لتكوين عناوين صفحتك الرئيسية. بيد أنك إن أردت وضع عنوان خاص، فعليك ببساطة "
+"تمكين هذا الخيار وملء حقل العنوان الخاص أدناه. "
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "تمكين وصف علامة التعريف"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"افتراضياً، تستعمل السمة وصف مدونتك، كما عرّف عند إنشائك لها، لملء حقل وصف علامة "
+"التعريف. فإن أردت استخدام وصف مختلف، فعليك ببساطة تمكين هذا الخيار وملء حقل "
+"الوصف الخاص أدناه. "
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "تمكين الكلمات الدليلية التعريفية"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search engines "
+"don't use keywords to rank your site anymore, but some people define them "
+"anyway just in case. If you want to add meta keywords to your header then "
+"enable this option and fill in the custom keywords field below. "
+msgstr ""
+"افتراضياً، لا تضيف السمة كلمات دليلية إلى رأس الصفحة. كذلك لم تعد أكثر محركات "
+"البحث تستخدم الكلمات الدليلية لتصنيف موقعك، لكن بعض الناس يعرّفونها على أي حال "
+"تحسباً. إذا أردت إضافة كلمات دليلية تعريفية إلى رأس صفحتك، فعليك تمكين هذا "
+"الخيار وملء حقل الكلمات الدليلية الخاصة أدناه. "
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "تمكين URL's متوافقة"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by search "
+"engines, and as a result, may help avoid duplicate content penalties and "
+"pagerank degradation. Some pages may have different URLs all leading to the "
+"same place. For example domain.com, domain.com/index.html, and www.domain.com "
+"are all different URLs leading to your homepage. From a search engine's "
+"perspective these duplicate URLs, which also occur often due to custom "
+"permalinks, may be treated individually instead of as a single destination. "
+"Defining a canonical URL tells the search engine which URL you would like to "
+"use officially. The theme bases its canonical URLs off your permalinks and the "
+"domain name defined in the settings tab of wp-admin."
+msgstr ""
+"يساعد التوافق على منع فهرسة محتوى مزدوج بواسطة محرك البحث، وكنتيجة لذلك، قد "
+"يساعد على تجنب جزاءات النسخ المزدوج وخفض تقييم الصفحة. قد يكون لبعض الصفحات "
+"URLs مختلفة تقود إلى المكان نفسه. على سبيل المثال domain.com و domain.com/index."
+"html و www.domain.com كلها URLs مختلفة تؤدي إلى صفحتك الرئيسية. من منظور محرك "
+"بحث، هذه URLs المزدوجة، والتي تحدث أيضاً في أغلب الأحيان بسبب روابط مخصصة، يمكن "
+"التعامل معها بشكل منفرد بدلاً من كونها وجهة واحدة. تحديد URL متعارف عليه يخبر "
+"محرك البحث أي URL تود أن تستعمل بشكل رسمي. وتسند السمة URLs المتعارف عليها، "
+"والخاصة بها، على روابطك واسم النطاق المحدد في تبويب إعدادات wp-admin."
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "العنوان الخاص للصفحة الرئيسية (إذا كان مُمكّناً)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. Whatever "
+"you type here will be placed between the < title >< /title > tags in header.php"
+msgstr ""
+"إذا مكنت العناوين الخاصة، يمكنك أن تضيف عنوانك الخاص هنا. أياً كان ما تطبعه هنا "
+"سيوضع بين علامات < title >< /title > في header.php."
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "الوصف التعريفي للصفحة الرئيسية (إذا كان مُمكّناً)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description here."
+msgstr "إذا كنت قد مكنت الأوصاف التعريفية، يمكنك أن تضيف وصفك الخاص هنا."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "الكلمات الدليلية التعريفية للصفحة الرئيسية (إذا كان مُمكّناً)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,templates,"
+"elegant"
+msgstr ""
+"إذا كنت قد مكنت الكلمات الدليلية التعريفية، فيمكن أن تضيف كلماتك الدليلية "
+"الخاصة هنا. يجب وضع فصلة بين الكلمات الدليلية. على سبيل المثال، wordpress,"
+"themes,templates,elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "إذا كانت العناوين الخاصة معطلة، اختر طريقة الإنشاء الآلية"
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like your "
+"post title and blog name to be displayed, or you can remove the blog name from "
+"the title completely."
+msgstr ""
+"إذا كنت لا تستخدم عناوين خاصة للمقالات، فإنه ما يزال بإمكانك التحكم في عناوينك "
+"المولّدة. يمكنك هنا اختيار أي ترتيب تود أن يظهر فيه عنوان المقال واسم مدونتك، أو "
+"يمكنك إزالة اسم المدونة من العنوان تماماً."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr "تعريف حرف للفصل بين اسم موقع الويب وعنوان المقال"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"يمكنك هنا تغيير الحرف الذي يفصل بين عنوان مدونتك واسم المقال عند استخدام عناوين "
+"مقالات مُنشأة آلياً. القيمتان المعتادتان هما | أو -"
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "تمكين العناوين الخاصة"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than your "
+"actual post title you can define a custom title for each post using custom "
+"fields. This option must be enabled for custom titles to work, and you must "
+"choose a custom field name for your title below."
+msgstr ""
+"افتراضياً، تنشئ السمة عناوين للمقالات تستند على عنوان مقالك واسم مدونتك. إذا "
+"أردت جعل العنوان التعريفي مختلفاً عن عنوان المقال الفعلي، فيمكنك تعريف عنوان خاص "
+"لكل مقال باستخدام حقول خاصة. يجب تمكين هذا الخيار حتى تعمل العناوين الخاصة، "
+"ويجب أن تختار اسم للحقل الخاص بعنوانك أدناه."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "تمكين الوصف الخاص"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed on "
+"post pages. You can add your meta description using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"إذا أردت إضافة الوصف التعريفي إلى مقالك، فيمكنك عمل ذلك باستخدام حقول خاصة. يجب "
+"تمكين هذا الخيار حتى تُعرض الأوصاف في صفحات مقالك. يمكنك أن تضيف وصفك التعريفي "
+"باستخدام حقول خاصة قائمة على اسم الحقل الخاص الذي تعرفه أدناه."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "تمكين الكلمات الدليلية الخاصة"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using custom "
+"fields. This option must be enabled for keywords to be displayed on post pages. "
+"You can add your meta keywords using custom fields based off the custom field "
+"name you define below."
+msgstr ""
+"إذا كنت تود إضافة كلمات دليلية تعريفية إلى مقالك، فيمكن عمل ذلك باستخدام الحقول "
+"الخاصة. يجب تمكين هذا الخيار حتى تُعرض الكلمات الدليلية في صفحات مقالك. يمكنك أن "
+"تضيف كلماتك الدليلية التعريفية باستخدام حقول خاصة قائمة على اسم الحقل الخاص "
+"الذي تعرفه أدناه."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "تمكين URL's التوافقية"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "استخدام اسم الحقل الخاص في العنوان"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"عندما تُعرِّف عنوانك باستخدام حقول خاصة، يجب أن تستخدم تلك القيمة من أجل اسم الحقل "
+"الخاص. ويجب أن تكون قيمة حقلك الخاص هي العنوان الخاص الذي تود استخدامه."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "استخدام اسم الحقل الخاص للوصف"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use this "
+"value for the custom field Name. The Value of your custom field should be the "
+"custom description you would like to use."
+msgstr ""
+"عندما تُعرِّف وصفك التعريفي باستخدام حقول خاصة، يجب أن تستخدم تلك القيمة من أجل "
+"اسم الحقل الخاص. ويجب أن تكون قيمة حقلك الخاص هي الوصف الخاص الذي تود استخدامه."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr "اسم الحقل الخاص الذي سيُستخدم للكلمات الدليلية"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"عندما تُعرِّف كلماتك الدليلية باستخدام حقول خاصة، يجب أن تستخدم تلك القيمة من أجل "
+"اسم الحقل الخاص. ويجب أن تكون قيمة حقلك الخاص هي الكلمات الدليلية التعريفية "
+"التي تود استخدامها، مع وضع فصلة فيما بينها."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw your "
+"titles are generated. Here you can choose which order you would like your post "
+"title and blog name to be displayed, or you can remove the blog name from the "
+"title completely."
+msgstr ""
+"إذا كنت لا تستخدم عناوين مقالات خاصة، فإنه ما يزال بإمكانك التحكم في عناوينك "
+"المولّدة. يمكنك هنا اختيار أي ترتيب تود أن يظهر فيه عنوان المقال واسم مدونتك، أو "
+"يمكنك إزالة اسم المدونة من العنوان تماماً."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "تمكين الأوصاف التعريفية"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"اختر هذا الصندوق إذا كنت تريد عرض الاوصاف التعريفية على صفحات الفئة / الأرشيف. "
+"يستند الوصف على وصف الفئة التي تختارها عند إنشاء / تحرير الفئة الخاصة بك في wp-"
+"admin."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "اختيار طريقة توليد العناوين"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"يمكنك هنا اختيار كيفية توليد عناوينك في صفحات الفهرس. يمكنك تغيير طريقة عرض اسم "
+"مدونتك وعنوان الفهرس، أو يمكنك إزالة اسم المدونة من العنوان تماماً."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"يمكنك هنا تغيير اي حرف يفصل بين عنوان مدونتك واسم صفحة الفهرس عند استخدام "
+"عناوين مقالات مولدة آلياً. القيمتان المعتادتان هما | أو -"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "تكامل الكود"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "تمكين كود رأس الصفحة"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"تعطيل هذا الخيار يزيل كود رأس الصفحة أدناه من مدونتك. يتيح لك هذا إزالة الكود "
+"والاحتفاظ به للاستخدام لاحقاً."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "تمكين < body >"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"تعطيل هذا الخيار يزيل كود قوام النص أدنا من مدونتك. يتيح لك هذا إزالة الكود "
+"والاحتفاظ به للاستخدام لاحقاً."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "تمكين كود علوي واحد"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"تعطيل هذا الخيار يزيل الكود العلوي الواحد أدناه من مدونتك. يتيح لك هذا إزالة "
+"الكود والاحتفاظ به للاستخدام لاحقاً."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "تمكين كود سفلي واحد"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"تعطيل هذا الخيار يزيل الكود السفلي الواحد أدناه من مدونتك. يتيح لك هذا إزالة "
+"الكود والاحتفاظ به للاستخدام لاحقاً."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "إضافة كود إلى < head > مدونتك"
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of your "
+"blog. This is useful when you need to add javascript or css to all pages."
+msgstr ""
+"سيظهر أي كود تضع هنا في جزء رأس الصفحة، في كل صفحة من صفحات مدونتك. هذا مفيد "
+"عندما تحتاج لإضافة  Javascript  أو CSS إلى كل الصفحات."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr "إضافة كود إلى < body > (مفيد من أجل تتبع أكواد مثل Google Analytics)"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your blog. "
+"This is usefull if you need to input a tracking pixel for a state counter such "
+"as Google Analytics."
+msgstr ""
+"سيظهر أي كود تضعه هنا في جزء قوام النص في كل صفحات مدونتك. هذا مفيد إذا احتجت "
+"لإدخال بكسل تتبع من أجل عداد الحالة مثل Google Analytics."
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "إضافة كود أعلى مقالك"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This is "
+"useful if you are looking to integrating things such as social bookmarking "
+"links."
+msgstr ""
+"سيوضع أي كود تضعه هنا أعلى كل مقال. هذا مفيدة إذا كنت تسعى لتكامل أشياء مثل "
+"وصلات الإدراج في قائمة العناوين الإجتماعية."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "إضافة كود عند قاعدة مقالك، قبل التعليقات"
+
+#: ../epanel/options_divi.php:844 ../functions.php:8612
+msgid "Documentation"
+msgstr "التوثيق"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "إدارة الإعلانات"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "تمكين رايات 468x60 في مقال واحد"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your post "
+"pages below the single post content. If enabled you must fill in the banner "
+"image and destination url below."
+msgstr ""
+"يعرض تمكين هذا الخيار راية إعلانات 468 x 60  عند قاعدة صفحات المقال الخاصة بك، "
+"أسفل محتوى المقال الواحد. إذا كان هذا الخيار ممكناً، فيجب أن تملأ صورة الراية و "
+"URL وجهتها أدناه."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "إدخال صورة راية إعلان 468x60"
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "يمكنك هنا إعطاء URL صورة راية 468x60"
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "إدخال URL وجهة إعلان 468x60"
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "يمكنك هنا إعطاء URL وجهة إعلان 468x60"
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "إدخال كود 468x60 Google Adsense"
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "ضع كود Google Adsense هنا."
+
+#: ../epanel/shortcodes/shortcodes.php:15 ../epanel/shortcodes/shortcodes.php:518
+#: ../functions.php:160
+msgid "Previous"
+msgstr "السابق"
+
+#: ../epanel/shortcodes/shortcodes.php:15 ../epanel/shortcodes/shortcodes.php:519
+#: ../functions.php:161
+msgid "Next"
+msgstr "التالي"
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "تويت"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "تسجيل دخول الأعضاء"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "اسم المستخدم‪:‬ "
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "كلمة المرور‪:‬ "
+
+#: ../epanel/shortcodes/shortcodes.php:294 ../functions.php:3522
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "إضافة نص تلميح"
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "انقر هنا لمعرفة المزيد"
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "اشترك الآن"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "إضافة كتل للتبديل"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "إضافة صندوق"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "إضافة زر"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "إضافة تبويبات"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "إضافة السيرة الذاتية للكاتب"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "رموز قصيرة"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "تعليق"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "محل التعليق"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "محل عنوان التعليق"
+
+#: ../epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "الحالة"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "الاختيار بين حالة موسعة وحالة مغلقة"
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "المحتوى"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "محل المحتوى"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "نص المحتوى أو HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021 ../functions.php:8610
+msgid "Type"
+msgstr "النوع"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "نوع الصندوق"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "وصلة"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "‏URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "اختيار نوع الزر"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "اللون"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "اختيار لون زر"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "نص وصلة"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "أيقونة"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "يستخدم من أجل نوع زر أيقونة"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "فتح وصلة في نافذة جديدة"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "اختر نعم إذا كانت الوصلة يجب أن تُفتح في نافذة جديدة"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "نوع شريط التمرير"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "اختر نوع شريط التمرير هنا"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "مؤثر"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "اختيار مؤثر الحركة"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "آلياً"
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "اختر نعم إذا كنت تريد تمكين الحركة الآلية لشريط التمرير"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "السرعة الآلية"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "السرعة الآلية لشريط التمرير (تعمل فقط عند تهيئة الآلية في الوضع نعم)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "نص علامة"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "محتوى علامة"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "الصق صورة URL هنا، إذا اخترت نوع \"images\" شريط التمرير"
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "‏URL الصورة"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "‏URL مؤلف الصور"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "استخدام خيار تغيير القياس"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ إضافة علامة واحدة أخرى"
+
+#: ../epanel/shortcodes/shortcodes.php:1335 ../functions.php:3165
+msgid "Image Height"
+msgstr "إرتفاع الصورة"
+
+#: ../epanel/shortcodes/shortcodes.php:1336 ../functions.php:3146
+msgid "Image Width"
+msgstr "عرض الصورة"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "من تصميم %1$s | تشغيل بواسطة %2$s"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "القائمة الأساسية"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "القائمة الثانوية"
+
+#: ../functions.php:32 ../functions.php:706
+msgid "Footer Menu"
+msgstr "قائمة الهامش"
+
+#: ../functions.php:73
+#, php-format
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a style="
+"\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">Divi "
+"Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+"مرحبا بكم  !Diviقبل التوغل في أعماق موضوعٍ جديدٍ، يُرجَى زيارة صفحة <a style="
+"\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\"> للوصول إلى "
+"عشرات الدروس التوجيهية في العمق."
+
+#: ../functions.php:97
+msgid "on"
+msgstr " "
+
+#: ../functions.php:154
+msgid ""
+"Please, check the fields below to make sure you entered the correct information."
+msgstr "يرجى التحقق من حقول الإدخال أدناه للتأكد من أنك أدخلت المعلومات الصحيحة."
+
+#: ../functions.php:155
+msgid "Fill"
+msgstr "املأ"
+
+#: ../functions.php:156
+msgid "field"
+msgstr "حقل"
+
+#: ../functions.php:157
+msgid "Invalid email"
+msgstr "البريد الإلكتروني غير صحيح"
+
+#: ../functions.php:158
+msgid "Captcha"
+msgstr "كابتشا"
+
+#: ../functions.php:159
+msgid "Prev"
+msgstr "السابق"
+
+#: ../functions.php:208
+msgid "Select Page"
+msgstr "اختر صفحة"
+
+#: ../functions.php:246
+msgid "Divi Page Settings"
+msgstr "إعدادات صفحة Divi"
+
+#: ../functions.php:247
+msgid "Divi Post Settings"
+msgstr "إعدادات مقال Divi"
+
+#: ../functions.php:248
+msgid "Divi Product Settings"
+msgstr "إعدادات منتج Divi"
+
+#: ../functions.php:249
+msgid "Divi Project Settings"
+msgstr "إعدادات مشروع Divi"
+
+#: ../functions.php:255
+msgid "Projects"
+msgstr "المشاريع"
+
+#: ../functions.php:256
+msgid "Project"
+msgstr "المشروع"
+
+#: ../functions.php:257
+msgid "Add New"
+msgstr "إضافة جديد"
+
+#: ../functions.php:258
+msgid "Add New Project"
+msgstr "إضافة مشروع جديد"
+
+#: ../functions.php:259
+msgid "Edit Project"
+msgstr "تحرير مشروع"
+
+#: ../functions.php:260
+msgid "New Project"
+msgstr "مشروع جديد"
+
+#: ../functions.php:261
+msgid "All Projects"
+msgstr "كل المشاريع"
+
+#: ../functions.php:262
+msgid "View Project"
+msgstr "اتسعراض مشروع"
+
+#: ../functions.php:263
+msgid "Search Projects"
+msgstr "مشاريع بحث"
+
+#: ../functions.php:264
+msgid "Nothing found"
+msgstr "لم يتم العثور على شيء"
+
+#: ../functions.php:265
+msgid "Nothing found in Trash"
+msgstr "لم يتم العثور على شيء في المهملات"
+
+#: ../functions.php:293
+msgid "Category"
+msgstr "فئة"
+
+#: ../functions.php:294
+msgid "Search Categories"
+msgstr "البحث في الفئات"
+
+#: ../functions.php:295
+msgid "All Categories"
+msgstr "كل الفئات"
+
+#: ../functions.php:296
+msgid "Parent Category"
+msgstr "الفئة الرئيسية"
+
+#: ../functions.php:297
+msgid "Parent Category:"
+msgstr "الفئة الرئيسية‪:‬"
+
+#: ../functions.php:298
+msgid "Edit Category"
+msgstr "تحرير فئة"
+
+#: ../functions.php:299
+msgid "Update Category"
+msgstr "تجديد فئة"
+
+#: ../functions.php:300
+msgid "Add New Category"
+msgstr "إضافة فئة جديدة"
+
+#: ../functions.php:301
+msgid "New Category Name"
+msgstr "اسم الفئة الجديدة"
+
+#: ../functions.php:314 ../functions.php:324
+msgid "Tags"
+msgstr "علامات"
+
+#: ../functions.php:315
+msgid "Tag"
+msgstr "علامة"
+
+#: ../functions.php:316
+msgid "Search Tags"
+msgstr "علامات البحث"
+
+#: ../functions.php:317
+msgid "All Tags"
+msgstr "كل العلامات"
+
+#: ../functions.php:318
+msgid "Parent Tag"
+msgstr "العلامة الرئيسية"
+
+#: ../functions.php:319
+msgid "Parent Tag:"
+msgstr "العلامة الرئيسية‪:‬"
+
+#: ../functions.php:320
+msgid "Edit Tag"
+msgstr "تحرير علامةً"
+
+#: ../functions.php:321
+msgid "Update Tag"
+msgstr "علامة جديدة"
+
+#: ../functions.php:322
+msgid "Add New Tag"
+msgstr "إضافة علامة جديدة"
+
+#: ../functions.php:323
+msgid "New Tag Name"
+msgstr "اسم علامة جديدة"
+
+#: ../functions.php:340
+msgid "Skills"
+msgstr "المهارات"
+
+#: ../functions.php:343
+msgid "Posted on"
+msgstr "نُشِر في"
+
+#: ../functions.php:370
+msgid "Light"
+msgstr "فاتح"
+
+#: ../functions.php:371
+msgid "Dark"
+msgstr "داكن"
+
+#: ../functions.php:384
+msgid "Page Layout"
+msgstr "تخطيط صفحة"
+
+#: ../functions.php:398
+msgid "Dot Navigation"
+msgstr "تَصفُّح النقط"
+
+#: ../functions.php:401 ../functions.php:409
+msgid "Off"
+msgstr "إيقاف"
+
+#: ../functions.php:402 ../functions.php:410
+msgid "On"
+msgstr "تشغيل"
+
+#: ../functions.php:406
+msgid "Hide Nav Before Scroll"
+msgstr "إخفاء شريط التصفح قبل التمرير لأسفل"
+
+#: ../functions.php:416
+msgid "Post Title"
+msgstr "عنوان المُشاركة"
+
+#: ../functions.php:419
+msgid "Show"
+msgstr "إظهار"
+
+#: ../functions.php:420
+msgid "Hide"
+msgstr "إخفاء"
+
+#: ../functions.php:425
+msgid "Use Background Color"
+msgstr "استخدام لون خلفية"
+
+#: ../functions.php:430 ../functions.php:5510
+msgid "Hex Value"
+msgstr "رقم لون"
+
+#: ../functions.php:434 ../functions.php:1697 ../functions.php:1722
+#: ../functions.php:1845 ../functions.php:2350 ../functions.php:2449
+#: ../functions.php:2655
+msgid "Text Color"
+msgstr "لون النص"
+
+#: ../functions.php:626
+msgid "Typography"
+msgstr "الطباعة"
+
+#: ../functions.php:631
+msgid "Mobile Styles"
+msgstr "أنماط الهواتف المحمولة"
+
+#: ../functions.php:636
+msgid "Tablet"
+msgstr "جهاز لوحي"
+
+#: ../functions.php:641
+msgid "Phone"
+msgstr "هاتف"
+
+#: ../functions.php:646
+msgid "Mobile Menu"
+msgstr "قائمة الهواتف المحمولة"
+
+#: ../functions.php:651
+msgid "Background"
+msgstr "الخلفية"
+
+#: ../functions.php:656
+msgid "Header & Navigation"
+msgstr "مقدمة الصفحة والتصفُّح"
+
+#: ../functions.php:661
+msgid "Header Format"
+msgstr "تنسيق مقدمة الصفحة"
+
+#: ../functions.php:666
+msgid "Primary Menu Bar"
+msgstr "شريط القائمة الرئيسية"
+
+#: ../functions.php:671
+msgid "Secondary Menu Bar"
+msgstr "شريط القائمة الثانوية"
+
+#: ../functions.php:676
+msgid "Fixed Navigation Settings"
+msgstr "إعدادات التَصفُّح الثابتة"
+
+#: ../functions.php:681
+msgid "Header Elements"
+msgstr "عناصر مقدمة الصفحة"
+
+#: ../functions.php:686
+msgid "Footer"
+msgstr "تذييل الصفحة"
+
+#: ../functions.php:691
+msgid "Layout"
+msgstr "التخطيط"
+
+#: ../functions.php:696
+msgid "Widgets"
+msgstr "عناصر الواجهة"
+
+#: ../functions.php:701
+msgid "Footer Elements"
+msgstr "عناصر تذييل الصفحة"
+
+#: ../functions.php:711
+msgid "Bottom Bar"
+msgstr "شريط الزر"
+
+#: ../functions.php:716 ../functions.php:1411
+msgid "Color Schemes"
+msgstr "أنظمة الألوان"
+
+#: ../functions.php:718
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"ملاحظة: يجب تطبيق إعدادات الألوان المعدة أعلاه على نظام الألوان الافتراضي."
+
+#: ../functions.php:722
+msgid "Buttons"
+msgstr "الأزرار"
+
+#: ../functions.php:727
+msgid "Buttons Style"
+msgstr "نمط الأزرار"
+
+#: ../functions.php:732
+msgid "Buttons Hover Style"
+msgstr "نمط الأزرار عند التأشير بالفأرة"
+
+#: ../functions.php:737 ../functions.php:4774
+msgid "Blog"
+msgstr "مدونة"
+
+#: ../functions.php:742
+msgid "Post"
+msgstr "مقال"
+
+#: ../functions.php:754
+msgid "Meta Text Size"
+msgstr "تحديد حجم خط بيانات ميتا"
+
+#: ../functions.php:772
+msgid "Meta Line Height"
+msgstr "تحديد المسافات بين سطور بيانات ميتا"
+
+#: ../functions.php:790
+msgid "Meta Letter Spacing"
+msgstr "تحديد التباعد بين حروف بيانات ميتا"
+
+#: ../functions.php:808 ../functions.php:4845 ../functions.php:4931
+msgid "Meta Font Style"
+msgstr "تحديد نمط خط بيانات ميتا"
+
+#: ../functions.php:812 ../functions.php:885 ../functions.php:1276
+#: ../functions.php:1598 ../functions.php:1682 ../functions.php:2119
+#: ../functions.php:2174 ../functions.php:2303 ../functions.php:2367
+#: ../functions.php:2546 ../functions.php:2825 ../functions.php:2864
+#: ../functions.php:2938 ../functions.php:3024 ../functions.php:3063
+#: ../functions.php:3091 ../functions.php:3111 ../functions.php:3215
+#: ../functions.php:3254 ../functions.php:3293 ../functions.php:3340
+#: ../functions.php:3406 ../functions.php:3445 ../functions.php:3492
+#: ../functions.php:3558 ../functions.php:3652 ../functions.php:3691
+#: ../functions.php:3766 ../functions.php:3805 ../functions.php:3844
+#: ../functions.php:3891 ../functions.php:3930 ../functions.php:4014
+#: ../functions.php:4053 ../functions.php:4100 ../functions.php:4139
+#: ../functions.php:4185 ../functions.php:4205 ../functions.php:4291
+#: ../functions.php:4311 ../functions.php:4396 ../functions.php:4435
+#: ../functions.php:4493 ../functions.php:4540 ../functions.php:4705
+#: ../functions.php:4744 ../functions.php:4810 ../functions.php:4849
+#: ../functions.php:4896 ../functions.php:4935 ../functions.php:4982
+#: ../functions.php:5021 ../functions.php:5060 ../functions.php:5099
+#: ../functions.php:5146 ../functions.php:5193 ../functions.php:5259
+#: ../functions.php:5298
+msgid "Bold"
+msgstr "وضع الخط الغامق"
+
+#: ../functions.php:813 ../functions.php:886 ../functions.php:1277
+#: ../functions.php:1599 ../functions.php:1683 ../functions.php:2120
+#: ../functions.php:2175 ../functions.php:2304 ../functions.php:2368
+#: ../functions.php:2547 ../functions.php:2826 ../functions.php:2865
+#: ../functions.php:2939 ../functions.php:3025 ../functions.php:3064
+#: ../functions.php:3092 ../functions.php:3112 ../functions.php:3216
+#: ../functions.php:3255 ../functions.php:3294 ../functions.php:3341
+#: ../functions.php:3407 ../functions.php:3446 ../functions.php:3493
+#: ../functions.php:3559 ../functions.php:3653 ../functions.php:3692
+#: ../functions.php:3767 ../functions.php:3806 ../functions.php:3845
+#: ../functions.php:3892 ../functions.php:3931 ../functions.php:4015
+#: ../functions.php:4054 ../functions.php:4101 ../functions.php:4140
+#: ../functions.php:4186 ../functions.php:4206 ../functions.php:4292
+#: ../functions.php:4312 ../functions.php:4397 ../functions.php:4436
+#: ../functions.php:4494 ../functions.php:4541 ../functions.php:4706
+#: ../functions.php:4745 ../functions.php:4811 ../functions.php:4850
+#: ../functions.php:4897 ../functions.php:4936 ../functions.php:4983
+#: ../functions.php:5022 ../functions.php:5061 ../functions.php:5100
+#: ../functions.php:5147 ../functions.php:5194 ../functions.php:5260
+#: ../functions.php:5299
+msgid "Italic"
+msgstr "وضع الحروف المائلة"
+
+#: ../functions.php:814 ../functions.php:887 ../functions.php:1278
+#: ../functions.php:1600 ../functions.php:1684 ../functions.php:2121
+#: ../functions.php:2176 ../functions.php:2305 ../functions.php:2369
+#: ../functions.php:2548 ../functions.php:2827 ../functions.php:2866
+#: ../functions.php:2940 ../functions.php:3026 ../functions.php:3065
+#: ../functions.php:3093 ../functions.php:3113 ../functions.php:3217
+#: ../functions.php:3256 ../functions.php:3295 ../functions.php:3342
+#: ../functions.php:3408 ../functions.php:3447 ../functions.php:3494
+#: ../functions.php:3560 ../functions.php:3654 ../functions.php:3693
+#: ../functions.php:3768 ../functions.php:3807 ../functions.php:3846
+#: ../functions.php:3893 ../functions.php:3932 ../functions.php:4016
+#: ../functions.php:4055 ../functions.php:4102 ../functions.php:4141
+#: ../functions.php:4187 ../functions.php:4207 ../functions.php:4293
+#: ../functions.php:4313 ../functions.php:4398 ../functions.php:4437
+#: ../functions.php:4495 ../functions.php:4542 ../functions.php:4707
+#: ../functions.php:4746 ../functions.php:4812 ../functions.php:4851
+#: ../functions.php:4898 ../functions.php:4937 ../functions.php:4984
+#: ../functions.php:5023 ../functions.php:5062 ../functions.php:5101
+#: ../functions.php:5148 ../functions.php:5195 ../functions.php:5261
+#: ../functions.php:5300
+msgid "Uppercase"
+msgstr "وضع الحروف الكبيرة"
+
+#: ../functions.php:815 ../functions.php:888 ../functions.php:1279
+#: ../functions.php:1601 ../functions.php:1685 ../functions.php:2122
+#: ../functions.php:2177 ../functions.php:2306 ../functions.php:2370
+#: ../functions.php:2549 ../functions.php:2828 ../functions.php:2867
+#: ../functions.php:2941 ../functions.php:3027 ../functions.php:3066
+#: ../functions.php:3094 ../functions.php:3114 ../functions.php:3218
+#: ../functions.php:3257 ../functions.php:3296 ../functions.php:3343
+#: ../functions.php:3409 ../functions.php:3448 ../functions.php:3495
+#: ../functions.php:3561 ../functions.php:3655 ../functions.php:3694
+#: ../functions.php:3769 ../functions.php:3808 ../functions.php:3847
+#: ../functions.php:3894 ../functions.php:3933 ../functions.php:4017
+#: ../functions.php:4056 ../functions.php:4103 ../functions.php:4142
+#: ../functions.php:4188 ../functions.php:4208 ../functions.php:4294
+#: ../functions.php:4314 ../functions.php:4399 ../functions.php:4438
+#: ../functions.php:4496 ../functions.php:4543 ../functions.php:4708
+#: ../functions.php:4747 ../functions.php:4813 ../functions.php:4852
+#: ../functions.php:4899 ../functions.php:4938 ../functions.php:4985
+#: ../functions.php:5024 ../functions.php:5063 ../functions.php:5102
+#: ../functions.php:5149 ../functions.php:5196 ../functions.php:5262
+#: ../functions.php:5301
+msgid "Underline"
+msgstr "وضع (التسطير) خط أسفل الكلمة"
+
+#: ../functions.php:827 ../functions.php:1218 ../functions.php:1291
+#: ../functions.php:1309 ../functions.php:2097
+msgid "Header Text Size"
+msgstr "تحديد حجم نص مقدمة الصفحة"
+
+#: ../functions.php:845 ../functions.php:1254
+msgid "Header Line Height"
+msgstr "تحديد المسافات بين سطور مقدمة الصفحة"
+
+#: ../functions.php:863 ../functions.php:1236
+msgid "Header Letter Spacing"
+msgstr "تباعد حروف مقدمة الصفحة"
+
+#: ../functions.php:881 ../functions.php:1272 ../functions.php:2115
+#: ../functions.php:3020 ../functions.php:3211 ../functions.php:3336
+#: ../functions.php:3402 ../functions.php:3488 ../functions.php:3554
+#: ../functions.php:4392 ../functions.php:5142 ../functions.php:5255
+msgid "Header Font Style"
+msgstr "تحديد نمط خط مقدمة الصفحة"
+
+#: ../functions.php:899
+msgid "Enable Boxed Layout"
+msgstr "تفعيل التصميم المربع"
+
+#: ../functions.php:912
+msgid "Website Content Width"
+msgstr "عرض مُحتوى الموقع"
+
+#: ../functions.php:930
+msgid "Website Gutter Width"
+msgstr "المسافات بين أعمدة الموقع"
+
+#: ../functions.php:947
+msgid "Use Custom Sidebar Width"
+msgstr ""
+
+#: ../functions.php:960
+msgid "Sidebar Width"
+msgstr "عرض الشريط الجانبي"
+
+#: ../functions.php:978 ../functions.php:996 ../functions.php:1014
+msgid "Section Height"
+msgstr "ارتفاع القسم"
+
+#: ../functions.php:1032 ../functions.php:1050 ../functions.php:1068
+msgid "Row Height"
+msgstr "ارتفاع الصف"
+
+#: ../functions.php:1086
+msgid "Stretch Background Image"
+msgstr "تمديد صورة الخلفية"
+
+#: ../functions.php:1093 ../functions.php:1748 ../functions.php:1819
+#: ../functions.php:1832 ../functions.php:2337 ../functions.php:2462
+#: ../functions.php:2668
+msgid "Background Color"
+msgstr "لون خلفية"
+
+#: ../functions.php:1100
+msgid "Background Image"
+msgstr "صورة خلفية"
+
+#: ../functions.php:1106
+msgid "Background Repeat"
+msgstr "تكرار الخلفية"
+
+#: ../functions.php:1110
+msgid "No Repeat"
+msgstr "لا يوجد تكرار"
+
+#: ../functions.php:1111
+msgid "Tile"
+msgstr "عنوان"
+
+#: ../functions.php:1112
+msgid "Tile Horizontally"
+msgstr "أفقياً"
+
+#: ../functions.php:1113
+msgid "Tile Vertically"
+msgstr "رأسياً"
+
+#: ../functions.php:1118 ../functions.php:1129
+msgid "Background Position"
+msgstr "تحديد وضع الخلفية"
+
+#: ../functions.php:1122 ../functions.php:2626
+msgid "Left"
+msgstr "يسار"
+
+#: ../functions.php:1123
+msgid "Center"
+msgstr "وسط"
+
+#: ../functions.php:1124 ../functions.php:2625
+msgid "Right"
+msgstr "يمين"
+
+#: ../functions.php:1133
+msgid "Scroll"
+msgstr "التمرير لأسفل"
+
+#: ../functions.php:1134
+msgid "Fixed"
+msgstr "ثابت"
+
+#: ../functions.php:1146 ../functions.php:1182 ../functions.php:1200
+msgid "Body Text Size"
+msgstr "تحديد حجم نص قلب الصفحة"
+
+#: ../functions.php:1164
+msgid "Body Line Height"
+msgstr "تحديد المسافات بين سطور قلب الصفحة"
+
+#: ../functions.php:1328
+msgid "Header Font"
+msgstr "خط رأس الصفحة"
+
+#: ../functions.php:1343
+msgid "Body Font"
+msgstr "خط قوام النص"
+
+#: ../functions.php:1359
+msgid "Body Link Color"
+msgstr "تحديد لون رابط قلب الصفحة"
+
+#: ../functions.php:1372
+msgid "Body Text Color"
+msgstr "تحديد لون نص قلب الصفحة"
+
+#: ../functions.php:1385
+msgid "Header Text Color"
+msgstr "تحديد لون نص مقدمة الصفحة"
+
+#: ../functions.php:1398
+msgid "Theme Accent Color"
+msgstr "تحديد لون لهجة الموضوع"
+
+#: ../functions.php:1416 ../functions.php:1436 ../functions.php:5474
+msgid "Default"
+msgstr "افتراضي"
+
+#: ../functions.php:1417
+msgid "Green"
+msgstr "الأخضر"
+
+#: ../functions.php:1418
+msgid "Orange"
+msgstr "البرتقالي"
+
+#: ../functions.php:1419
+msgid "Pink"
+msgstr "الوردي"
+
+#: ../functions.php:1420
+msgid "Red"
+msgstr "الأحمر"
+
+#: ../functions.php:1432
+msgid "Header Style"
+msgstr "أسلوب رأس الصفحة"
+
+#: ../functions.php:1437
+msgid "Centered"
+msgstr "مركزي"
+
+#: ../functions.php:1438
+msgid "Centered Inline Logo"
+msgstr "شعار التمركز المُضمَّن"
+
+#: ../functions.php:1449
+msgid "Enable Vertical Navigation"
+msgstr "تشغيل التصفُّح الرأسي"
+
+#: ../functions.php:1461
+msgid "Hide Navigation Until Scroll"
+msgstr "إخفاء التصفُّح حتى يتم التمرير"
+
+#: ../functions.php:1473 ../functions.php:2045
+msgid "Show Social Icons"
+msgstr "عرض أيقونات التواصل الاجتماعي"
+
+#: ../functions.php:1486
+msgid "Show Search Icon"
+msgstr "إظهار أيقونة البحث"
+
+#: ../functions.php:1498 ../functions.php:1619
+msgid "Make Full Width"
+msgstr "جعل الصورة بكامل عرض الصفحة"
+
+#: ../functions.php:1510 ../functions.php:1709 ../functions.php:1919
+msgid "Hide Logo Image"
+msgstr "إخفاء صورة الشعار"
+
+#: ../functions.php:1523
+msgid "Menu/Logo Height"
+msgstr "ارتفاع شعار القائمة"
+
+#: ../functions.php:1541 ../functions.php:1625 ../functions.php:1950
+#: ../functions.php:2431
+msgid "Text Size"
+msgstr "تحديد حجم الخط"
+
+#: ../functions.php:1559 ../functions.php:1643 ../functions.php:2281
+#: ../functions.php:2524 ../functions.php:2712
+msgid "Letter Spacing"
+msgstr "تحديد التباعد بين الحروف"
+
+#: ../functions.php:1578 ../functions.php:1662
+msgid "Font"
+msgstr "تحديد الخط"
+
+#: ../functions.php:1594 ../functions.php:1678 ../functions.php:2299
+#: ../functions.php:2363
+msgid "Font Style"
+msgstr "تحديد نمط الخط"
+
+#: ../functions.php:1735
+msgid "Active Link Color"
+msgstr "تحديد لون الرابط النشط"
+
+#: ../functions.php:1761 ../functions.php:1858
+msgid "Dropdown Menu Background Color"
+msgstr "تحديد لون خلفية القائمة المُنسدِلة"
+
+#: ../functions.php:1774
+msgid "Dropdown Menu Line Color"
+msgstr "تحديد لون سطور القائمة المُنسدِلة"
+
+#: ../functions.php:1787 ../functions.php:1871
+msgid "Dropdown Menu Text Color"
+msgstr "تحديد لون نص القائمة المُنسدِلة"
+
+#: ../functions.php:1800 ../functions.php:1884
+msgid "Dropdown Menu Animation"
+msgstr "تحديد الرسوم المُتحرِكة للقائمة المنسدلة"
+
+#: ../functions.php:1804 ../functions.php:1888
+msgid "Fade"
+msgstr "تلاشى"
+
+#: ../functions.php:1805 ../functions.php:1889
+msgid "Expand"
+msgstr "توسيع"
+
+#: ../functions.php:1806 ../functions.php:1890
+msgid "Slide"
+msgstr "شريحة"
+
+#: ../functions.php:1807 ../functions.php:1891
+msgid "Flip"
+msgstr "تقلب"
+
+#: ../functions.php:1932
+msgid "Fixed Menu/Logo Height"
+msgstr "تحديد ارتفاع شعار القائمة الثابتة"
+
+#: ../functions.php:1968
+msgid "Primary Menu Background Color"
+msgstr "تحديد لون خلفية القائمة الرئيسة"
+
+#: ../functions.php:1981
+msgid "Secondary Menu Background Color"
+msgstr "تحديد لون خلفية القائمة الثانوية"
+
+#: ../functions.php:1994
+msgid "Menu Link Color"
+msgstr "تحديد لون رابط القائمة"
+
+#: ../functions.php:2007
+msgid "Active Menu Link Color"
+msgstr "لون الوصلة النشطة في القائمة"
+
+#: ../functions.php:2020
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: ../functions.php:2032
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../functions.php:2058
+msgid "Column Layout"
+msgstr "تصميم العمود"
+
+#: ../functions.php:2063 ../functions.php:2064 ../functions.php:2065
+#: ../functions.php:2067 ../functions.php:2068 ../functions.php:2069
+#: ../functions.php:2070 ../functions.php:2071 ../functions.php:2072
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s أعمدة"
+
+#: ../functions.php:2066
+msgid "1 Column"
+msgstr "عمود واحد"
+
+#: ../functions.php:2084
+msgid "Footer Background Color"
+msgstr "لون خلفية الهامش"
+
+#: ../functions.php:2134
+msgid "Body/Link Text Size"
+msgstr "تحديد حجم خط نص قلب الصفحة"
+
+#: ../functions.php:2152
+msgid "Body/Link Line Height"
+msgstr "تحديد المسافة بين سطور قلب الصفحة"
+
+#: ../functions.php:2170
+msgid "Body Font Style"
+msgstr "تحديد نمط خط قلب الصفحة"
+
+#: ../functions.php:2189
+msgid "Widget Text Color"
+msgstr "تحديد لون نص عنصر الواجهة"
+
+#: ../functions.php:2202
+msgid "Widget Link Color"
+msgstr "تحديد لون رابط عنصر الواجهة"
+
+#: ../functions.php:2215
+msgid "Widget Header Color"
+msgstr "تحديد لون مقدمة صفحة عنصر الواجهة"
+
+#: ../functions.php:2228
+msgid "Widget Bullet Color"
+msgstr "تحديد لون نقطة عنصر الواجهة"
+
+#: ../functions.php:2242
+msgid "Footer Menu Background Color"
+msgstr "تحديد لون خلفية قائمة تذييل الصفحة"
+
+#: ../functions.php:2255
+msgid "Footer Menu Text Color"
+msgstr "تحديد لون نص قائمة تذييل الصفحة"
+
+#: ../functions.php:2268
+msgid "Footer Menu Active Link Color"
+msgstr "تحديد لون الرابط النشط بقائمة تذييل الصفحة"
+
+#: ../functions.php:2318 ../functions.php:2382
+msgid "Font Size"
+msgstr "تحديد حجم الخط"
+
+#: ../functions.php:2400
+msgid "Social Icon Size"
+msgstr "تحديد حجم أيقونة التواصل الإجتماعي"
+
+#: ../functions.php:2418
+msgid "Social Icon Color"
+msgstr "تحديد لون أيقونة التواصل الإجتماعي"
+
+#: ../functions.php:2475
+msgid "Border Width"
+msgstr "تحديد عرض حد الصفحة"
+
+#: ../functions.php:2493 ../functions.php:2681
+msgid "Border Color"
+msgstr "تحديد لون حد الصفحة"
+
+#: ../functions.php:2506 ../functions.php:2694
+msgid "Border Radius"
+msgstr "نصف قطر الحد"
+
+#: ../functions.php:2542 ../functions.php:5189
+msgid "Button Font Style"
+msgstr "تحديد نمط خط الزر"
+
+#: ../functions.php:2562
+msgid "Buttons Font"
+msgstr "تحديد خط الزر"
+
+#: ../functions.php:2578
+msgid "Add Button Icon"
+msgstr "إضافة أيقونة الزر"
+
+#: ../functions.php:2582 ../functions.php:2642
+msgid "Yes"
+msgstr "نعم"
+
+#: ../functions.php:2583 ../functions.php:2643
+msgid "No"
+msgstr "لا"
+
+#: ../functions.php:2595
+msgid "Select Icon"
+msgstr "اختيار أيقونة"
+
+#: ../functions.php:2608
+msgid "Icon Color"
+msgstr "لون الأيقونة"
+
+#: ../functions.php:2621
+msgid "Icon Placement"
+msgstr "تحديد أيقونة الموضع"
+
+#: ../functions.php:2638
+msgid "Only Show Icon on Hover"
+msgstr "عرض الأيقونة فقط عند التأشير بالفأرة"
+
+#: ../functions.php:2727
+msgid "Left to Right"
+msgstr "من اليسار إلى اليمين"
+
+#: ../functions.php:2728
+msgid "Right to Left"
+msgstr "من اليمين إلى اليسار"
+
+#: ../functions.php:2729
+msgid "Top to Bottom"
+msgstr "من أعلى إلى أسفل"
+
+#: ../functions.php:2730
+msgid "Bottom to Top"
+msgstr "من أسفل إلى أعلى"
+
+#: ../functions.php:2731
+msgid "Fade In"
+msgstr "تلاشي"
+
+#: ../functions.php:2732
+msgid "No Animation"
+msgstr "لا صور متحركة"
+
+#: ../functions.php:2739 ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180 ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196 ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212 ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228 ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "الصورة"
+
+#: ../functions.php:2740
+msgid "Image Module Settings"
+msgstr "إعدادات وحدة الصورة"
+
+#: ../functions.php:2750
+msgid "Animation"
+msgstr "صور متحركة"
+
+#: ../functions.php:2751
+msgid "This controls default direction of the lazy-loading animation."
+msgstr "يتحكم هذا في الاتجاه الافتراضي للرسوم المُتحرِكة بطيئة التحميل."
+
+#: ../functions.php:2761
+msgid "Gallery"
+msgstr "المعرض"
+
+#: ../functions.php:2774 ../functions.php:3601 ../functions.php:3715
+msgid "Zoom Icon Color"
+msgstr "لون أيقونة التكبير"
+
+#: ../functions.php:2788 ../functions.php:3615 ../functions.php:3729
+msgid "Hover Overlay Color"
+msgstr "تغيير لون أيقونة التراكب بالتأشير بالفأرة"
+
+#: ../functions.php:2802 ../functions.php:2915 ../functions.php:3629
+#: ../functions.php:3743 ../functions.php:4030 ../functions.php:4116
+#: ../functions.php:4162 ../functions.php:4268
+msgid "Title Font Size"
+msgstr "ضبط حجم خط العنوان"
+
+#: ../functions.php:2821 ../functions.php:2934 ../functions.php:3648
+#: ../functions.php:3762 ../functions.php:4049 ../functions.php:4135
+#: ../functions.php:4806 ../functions.php:4892
+msgid "Title Font Style"
+msgstr "تحديد حجم خط العنوان"
+
+#: ../functions.php:2841 ../functions.php:3668 ../functions.php:3782
+msgid "Caption Font Size"
+msgstr "تحديد حجم خط التسمية التوضيحية"
+
+#: ../functions.php:2860 ../functions.php:3687 ../functions.php:3801
+msgid "Caption Font Style"
+msgstr "تحديد حجم خط التسمية التوضيحية"
+
+#: ../functions.php:2875
+msgid "Blurb"
+msgstr "المقدمة"
+
+#: ../functions.php:2888 ../functions.php:3001 ../functions.php:3192
+#: ../functions.php:3317 ../functions.php:3383 ../functions.php:3469
+#: ../functions.php:3535 ../functions.php:4373 ../functions.php:5123
+#: ../functions.php:5236
+msgid "Header Font Size"
+msgstr "تحديد حجم خط مقدمة الصفحة"
+
+#: ../functions.php:2902
+msgid "Tabs"
+msgstr "التبويبات"
+
+#: ../functions.php:2955 ../functions.php:3356 ../functions.php:3508
+#: ../functions.php:3574
+msgid "Padding"
+msgstr "التباعد"
+
+#: ../functions.php:2969
+msgid "Slider"
+msgstr "شريط التمرير"
+
+#: ../functions.php:2982 ../functions.php:5217
+msgid "Top & Bottom Padding"
+msgstr "ضبط تباعد الجزء العلوي والسفلي"
+
+#: ../functions.php:3040 ../functions.php:5275
+msgid "Content Font Size"
+msgstr "ضبط حجم خط  المحتوى"
+
+#: ../functions.php:3059 ../functions.php:5294
+msgid "Content Font Style"
+msgstr "تحديد نمط خط المُحتوى"
+
+#: ../functions.php:3074
+msgid "Testimonial"
+msgstr "التزكية"
+
+#: ../functions.php:3087 ../functions.php:4701
+msgid "Name Font Style"
+msgstr "تحديد نمط خط الاسم"
+
+#: ../functions.php:3107
+msgid "Details Font Style"
+msgstr "تحديد نمط خط التفاصيل"
+
+#: ../functions.php:3127
+msgid "Portrait Border Radius"
+msgstr "تحديد نصف قطر حد الصورة"
+
+#: ../functions.php:3179
+msgid "Pricing Table"
+msgstr "جدول التسعير"
+
+#: ../functions.php:3231 ../functions.php:3422 ../functions.php:4721
+msgid "Subheader Font Size"
+msgstr "ضبط حجم خط  العنوان الفرعي"
+
+#: ../functions.php:3250 ../functions.php:3441 ../functions.php:4740
+msgid "Subheader Font Style"
+msgstr "تحديد نمط خط العنوان الفرعي"
+
+#: ../functions.php:3270 ../functions.php:5037
+msgid "Price Font Size"
+msgstr "تحديد حجم خط السعر"
+
+#: ../functions.php:3289
+msgid "Pricing Font Style"
+msgstr "تحديد نمط خط التسعير"
+
+#: ../functions.php:3304
+msgid "Call To Action"
+msgstr "نداء لاتخاذ إجراء"
+
+#: ../functions.php:3370
+msgid "Audio"
+msgstr "الصوت"
+
+#: ../functions.php:3456
+msgid "Subscribe"
+msgstr "اشتراك"
+
+#: ../functions.php:3588
+msgid "Portfolio"
+msgstr "المحفظة"
+
+#: ../functions.php:3702
+msgid "Filterable Portfolio"
+msgstr "محفظة قابلة للترشيح"
+
+#: ../functions.php:3821
+msgid "Filters Font Size"
+msgstr "تحديد حجم خط المُرشِحات"
+
+#: ../functions.php:3840
+msgid "Filters Font Style"
+msgstr "تحديد نمط خط المُرشِحات"
+
+#: ../functions.php:3855
+msgid "Bar Counter"
+msgstr "شريط العداد"
+
+#: ../functions.php:3868
+msgid "Label Font Size"
+msgstr "تحديد حجم خط المُلصَق"
+
+#: ../functions.php:3887
+msgid "Label Font Style"
+msgstr "تحديد نمط خط المُلصَق"
+
+#: ../functions.php:3907
+msgid "Percent Font Size"
+msgstr "تحديد حجم خط النسبة المئوية"
+
+#: ../functions.php:3926
+msgid "Percent Font Style"
+msgstr "تحديد نمط خط النسبة المئوية"
+
+#: ../functions.php:3946
+msgid "Bar Padding"
+msgstr "ضبط تباعد الشريط"
+
+#: ../functions.php:3965
+msgid "Bar Border Radius"
+msgstr "تحديد نصف قطر حد الشريط"
+
+#: ../functions.php:3979
+msgid "Circle Counter"
+msgstr "عداد دائري"
+
+#: ../functions.php:3991 ../functions.php:4077
+msgid "Number Font Size"
+msgstr "تحديد حجم خط الأرقام"
+
+#: ../functions.php:4010 ../functions.php:4096
+msgid "Number Font Style"
+msgstr "تحديد نمط خط الأرقام"
+
+#: ../functions.php:4064
+msgid "Number Counter"
+msgstr "عداد رقمي"
+
+#: ../functions.php:4150
+msgid "Accordion"
+msgstr "أكورديون"
+
+#: ../functions.php:4181 ../functions.php:4287
+msgid "Opened Title Font Style"
+msgstr "تحديد نمط خط عنوان عنصر مَفتُوح"
+
+#: ../functions.php:4201 ../functions.php:4307
+msgid "Closed Title Font Style"
+msgstr "تحديد نمط خط عنوان عنصر مُغلَق"
+
+#: ../functions.php:4221 ../functions.php:4327
+msgid "Toggle Icon Size"
+msgstr "تحديد حجم أيقونة مربع التبديل"
+
+#: ../functions.php:4241 ../functions.php:4346
+msgid "Toggle Padding"
+msgstr "تحديد تباعد مربع التبديل"
+
+#: ../functions.php:4255
+msgid "Toggle"
+msgstr "التبديل"
+
+#: ../functions.php:4360
+msgid "Contact Form"
+msgstr "نموذج اتصال"
+
+#: ../functions.php:4412
+msgid "Input Font Size"
+msgstr "تحديد حجم خط حقول الإدخال"
+
+#: ../functions.php:4431
+msgid "Input Font Style"
+msgstr "تحديد نمط خط حقول الإدخال"
+
+#: ../functions.php:4451
+msgid "Input Field Padding"
+msgstr "تحديد تباعد حقول الإدخال"
+
+#: ../functions.php:4470
+msgid "Captcha Font Size"
+msgstr "تحديد حجم خط رمز التحقق"
+
+#: ../functions.php:4489
+msgid "Captcha Font Style"
+msgstr "تحديد نمط خط رمز التحقق"
+
+#: ../functions.php:4504 ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "شريط جانبي"
+
+#: ../functions.php:4517
+msgid "Widget Header Font Size"
+msgstr "تحديد حجم خط مقدمة صفحة عنصر الواجهة"
+
+#: ../functions.php:4536
+msgid "Widget Header Font Style"
+msgstr "تحديد نمط خط مقدمة صفحة عنصر الواجهة"
+
+#: ../functions.php:4556
+msgid "Remove Vertical Divider"
+msgstr "إزالة الفاصل الرأسي"
+
+#: ../functions.php:4565
+msgid "Divider"
+msgstr "مقسم"
+
+#: ../functions.php:4577
+msgid "Show Divider"
+msgstr "إظهار المقسم"
+
+#: ../functions.php:4591
+msgid "Divider Style"
+msgstr "نمط الفاصل"
+
+#: ../functions.php:4596
+msgid "Solid"
+msgstr "صلب"
+
+#: ../functions.php:4597
+msgid "Dotted"
+msgstr "مُنقَط"
+
+#: ../functions.php:4598
+msgid "Dashed"
+msgstr "مُتقطِع"
+
+#: ../functions.php:4599
+msgid "Double"
+msgstr "مُزدوَج"
+
+#: ../functions.php:4600
+msgid "Groove"
+msgstr "حَزّ"
+
+#: ../functions.php:4601
+msgid "Ridge"
+msgstr "حافة"
+
+#: ../functions.php:4602
+msgid "Inset"
+msgstr "داخل حدود العنصر"
+
+#: ../functions.php:4603
+msgid "Outset"
+msgstr "خارج حدود العنصر"
+
+#: ../functions.php:4616
+msgid "Divider Weight"
+msgstr "ضبط ارتفاع الفاصل"
+
+#: ../functions.php:4635
+msgid "Divider Height"
+msgstr "ارتفاع الفاصل"
+
+#: ../functions.php:4654
+msgid "Divider Position"
+msgstr "مَوْضِع الفاصل"
+
+#: ../functions.php:4659
+msgid "Top"
+msgstr "القمة"
+
+#: ../functions.php:4660
+msgid "Vertically Centered"
+msgstr "مُتمركز عمودياً"
+
+#: ../functions.php:4661
+msgid "Bottom"
+msgstr "القاع"
+
+#: ../functions.php:4669
+msgid "Person"
+msgstr "الشخص"
+
+#: ../functions.php:4682
+msgid "Name Font Size"
+msgstr "تحديد حجم خط الاسم"
+
+#: ../functions.php:4760
+msgid "Social Network Icon Size"
+msgstr "تحديد حجم أيقونة شبكة التواصل الإجتماعي"
+
+#: ../functions.php:4787 ../functions.php:4873
+msgid "Post Title Font Size"
+msgstr "تحديد حجم خط عنوان المقال"
+
+#: ../functions.php:4826 ../functions.php:4912
+msgid "Meta Font Size"
+msgstr "تحديد حجم خط بيانات ميتا"
+
+#: ../functions.php:4860
+msgid "Masonry Blog"
+msgstr "مدونة البناءون الأحرار"
+
+#: ../functions.php:4946
+msgid "Shop"
+msgstr "المتجر"
+
+#: ../functions.php:4959
+msgid "Product Name Font Size"
+msgstr "تحديد حجم خط اسم المُنتَج"
+
+#: ../functions.php:4978
+msgid "Product Name Font Style"
+msgstr "تحديد نمط خط اسم المُنتَج"
+
+#: ../functions.php:4998
+msgid "Sale Badge Font Size"
+msgstr "تحديد حجم خط شارة السعر"
+
+#: ../functions.php:5017
+msgid "Sale Badge Font Style"
+msgstr "تحديد نمط خط شارة السعر"
+
+#: ../functions.php:5056
+msgid "Price Font Style"
+msgstr "تحديد نمط خط السعر"
+
+#: ../functions.php:5076
+msgid "Sale Price Font Size"
+msgstr "تحديد حجم خط  سعر البيع"
+
+#: ../functions.php:5095
+msgid "Sale Price Font Style"
+msgstr "تحديد نمط خط  سعر البيع"
+
+#: ../functions.php:5110
+msgid "Countdown"
+msgstr "العد التنازلي"
+
+#: ../functions.php:5157
+msgid "Social Follow"
+msgstr "مُتابعَة وسائل التواصل الاجتماعي"
+
+#: ../functions.php:5170
+msgid "Follow Font & Icon Size"
+msgstr "تحديد حجم أيقونة وخط زر المُتابَعة"
+
+#: ../functions.php:5204
+msgid "Full Width Slider"
+msgstr "شريط تمرير بكامل عرض الصفحة"
+
+#: ../functions.php:7875
+msgid "0 comments"
+msgstr "0 تعليقات"
+
+#: ../functions.php:7875
+msgid "1 comment"
+msgstr "1 تعليق"
+
+#: ../functions.php:7875
+msgid "comments"
+msgstr "تعليقات"
+
+#: ../functions.php:8026
+msgid "No Gallery Found"
+msgstr ""
+
+#: ../functions.php:8028
+msgid "No items found"
+msgstr ""
+
+#: ../functions.php:8170
+msgid "Password Protected"
+msgstr "محمي بكلمة مرور"
+
+#: ../functions.php:8171
+msgid "To view this protected post, enter the password below"
+msgstr "لرؤية هذا المقال المحمي، أدخل كلمة المرور بأسفل"
+
+#: ../functions.php:8174
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: ../functions.php:8175
+msgid "Submit"
+msgstr "أرسِل"
+
+#: ../functions.php:8347
+#, php-format
+msgid "%1$s %2$s"
+msgstr "‏%1$s %2$s"
+
+#: ../functions.php:8349
+msgid "Item"
+msgstr "المادة"
+
+#: ../functions.php:8349
+msgid "Items"
+msgstr "المواد"
+
+#: ../functions.php:8524
+msgid "Connecting..."
+msgstr "جاري الاتصال..."
+
+#: ../functions.php:8525
+msgid "Connection failed"
+msgstr "فشل الاتصال"
+
+#: ../functions.php:8526
+msgid "Removing connection..."
+msgstr "إزالة الاتصال..."
+
+#: ../functions.php:8527
+msgid "Done"
+msgstr "تم"
+
+#: ../functions.php:8556
+#, php-format
+msgid "Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr "الخطوة رقم 1: <a href=\"%1$s\" target=\"_blank\">توليد كود التصريح</a>"
+
+#: ../functions.php:8557
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" button: "
+msgstr "الخطوة رقم 2: الصق كود التصريح وانقر زر \"إجراء اتصال\": "
+
+#: ../functions.php:8558
+msgid "Make a connection"
+msgstr "إجراء إتصال"
+
+#: ../functions.php:8561
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr "تم إعداد Aweber بشكل صحيح. يمكنك إزالة الإتصال هنا إذا أردت."
+
+#: ../functions.php:8562
+msgid "Remove the connection"
+msgstr "إزالة الاتصال"
+
+#: ../functions.php:8570
+msgid "Nonce failed."
+msgstr "فشل Nonce."
+
+#: ../functions.php:8576
+msgid "Authorization code is empty."
+msgstr "كود التصريح خاو."
+
+#: ../functions.php:8587
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr "كود التصريح غير صحيح. حاول إعادة توليده والصق الكود الجديد."
+
+#: ../functions.php:8609
+msgid "Aweber API Exception"
+msgstr "استثناء Aweber API"
+
+#: ../functions.php:8611
+msgid "Message"
+msgstr "رسالة"
+
+#: ../functions.php:8622
+msgid "Nonce failed"
+msgstr "فشل Nonce"
+
+#: ../functions.php:8717
+msgid "Read more"
+msgstr "قراءة المزيد"
+
+#: ../functions.php:8845
+msgid "Configuration error"
+msgstr "خطأ في التهيئة"
+
+#: ../functions.php:8855
+msgid "Please enter first name"
+msgstr "يُرجى إدخال الاسم الأول"
+
+#: ../functions.php:8857
+msgid "Incorrect email"
+msgstr "البريد الإلكتروني غير صحيح"
+
+#: ../functions.php:8859
+msgid "Configuration error: List is not defined"
+msgstr "خطأ في التهيئة: القائمة غير مُعرّفة"
+
+#: ../functions.php:8861
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!</"
+"h2>"
+msgstr "‏<h2 class=\"et_pb_subscribed\">مشترك - انظر بريد التأكيد الإلكتروني!</h2>"
+
+#: ../functions.php:8873
+msgid "Configuration error: api key is not defined"
+msgstr "خطأ في التهيئة: مفتاح واجهة برمجة التطبيق غير مُعرّف"
+
+#: ../functions.php:8910
+msgid "Aweber: Wrong configuration data"
+msgstr "‏Aweber: بيانات التهيئة غير صحيحة"
+
+#: ../functions.php:8940 ../functions.php:8961
+msgid "Theme Customizer"
+msgstr "مُخصِّص المواضيع"
+
+#: ../functions.php:8941 ../functions.php:8971
+msgid "Module Customizer"
+msgstr "مُخصِّص الوحدات"
+
+#: ../functions.php:8942
+msgid "Divi Library"
+msgstr "مكتبة Divi"
+
+#: ../header.php:176
+msgid "Search &hellip;"
+msgstr "بحث hellip‪;‬&"
+
+#: ../header.php:178
+msgid "Search for:"
+msgstr "بحث عن:"
+
+#. translators: 1: date, 2: time
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr "على %1$s في %2$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(تحرير)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "أجب"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك ينتظر المراجعة."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "اقرأ مستندات Divi"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "منطقة ذيل الصفحة"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "مشاهدة فيديو دليل توجيهي"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "‏‪&‬laquo‪;‬ مدخلات أقدم"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "المداخلات التالية ‪&‬r‪aquo;‬"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "لم يتم العثور على نتائج"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use the "
+"navigation above to locate the post."
+msgstr ""
+"لم يمكن العثور على الصفحة التي طلبتها. حاول صقل بحثك، أو استعمل شريط التصفح "
+"أعلاه للعثور على المقال."
+
+#: ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "‏Facebook"
+
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "‏Twitter"
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "‏Google"
+
+#: ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "‏RSS"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "عرض معلومات نبذة عني"
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "ودجة نبذة عني"
+
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "نبذة عني"
+
+#: ../includes/widgets/widget-about.php:48 ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184 ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200 ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216 ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232 ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "العنوان"
+
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "النص"
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "عرض إعلانات"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "إعلان"
+
+#: ../includes/widgets/widget-ads.php:12 ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "إعلان"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "استعمال طرق نسبية للصور"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "الفتح في نافذة جديدة"
+
+#: ../includes/widgets/widget-ads.php:180 ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184 ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188 ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192 ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196 ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200 ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204 ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208 ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212 ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216 ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220 ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224 ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228 ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232 ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236 ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240 ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "راية"
+
+#: ../includes/widgets/widget-ads.php:182 ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198 ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214 ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230 ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "‏URL"
+
+#: ../includes/widgets/widget-ads.php:186 ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202 ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218 ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234 ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "نص بديل"
+
+#: ../includes/widgets/widget-ads.php:243
+msgid "If you don't want to display some banners - leave approptiate fields blank"
+msgstr "إذا لا تكن تريد عرض بعض الرايات - اترك الحقول المناسبة فارغة"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "عروض إعلانات Adsense"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "ودجة Adsense"
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "‏Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "رمز Adsense"
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:105
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "‏&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "‏&rarr;"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">Divi Documentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "مرحبا بكم  !Diviقبل التوغل في أعماق موضوعٍ جديدٍ، يُرجَى زيارة صفحة <a href="
+#~ "\"%1$s\" target=\"_blank\">DiviDocumentation</a>   للوصول إلى عشرات الدروس "
+#~ "التوجيهية في العمق."
+
+#~ msgid "﻿%1$s Font"
+#~ msgstr "%1$s الخط"
+
+#~ msgid "%1$s Font Size"
+#~ msgstr "%1$s حجم الخط"
+
+#~ msgid "%1$s Text Color"
+#~ msgstr "%1$s لون الخط"
+
+#~ msgid "%1$s Letter Spacing"
+#~ msgstr "%1$s التباعد بين الحروف"
+
+#~ msgid "%1$s Line Height"
+#~ msgstr "%1$s  ارتفاع السطر"
+
+#~ msgid "%1$s All Caps"
+#~ msgstr "%1$s  استخدام الحروف الكبيرة"
+
+#~ msgid "Use Border"
+#~ msgstr "استخدام حد الصفحة"
+
+#~ msgid "Border Style"
+#~ msgstr "تحديد نمط حد الصفحة"
+
+#~ msgid "Custom Margin"
+#~ msgstr "تخصيص الهامش"
+
+#~ msgid "Custom Padding"
+#~ msgstr "تخصيص التباعد"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "استخدام أنماط زر مُخصَّصة"
+
+#~ msgid "Button Text Size"
+#~ msgstr "تحديد حجم نص الزر"
+
+#~ msgid "Button Text Color"
+#~ msgstr "تحديد لون نص الزر"
+
+#~ msgid "Button Background Color"
+#~ msgstr "تحديد لون خلفية الزر"
+
+#~ msgid "Button Border Width"
+#~ msgstr "تحديد عرض حد الزر"
+
+#~ msgid "Button Border Color"
+#~ msgstr "تحديد لون حد الزر"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "تحديد نصف قطر حد الزر"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "تحديد التباعد بين حروف الزر"
+
+#~ msgid "Button Font"
+#~ msgstr "تحديد خط الزر"
+
+#~ msgid "Button Icon"
+#~ msgstr "تحديد أيقونة الزر"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "تحديد لون أيقونة الزر"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "إظهار الأيقونة فقط عند التأشير بالفأرة"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "تغيير لون النص بالتأشير بالفأرة"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "تغيير لون الخلفية بالتأشير بالفأرة"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "تغيير لون حد الصفحة  بالتأشير بالفأرة"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "تغيير نصف قطر حد الصفحة بالتأشير بالفأرة"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "تغير المسافات بين النص بالتأشير بالفأرة"
+
+#~ msgid "Before"
+#~ msgstr "قبل"
+
+#~ msgid "Main Element"
+#~ msgstr "العنصر الرئيسي"
+
+#~ msgid "After"
+#~ msgstr "بعد"
+
+#~ msgid "Choose Custom Color"
+#~ msgstr "اختيار لون التخصيص"
+
+#~ msgid "Upload"
+#~ msgstr "تحميل"
+
+#~ msgid "Choose image"
+#~ msgstr "اختيار صورة"
+
+#~ msgid "Set image"
+#~ msgstr "تعيين صورة"
+
+#~ msgid "Advanced Design Settings"
+#~ msgstr "إعدادات التصميم المُتقدِمة"
+
+#~ msgid "Add New %s"
+#~ msgstr "إضافة عنصر %s جديد"
+
+#~ msgid "%1$s %2$s Settings"
+#~ msgstr "%1$s %2$s صندوق الإعدادات"
+
+#~ msgid "Column"
+#~ msgstr "العمود"
+
+#~ msgid "Modules"
+#~ msgstr "الوحدات"
+
+#~ msgid "Rows"
+#~ msgstr "الصفوف"
+
+#~ msgid "Sections"
+#~ msgstr "الأقسام"
+
+#~ msgid "Global/not Global"
+#~ msgstr "عمومي / غير عمومي"
+
+#~ msgid "Global"
+#~ msgstr "عمومي"
+
+#~ msgid "not Global"
+#~ msgstr "غير عمومي"
+
+#~ msgid "Justified"
+#~ msgstr "مضبوط"
+
+#~ msgid "Export Divi Builder Layouts"
+#~ msgstr "تصدير تصاميم بناء Divi"
+
+#~ msgid "Select Templates you want to export:"
+#~ msgstr "حَدِّد النماذج التي تريد تصديرها:"
+
+#~ msgid "Export Divi Layouts"
+#~ msgstr "تصدير تصاميم Divi"
+
+#~ msgid "Manage Categories"
+#~ msgstr "إدارة التصنيفات"
+
+#~ msgid "Use The Divi Builder"
+#~ msgstr "استخدام مُصمِم Divi"
+
+#~ msgid ""
+#~ "You have not saved any items to your Divi Library yet. Once an item has been "
+#~ "saved to your library, it will appear here for easy use."
+#~ msgstr ""
+#~ "أنت لم تقم بحفظ أي عنصرٍ من عناصر مكتبة Divi الخاصة بك حتى الآن. وبمجرد أن "
+#~ "يتم حفظ عنصر إلى مكتبك، سوف يظهر هنا لسهولة استخدامه."
+
+#~ msgid "No available options for this configuration."
+#~ msgstr "لا توجد خيارات مُتاحة لهذه التهيئة"
+
+#~ msgid ""
+#~ "You're about to update global module. This change will be applied to all "
+#~ "pages where you use this module. Press OK if you want to update this module"
+#~ msgstr ""
+#~ "أنت على وشك أن تقوم بتحديث الوحدة العمومية. سوف يتم تطبيق هذا التغيير على "
+#~ "كافة الصفحات حيث يمكنك استخدام هذه الوحدة. اِضغط مُوافِق إذا كنت ترغب في تحديث "
+#~ "هذه الوحدة"
+
+#~ msgid "You cannot add global rows into global sections"
+#~ msgstr "لا يُمكِنك إضافة صفوف عمومية داخل الأقسام العمومية"
+
+#~ msgid "You cannot add global modules into global sections or rows"
+#~ msgstr "لا يُمكِنك إضافة وحدات عمومية داخل الأقسام أو الصفوف العمومية"
+
+#~ msgid "The Divi Builder"
+#~ msgstr "مُصمِم Divi"
+
+#~ msgid "Save to Library"
+#~ msgstr "الحفظ إلى المكتبة"
+
+#~ msgid "Load From Library"
+#~ msgstr "التحميل من المكتبة"
+
+#~ msgid "Standard Section"
+#~ msgstr "القسم الأساسي"
+
+#~ msgid "Fullwidth Section"
+#~ msgstr "قسم عرض كامل الصفحة"
+
+#~ msgid "Specialty Section"
+#~ msgstr "القسم الخاص"
+
+#~ msgid "Add From Library"
+#~ msgstr "إضافة من المكتبة"
+
+#~ msgid "Change Structure"
+#~ msgstr "تغيير البنية"
+
+#~ msgid "Remove Module"
+#~ msgstr "إزالة الوحدة"
+
+#~ msgid "Save & Add To Library"
+#~ msgstr "الحفظ والإضافة إلى المكتبة"
+
+#~ msgid "Cancel"
+#~ msgstr "إلغاء"
+
+#~ msgid "Save & Exit"
+#~ msgstr "الحفظ و الخروج"
+
+#~ msgid "New Row"
+#~ msgstr "صف جديد"
+
+#~ msgid "New Module"
+#~ msgstr "وحدة جديدة"
+
+#~ msgid "Predefined Layouts"
+#~ msgstr "التصميمات المُعرَّفة مُسبقاً"
+
+#~ msgid "Disable Builder"
+#~ msgstr "تعطيل المُصمِم"
+
+#~ msgid ""
+#~ "All content created in the Divi Builder will be lost. Previous content will "
+#~ "be restored."
+#~ msgstr ""
+#~ "سوف يتم فقدان جميع المُحتويات التي تم إنشاؤها في  مُصمِم Divi. و سوف يتم "
+#~ "استعادة المُحتوى السابق."
+
+#~ msgid "Do you wish to proceed?"
+#~ msgstr "هل ترغب في المُتابَعة؟"
+
+#~ msgid "All of your current page content will be lost."
+#~ msgstr "سوف يتم فقدان جميع مُحتويات صفحتك الحالية."
+
+#~ msgid "All advanced module settings in will be lost."
+#~ msgstr "سوف يتم فقدان جميع إعدادات الوحدة المُتقدِمة."
+
+#~ msgid "Save To Library"
+#~ msgstr "الحفظ إلى المكتبة"
+
+#~ msgid "Save your current page to the Divi Library for later use."
+#~ msgstr "اِحفظ صفحتك الحالية إلى مكتبة Divi لاستخدامها لاحقاً."
+
+#~ msgid "Layout Name:"
+#~ msgstr "اسم التصميم:"
+
+#~ msgid "Save And Add To Library"
+#~ msgstr "الحفظ و الإضافة الى المكتبة"
+
+#~ msgid "Add To Categories:"
+#~ msgstr "إضافة إلى التصنيفات"
+
+#~ msgid "Create New Category"
+#~ msgstr "إنشاء تنصيف جديد"
+
+#~ msgid ""
+#~ "Here you can save the current item and add it to your Divi Library for later "
+#~ "use as well."
+#~ msgstr ""
+#~ "هنا يُمكِنك حفظ العنصر الحالي وإضافته إلى المكتبة Divi الخاصة بك لاستخدامها في "
+#~ "وقت لاحق كذلك."
+
+#~ msgid "Template Name"
+#~ msgstr "اسم النموذج"
+
+#~ msgid "Selective Sync"
+#~ msgstr "تزامن انتقائي"
+
+#~ msgid "Include General settings"
+#~ msgstr "دمج الإعدادات العامة"
+
+#~ msgid "Include Advanced Design settings"
+#~ msgstr "دمج إعدادات التصميم المُتقدِمة"
+
+#~ msgid "Include Custom CSS"
+#~ msgstr "دمج لغة  CSSالمُخصَّصة"
+
+#~ msgid "Please select at least 1 tab to save"
+#~ msgstr "يُرجَى اختيار علامة تبويبٍ واحدةٍ على الأقل لحفظها"
+
+#~ msgid "Save as Global:"
+#~ msgstr "الحفظ كعنصر عمومي:"
+
+#~ msgid "Make this a global item"
+#~ msgstr "جعل هذا العنصر عمومي"
+
+#~ msgid "Scope"
+#~ msgstr "مجال"
+
+#~ msgid "Layout Type"
+#~ msgstr "نوع التصميم"
+
+#~ msgid "Module Width"
+#~ msgstr "عرض الوحدة"
+
+#~ msgid "New Template Settings"
+#~ msgstr "إعدادات النموذج الجديدة"
+
+#~ msgid "Template Name:"
+#~ msgstr "اسم النموذج:"
+
+#~ msgid "Template Type:"
+#~ msgstr "نوع النموذج:"
+
+#~ msgid "Fullwidth Module"
+#~ msgstr "جعل الوحدة بكامل عرض الصفحة"
+
+#~ msgid "Row"
+#~ msgstr "الصف"
+
+#~ msgid "Section"
+#~ msgstr "القسم"
+
+#~ msgid "Include General Settings"
+#~ msgstr "دمج الإعدادات العامة"
+
+#~ msgid "Include Advanced Design Settings"
+#~ msgstr "دمج إعدادات التصميم المُتقدِمة"
+
+#~ msgid "Select category(ies) for new template or type a new name ( optional )"
+#~ msgstr "قم باختيار تصنيف (تصنيفات) لنموذج جديد أو اكتب اسماً جديداً (اختياري)"
+
+#~ msgid "Open in Lightbox"
+#~ msgstr "الفتح في صندوق الصور"
+
+#~ msgid "Image Alignment"
+#~ msgstr "محاذاة الصورة"
+
+#~ msgid "Here you can choose the image alignment."
+#~ msgstr "هنا يُمكِنك اختيار محاذاة الصورة."
+
+#~ msgid "Image Max Width"
+#~ msgstr "الصورة بكامل عرض الصفحة"
+
+#~ msgid "Force Fullwidth"
+#~ msgstr "جعل الصورة بكامل عرض الصفحة"
+
+#~ msgid "Always Center Image On Mobile"
+#~ msgstr "توسيط الصورة على الهاتف المحمول دائماً"
+
+#~ msgid "Gallery Item"
+#~ msgstr "عرض العنصر في المعرض"
+
+#~ msgid "Overlay"
+#~ msgstr "التراكب"
+
+#~ msgid "Overlay Icon"
+#~ msgstr "أيقونة التراكب"
+
+#~ msgid "Gallery Item Title"
+#~ msgstr "عنوان عنصر المعرض"
+
+#~ msgid "Caption Font"
+#~ msgstr "تحديد خط التسمية التوضيحية"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "تحديد لون خط التسمية التوضيحية"
+
+#~ msgid "Hover Icon Picker"
+#~ msgstr "تحديد أيقونة الالتقاط بالتأشير بالفأرة"
+
+#~ msgid "Video Icon"
+#~ msgstr "أيقونة الفيديو"
+
+#~ msgid "Play Icon Color"
+#~ msgstr "لون أيقونة التشغيل"
+
+#~ msgid "Play Button"
+#~ msgstr "زر التشغيل"
+
+#~ msgid "Thumbnail Item"
+#~ msgstr "الصورة المُصغَّرة"
+
+#~ msgid "Thumbnail Overlay Color"
+#~ msgstr "تحديد لون الصورة المُصغَّرة"
+
+#~ msgid "Line Height"
+#~ msgstr "تحديد المسافات بين السطور"
+
+#~ msgid "Use Border Color"
+#~ msgstr "استخدام لون الحد"
+
+#~ msgid "Max Width"
+#~ msgstr "أقصى عرض"
+
+#~ msgid "Header"
+#~ msgstr "مقدمة الصفحة"
+
+#~ msgid "Body"
+#~ msgstr "قلب الصفحة"
+
+#~ msgid "Blurb Image"
+#~ msgstr "صورة الدعاية"
+
+#~ msgid "Blurb Title"
+#~ msgstr "عنوان الدعاية"
+
+#~ msgid "Blurb Content"
+#~ msgstr "مُحتوى الدعاية"
+
+#~ msgid "Use Icon Font Size"
+#~ msgstr "استخدام حجم خط الأيقونة"
+
+#~ msgid "Icon Font Size"
+#~ msgstr "تحديد حجم خط الأيقونة"
+
+#~ msgid "Tabs Controls"
+#~ msgstr "عناصر تحكم علامات التبويب"
+
+#~ msgid "Active Tab"
+#~ msgstr "علامة تبويب نشطة"
+
+#~ msgid "Active Tab Background Color"
+#~ msgstr "لون خلفية علامة التبويب النشطة"
+
+#~ msgid "Inactive Tab Background Color"
+#~ msgstr "لون خلفية علامة التبويب غير النشطة"
+
+#~ msgid "Slide Description"
+#~ msgstr "وصف الشريحة"
+
+#~ msgid "Slide Title"
+#~ msgstr "عنوان الشريحة"
+
+#~ msgid "Slide Button"
+#~ msgstr "زر الشريحة"
+
+#~ msgid "Slide Controllers"
+#~ msgstr "عناصر التحكم في عرض الشرائح"
+
+#~ msgid "Slide Active Controller"
+#~ msgstr "مُتحكِم عرض الشرائح النشط"
+
+#~ msgid "Use Parallax effect"
+#~ msgstr "استخدام تأثير تزيح المنظر"
+
+#~ msgid "Remove Inner Shadow"
+#~ msgstr "إزالة الظل الداخلي"
+
+#~ msgid "Top Padding"
+#~ msgstr "ضبط تباعد الجزء العلوي"
+
+#~ msgid "Bottom Padding"
+#~ msgstr "ضبط تباعد الجزء السفلي"
+
+#~ msgid "Hide Content On Mobile"
+#~ msgstr "إخفاء المُحتويات على الهاتف المحمول"
+
+#~ msgid "Hide CTA On Mobile"
+#~ msgstr "إخفاء  CTA على الهاتف المحمول"
+
+#~ msgid "Show Image / Video On Mobile"
+#~ msgstr "عرض الصور / الفيديو على الهاتف المحمول"
+
+#~ msgid "Arrows Custom Color"
+#~ msgstr "تحديد لون الأسهم المُخصَّص"
+
+#~ msgid "Dot Nav Custom Color"
+#~ msgstr "تحديد لون شريط التصفُّح المُخصَّص"
+
+#~ msgid "Testimonial Portrait"
+#~ msgstr "صورة الشهادة"
+
+#~ msgid "Testimonial Description"
+#~ msgstr "وصف الشهادة"
+
+#~ msgid "Testimonial Author"
+#~ msgstr "مؤلف الشهادة"
+
+#~ msgid "Testimonial Meta"
+#~ msgstr "بيانات ميتا"
+
+#~ msgid "Body Text Font"
+#~ msgstr "تحديد خط نص قلب الصفحة"
+
+#~ msgid "Body Font Size"
+#~ msgstr "تحديد حجم نص قلب الصفحة"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "تحديد تباعد حروف قلب الصفحة"
+
+#~ msgid "Quote Icon Color"
+#~ msgstr "تغيير لون أيقونة التسعير"
+
+#~ msgid "Portrait Width"
+#~ msgstr "ضبط عرض الصورة"
+
+#~ msgid "Portrait Height"
+#~ msgstr "ضبط ارتفاع الصورة"
+
+#~ msgid "Pricing Tables"
+#~ msgstr "جداول التسعير"
+
+#~ msgid "Pricing Heading"
+#~ msgstr "العنوان الفرعي للتسعير"
+
+#~ msgid "Pricing Title"
+#~ msgstr "عنوان التسعير"
+
+#~ msgid "Pricing Top"
+#~ msgstr "الجزء العلوي من جدول التسعير"
+
+#~ msgid "Pricing Content"
+#~ msgstr "مُحتوى التسعير"
+
+#~ msgid "Pricing Button"
+#~ msgstr "زر التسعير"
+
+#~ msgid "Featured Table"
+#~ msgstr "جدول مُميز"
+
+#~ msgid "Subheader"
+#~ msgstr "العنوان الفرعي"
+
+#~ msgid "Featured Table Background Color"
+#~ msgstr "تغيير لون خلفية الجدول المُميز"
+
+#~ msgid "Table Header Background Color"
+#~ msgstr "ضبط لون خلفية مقدمة صفحة الجدول"
+
+#~ msgid "Featured Table Header Background Color"
+#~ msgstr "ضبط لون خلفية مقدمة صفحة الجدول المُميز"
+
+#~ msgid "Featured Table Header Text Color"
+#~ msgstr "ضبط لون نص مقدمة صفحة الجدول المُميز"
+
+#~ msgid "Featured Table Subheader Text Color"
+#~ msgstr "ضبط لون نص العنوان الفرعي للجدول المُميز"
+
+#~ msgid "Featured Table Price Color"
+#~ msgstr "ضبط لون سعر الجدول المُميز"
+
+#~ msgid "Featured Table Body Text Color"
+#~ msgstr "ضبط لون نص قلب صفحة الجدول المُميز"
+
+#~ msgid "Show Bullet"
+#~ msgstr "عرض النقطة"
+
+#~ msgid "Bullet Color"
+#~ msgstr "ضبط لون النقطة"
+
+#~ msgid "Featured Table Bullet Color"
+#~ msgstr "ضبط لون نقطة الجدول المُميز"
+
+#~ msgid "Remove Featured Table Drop Shadow"
+#~ msgstr "إزالة ظل إفلات الجدول المُميز"
+
+#~ msgid "Center List Items"
+#~ msgstr "بنود القائمة المركزية"
+
+#~ msgid "Promo Description"
+#~ msgstr "الوصف"
+
+#~ msgid "Promo Button"
+#~ msgstr "زر"
+
+#~ msgid "Audio Cover Art"
+#~ msgstr "صورة الملف الصوتي"
+
+#~ msgid "Audio Content"
+#~ msgstr "المُحتوى الصوتي"
+
+#~ msgid "Audio Meta"
+#~ msgstr "ملف ميتا الصوتي"
+
+#~ msgid "Signup"
+#~ msgstr "تسجيل الاشتراك"
+
+#~ msgid "Newsletter Description"
+#~ msgstr "وصف الرسالة الإخبارية"
+
+#~ msgid "Newsletter Form"
+#~ msgstr "نموذج الرسالة الإخبارية"
+
+#~ msgid "Newsletter Button"
+#~ msgstr "زر الرسالة الإخبارية"
+
+#~ msgid "Form Field Background Color"
+#~ msgstr "ضبط لون خلفية حقل النموذج"
+
+#~ msgid "Form Field Text Color"
+#~ msgstr "ضبط لون نص حقل النموذج"
+
+#~ msgid "Focus Background Color"
+#~ msgstr "ضبط لون خلفية الحقل المُرَكز عليه"
+
+#~ msgid "Focus Text Color"
+#~ msgstr "ضبط لون النص المُرَكز عليه"
+
+#~ msgid "Use Focus Border Color"
+#~ msgstr "استخدام لون حد الحقل المُرَكز عليه"
+
+#~ msgid "Focus Border Color"
+#~ msgstr "ضبط لون حد الحقل المُرَكز عليه"
+
+#~ msgid "Portfolio Image"
+#~ msgstr "صورة الحافظة"
+
+#~ msgid "Portfolio Post Meta"
+#~ msgstr "حافظة المقال ميتا"
+
+#~ msgid "Filter"
+#~ msgstr "المُرشِح"
+
+#~ msgid "Portfolio Filters"
+#~ msgstr "مُرشِحات الحافظة"
+
+#~ msgid "Active Portfolio Filter"
+#~ msgstr "مُرشِح الحافظة النشط"
+
+#~ msgid "Counter Title"
+#~ msgstr "عنوان العداد"
+
+#~ msgid "Counter Container"
+#~ msgstr "وعاء العداد"
+
+#~ msgid "Counter Amount"
+#~ msgstr "رقم العداد"
+
+#~ msgid "Use Percentages"
+#~ msgstr "استخدام النسب المئوية"
+
+#~ msgid "Bar Top Padding"
+#~ msgstr "مسافة تباعد الشريط العلوي"
+
+#~ msgid "Bar Bottom Padding"
+#~ msgstr "مسافة تباعد الشريط السفلي"
+
+#~ msgid "Label Color"
+#~ msgstr "تغيير لون العلامة"
+
+#~ msgid "Percentage Color"
+#~ msgstr "تغيير لون النسبة المئوية"
+
+#~ msgid "Circle Counter Title"
+#~ msgstr "عنوان عداد الدوائر"
+
+#~ msgid "Circle Color Opacity"
+#~ msgstr "تغيير عتمة لون الدائرة"
+
+#~ msgid "Number Counter Title"
+#~ msgstr "عنوان عداد الأرقام"
+
+#~ msgid "Open Toggle"
+#~ msgstr "مربع التبديل المفتوح"
+
+#~ msgid "Toggle Title"
+#~ msgstr "عنوان مربع التبديل"
+
+#~ msgid "Toggle Icon"
+#~ msgstr "أيقونة مربع التبديل"
+
+#~ msgid "Toggle Content"
+#~ msgstr "مُحتوى مربع التبديل"
+
+#~ msgid "Open Toggle Background Color"
+#~ msgstr "تغيير لون خلفية التبديل المفتوح"
+
+#~ msgid "Closed Toggle Background Color"
+#~ msgstr "تغيير لون خلفية مربع التبديل المغلق"
+
+#~ msgid "Open Toggle Text Color"
+#~ msgstr "تغيير لون نص مربع التبديل المفتوح"
+
+#~ msgid "Closed Toggle Text Color"
+#~ msgstr "تغيير لون نص مربع التبديل المغلق"
+
+#~ msgid "Form Field"
+#~ msgstr "حقل النموذج"
+
+#~ msgid "Contact Title"
+#~ msgstr "عنوان جهة الاتصال"
+
+#~ msgid "Contact Button"
+#~ msgstr "زر جهة الاتصال"
+
+#~ msgid "Form Background Color"
+#~ msgstr "تغيير لون خلفية النموذج"
+
+#~ msgid "Input Border Radius"
+#~ msgstr "تغيير نصف قطر حد الإدخال"
+
+#~ msgid "Widget"
+#~ msgstr "عنصر الواجهة"
+
+#~ msgid "Remove Border Separator"
+#~ msgstr "إزالة فاصل الحد"
+
+#~ msgid "Define how much space should be added below the divider."
+#~ msgstr "حَدِّد المسافة التي يجب أن تتم إضافتها أسفل الفاصل."
+
+#~ msgid "Hide On Mobile"
+#~ msgstr "الإخفاء على الهاتف المحمول"
+
+#~ msgid "Member Image"
+#~ msgstr "صورة العضو"
+
+#~ msgid "Member Description"
+#~ msgstr "وصف العضو"
+
+#~ msgid "Member Position"
+#~ msgstr "وَظِيفَة العضو"
+
+#~ msgid "Member Social Links"
+#~ msgstr "روابط العضو الإجتماعية"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "ضبط لون الأيقونة بالتأشير بالفأرة"
+
+#~ msgid "Meta"
+#~ msgstr "ميتا"
+
+#~ msgid "Post Meta"
+#~ msgstr "المقال ميتا"
+
+#~ msgid "Pagenavi"
+#~ msgstr "التتقل خلال الصفحة"
+
+#~ msgid "Grid Tile Background Color"
+#~ msgstr "ضبط لون خلفية شبكة القرميد"
+
+#~ msgid "Use Dropshadow"
+#~ msgstr "استخدام ظل الإفلات"
+
+#~ msgid "Product"
+#~ msgstr "منتج"
+
+#~ msgid "Onsale"
+#~ msgstr "معروض للبيع"
+
+#~ msgid "Rating"
+#~ msgstr "التقيِّيم"
+
+#~ msgid "default"
+#~ msgstr "افتراضي"
+
+#~ msgid "Choose how many columns to display."
+#~ msgstr "اِختر عدد الأعمدة التي تريد عرضها"
+
+#~ msgid "Sale Badge Color"
+#~ msgstr "ضبط لون شارة البيع"
+
+#~ msgid "Numbers"
+#~ msgstr "أعداد"
+
+#~ msgid "Label"
+#~ msgstr "علامة"
+
+#~ msgid "Container"
+#~ msgstr "وعاء"
+
+#~ msgid "Timer Section"
+#~ msgstr "قسم المؤقت"
+
+#~ msgid "Pin"
+#~ msgstr "زر"
+
+#~ msgid "Use Grayscale Filter"
+#~ msgstr "استخدام مُرشِح الدرجات الرمادية"
+
+#~ msgid "Grayscale Filter Amount (%)"
+#~ msgstr "(%) كمية مُرشِح الدرجات الرمادية"
+
+#~ msgid "Social Icon"
+#~ msgstr "أيقونة وسائل التواصل الاجتماعي"
+
+#~ msgid "Here you can choose whether or not display the Post Title"
+#~ msgstr "هنا يُمكِنك اختيار إما عرض أو عدم عرض عنوان المقال"
+
+#~ msgid "Show Meta"
+#~ msgstr "عرض ميتا"
+
+#~ msgid "Here you can choose whether or not display the Post Meta"
+#~ msgstr "هنا يُمكِنك اختيار إما عرض أو عدم عرض المُشاركة ميتا"
+
+#~ msgid "Here you can choose whether or not display the Date in Post Meta"
+#~ msgstr ""
+#~ "هنا يُمكِنك اختيار ما إذا كان سوف يتم عرض أو لن يتم عرض التاريخ في المقال ميتا"
+
+#~ msgid "Date Format"
+#~ msgstr "صيغة التاريخ"
+
+#~ msgid "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+#~ msgstr ""
+#~ "هنا يُمكِنك تحديد صيغة التاريخ في  المقال ميتا. الصيغة الافتراضية هي 'M j, Y'"
+
+#~ msgid "Show Post Categories"
+#~ msgstr "عرض تصنيفات المقال"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Categories in Post Meta. "
+#~ "Note: This option doesn't work with custom post types."
+#~ msgstr ""
+#~ "هنا يُمكِنك اختيار ما إذا كان سوف يتم عرض أو لن يتم عرض التصنيفات في المقال "
+#~ "بيتا. مُلاحَظة: لا يعمل هذا الخيار مع أنواع المقال المُخصَّصة."
+
+#~ msgid "Show Comments Count"
+#~ msgstr "عرض عدد التعليقات"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Comments Count in Post Meta."
+#~ msgstr ""
+#~ "هنا يُمكِنك اختيار ما إذا كان سوف يتم عرض أو لن يتم عرض حساب التعليقات في "
+#~ "المقال ميتا."
+
+#~ msgid "Here you can choose whether or not display the Featured Image"
+#~ msgstr "هنا يُمكِنك اختيار ما إذا كان سوف يتم عرض أو لن يتم عرض الصورة المميزة"
+
+#~ msgid "Featured Image Placement"
+#~ msgstr "اختيار موضع الصورة المميزة"
+
+#~ msgid "Below Title"
+#~ msgstr "العنوان أدناه"
+
+#~ msgid "Above Title"
+#~ msgstr "العنوان أعلاه"
+
+#~ msgid "Title/Meta Background Image"
+#~ msgstr "عنوان صورة الخلفية"
+
+#~ msgid "Here you can choose where to place the Featured Image"
+#~ msgstr "هنا يُمكِنك اختيار مكان وضع الصورة المُميزة"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use parallax effect for the featured image"
+#~ msgstr ""
+#~ "هنا يُمكِنك اختيار ما إذا كان سوف يتم استخدام أو لن يتم استخدام تأثير تزيح "
+#~ "المنظر للصورة المُميزة"
+
+#~ msgid "Parallax Method"
+#~ msgstr "طريقة تزيح المنظر"
+
+#~ msgid "Here you can choose which parallax method to use for the featured image"
+#~ msgstr ""
+#~ "هنا يُمكِنك اختيار الطريقة التي تريد استخدامها فى اختلاف المنظر في الصورة "
+#~ "المميزة"
+
+#~ msgid "Here you can choose the orientation for the Title/Meta text"
+#~ msgstr "هنا يُمكِنك اختيار المحاذاة لعنوان النص"
+
+#~ msgid "Here you can choose the color for the Title/Meta text"
+#~ msgstr "هنا يُمكِنك اختيار لون لعنوان النص"
+
+#~ msgid "Use Text Background Color"
+#~ msgstr "استخدام لون خلفية النص"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use the background color for the Title/"
+#~ "Meta text"
+#~ msgstr ""
+#~ "هنا يُمكِنك اختيار ما إذا كان سوف تستخدم أو لن تستخدم لون الخلفية لعنوان النص"
+
+#~ msgid "Text Background Color"
+#~ msgstr "لون خلفية النص"
+
+#~ msgid "Title Styling"
+#~ msgstr "تصميم العنوان"
+
+#~ msgid "Subhead Styling"
+#~ msgstr "تصميم  العنوان الفرعي"
+
+#~ msgid "Content Styling"
+#~ msgstr "تصميم المُحتوى"
+
+#~ msgid "Button Styling"
+#~ msgstr "تصميم الزر"
+
+#~ msgid "Text & Logo Orientation"
+#~ msgstr "محاذاة النص والشعار"
+
+#~ msgid "Make Fullscreen"
+#~ msgstr "عرض بملء الشاشة"
+
+#~ msgid "Here you can choose whether the header is expanded to fullscreen size."
+#~ msgstr ""
+#~ "هنا يُمكِنك اختيار ما إذا كان سوف يتم توسيع مقدمة الصفحة لحجم الشاشه الكاملة."
+
+#~ msgid "Show Scroll Down Button"
+#~ msgstr "عرض زر التمرير لأسفل"
+
+#~ msgid "Here you can choose whether the scroll down button is shown."
+#~ msgstr "هنا يُمكِنك اختيار ما إذا كان سوف يتم عرض زر التمرير لأسفل."
+
+#~ msgid "Choose an icon to display for the scroll down button."
+#~ msgstr "اختر الأيقونة التي تقوم بعرض زر التمرير لأسفل."
+
+#~ msgid "Scroll Down Icon Color"
+#~ msgstr "ضبط لون أيقونة التمرير لأسفل"
+
+#~ msgid "Scroll Down Icon Size"
+#~ msgstr "حجم أيقونة التمرير لأسفل"
+
+#~ msgid "Title Font"
+#~ msgstr "ضبط خط العنوان"
+
+#~ msgid "Title Font Color"
+#~ msgstr "ضبط لون خط العنوان"
+
+#~ msgid "Subhead Font"
+#~ msgstr "ضبط خط العنوان الفرعي"
+
+#~ msgid "Subhead Font Color"
+#~ msgstr "ضبط لون خط العنوان الفرعي"
+
+#~ msgid "Content Font"
+#~ msgstr "ضبط خط المُحتوى"
+
+#~ msgid "Content Font Color"
+#~ msgstr "ضبط لون خط المحتوى"
+
+#~ msgid "Button %1$s Text"
+#~ msgstr "ضبط نص الزر %1$s"
+
+#~ msgid "Enter the text for the Button."
+#~ msgstr "ضبط زر إدخال النص."
+
+#~ msgid "Button %1$s URL"
+#~ msgstr "ضبط رابط الزر %1$s"
+
+#~ msgid "Enter the URL for the Button."
+#~ msgstr "إدخال عنوان الإنترنت للزر."
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "ضبط خط الزر %1$s"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "ضبط لون خط الزر %1$s"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "ضبط لون خلفية الزر %1$s"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "ضبط حجم خط الزر %1$s"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "ضبط نصف قطر حد صفحة الزر %1$s"
+
+#~ msgid "Background Image URL"
+#~ msgstr "عنوان إنترنت صورة الخلفية"
+
+#~ msgid "Background Overlay Color"
+#~ msgstr "لون خلفية التراكب"
+
+#~ msgid "Logo Image URL"
+#~ msgstr "عنوان إنترنت صورة الشعار"
+
+#~ msgid "Text Vertical Alignment"
+#~ msgstr "محاذاة عمودية للنص"
+
+#~ msgid ""
+#~ "This setting determines the vertical alignment of your content. Your content "
+#~ "can either be vertically centered, or aligned to the bottom."
+#~ msgstr ""
+#~ "يُحدِّد هذا الإعداد المُحاذاة العمودية لمُحتواك. يُمكِن لمُحتواك أن يتمركز عمودياً، "
+#~ "أو أن يكون بمحاذاة الجزء السفلي"
+
+#~ msgid "Header Image URL"
+#~ msgstr "عنوان إنترنت صورة مقدمة الصفحة"
+
+#~ msgid "Image Vertical Alignment"
+#~ msgstr "المُحاذاة العمودية للصورة"
+
+#~ msgid "This controls the orientation of the image within the module."
+#~ msgstr "يتحكم هذا في اتجاه الصورة داخل الوحدة."
+
+#~ msgid "Code"
+#~ msgstr "الرمز"
+
+#~ msgid "Fullwidth Code"
+#~ msgstr "رمز بعرض كامل الصفحة"
+
+#~ msgid "Fullwidth Image"
+#~ msgstr "صورة بعرض كامل الصفحة"
+
+#~ msgid "Fullwidth Post Title"
+#~ msgstr "عنوان المقال بكامل عرض الصفحة"
+
+#~ msgid ""
+#~ "Enabling this option will remove the background color of this section, "
+#~ "allowing the website background color or background image to show through."
+#~ msgstr ""
+#~ "سوف يقوم تفعيل هذا الخيار بإزالة لون الخلفية من هذا القسم، مما يسمح بعرض لون "
+#~ "خلفية موقع الويب أو صورة الخلفية من خلال."
+
+#~ msgid ""
+#~ "Adjust padding to specific values, or leave blank to use the default padding."
+#~ msgstr "ضبط التباعد بقيم مُعينة، أو تركه فارغاً لاستخدام التباعد الافتراضي."
+
+#~ msgid "Keep Custom Padding on Mobile"
+#~ msgstr "الحفاظ على التباعد المُخصَّص على الهاتف المحمول"
+
+#~ msgid "Allow custom padding to be retained on mobile screens"
+#~ msgstr "السماح بالتباعد المُخصَّص ليتم الإبقاء على شاشات المحمول"
+
+#~ msgid "Make This Row Fullwidth"
+#~ msgstr "جعل هذا الصف بكامل عرض الصفحة"
+
+#~ msgid ""
+#~ "Enable this option to extend the width of this row to the edge of the "
+#~ "browser window."
+#~ msgstr "تفعيل هذا الخيار لتوسيع نطاق عرض هذا الصف إلى حافة نافذة المُتصفِّح."
+
+#~ msgid "Use Custom Width"
+#~ msgstr "استخدام عرض مُخصَّص"
+
+#~ msgid ""
+#~ "Change to Yes if you would like to adjust the width of this row to a non-"
+#~ "standard width."
+#~ msgstr "غَيِر إلى نعم إذا كنت ترغب في ضبط عرض هذا الصف إلى عرضٍ غير قياسي."
+
+#~ msgid "Unit"
+#~ msgstr "وحدة"
+
+#~ msgid "px"
+#~ msgstr "بيكسل"
+
+#~ msgid "Custom Width"
+#~ msgstr "عرض مُخصَّص"
+
+#~ msgid "Define custom width for this Row"
+#~ msgstr "تحديد عرض مُخصَّص لهذا الصف"
+
+#~ msgid "Gutter Width"
+#~ msgstr "ضبط تباعد الأعمدة"
+
+#~ msgid "Adjust the spacing between each column in this row."
+#~ msgstr "ضبط التباعد بين كل عمود في هذا الصف."
+
+#~ msgid "Equalize Column Heights"
+#~ msgstr "مساواة المسافات بين الأعمدة"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "مرحبا بكم  !Diviقبل التوغل في أعماق موضوعٍ جديدٍ، يُرجَى زيارة صفحة <a href="
+#~ "\"%1$s\" target=\"_blank\">DiviDocumentation</a>   للوصول إلى عشرات الدروس "
+#~ "التوجيهية في العمق."
+
+#~ msgid "Category Font Size"
+#~ msgstr "تحديد حجم خط التصنيف"
+
+#~ msgid "Category Font Style"
+#~ msgstr "تحديد نمط خط التصنيف"

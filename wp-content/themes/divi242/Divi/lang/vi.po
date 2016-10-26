@@ -1,0 +1,4222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:09+0300\n"
+"PO-Revision-Date: 2015-06-17 19:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Bài đăng này được bảo vệ bằng mật khẩu. Hãy nhập mật khẩu để xem các lời "
+"bình."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 Lời bình"
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr "1 Lời bình"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "Lời bình"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Lời bình Cũ hơn"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lời bình Mới hơn <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "Gửi Lời bình"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "Gửi Lời bình"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Trả lời cho %s"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "Đang lưu..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Đã lưu Lựa chọn."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Lựa chọn"
+
+#: ../epanel/core_functions.php:73 ../functions.php:8939
+msgid "Theme Options"
+msgstr "Lựa chọn Chủ đề"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "đã lưu thiết đặt."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "đã đặt lại thiết đặt."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448 ../functions.php:616
+msgid "General Settings"
+msgstr "Thiết đặt Chung"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Điều hướng"
+
+#: ../epanel/core_functions.php:117 ../functions.php:621
+msgid "Layout Settings"
+msgstr "Thiết đặt Bố trí"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Quản lí quảng cáo"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Màu sắc"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Tích hợp"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Tài liệu Hỗ trợ"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "Tải Ảnh Lên"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "Bạn không có trang nào"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"Hành động này sẽ đặt toàn bộ thiết đặt trong trang tuỳ chọn về giá trị mặc "
+"định. <strong>Bạn có chắc chắn muốn thực hiện không?</strong>"
+
+#: ../epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "CHọn Ảnh"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:465 ../header.php:141
+msgid "Home"
+msgstr "Trang chủ"
+
+#: ../epanel/custom_functions.php:713
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: ../epanel/custom_functions.php:715
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Kết quả tìm kiếm \"%s\""
+
+#: ../epanel/custom_functions.php:717
+msgid "404 Not Found"
+msgstr "404 Không Tìm thấy"
+
+#: ../epanel/custom_functions.php:788
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "Hiện đang xem lưu trữ từ %1$s"
+
+#: ../epanel/custom_functions.php:1021
+msgid "Image doesn't exist"
+msgstr "Ảnh không tồn tại"
+
+#: ../epanel/custom_functions.php:1217
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Đây là lần đầu cài đặt chủ đề %1$s. Đừng quên đến "
+"<a href=\"%2$s\">ePanel</a> để cài đặt. Thông báo này sẽ biến mất sau khi "
+"bạn nhấp nút Lưu trong trang tuỳ chọn chủ đề <a href=\"%2$s\"></a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1229
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"Hiện có phiên bản mới của %1$s. <a href=\"%2$s\" class=\"thickbox\" title="
+"\"%1$s\">Xem chi tiết phiên bản %3$s</a>. <em>Trước khi cập nhật Chủ đề "
+"Elegant, bạn phải cài đặt <a href=\"https://www.elegantthemes.com/members-"
+"area/documentation.html#updater\" target=\"_blank\">Elegant Updater Plugin</"
+"a> để cấp quyền đăng ký.</em>"
+
+#: ../epanel/custom_functions.php:1233
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Trước khi cập nhật Chủ đề Elegant, bạn phải cài đặt <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> để cấp quyền đăng ký."
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "Chung"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "Biểu trưng"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "Thiết Lập Làm Logo"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr "Nếu muốn dùng ảnh biểu trưng tuỳ biến, hãy nhấp nút \"Tải Ảnh Lên\"."
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "Thiết Lập Làm Favicon"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr "Nếu muốn dùng ảnh favicon tuỳ biến, hãy nhấp nút Tải Ảnh Lên."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "Thanh Điều hướng Cố định"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"Mặc định, thanh điều hướng sẽ luôn nằm trên cùng màn hình. Chúng tôi đề nghị "
+"tắt tuỳ chọn này nếu bạn muốn dùng ảnh biểu trưng lớn."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "Lấy về ảnh đăng đầu tiên"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"Mặc định, ảnh thu nhỏ được tạo từ trường tuỳ biến. Nhưng nếu bạn muốn dùng "
+"ảnh đã có trong bài đăng làm ảnh thu nhỏ (và bỏ qua các trường tuỳ biến), "
+"bạn có thể bật lựa chọn này. Khi đã bật, ảnh thu nhỏ sẽ được tạo động từ ảnh "
+"đầu tiên trong bài đăng của bạn. Ảnh phải được lưu trữ trên máy chủ riêng "
+"của bạn."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "Chế độ Kiểu Blog"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"Mặc định, chủ đề này sẽ cắt xén bài đăng của bạn tự động để tạo phần xem "
+"trước. Nếu bạn muốn hiện toàn bộ bài đăng theo kiểu blog truyền thống, bạn "
+"có thể bật tính năng này."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "Bố trí Trang Cửa hàng & Trang Mục cho WooCommerce"
+
+#: ../epanel/options_divi.php:90 ../functions.php:364
+msgid "Right Sidebar"
+msgstr "Thanh lề Phải"
+
+#: ../epanel/options_divi.php:91 ../functions.php:365
+msgid "Left Sidebar"
+msgstr "Thanh lề Trái"
+
+#: ../epanel/options_divi.php:92 ../functions.php:366
+msgid "Full Width"
+msgstr "Toàn Chiều rộng"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"Ở đây bạn có thể chọn Bố trí Trang Cửa hàng & Trang Mục cho WooCommerce."
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "Khoá API MailChimp"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"Hãy nhập khoá API MailChimp của bạn. Bạn có thể tạo khoá api <a target="
+"\"_blank\" href=\"%1$s\">ở đây</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Uỷ quyền Aweber"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "Uỷ quyền tài khoản Aweber của bạn ở đây."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "Tạo lại Các danh sách MailChimp"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Mặc định, các danh sách MailChimp được lưu đệm trong một ngày. Nếu bạn thêm "
+"danh sách mới nhưng không thấy xuất hiện trong thiết đặt đơn thể SignUp, hãy "
+"bật tuỳ chọn này. Đừng quên tắt đi sau khi đã tạo lại xong."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Tạo lại Các danh sách Aweber"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Mặc định, các danh sách Aweber được lưu đệm trong một ngày. Nếu bạn thêm "
+"danh sách mới nhưng không thấy xuất hiện trong thiết đặt đơn thể SignUp, hãy "
+"bật tuỳ chọn này. Đừng quên tắt đi sau khi đã tạo lại xong."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Hiện Biểu tượng Facebook"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr "Ở đây bạn có thể chọn để hiện biểu tượng Facebook trên trang chủ. "
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Hiện Biểu tượng Twitter"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Ở đây bạn có thể chọn để hiện biểu tượng Twitter. "
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Hiện Biểu tượng Google+"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr "Ở đây bạn có thể chọn để hiện biểu tượng Google+ trên trang chủ. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "Hiện Biểu tượng RSS"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Ở đây bạn có thể chọn để hiện biểu tượng RSS. "
+
+#: ../epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "URL Hồ sơ Facebook"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Nhập URL hồ sơ Facebook của bạn. "
+
+#: ../epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "URL Hồ sơ Twitter"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Nhập URL hồ sơ Twitter của bạn."
+
+#: ../epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "URL Hồ sơ Google+"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Nhập URL hồ sơ Google+ của bạn. "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "URL RSS feed"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "Nhập URL RSS feed của bạn. "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "Số Bài đăng hiển thị ở trang Mục"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Ở đây bạn có thể chỉ định số bài hiển thị gần đây ở trang Mục. Tuỳ chọn này "
+"độc lập với tuỳ chọn Đọc trong wp-admin."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Số Bài đăng hiển thị ở trang Lưu trữ"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Ở đây bạn có thể chỉ định số bài hiển thị gần đây ở trang Lưu trữ. Tuỳ chọn "
+"này độc lập với tuỳ chọn Đọc trong wp-admin."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "Số Bài đăng hiển thị ở trang Tìm kiếm"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Ở đây bạn có thể chỉ định số bài hiển thị gần đây ở trang Kết quả tìm kiếm. "
+"Tuỳ chọn này độc lập với tuỳ chọn Đọc trong wp-admin."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Số Bài đăng hiển thị ở trang Nhãn"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Ở đây bạn có thể chỉ định số bài hiển thị gần đây ở trang Nhãn. Tuỳ chọn này "
+"độc lập với tuỳ chọn Đọc trong wp-admin."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "Định dạng ngày"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Tuỳ chọn này cho phép bạn thay đổi cách thức thể hiện ngày tháng. Vui lòng "
+"tham khảo thêm WordPress ở đây:<a href='http://codex.wordpress.org/"
+"Formatting_Date_and_Time' target='_blank'>Định dạng Ngày và Giờ</a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "Dùng đoạn trích khi được định nghĩa"
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Cho phép dùng đoạn trích trong bài đăng hoặc trang."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "shortcodes hồi đáp"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Bật tuỳ chọn này để tạo shortcodes hồi đáp với nhiều kích thước màn hình "
+"khác nhau"
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "Tập con Google Fonts"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Cho phép dùng Google Fonts cho các ngôn ngữ ngoài tiếng Anh."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "Nút Về Đầu Trang"
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr "Bật tuỳ chọn này để hiện Nút Về Đầu Trang khi cuộn"
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "Cuộn Mượt"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr "Bật tuỳ chọn này để có hiệu ứng cuộn trang mượt khi lăn chuột."
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "CSS tuỳ biến"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Ở đây bạn có thể thêm CSS tuỳ biến để chồng lên hoặc mở rộng kiểu dáng mặc "
+"định."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "Trang"
+
+#: ../epanel/options_divi.php:292 ../functions.php:292 ../functions.php:302
+msgid "Categories"
+msgstr "Mục"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "Loại trừ trang khỏi thanh điều hướng"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Ở đây bạn có thể chọn để bỏ ra những trang nhất định khỏi trình đơn điều "
+"hướng. Tất cả trang đánh dấu X sẽ không hiện trên thanh điều hướng của bạn. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "Hiện trình đơn thả xuống"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Nếu muốn loại bỏ trình đơn thả xuống khỏi thanh điều hướng trang, hãy tắt "
+"tính năng này."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "Hiện Liên kết Trang chủ"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"Mặc định, chủ đề tạo Liên kết trang chủ, khi nhấp vào sẽ dẫn bạn trở lại "
+"trang chủ blog của bạn. Nhưng nếu bạn dùng trang chủ tĩnh và đã tạo trang "
+"Chủ để dùng thì nó sẽ tạo liên kết trùng. Trong trường hợp này bạn nên tắt "
+"tính năng này để bỏ liên kết."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "Sắp xếp Liên kết Trang"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr "Ở đây bạn có thể chọn cách thức sắp xếp liên kết trang."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Sắp xếp Liên kết Trang Tăng dần/Giảm dần"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Ở đây bạn có thể chọn đảo ngược thứ tự hiển thị liên kết trang. Bạn có thể "
+"chọn tăng dần hay giảm dần."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "Số bậc thả xuống hiển thị"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Tuỳ chọn này cho bạn kiểm soát số bậc trình đơn thả xuống trang của bạn có. "
+"Tăng số này để hiện thêm mục trình đơn."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "Loại trừ mục khỏi thanh điều hướng."
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Ở đây bạn có thể chọn để bỏ ra những mục nhất định khỏi trình đơn điều "
+"hướng. Tất cả mục  đánh dấu X sẽ không hiện trên thanh điều hướng của bạn. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Nếu muốn loại bỏ trình đơn thả xuống khỏi thanh điều hướng mục thì tắt tính "
+"năng này."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "Ẩn mục rỗng"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Nếu bạn muốn cho những mục không có bài đăng hiện trên thanh điều hướng thì "
+"hãy tắt tùy chọn này. Mặc định các mục rỗng sẽ bị ẩn."
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Sắp xếp Liên kết Mục theo Nhóm Name/ID/Slug/Count/Term"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"Mặc định các trang được sắp xếp theo tên. Nhưng nếu muốn xếp theo ID thì bạn "
+"có thể chỉnh thiết đặt này."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Sắp xếp Liên kết Mục Tăng dần hay Giảm dần"
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Ở đây bạn có thể chọn đảo ngược thứ tự hiển thị liên kết mục. Bạn có thể "
+"chọn tăng dần hay giảm dần."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "Tắt liên kết trình đơn thả xuống cấp trên cùng"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"Một số trường hợp người dùng muốn tạo mục hay liên kết cấp trên làm chỗ giữ "
+"danh sách liên kết hay mục cấp dưới. Khi đó các liên kết cấp trên này không "
+"nên chuyển đi đâu cả, thay vào đó chỉ đơn thuần phục vụ chức năng tổ chức. "
+"Bật tùy chọn này sẽ loại bỏ liên kết khỏi tất cả trang/mục cấp trên để chúng "
+"không chuyển đi khi nhấp vào."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "Bố trí Bài đăng Đơn"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "Bố trí Trang Đơn"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr "Chọn mục hiển thị trong phần thông tin bài đăng"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Ở đây bạn có thể chọn mục để hiển thị trên phần thông tin bài đăng ở các "
+"trang bài đăng đơn. Vùng này, thường nằm dưới tiêu đề bài đăng, hiển thị "
+"thông tin cơ bản về bài đăng của bạn. Các mục được chọn bên dưới sẽ hiển "
+"thị. "
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "Hiện lời bình trên bài đăng"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Bạn có thể tắt tùy chọn này nếu muốn loại bỏ các lời bình và mẫu lời bình "
+"khỏi bài đăng. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "Đặt Ảnh Thu nhỏ vào Bài đăng"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"Mặc định, ảnh thu nhỏ được đặt ở đầu bài đăng ở các bài đăng đơn. Nếu muốn "
+"bỏ ảnh thu nhỏ ban đầu này để tránh trùng lặp, đơn giản là tắt tùy chọn này. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "Đặt Ảnh Thu nhỏ vào Trang"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"Theo mặc định, ảnh thu nhỏ không được đặt trên các trang (chúng chỉ được sử "
+"dụng trên bài viết). Tuy nhiên, nếu bạn muốn sử dụng ảnh thu nhỏ trên trang, "
+"bạn có thể làm được! Chỉ cần kích hoạt tùy chọn này."
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "Hiện lời bình trên trang"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"Mặc định, lời bình không được đưa vào trang, nhưng nếu bạn muốn cho mọi "
+"người bình luận vào trang thì chỉ cần bật tùy chọn này. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "Phần thông tin bài đăng"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Ở đây bạn có thể chọn mục để hiển thị trên phần thông tin bài viết ở các "
+"trang. Vùng này, thường nằm dưới tiêu đề bài đăng, hiển thị thông tin cơ bản "
+"về bài đăng của bạn. Các mục được chọn bên dưới sẽ hiển thị. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "Hiện Ảnh Thu nhỏ trên Trang chỉ mục"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Bật tùy chọn này để hiện ảnh thu nhỏ trên Trang Chỉ mục."
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "Trang chủ SEO"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "Trang Bài đăng Đơn SEO"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "Trang Chỉ mục SEO"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "Bật tiêu đề tùy biến "
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"Mặc định, chủ đề kết hợp tên blog và mô tả blog của bạn được định nghĩa khi "
+"tạo blog, để tạo tiêu đề trang chủ. Nhưng nếu bạn muốn tạo tiêu đề tùy biến "
+"thì chỉ cần bật tùy chọn này và điền vào trường tiêu đề tùy biến bên dưới. "
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "Bật mô tả thẻ meta"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"Mặc định, chủ đề dùng mô tả blog của bạn được định nghĩa khi tạo blog, để "
+"điền vào trường mô tả meta. Nếu bạn muốn dùng mô tả khác thì hãy bật tùy "
+"chọn này và điền vào trường mô tả tùy biến bên dưới. "
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "Bật từ khóa meta"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"Mặc định, chủ đề không thêm từ khóa vào đầu trang của bạn. Phần lớn máy tìm "
+"kiếm không còn dùng từ khóa để xếp hạng trang nữa, nhưng một số người vẫn "
+"định nghĩa cho đầy đủ. Nếu bạn muốn thêm khóa meta vào đầu trang của bạn thì "
+"hãy bật tùy chọn này và điền vào trường từ khóa tùy biến bên dưới. "
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "Bật URL's chính tắc"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Chọn liên kết chính thức giúp ngăn chặn việc lập danh mục nội dung trùng lặp "
+"của công cụ tìm kiếm, và kết quả là, có thể giúp tránh lỗi nội dung trùng "
+"lặp. Một số trang có thể có khác nhau URLs tất cả đều dẫn đến cùng một chỗ. "
+"Ví dụ domain.com, domain.com/index.html và www.domain.com là tất cả URLs "
+"khác nhau đều dẫn đến trang chủ của bạn. Từ góc nhìn của công cụ tìm kiếm "
+"URLs bị trùng lặp này, điều xảy ra thường xuyên do các liên kết tùy chỉnh, "
+"có thể được xử lý riêng lẻ thay vì như một điểm đến duy nhất. Xác định một "
+"URL chính thức giúp cho công cụ tìm kiếm biết URL nào bạn muốn sử dụng chính "
+"thức. Chủ đề căn cứ vào URL chính thức trên liên kết và tên miền của bạn "
+"được định nghĩa trong thẻ thiết lập wp-admin."
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "Tiêu đề trang chủ tùy biến (nếu bật)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Nếu bạn đã bật tiêu đề tùy biến thì có thể thêm tiêu đề tùy biến ở đây. "
+"Những gì bạn gõ ở đây sẽ được đặt giữa cặp thẻ < title >< /title > trong "
+"header.php"
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "Mô tả meta trang chủ (nếu bật)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr "Nếu bạn đã bật mô tả meta thì có thể thêm mô tả tùy biến ở đây."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Từ khóa meta trang chủ (nếu bật)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Nếu bạn đã bật từ khóa meta thì có thể thêm từ khóa tùy biến ở đây. Ngăn "
+"cách giữa các từ khóa bằng dấu phẩy. Ví dụ: wordpress,themes,templates,"
+"elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "Nếu tiêu đề tùy biến bị tắt, hãy chọn phương thức tạo tự động."
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Nếu không dùng tiêu đề bài đăng tùy biến, bạn vẫn có thể kiểm soát cách phát "
+"sinh tiêu đề. Ở đây bạn có thể chọn thứ tự hiển thị tiêu đề bài đăng và tên "
+"blog để hiển thị, hoặc là bỏ hẳn tên blog khỏi tiêu đề."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr "Định nghĩa ký tự phân cách Tên Web và Tiêu đề Bài đăng"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Ở đây bạn có thể định nghĩa ký tự phân cách tiêu đề blog và tên bài đăng khi "
+"cho phát sinh tiêu đề bài đăng tự động. Giá trị phổ biến là | hoặc -"
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "Bật tiêu đề tùy biến"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"Mặc định, chủ đề tào tiêu đề bài đăng dựa trên tiêu đề của bài và tên blog. "
+"Nếu bạn muốn tạo tiêu đề meta khác với tiêu đề bài đăng thực sự thì có thể "
+"định nghĩa tiêu đề tùy biến cho mỗi bài đăng dùng trường tùy biến. Tùy chọn "
+"này phải được bật thì tiêu đề tùy biến mới hoạt động, và bạn phải chọn một "
+"tên trường tùy biến làm tiêu đề bên dưới."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "Bật mô tả tùy biến"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Nếu bạn muốn thêm mô tả meta vào bài đăng thì có thể dùng trường tùy biến. "
+"Tùy chọn này phải được bật để hiển thị mô tả trên các trang bài đăng. Bạn có "
+"thể thêm mô tả meta dùng trường tùy biến dựa trên tên trường tùy biến định "
+"nghĩa bên dưới."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "Bật từ khóa tùy biến"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Nếu bạn muốn thêm từ khóa meta vào bài đăng thì có thể dùng trường tùy biến. "
+"Tùy chọn này phải được bật để hiển thị từ khóa trên các trang bài đăng. Bạn "
+"có thể thêm từ khóa meta dùng trường tùy biến dựa trên tên trường tùy biến "
+"định nghĩa bên dưới."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "Bật URL's chính tắc"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "Tên trường Tùy biến dùng làm tiêu đề"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Khi định nghĩa tiêu đề dùng trường tùy biến bạn nên dùng giá trị này cho Tên "
+"trường tùy biến. Giá trị của trường tùy biến của bạn nên là tiêu đề tùy biến "
+"bạn muốn dùng."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "Tên trường Tùy biến dùng làm mô tả"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Khi định nghĩa mô tả meta dùng trường tùy biến bạn nên dùng giá trị này cho "
+"Tên trường tùy biến. Giá trị của trường tùy biến của bạn nên là mô tả tùy "
+"biến bạn muốn dùng."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr "Tên trường Tùy biến dùng làm từ khóa"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Khi định nghĩa từ khóa meta dùng trường tùy biến bạn nên dùng giá trị này "
+"cho Tên trường tùy biến. Giá trị của trường tùy biến của bạn nên là từ khóa "
+"meta bạn muốn dùng, phân cách bằng dấu phẩy."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Nếu không dùng tiêu đề bài đăng tùy biến bạn vẫn có thể kiểm soát cách phát "
+"sinh tiêu đề. Ở đây bạn có thể chọn thứ tự hiển thị tiêu đề bài đăng và tên "
+"blog để hiển thị, hoặc là bỏ hẳn tên blog khỏi tiêu đề."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "Bật mô tả meta"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Đánh dấu vào đây nếu bạn muốn hiển thị mô tả meta trên trang mục/lưu trữ. Mô "
+"tả là dựa trên mô tả mục bạn chọn khi tạo/sửa mục trong wp-admin\"."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "Chọn cách phát sinh tiêu đề"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Ở đây bạn có thể  chọn cách phát sinh tiêu đề trên trang chỉ mục. Bạn có thể "
+"chọn thứ tự hiển thị tên blog và tiêu đề chỉ mục để hiển thị, hoặc là bỏ hẳn "
+"tên blog khỏi tiêu đề."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Ở đây bạn có thể thay đổi ký tự phân cách tiêu đề blog và tên trang chỉ mục "
+"khi cho phát sinh tiêu đề bài đăng tự động. Giá trị phổ biến là | hoặc -"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "Tích hoạt Mã"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "Bật mã header"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Tắt tùy chọn này sẽ loại bỏ mã header bên dưới khỏi blog của bạn. Cho phép "
+"bạn loại bỏ mã nhưng vẫn lưu giữ lại để dùng sau."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "Bật mã < body >"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Tắt tùy chọn này sẽ loại bỏ mã body bên dưới khỏi blog của bạn. Cho phép bạn "
+"loại bỏ mã nhưng vẫn lưu giữ lại để dùng sau."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "Bật mã trên đơn"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Tắt tùy chọn này sẽ loại bỏ mã trên đơn bên dưới khỏi blog của bạn. Cho phép "
+"bạn loại bỏ mã nhưng vẫn lưu giữ lại để dùng sau."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "Bật mã dưới đơn"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Tắt tùy chọn này sẽ loại bỏ mã dưới đơn bên dưới khỏi blog của bạn. Cho phép "
+"bạn loại bỏ mã nhưng vẫn lưu giữ lại để dùng sau."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "Thêm mã vào phần < head > của blog"
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Mã bạn nhập ở đây sẽ hiện ở phần head của mọi trang blog của bạn. Hữu ích "
+"khi cần thêm Javascript hay CSS vào tất cả các trang."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Thêm mã vào phần < body > (cho các loại mã truy vết như Google Analytics)"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Mã bạn nhập ở đây sẽ hiện ở phần body của mọi trang blog của bạn. Hữu ích "
+"khi cần thêm tracking pixel cho bộ đếm trạng thái như là Google Analytics."
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "Thêm mã vào trên cùng bài đăng"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Mã bạn nhập ở đây sẽ hiện ở trên cùng của mọi trang blog của bạn. Hữu ích "
+"khi cần tích hợp các thứ như liên kết đánh dấu trang mạng xã hội."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Thêm mã vào dưới cùng bày đăng, trước phần lời bình"
+
+#: ../epanel/options_divi.php:844 ../functions.php:8612
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Quản lý Quảng cáo"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "Bật băng rôn 468x60 bài đăng đơn"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Bật tùy chọn này sẽ hiện băng rôn quảng cáo 468x60 ở dưới cùng các trang bài "
+"của bạn dưới nội dung bài đăng đơn. Nếu bật, bạn phải điền ảnh và băng rôn "
+"và URL đích đến bên dưới."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "Nhập ảnh băng rôn quảng cáo 468x60"
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Ở đây bạn có thể cung cấp URL ảnh băng rôn 468x60"
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "Nhập URL đích đến quảng cáo 468x60"
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Ở đây bạn có thể cung cấp URL đích đến băng rôn 468x60"
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "Nhập mã Google Adsense 468x60"
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "Nhập mã Google Adsense 468x60 của bạn ở đây."
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:518 ../functions.php:160
+msgid "Previous"
+msgstr "Trước"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:519 ../functions.php:161
+msgid "Next"
+msgstr "Tiếp"
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "Tweet"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "Đăng nhập Thành Viên"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "Tên người dùng: "
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "Mật khẩu: "
+
+#: ../epanel/shortcodes/shortcodes.php:294 ../functions.php:3522
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "Thêm Văn bản Gợi ý"
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "Nhấp vào đây để tìm hiểu thêm"
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "Tham Gia Ngay"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "Thêm Một Khối Đảo Trạng Thái"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "Thêm Ô"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "Thêm Nút"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "Thêm Thẻ"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "Thêm Tiểu Sử Tác Giả"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "Mã rút gọn"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "Đầu đề"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "Đầu đề ở đây"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "Đầu tiêu đề ở đây"
+
+#: ../epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "Trạng thái"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "Chọn trạng thái đóng hoặc mở rộng"
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "Nội dung"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "Nội dung ở đây"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "Văn bản nội dung hoặc HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021 ../functions.php:8610
+msgid "Type"
+msgstr "Kiểu"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "Kiểu hộp"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "Liên kết"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "Chọn kiểu nút"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "Màu"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "Chọn màu nút"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "Văn bản liên kết"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "Dùng cho kiểu nút biểu tượng"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "Mở liên kết trong cửa sổ mới."
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Đồng ý nếu muốn mở liên kết trong cửa sổ mới"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "Kiểu Bộ trượt"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "Chọn Kiểu Bộ trượt ở đây"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "Hiệu ứng"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "Chọn Hiệu ứng Hoạt ảnh"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "Tự động"
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Đồng ý nếu muốn cho phép hoạt ảnh bộ trượt tự động"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "Tốc độ tự động"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Tốc độ bộ trượt tự động (chỉ hoạt động nếu Tự động được Đồng ý)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "Văn bản Thẻ"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "Nội dung Thẻ"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "Dán URL ảnh vào đây, nếu bạn chọn kiểu bộ trượt \"images\""
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "URL Ảnh"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "URL Ảnh Tác giả"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "Dùng định cỡ"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ Thêm Một Thẻ Nữa"
+
+#: ../epanel/shortcodes/shortcodes.php:1335 ../functions.php:3165
+msgid "Image Height"
+msgstr "Chiều cao Ảnh"
+
+#: ../epanel/shortcodes/shortcodes.php:1336 ../functions.php:3146
+msgid "Image Width"
+msgstr "Chiều rộng Ảnh"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Thiết kế bởi %1$s | Công nghệ bởi %2$s"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "Trình đơn Chính"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "Trình đơn Phụ"
+
+#: ../functions.php:32 ../functions.php:706
+msgid "Footer Menu"
+msgstr "Trình đơn Chân trang"
+
+#: ../functions.php:73
+#, php-format
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a "
+"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
+"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+"Chào mừng tới Divi! Trường khi tìm chủ đề mới của bạn, vui lòng ghé thăm "
+"trang <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target="
+"\"_blank\">Divi Documentation</a> để truy cập vào hàng chục bài hướng dẫn "
+"chuyên sâu."
+
+#: ../functions.php:97
+msgid "on"
+msgstr " "
+
+#: ../functions.php:154
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Vui lòng kiểm tra các trường nhập liệu bên dưới để chắc rằng mình đã nhập "
+"thông tin chính xác."
+
+#: ../functions.php:155
+msgid "Fill"
+msgstr "Điền"
+
+#: ../functions.php:156
+msgid "field"
+msgstr "trường"
+
+#: ../functions.php:157
+msgid "Invalid email"
+msgstr "Email không hợp lệ"
+
+#: ../functions.php:158
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../functions.php:159
+msgid "Prev"
+msgstr "Trước"
+
+#: ../functions.php:208
+msgid "Select Page"
+msgstr "Chọn trang"
+
+#: ../functions.php:246
+msgid "Divi Page Settings"
+msgstr "Thiết lập Trang Divi"
+
+#: ../functions.php:247
+msgid "Divi Post Settings"
+msgstr "Thiết lập Bài viết Divi"
+
+#: ../functions.php:248
+msgid "Divi Product Settings"
+msgstr "Thiết lập Sản phẩm Divi"
+
+#: ../functions.php:249
+msgid "Divi Project Settings"
+msgstr "Thiết lập Dự án Divi"
+
+#: ../functions.php:255
+msgid "Projects"
+msgstr "Dự án"
+
+#: ../functions.php:256
+msgid "Project"
+msgstr "Dự án"
+
+#: ../functions.php:257
+msgid "Add New"
+msgstr "Thêm Mới"
+
+#: ../functions.php:258
+msgid "Add New Project"
+msgstr "Thêm Dự án Mới"
+
+#: ../functions.php:259
+msgid "Edit Project"
+msgstr "Sửa Dự án"
+
+#: ../functions.php:260
+msgid "New Project"
+msgstr "Dự án Mới"
+
+#: ../functions.php:261
+msgid "All Projects"
+msgstr "Tất cả Dự án"
+
+#: ../functions.php:262
+msgid "View Project"
+msgstr "Xem Dự án"
+
+#: ../functions.php:263
+msgid "Search Projects"
+msgstr "Tìm Dự án"
+
+#: ../functions.php:264
+msgid "Nothing found"
+msgstr "Không thấy gì"
+
+#: ../functions.php:265
+msgid "Nothing found in Trash"
+msgstr "Không thấy gì trong Thùng rác"
+
+#: ../functions.php:293
+msgid "Category"
+msgstr "Mục"
+
+#: ../functions.php:294
+msgid "Search Categories"
+msgstr "Tìm Mục"
+
+#: ../functions.php:295
+msgid "All Categories"
+msgstr "Tất cả Mục"
+
+#: ../functions.php:296
+msgid "Parent Category"
+msgstr "Mục Cấp trên"
+
+#: ../functions.php:297
+msgid "Parent Category:"
+msgstr "Mục Cấp trên:"
+
+#: ../functions.php:298
+msgid "Edit Category"
+msgstr "Sửa Mục"
+
+#: ../functions.php:299
+msgid "Update Category"
+msgstr "Cập nhật Mục"
+
+#: ../functions.php:300
+msgid "Add New Category"
+msgstr "Thêm Mục Mới"
+
+#: ../functions.php:301
+msgid "New Category Name"
+msgstr "Tên Mục Mới"
+
+#: ../functions.php:314 ../functions.php:324
+msgid "Tags"
+msgstr "Nhãn"
+
+#: ../functions.php:315
+msgid "Tag"
+msgstr "Nhãn"
+
+#: ../functions.php:316
+msgid "Search Tags"
+msgstr "Tìm Nhãn"
+
+#: ../functions.php:317
+msgid "All Tags"
+msgstr "Tất cả Nhãn"
+
+#: ../functions.php:318
+msgid "Parent Tag"
+msgstr "Nhãn Cấp trên"
+
+#: ../functions.php:319
+msgid "Parent Tag:"
+msgstr "Nhãn Cấp trên:"
+
+#: ../functions.php:320
+msgid "Edit Tag"
+msgstr "Sửa Nhãn"
+
+#: ../functions.php:321
+msgid "Update Tag"
+msgstr "Cập nhật Nhãn"
+
+#: ../functions.php:322
+msgid "Add New Tag"
+msgstr "Thêm Nhãn Mới"
+
+#: ../functions.php:323
+msgid "New Tag Name"
+msgstr "Tên Nhãn Mới"
+
+#: ../functions.php:340
+msgid "Skills"
+msgstr "Kĩ năng"
+
+#: ../functions.php:343
+msgid "Posted on"
+msgstr "Đăng vào"
+
+#: ../functions.php:370
+msgid "Light"
+msgstr "Sáng"
+
+#: ../functions.php:371
+msgid "Dark"
+msgstr "Tối"
+
+#: ../functions.php:384
+msgid "Page Layout"
+msgstr "Bố trí Trang"
+
+#: ../functions.php:398
+msgid "Dot Navigation"
+msgstr "Chấm điều hướng"
+
+#: ../functions.php:401 ../functions.php:409
+msgid "Off"
+msgstr "Tắt"
+
+#: ../functions.php:402 ../functions.php:410
+msgid "On"
+msgstr "Bật"
+
+#: ../functions.php:406
+msgid "Hide Nav Before Scroll"
+msgstr "Ẩn điều hướng Trước khi Cuộn"
+
+#: ../functions.php:416
+msgid "Post Title"
+msgstr "Tên bài viết"
+
+#: ../functions.php:419
+msgid "Show"
+msgstr "Hiển thị"
+
+#: ../functions.php:420
+msgid "Hide"
+msgstr "Ẩn"
+
+#: ../functions.php:425
+msgid "Use Background Color"
+msgstr "Dùng Màu Nền"
+
+#: ../functions.php:430 ../functions.php:5510
+msgid "Hex Value"
+msgstr "Giá trị Màu"
+
+#: ../functions.php:434 ../functions.php:1697 ../functions.php:1722
+#: ../functions.php:1845 ../functions.php:2350 ../functions.php:2449
+#: ../functions.php:2655
+msgid "Text Color"
+msgstr "Màu Chữ"
+
+#: ../functions.php:626
+msgid "Typography"
+msgstr "Kiểu in"
+
+#: ../functions.php:631
+msgid "Mobile Styles"
+msgstr "Kiểu Điện thoại"
+
+#: ../functions.php:636
+msgid "Tablet"
+msgstr "Máy tính bảng"
+
+#: ../functions.php:641
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: ../functions.php:646
+msgid "Mobile Menu"
+msgstr "Danh mục cho Điện thoại"
+
+#: ../functions.php:651
+msgid "Background"
+msgstr "Nền"
+
+#: ../functions.php:656
+msgid "Header & Navigation"
+msgstr "Đầu trang & Điều hướng"
+
+#: ../functions.php:661
+msgid "Header Format"
+msgstr "Định dạng Đầu trang"
+
+#: ../functions.php:666
+msgid "Primary Menu Bar"
+msgstr "Thanh danh mục sơ cấp"
+
+#: ../functions.php:671
+msgid "Secondary Menu Bar"
+msgstr "Thanh danh mục thứ cấp"
+
+#: ../functions.php:676
+msgid "Fixed Navigation Settings"
+msgstr "Thiết lập Điều hướng Cố định"
+
+#: ../functions.php:681
+msgid "Header Elements"
+msgstr "Các Nhân tố Đầu trang"
+
+#: ../functions.php:686
+msgid "Footer"
+msgstr "Cuối trang"
+
+#: ../functions.php:691
+msgid "Layout"
+msgstr "Bố trí"
+
+#: ../functions.php:696
+msgid "Widgets"
+msgstr "Các Công cụ"
+
+#: ../functions.php:701
+msgid "Footer Elements"
+msgstr "Các Nhân tố Cuối trang"
+
+#: ../functions.php:711
+msgid "Bottom Bar"
+msgstr "Thanh Cuối"
+
+#: ../functions.php:716 ../functions.php:1411
+msgid "Color Schemes"
+msgstr "Sắc thái Màu"
+
+#: ../functions.php:718
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Ghi chú: thiết đặt màu sắc ở trên được áp dụng cho sắc thái màu Mặc định."
+
+#: ../functions.php:722
+msgid "Buttons"
+msgstr "Các Nút"
+
+#: ../functions.php:727
+msgid "Buttons Style"
+msgstr "Dạng Nút"
+
+#: ../functions.php:732
+msgid "Buttons Hover Style"
+msgstr "Dạng Nút khi di chuột"
+
+#: ../functions.php:737 ../functions.php:4774
+msgid "Blog"
+msgstr "Blog"
+
+#: ../functions.php:742
+msgid "Post"
+msgstr "Bài viết"
+
+#: ../functions.php:754
+msgid "Meta Text Size"
+msgstr "Kích cỡ chữ lý Lịch dữ liệu"
+
+#: ../functions.php:772
+msgid "Meta Line Height"
+msgstr "Chiều cao dòng chữ Lý lịch dữ liệu"
+
+#: ../functions.php:790
+msgid "Meta Letter Spacing"
+msgstr "Khoảng cách chữ Lý lịch dữ liệu"
+
+#: ../functions.php:808 ../functions.php:4845 ../functions.php:4931
+msgid "Meta Font Style"
+msgstr "Dạng phông chữ Lý lịch dữ liệu"
+
+#: ../functions.php:812 ../functions.php:885 ../functions.php:1276
+#: ../functions.php:1598 ../functions.php:1682 ../functions.php:2119
+#: ../functions.php:2174 ../functions.php:2303 ../functions.php:2367
+#: ../functions.php:2546 ../functions.php:2825 ../functions.php:2864
+#: ../functions.php:2938 ../functions.php:3024 ../functions.php:3063
+#: ../functions.php:3091 ../functions.php:3111 ../functions.php:3215
+#: ../functions.php:3254 ../functions.php:3293 ../functions.php:3340
+#: ../functions.php:3406 ../functions.php:3445 ../functions.php:3492
+#: ../functions.php:3558 ../functions.php:3652 ../functions.php:3691
+#: ../functions.php:3766 ../functions.php:3805 ../functions.php:3844
+#: ../functions.php:3891 ../functions.php:3930 ../functions.php:4014
+#: ../functions.php:4053 ../functions.php:4100 ../functions.php:4139
+#: ../functions.php:4185 ../functions.php:4205 ../functions.php:4291
+#: ../functions.php:4311 ../functions.php:4396 ../functions.php:4435
+#: ../functions.php:4493 ../functions.php:4540 ../functions.php:4705
+#: ../functions.php:4744 ../functions.php:4810 ../functions.php:4849
+#: ../functions.php:4896 ../functions.php:4935 ../functions.php:4982
+#: ../functions.php:5021 ../functions.php:5060 ../functions.php:5099
+#: ../functions.php:5146 ../functions.php:5193 ../functions.php:5259
+#: ../functions.php:5298
+msgid "Bold"
+msgstr "Đậm"
+
+#: ../functions.php:813 ../functions.php:886 ../functions.php:1277
+#: ../functions.php:1599 ../functions.php:1683 ../functions.php:2120
+#: ../functions.php:2175 ../functions.php:2304 ../functions.php:2368
+#: ../functions.php:2547 ../functions.php:2826 ../functions.php:2865
+#: ../functions.php:2939 ../functions.php:3025 ../functions.php:3064
+#: ../functions.php:3092 ../functions.php:3112 ../functions.php:3216
+#: ../functions.php:3255 ../functions.php:3294 ../functions.php:3341
+#: ../functions.php:3407 ../functions.php:3446 ../functions.php:3493
+#: ../functions.php:3559 ../functions.php:3653 ../functions.php:3692
+#: ../functions.php:3767 ../functions.php:3806 ../functions.php:3845
+#: ../functions.php:3892 ../functions.php:3931 ../functions.php:4015
+#: ../functions.php:4054 ../functions.php:4101 ../functions.php:4140
+#: ../functions.php:4186 ../functions.php:4206 ../functions.php:4292
+#: ../functions.php:4312 ../functions.php:4397 ../functions.php:4436
+#: ../functions.php:4494 ../functions.php:4541 ../functions.php:4706
+#: ../functions.php:4745 ../functions.php:4811 ../functions.php:4850
+#: ../functions.php:4897 ../functions.php:4936 ../functions.php:4983
+#: ../functions.php:5022 ../functions.php:5061 ../functions.php:5100
+#: ../functions.php:5147 ../functions.php:5194 ../functions.php:5260
+#: ../functions.php:5299
+msgid "Italic"
+msgstr "Nghiêng"
+
+#: ../functions.php:814 ../functions.php:887 ../functions.php:1278
+#: ../functions.php:1600 ../functions.php:1684 ../functions.php:2121
+#: ../functions.php:2176 ../functions.php:2305 ../functions.php:2369
+#: ../functions.php:2548 ../functions.php:2827 ../functions.php:2866
+#: ../functions.php:2940 ../functions.php:3026 ../functions.php:3065
+#: ../functions.php:3093 ../functions.php:3113 ../functions.php:3217
+#: ../functions.php:3256 ../functions.php:3295 ../functions.php:3342
+#: ../functions.php:3408 ../functions.php:3447 ../functions.php:3494
+#: ../functions.php:3560 ../functions.php:3654 ../functions.php:3693
+#: ../functions.php:3768 ../functions.php:3807 ../functions.php:3846
+#: ../functions.php:3893 ../functions.php:3932 ../functions.php:4016
+#: ../functions.php:4055 ../functions.php:4102 ../functions.php:4141
+#: ../functions.php:4187 ../functions.php:4207 ../functions.php:4293
+#: ../functions.php:4313 ../functions.php:4398 ../functions.php:4437
+#: ../functions.php:4495 ../functions.php:4542 ../functions.php:4707
+#: ../functions.php:4746 ../functions.php:4812 ../functions.php:4851
+#: ../functions.php:4898 ../functions.php:4937 ../functions.php:4984
+#: ../functions.php:5023 ../functions.php:5062 ../functions.php:5101
+#: ../functions.php:5148 ../functions.php:5195 ../functions.php:5261
+#: ../functions.php:5300
+msgid "Uppercase"
+msgstr "Viết hoa"
+
+#: ../functions.php:815 ../functions.php:888 ../functions.php:1279
+#: ../functions.php:1601 ../functions.php:1685 ../functions.php:2122
+#: ../functions.php:2177 ../functions.php:2306 ../functions.php:2370
+#: ../functions.php:2549 ../functions.php:2828 ../functions.php:2867
+#: ../functions.php:2941 ../functions.php:3027 ../functions.php:3066
+#: ../functions.php:3094 ../functions.php:3114 ../functions.php:3218
+#: ../functions.php:3257 ../functions.php:3296 ../functions.php:3343
+#: ../functions.php:3409 ../functions.php:3448 ../functions.php:3495
+#: ../functions.php:3561 ../functions.php:3655 ../functions.php:3694
+#: ../functions.php:3769 ../functions.php:3808 ../functions.php:3847
+#: ../functions.php:3894 ../functions.php:3933 ../functions.php:4017
+#: ../functions.php:4056 ../functions.php:4103 ../functions.php:4142
+#: ../functions.php:4188 ../functions.php:4208 ../functions.php:4294
+#: ../functions.php:4314 ../functions.php:4399 ../functions.php:4438
+#: ../functions.php:4496 ../functions.php:4543 ../functions.php:4708
+#: ../functions.php:4747 ../functions.php:4813 ../functions.php:4852
+#: ../functions.php:4899 ../functions.php:4938 ../functions.php:4985
+#: ../functions.php:5024 ../functions.php:5063 ../functions.php:5102
+#: ../functions.php:5149 ../functions.php:5196 ../functions.php:5262
+#: ../functions.php:5301
+msgid "Underline"
+msgstr "Gạch chân"
+
+#: ../functions.php:827 ../functions.php:1218 ../functions.php:1291
+#: ../functions.php:1309 ../functions.php:2097
+msgid "Header Text Size"
+msgstr "Kích chữ Chữ Đầu trang"
+
+#: ../functions.php:845 ../functions.php:1254
+msgid "Header Line Height"
+msgstr "Chiều cao Dòng Đầu trang"
+
+#: ../functions.php:863 ../functions.php:1236
+msgid "Header Letter Spacing"
+msgstr "Khoảng cách Chữ Đầu trang"
+
+#: ../functions.php:881 ../functions.php:1272 ../functions.php:2115
+#: ../functions.php:3020 ../functions.php:3211 ../functions.php:3336
+#: ../functions.php:3402 ../functions.php:3488 ../functions.php:3554
+#: ../functions.php:4392 ../functions.php:5142 ../functions.php:5255
+msgid "Header Font Style"
+msgstr "Dạng Phông chữ Đầu trang"
+
+#: ../functions.php:899
+msgid "Enable Boxed Layout"
+msgstr "Cho phép Bố cục dạng hộp"
+
+#: ../functions.php:912
+msgid "Website Content Width"
+msgstr "Chiều rộng Nội dung website"
+
+#: ../functions.php:930
+msgid "Website Gutter Width"
+msgstr "Khoảng cách Cột website"
+
+#: ../functions.php:947
+msgid "Use Custom Sidebar Width"
+msgstr ""
+
+#: ../functions.php:960
+msgid "Sidebar Width"
+msgstr "Chiều rộng Lhanh bên"
+
+#: ../functions.php:978 ../functions.php:996 ../functions.php:1014
+msgid "Section Height"
+msgstr "Chiều cao Mục"
+
+#: ../functions.php:1032 ../functions.php:1050 ../functions.php:1068
+msgid "Row Height"
+msgstr "Chiều cao Dòng"
+
+#: ../functions.php:1086
+msgid "Stretch Background Image"
+msgstr "Kéo giãn Ảnh Nền"
+
+#: ../functions.php:1093 ../functions.php:1748 ../functions.php:1819
+#: ../functions.php:1832 ../functions.php:2337 ../functions.php:2462
+#: ../functions.php:2668
+msgid "Background Color"
+msgstr "Màu Nền"
+
+#: ../functions.php:1100
+msgid "Background Image"
+msgstr "Hình Nền:"
+
+#: ../functions.php:1106
+msgid "Background Repeat"
+msgstr "Lặp lại Nền"
+
+#: ../functions.php:1110
+msgid "No Repeat"
+msgstr "Không lặp lại"
+
+#: ../functions.php:1111
+msgid "Tile"
+msgstr "Tiêu đề"
+
+#: ../functions.php:1112
+msgid "Tile Horizontally"
+msgstr "Tiêu đề Ngang"
+
+#: ../functions.php:1113
+msgid "Tile Vertically"
+msgstr "Tiêu đề Dọc"
+
+#: ../functions.php:1118 ../functions.php:1129
+msgid "Background Position"
+msgstr "Vị trí Nền"
+
+#: ../functions.php:1122 ../functions.php:2626
+msgid "Left"
+msgstr "Trái"
+
+#: ../functions.php:1123
+msgid "Center"
+msgstr "Giữa"
+
+#: ../functions.php:1124 ../functions.php:2625
+msgid "Right"
+msgstr "Phải"
+
+#: ../functions.php:1133
+msgid "Scroll"
+msgstr "Cuộn"
+
+#: ../functions.php:1134
+msgid "Fixed"
+msgstr "Cố định"
+
+#: ../functions.php:1146 ../functions.php:1182 ../functions.php:1200
+msgid "Body Text Size"
+msgstr "Kích Cỡ chữ phần thân"
+
+#: ../functions.php:1164
+msgid "Body Line Height"
+msgstr "Chiều cao dòng Thân website"
+
+#: ../functions.php:1328
+msgid "Header Font"
+msgstr "Kiểu chữ Đầu trang"
+
+#: ../functions.php:1343
+msgid "Body Font"
+msgstr "Kiểu chữ Thân trang"
+
+#: ../functions.php:1359
+msgid "Body Link Color"
+msgstr "Màu Liên kết phần thân"
+
+#: ../functions.php:1372
+msgid "Body Text Color"
+msgstr "Màu chữ Thân website"
+
+#: ../functions.php:1385
+msgid "Header Text Color"
+msgstr "Màu chữ Đầu trang"
+
+#: ../functions.php:1398
+msgid "Theme Accent Color"
+msgstr "Màu Chủ đạo của Chủ đề"
+
+#: ../functions.php:1416 ../functions.php:1436 ../functions.php:5474
+msgid "Default"
+msgstr "Mặc định"
+
+#: ../functions.php:1417
+msgid "Green"
+msgstr "Xanh lá"
+
+#: ../functions.php:1418
+msgid "Orange"
+msgstr "Cam"
+
+#: ../functions.php:1419
+msgid "Pink"
+msgstr "Hồng"
+
+#: ../functions.php:1420
+msgid "Red"
+msgstr "Đỏ"
+
+#: ../functions.php:1432
+msgid "Header Style"
+msgstr "Kiểu Đầu trang"
+
+#: ../functions.php:1437
+msgid "Centered"
+msgstr "Canh giữa"
+
+#: ../functions.php:1438
+msgid "Centered Inline Logo"
+msgstr "Logo Trung tâm trong hàng"
+
+#: ../functions.php:1449
+msgid "Enable Vertical Navigation"
+msgstr "Cho phép Điều hướng Dọc"
+
+#: ../functions.php:1461
+msgid "Hide Navigation Until Scroll"
+msgstr "Ẩn Điều hướng cho đến lúc cuộn"
+
+#: ../functions.php:1473 ../functions.php:2045
+msgid "Show Social Icons"
+msgstr "Hiển thị các Biểu tượng Mạng xã hội"
+
+#: ../functions.php:1486
+msgid "Show Search Icon"
+msgstr "Hiện Biểu tượng Tìm kiếm"
+
+#: ../functions.php:1498 ../functions.php:1619
+msgid "Make Full Width"
+msgstr "Chọn Chiều rộng Tối đa"
+
+#: ../functions.php:1510 ../functions.php:1709 ../functions.php:1919
+msgid "Hide Logo Image"
+msgstr "Ẩn Hình ảnh Logo"
+
+#: ../functions.php:1523
+msgid "Menu/Logo Height"
+msgstr "Chiều cao danh mục/Logo"
+
+#: ../functions.php:1541 ../functions.php:1625 ../functions.php:1950
+#: ../functions.php:2431
+msgid "Text Size"
+msgstr "Kích cỡ Chữ"
+
+#: ../functions.php:1559 ../functions.php:1643 ../functions.php:2281
+#: ../functions.php:2524 ../functions.php:2712
+msgid "Letter Spacing"
+msgstr "Khoảng cách Chữ"
+
+#: ../functions.php:1578 ../functions.php:1662
+msgid "Font"
+msgstr "Phông Chữ"
+
+#: ../functions.php:1594 ../functions.php:1678 ../functions.php:2299
+#: ../functions.php:2363
+msgid "Font Style"
+msgstr "Kiểu phông chữ"
+
+#: ../functions.php:1735
+msgid "Active Link Color"
+msgstr "Màu Link hoạt động"
+
+#: ../functions.php:1761 ../functions.php:1858
+msgid "Dropdown Menu Background Color"
+msgstr "Màu nền Danh mục Thả xuống"
+
+#: ../functions.php:1774
+msgid "Dropdown Menu Line Color"
+msgstr "Màu dòng Danh mục Thả xuống"
+
+#: ../functions.php:1787 ../functions.php:1871
+msgid "Dropdown Menu Text Color"
+msgstr "Màu chữ Danh mục Thả xuống"
+
+#: ../functions.php:1800 ../functions.php:1884
+msgid "Dropdown Menu Animation"
+msgstr "Minh họa Danh mục Thả xuống"
+
+#: ../functions.php:1804 ../functions.php:1888
+msgid "Fade"
+msgstr "Mờ"
+
+#: ../functions.php:1805 ../functions.php:1889
+msgid "Expand"
+msgstr "Mở rộng"
+
+#: ../functions.php:1806 ../functions.php:1890
+msgid "Slide"
+msgstr "Slide"
+
+#: ../functions.php:1807 ../functions.php:1891
+msgid "Flip"
+msgstr "Lật"
+
+#: ../functions.php:1932
+msgid "Fixed Menu/Logo Height"
+msgstr "Chiều cao Danh mục/Logo Cố định"
+
+#: ../functions.php:1968
+msgid "Primary Menu Background Color"
+msgstr "Màu nền Danh mục Sơ cấp"
+
+#: ../functions.php:1981
+msgid "Secondary Menu Background Color"
+msgstr "Màu nền Danh mục thứ cấp"
+
+#: ../functions.php:1994
+msgid "Menu Link Color"
+msgstr "Màu liên kết danh mục"
+
+#: ../functions.php:2007
+msgid "Active Menu Link Color"
+msgstr "Màu Liên kết Trình đơn Kích hoạt"
+
+#: ../functions.php:2020
+msgid "Phone Number"
+msgstr "Số Điện thoại"
+
+#: ../functions.php:2032
+msgid "Email"
+msgstr "Email"
+
+#: ../functions.php:2058
+msgid "Column Layout"
+msgstr "Bố cục cột"
+
+#: ../functions.php:2063 ../functions.php:2064 ../functions.php:2065
+#: ../functions.php:2067 ../functions.php:2068 ../functions.php:2069
+#: ../functions.php:2070 ../functions.php:2071 ../functions.php:2072
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s Các cột"
+
+#: ../functions.php:2066
+msgid "1 Column"
+msgstr "1 Cột"
+
+#: ../functions.php:2084
+msgid "Footer Background Color"
+msgstr "Màu Nền Chân trang"
+
+#: ../functions.php:2134
+msgid "Body/Link Text Size"
+msgstr "Kích cỡ chữ phần thân/liên kết"
+
+#: ../functions.php:2152
+msgid "Body/Link Line Height"
+msgstr "Chiều cao dòng phần thân/liên kết"
+
+#: ../functions.php:2170
+msgid "Body Font Style"
+msgstr "Dạng phông chữ phần thân"
+
+#: ../functions.php:2189
+msgid "Widget Text Color"
+msgstr "Màu chữ Công cụ"
+
+#: ../functions.php:2202
+msgid "Widget Link Color"
+msgstr "Màu Liên kết Công cụ"
+
+#: ../functions.php:2215
+msgid "Widget Header Color"
+msgstr "Màu Đầu trang Công cục"
+
+#: ../functions.php:2228
+msgid "Widget Bullet Color"
+msgstr "Màu Chấm Công cụ"
+
+#: ../functions.php:2242
+msgid "Footer Menu Background Color"
+msgstr "Màu nền Danh mục Cuối trang"
+
+#: ../functions.php:2255
+msgid "Footer Menu Text Color"
+msgstr "Màu chữ Danh mục Cuối trang"
+
+#: ../functions.php:2268
+msgid "Footer Menu Active Link Color"
+msgstr "Màu Liên kết hoạt động Danh mục Cuối trang"
+
+#: ../functions.php:2318 ../functions.php:2382
+msgid "Font Size"
+msgstr "Kích cỡ phông chữ"
+
+#: ../functions.php:2400
+msgid "Social Icon Size"
+msgstr "Kích cỡ Biểu tượng Mạng Xã hội"
+
+#: ../functions.php:2418
+msgid "Social Icon Color"
+msgstr "Màu Biểu tượng Mạng Xã hội"
+
+#: ../functions.php:2475
+msgid "Border Width"
+msgstr "Chiều rộng Khung viền"
+
+#: ../functions.php:2493 ../functions.php:2681
+msgid "Border Color"
+msgstr "Màu Khung viền"
+
+#: ../functions.php:2506 ../functions.php:2694
+msgid "Border Radius"
+msgstr "Bán kính Khung viền"
+
+#: ../functions.php:2542 ../functions.php:5189
+msgid "Button Font Style"
+msgstr "Dạng Phông chữ của Nút"
+
+#: ../functions.php:2562
+msgid "Buttons Font"
+msgstr "Phông chữ của Nút"
+
+#: ../functions.php:2578
+msgid "Add Button Icon"
+msgstr "Thêm Biểu tượng Nút"
+
+#: ../functions.php:2582 ../functions.php:2642
+msgid "Yes"
+msgstr "Có"
+
+#: ../functions.php:2583 ../functions.php:2643
+msgid "No"
+msgstr "Không"
+
+#: ../functions.php:2595
+msgid "Select Icon"
+msgstr "Lựa chọn Biểu tượng"
+
+#: ../functions.php:2608
+msgid "Icon Color"
+msgstr "Màu sắc Biểu tượng"
+
+#: ../functions.php:2621
+msgid "Icon Placement"
+msgstr "Đặt Biểu tượng"
+
+#: ../functions.php:2638
+msgid "Only Show Icon on Hover"
+msgstr "Chỉ Hiển thị Biểu tượng khi Di chuột"
+
+#: ../functions.php:2727
+msgid "Left to Right"
+msgstr "Từ Trái sang Phải"
+
+#: ../functions.php:2728
+msgid "Right to Left"
+msgstr "Từ Phải sang Trái"
+
+#: ../functions.php:2729
+msgid "Top to Bottom"
+msgstr "Từ Trên xuống Dưới"
+
+#: ../functions.php:2730
+msgid "Bottom to Top"
+msgstr "Từ Dưới lên Trên"
+
+#: ../functions.php:2731
+msgid "Fade In"
+msgstr "Từ Từ Đưa Vào"
+
+#: ../functions.php:2732
+msgid "No Animation"
+msgstr "Không Ảnh Động"
+
+#: ../functions.php:2739 ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "Ảnh"
+
+#: ../functions.php:2740
+msgid "Image Module Settings"
+msgstr "Thiết Lập Mô-đun Ảnh"
+
+#: ../functions.php:2750
+msgid "Animation"
+msgstr "Ảnh Động"
+
+#: ../functions.php:2751
+msgid "This controls default direction of the lazy-loading animation."
+msgstr "Chế độ này điều khiển hướng mặc định của các minh hoạt tải về chậm"
+
+#: ../functions.php:2761
+msgid "Gallery"
+msgstr "Thư Viện"
+
+#: ../functions.php:2774 ../functions.php:3601 ../functions.php:3715
+msgid "Zoom Icon Color"
+msgstr "Màu Biểu tượng Thu Phóng"
+
+#: ../functions.php:2788 ../functions.php:3615 ../functions.php:3729
+msgid "Hover Overlay Color"
+msgstr "Màu của Hình đè khi di chuột"
+
+#: ../functions.php:2802 ../functions.php:2915 ../functions.php:3629
+#: ../functions.php:3743 ../functions.php:4030 ../functions.php:4116
+#: ../functions.php:4162 ../functions.php:4268
+msgid "Title Font Size"
+msgstr "Kích cỡ Phông chữ Tiêu đề"
+
+#: ../functions.php:2821 ../functions.php:2934 ../functions.php:3648
+#: ../functions.php:3762 ../functions.php:4049 ../functions.php:4135
+#: ../functions.php:4806 ../functions.php:4892
+msgid "Title Font Style"
+msgstr "Kiểu Phông chữ Tiêu đều"
+
+#: ../functions.php:2841 ../functions.php:3668 ../functions.php:3782
+msgid "Caption Font Size"
+msgstr "Kích cỡ Phông chữ Chú thích"
+
+#: ../functions.php:2860 ../functions.php:3687 ../functions.php:3801
+msgid "Caption Font Style"
+msgstr "Kiểu Phông chữ Chú thích"
+
+#: ../functions.php:2875
+msgid "Blurb"
+msgstr "Lời giới thiệu"
+
+#: ../functions.php:2888 ../functions.php:3001 ../functions.php:3192
+#: ../functions.php:3317 ../functions.php:3383 ../functions.php:3469
+#: ../functions.php:3535 ../functions.php:4373 ../functions.php:5123
+#: ../functions.php:5236
+msgid "Header Font Size"
+msgstr "Kích cỡ Phông chữ Đầu trang"
+
+#: ../functions.php:2902
+msgid "Tabs"
+msgstr "Thẻ"
+
+#: ../functions.php:2955 ../functions.php:3356 ../functions.php:3508
+#: ../functions.php:3574
+msgid "Padding"
+msgstr "Đệm"
+
+#: ../functions.php:2969
+msgid "Slider"
+msgstr "Thanh Trượt"
+
+#: ../functions.php:2982 ../functions.php:5217
+msgid "Top & Bottom Padding"
+msgstr "Khoảng đệm Đầu & Cuối"
+
+#: ../functions.php:3040 ../functions.php:5275
+msgid "Content Font Size"
+msgstr "Kích cỡ Phông chữ Nội dung"
+
+#: ../functions.php:3059 ../functions.php:5294
+msgid "Content Font Style"
+msgstr "Kiểu Phông chữ Nội dung"
+
+#: ../functions.php:3074
+msgid "Testimonial"
+msgstr "Lời khen ngợi"
+
+#: ../functions.php:3087 ../functions.php:4701
+msgid "Name Font Style"
+msgstr "Kiểu Phông chữ Tên"
+
+#: ../functions.php:3107
+msgid "Details Font Style"
+msgstr "Kiểu Phông chữ Chi tiết"
+
+#: ../functions.php:3127
+msgid "Portrait Border Radius"
+msgstr "Bán kính Khung viền Chân dung"
+
+#: ../functions.php:3179
+msgid "Pricing Table"
+msgstr "Bảng Giá"
+
+#: ../functions.php:3231 ../functions.php:3422 ../functions.php:4721
+msgid "Subheader Font Size"
+msgstr "Kích cỡ Phông chữ Tiêu đề phụ"
+
+#: ../functions.php:3250 ../functions.php:3441 ../functions.php:4740
+msgid "Subheader Font Style"
+msgstr "Kiểu Phông chữ"
+
+#: ../functions.php:3270 ../functions.php:5037
+msgid "Price Font Size"
+msgstr "Kích cỡ Phông chữ Giá"
+
+#: ../functions.php:3289
+msgid "Pricing Font Style"
+msgstr "Kiểu Phông chữ Định giá"
+
+#: ../functions.php:3304
+msgid "Call To Action"
+msgstr "Lệnh Hành Động"
+
+#: ../functions.php:3370
+msgid "Audio"
+msgstr "Âm thanh"
+
+#: ../functions.php:3456
+msgid "Subscribe"
+msgstr "Đăng ký"
+
+#: ../functions.php:3588
+msgid "Portfolio"
+msgstr "Hồ Sơ"
+
+#: ../functions.php:3702
+msgid "Filterable Portfolio"
+msgstr "Hồ Sơ Có Thể Lọc Được"
+
+#: ../functions.php:3821
+msgid "Filters Font Size"
+msgstr "Kích cỡ Phông chữ Bộ lọc"
+
+#: ../functions.php:3840
+msgid "Filters Font Style"
+msgstr "Kiểu Phông chữ Bộ lọc"
+
+#: ../functions.php:3855
+msgid "Bar Counter"
+msgstr "Thanh Bộ đếm"
+
+#: ../functions.php:3868
+msgid "Label Font Size"
+msgstr "Kích cỡ Phông chữ Nhãn"
+
+#: ../functions.php:3887
+msgid "Label Font Style"
+msgstr "Kiểu Phông chữ Nhãn"
+
+#: ../functions.php:3907
+msgid "Percent Font Size"
+msgstr "Kích cỡ Phông chữ Phần trăm"
+
+#: ../functions.php:3926
+msgid "Percent Font Style"
+msgstr "Kiểu Phông chữ Phần trăm"
+
+#: ../functions.php:3946
+msgid "Bar Padding"
+msgstr "Khoảng đệm Thanh"
+
+#: ../functions.php:3965
+msgid "Bar Border Radius"
+msgstr "Bán Kính Khung viền Thanh"
+
+#: ../functions.php:3979
+msgid "Circle Counter"
+msgstr "Bộ Đếm Hình Tròn"
+
+#: ../functions.php:3991 ../functions.php:4077
+msgid "Number Font Size"
+msgstr "Kích cỡ Phông chữ Số"
+
+#: ../functions.php:4010 ../functions.php:4096
+msgid "Number Font Style"
+msgstr "Kiểu Phông chữ Số"
+
+#: ../functions.php:4064
+msgid "Number Counter"
+msgstr "Bộ Đếm Dạng Số"
+
+#: ../functions.php:4150
+msgid "Accordion"
+msgstr "Dạng Thu Gọn"
+
+#: ../functions.php:4181 ../functions.php:4287
+msgid "Opened Title Font Style"
+msgstr "Kiểu Phông chữ Tiêu đề mở"
+
+#: ../functions.php:4201 ../functions.php:4307
+msgid "Closed Title Font Style"
+msgstr "Kiểu Phông chữ Tiêu đề đóng"
+
+#: ../functions.php:4221 ../functions.php:4327
+msgid "Toggle Icon Size"
+msgstr "Kích cỡ Biểu tượng Công tắc"
+
+#: ../functions.php:4241 ../functions.php:4346
+msgid "Toggle Padding"
+msgstr "Khoảng đệm Công tắc"
+
+#: ../functions.php:4255
+msgid "Toggle"
+msgstr "Đảo trạng thái"
+
+#: ../functions.php:4360
+msgid "Contact Form"
+msgstr "Biểu mẫu Liên hệ"
+
+#: ../functions.php:4412
+msgid "Input Font Size"
+msgstr "Kích cỡ Phông chữ Đầu vào"
+
+#: ../functions.php:4431
+msgid "Input Font Style"
+msgstr "Kiểu Phông chữ Đầu vào"
+
+#: ../functions.php:4451
+msgid "Input Field Padding"
+msgstr "Khoảng đệm Trường Đầu vào"
+
+#: ../functions.php:4470
+msgid "Captcha Font Size"
+msgstr "Kích cỡ Phông chữ Captcha"
+
+#: ../functions.php:4489
+msgid "Captcha Font Style"
+msgstr "Kiểu Phông chữ Captcha"
+
+#: ../functions.php:4504 ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Thanh trượt"
+
+#: ../functions.php:4517
+msgid "Widget Header Font Size"
+msgstr "Kích cỡ Phông chữ Đầu trang Công cụ"
+
+#: ../functions.php:4536
+msgid "Widget Header Font Style"
+msgstr "Kiểu Phông chữ Đầu trang Công cụ"
+
+#: ../functions.php:4556
+msgid "Remove Vertical Divider"
+msgstr "Bỏ Bộ chia Dọc"
+
+#: ../functions.php:4565
+msgid "Divider"
+msgstr "Khoảng ngăn"
+
+#: ../functions.php:4577
+msgid "Show Divider"
+msgstr "Hiển thị Dòng phần chia"
+
+#: ../functions.php:4591
+msgid "Divider Style"
+msgstr "Kiểu Nhân tố Chia"
+
+#: ../functions.php:4596
+msgid "Solid"
+msgstr "Khung viền nét liền"
+
+#: ../functions.php:4597
+msgid "Dotted"
+msgstr "Khung viền nét chấm"
+
+#: ../functions.php:4598
+msgid "Dashed"
+msgstr "Khung viền nét gạch"
+
+#: ../functions.php:4599
+msgid "Double"
+msgstr "Khung viền đôi"
+
+#: ../functions.php:4600
+msgid "Groove"
+msgstr "Khung viền kiểu rãnh"
+
+#: ../functions.php:4601
+msgid "Ridge"
+msgstr "Cạnh"
+
+#: ../functions.php:4602
+msgid "Inset"
+msgstr "Khung viền bên trong"
+
+#: ../functions.php:4603
+msgid "Outset"
+msgstr "Khung viền bên ngoài"
+
+#: ../functions.php:4616
+msgid "Divider Weight"
+msgstr "Trọng số Nhân tố Chia"
+
+#: ../functions.php:4635
+msgid "Divider Height"
+msgstr "Chiều cao Bộ chia"
+
+#: ../functions.php:4654
+msgid "Divider Position"
+msgstr "Vị trí Nhân tố Chia"
+
+#: ../functions.php:4659
+msgid "Top"
+msgstr "Trên cùng"
+
+#: ../functions.php:4660
+msgid "Vertically Centered"
+msgstr "Căn giữa theo chiều dọc"
+
+#: ../functions.php:4661
+msgid "Bottom"
+msgstr "Dưới cùng"
+
+#: ../functions.php:4669
+msgid "Person"
+msgstr "Người"
+
+#: ../functions.php:4682
+msgid "Name Font Size"
+msgstr "Kích cỡ Phông chữ Tên"
+
+#: ../functions.php:4760
+msgid "Social Network Icon Size"
+msgstr "Kích cỡ Biểu tượng Mạng Xã hội"
+
+#: ../functions.php:4787 ../functions.php:4873
+msgid "Post Title Font Size"
+msgstr "Kích cỡ Phông chữ Tiêu đề Bài viết"
+
+#: ../functions.php:4826 ../functions.php:4912
+msgid "Meta Font Size"
+msgstr "Kích cỡ Phông chữ Lý lịch dữ liệu"
+
+#: ../functions.php:4860
+msgid "Masonry Blog"
+msgstr "Blog Masonry (blog bố cục dạng kẻ lưới)"
+
+#: ../functions.php:4946
+msgid "Shop"
+msgstr "Cửa hàng"
+
+#: ../functions.php:4959
+msgid "Product Name Font Size"
+msgstr "Kích cỡ Phông chữ Tên Sản phẩm"
+
+#: ../functions.php:4978
+msgid "Product Name Font Style"
+msgstr "Kiểu Phông chữ Tên Sản phẩm"
+
+#: ../functions.php:4998
+msgid "Sale Badge Font Size"
+msgstr "Kích cỡ Phông chữ Mác Bán hàng"
+
+#: ../functions.php:5017
+msgid "Sale Badge Font Style"
+msgstr "Kiểu Phông chữ Mác Bán hàng"
+
+#: ../functions.php:5056
+msgid "Price Font Style"
+msgstr "Kiểu Phông chữ Giá"
+
+#: ../functions.php:5076
+msgid "Sale Price Font Size"
+msgstr "Kích cỡ Phông chữ Giá bán"
+
+#: ../functions.php:5095
+msgid "Sale Price Font Style"
+msgstr "Kiểu Phông chữ Giá bán"
+
+#: ../functions.php:5110
+msgid "Countdown"
+msgstr "Bộ đếm ngược"
+
+#: ../functions.php:5157
+msgid "Social Follow"
+msgstr "Theo dõi trên Mạng xã hội"
+
+#: ../functions.php:5170
+msgid "Follow Font & Icon Size"
+msgstr "Phông chữ Theo dõi & Kích cỡ Biểu tượng"
+
+#: ../functions.php:5204
+msgid "Full Width Slider"
+msgstr "Slide toàn chiều rộng"
+
+#: ../functions.php:7875
+msgid "0 comments"
+msgstr "0 Lời bình"
+
+#: ../functions.php:7875
+msgid "1 comment"
+msgstr "1 Lời bình"
+
+#: ../functions.php:7875
+msgid "comments"
+msgstr "Lời bình"
+
+#: ../functions.php:8026
+msgid "No Gallery Found"
+msgstr ""
+
+#: ../functions.php:8028
+msgid "No items found"
+msgstr ""
+
+#: ../functions.php:8170
+msgid "Password Protected"
+msgstr "Đã Bảo Vệ Bằng Mật Khẩu"
+
+#: ../functions.php:8171
+msgid "To view this protected post, enter the password below"
+msgstr "Để xem bài đăng được bảo vệ này, hãy nhập mật khẩu bên dưới"
+
+#: ../functions.php:8174
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: ../functions.php:8175
+msgid "Submit"
+msgstr "Gửi"
+
+#: ../functions.php:8347
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:8349
+msgid "Item"
+msgstr "Mục"
+
+#: ../functions.php:8349
+msgid "Items"
+msgstr "Mục"
+
+#: ../functions.php:8524
+msgid "Connecting..."
+msgstr "Đang kết nối..."
+
+#: ../functions.php:8525
+msgid "Connection failed"
+msgstr "Kết nối thất bại"
+
+#: ../functions.php:8526
+msgid "Removing connection..."
+msgstr "Đang bỏ kết nối..."
+
+#: ../functions.php:8527
+msgid "Done"
+msgstr "Xong"
+
+#: ../functions.php:8556
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr "Bước 1: <a href=\"%1$s\" target=\"_blank\">Tạo mã uỷ quyền</a>"
+
+#: ../functions.php:8557
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr "Bước 2: Dán mã uỷ quyền vào và nhấp nút \"Tạo kết nối\": "
+
+#: ../functions.php:8558
+msgid "Make a connection"
+msgstr "Tạo kết nối"
+
+#: ../functions.php:8561
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber đã được thiết đặt đúng đắn. Bạn có thể bỏ kết nối ở đây nếu muốn."
+
+#: ../functions.php:8562
+msgid "Remove the connection"
+msgstr "Bỏ kết nối"
+
+#: ../functions.php:8570
+msgid "Nonce failed."
+msgstr "Nonce thất bại."
+
+#: ../functions.php:8576
+msgid "Authorization code is empty."
+msgstr "Mã uỷ quyền trống."
+
+#: ../functions.php:8587
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr "Mã uỷ quyền không hợp lệ. Hãy thử tạo lại mã mới và dán vào."
+
+#: ../functions.php:8609
+msgid "Aweber API Exception"
+msgstr "Ngoại lệ Aweber API"
+
+#: ../functions.php:8611
+msgid "Message"
+msgstr "Tin nhắn"
+
+#: ../functions.php:8622
+msgid "Nonce failed"
+msgstr "Nonce thất bại"
+
+#: ../functions.php:8717
+msgid "Read more"
+msgstr "Đọc thêm"
+
+#: ../functions.php:8845
+msgid "Configuration error"
+msgstr "Lỗi cấu hình"
+
+#: ../functions.php:8855
+msgid "Please enter first name"
+msgstr "Vui lòng nhập tên"
+
+#: ../functions.php:8857
+msgid "Incorrect email"
+msgstr "Email không hợp lệ"
+
+#: ../functions.php:8859
+msgid "Configuration error: List is not defined"
+msgstr "Lỗi cấu hình: chưa định nghĩa Danh sách"
+
+#: ../functions.php:8861
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr "<h2 class=\"et_pb_subscribed\">Đã đăng ký - hãy tìm thư xác nhận!</h2>"
+
+#: ../functions.php:8873
+msgid "Configuration error: api key is not defined"
+msgstr "Lỗi cấu hình: chưa định nghĩa khoá API"
+
+#: ../functions.php:8910
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: dữ liệu cấu hình sai"
+
+#: ../functions.php:8940 ../functions.php:8961
+msgid "Theme Customizer"
+msgstr "Bộ Tùy chỉnh Chủ đề"
+
+#: ../functions.php:8941 ../functions.php:8971
+msgid "Module Customizer"
+msgstr "Bộ Tùy chỉnh Mô đun"
+
+#: ../functions.php:8942
+msgid "Divi Library"
+msgstr "Thư viện Divi"
+
+#: ../header.php:176
+msgid "Search &hellip;"
+msgstr "Tìm kiếm &hellip;"
+
+#: ../header.php:178
+msgid "Search for:"
+msgstr "Tìm:"
+
+#. translators: 1: date, 2: time
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr "vào %1$s lúc %2$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Sửa)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Trả lời"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Lời bình của bạn đang được xem xét"
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Đọc Tài liệu Divi"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "Khu Vực Cuối Trang"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Xem video hướng dẫn"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Mục Cũ hơn"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Mục Kế tiếp &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Không Tìm thấy Kết quả"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Không tìm được trang bạn yêu cầu. Hãy thử tìm lại, hoặc dùng điều hướng bên "
+"trên để tìm bài đăng."
+
+#: ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Hiện Thông Tin Về Vản thân"
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "Tiện Ích Giới thiệu Bản thân"
+
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "Giới Thiệu Bản Thân"
+
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "Dòng Chữ"
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Hiện Quảng Cáo"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "Quảng Cáo"
+
+#: ../includes/widgets/widget-ads.php:12
+#: ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "Quảng Cáo"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "Sử Dụng Đường Dẫn Ảnh Liên Quan"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "Mở trong cửa sổ mới"
+
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236
+#: ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "Băng Quảng Cáo"
+
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "URL"
+
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "Thay"
+
+#: ../includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr ""
+"Nếu bạn không muốn hiện một số băng quảng cáo – hãy để trống các vùng tương "
+"ứng"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Hiện Quảng Cáo Adsense"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "Tiện Ích Adsense"
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Mã Adsense"
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:105
+msgid "Pages:"
+msgstr "Trang:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">Divi Documentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Chào mừng tới Divi! Trường khi tìm chủ đề mới của bạn, vui lòng ghé thăm "
+#~ "trang <a href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> để truy "
+#~ "cập vào hàng chục bài hướng dẫn chuyên sâu."
+
+#~ msgid "%1$s Font"
+#~ msgstr "%1$s Phông chữ"
+
+#~ msgid "%1$s Font Size"
+#~ msgstr "%1$s Kích cỡ phông chữ"
+
+#~ msgid "%1$s Text Color"
+#~ msgstr "%1$s Màu chữ"
+
+#~ msgid "%1$s Letter Spacing"
+#~ msgstr "%1$s Khoảng cách chữ"
+
+#~ msgid "%1$s Line Height"
+#~ msgstr "%1$s Chiều cao dòng"
+
+#~ msgid "%1$s All Caps"
+#~ msgstr "%1$s Viết hoa toàn bộ"
+
+#~ msgid "Use Border"
+#~ msgstr "Sử dụng Khung viền"
+
+#~ msgid "Border Style"
+#~ msgstr "Kiểu Khung viền"
+
+#~ msgid "Custom Margin"
+#~ msgstr "Tùy chỉnh Căn lề"
+
+#~ msgid "Custom Padding"
+#~ msgstr "Tùy chỉnh Đệm"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "Sử dụng Các kiểu Nút Tùy chỉnh"
+
+#~ msgid "Button Text Size"
+#~ msgstr "Cỡ Chữ của Nút"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Màu Chữ của Nút"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Màu nền của Nút"
+
+#~ msgid "Button Border Width"
+#~ msgstr "Chiều rộng khung viền của Nút"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Màu Khung viền của Nút"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Bán kính Khung viền của Nút"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "Khoảng cách chữ của Nút"
+
+#~ msgid "Button Font"
+#~ msgstr "Phông chữ của Nút"
+
+#~ msgid "Button Icon"
+#~ msgstr "Biểu tượng Nút"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "Màu Biểu tượng của Nút"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "Chỉ hiện Biểu tượng khi di chuột"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "Màu chữ của Nút khi di chuột"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Màu nền của Nút khi di chuột"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Màu Khung viền của Nút khi di chuột"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "Bán kính Khung viền của Nút khi di chuột"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "Giãn chữ của Nút khi di chuột"
+
+#~ msgid "Before"
+#~ msgstr "Trước"
+
+#~ msgid "Main Element"
+#~ msgstr "Nhân tố chính"
+
+#~ msgid "After"
+#~ msgstr "Sau"
+
+#~ msgid "Choose Custom Color"
+#~ msgstr "Chọn Tùy chỉnh Màu"
+
+#~ msgid "Upload"
+#~ msgstr "Tải lên"
+
+#~ msgid "Choose image"
+#~ msgstr "Chọn hình ảnh"
+
+#~ msgid "Set image"
+#~ msgstr "Thiết lập hình ảnh"
+
+#~ msgid "Advanced Design Settings"
+#~ msgstr "Thiết lập Thiết kế Cao cấp"
+
+#~ msgid "Add New %s"
+#~ msgstr "Thêm mới %s"
+
+#~ msgid "%1$s %2$s Settings"
+#~ msgstr "%1$s %2$s Thiết lập"
+
+#~ msgid "Column"
+#~ msgstr "Cột"
+
+#~ msgid "Modules"
+#~ msgstr "Mô đun"
+
+#~ msgid "Rows"
+#~ msgstr "Dòng"
+
+#~ msgid "Sections"
+#~ msgstr "Mục"
+
+#~ msgid "Global/not Global"
+#~ msgstr "Toàn cầu/Không Toàn cầu"
+
+#~ msgid "Global"
+#~ msgstr "Toàn cầu"
+
+#~ msgid "not Global"
+#~ msgstr "không Toàn cầu"
+
+#~ msgid "Justified"
+#~ msgstr "Căn đều"
+
+#~ msgid "Export Divi Builder Layouts"
+#~ msgstr "Xuất Bố cục Trình tạo Divi"
+
+#~ msgid "Select Templates you want to export:"
+#~ msgstr "Chọn Bản mẫu muốn in:"
+
+#~ msgid "Export Divi Layouts"
+#~ msgstr "Xuất Bố cục Divi"
+
+#~ msgid "Manage Categories"
+#~ msgstr "Quản lý các Hạng mục"
+
+#~ msgid "Use The Divi Builder"
+#~ msgstr "Sử dụng Trình tạo Divi"
+
+#~ msgid ""
+#~ "You have not saved any items to your Divi Library yet. Once an item has "
+#~ "been saved to your library, it will appear here for easy use."
+#~ msgstr ""
+#~ "Bạn chưa lưu mục nào vào Thư viện Divi của bạn. Khi một mục đã được lưu "
+#~ "vào thư viện, nó sẽ xuất hiện ở đây để cho bạn thuận tiện sử dụng."
+
+#~ msgid "No available options for this configuration."
+#~ msgstr "Không có sẵn phương án cho cấu hình này."
+
+#~ msgid ""
+#~ "You're about to update global module. This change will be applied to all "
+#~ "pages where you use this module. Press OK if you want to update this "
+#~ "module"
+#~ msgstr ""
+#~ "Bạn chuẩn bị cập nhập mô đun toàn cầu. Sự thay đổi này sẽ được áp dụng "
+#~ "cho tất cả các trang mà bạn sử dụng mô đun này. Nhấn OK nếu bạn muốn cập "
+#~ "nhật mô đun này"
+
+#~ msgid "You cannot add global rows into global sections"
+#~ msgstr "Bạn không thể thêm các dòng toàn cầu trong các mục toàn cầu"
+
+#~ msgid "You cannot add global modules into global sections or rows"
+#~ msgstr ""
+#~ "Bạn không thể thêm các mô đun toàn cầu vào các mục hoặc dòng toàn cầu"
+
+#~ msgid "The Divi Builder"
+#~ msgstr "Trình tạo Divi"
+
+#~ msgid "Save to Library"
+#~ msgstr "Lưu vào Thư viện"
+
+#~ msgid "Load From Library"
+#~ msgstr "Tải về từ Thư viện"
+
+#~ msgid "Standard Section"
+#~ msgstr "Mục Tiêu chuẩn"
+
+#~ msgid "Fullwidth Section"
+#~ msgstr "Mục Toàn bộ Chiều rộng"
+
+#~ msgid "Specialty Section"
+#~ msgstr "Mục Đặc biệt"
+
+#~ msgid "Add From Library"
+#~ msgstr "Thêm vào từ Thư viện"
+
+#~ msgid "Change Structure"
+#~ msgstr "Thay đổi Cấu trúc"
+
+#~ msgid "Remove Module"
+#~ msgstr "Xóa Mô đun"
+
+#~ msgid "Save & Add To Library"
+#~ msgstr "Lưu & Thêm vào Thư viện"
+
+#~ msgid "Cancel"
+#~ msgstr "Hủy"
+
+#~ msgid "Save & Exit"
+#~ msgstr "Lưu & Thoát"
+
+#~ msgid "New Row"
+#~ msgstr "Dòng mới"
+
+#~ msgid "New Module"
+#~ msgstr "Mô đun mới"
+
+#~ msgid "Predefined Layouts"
+#~ msgstr "Bố cục dựng sẵn"
+
+#~ msgid "Disable Builder"
+#~ msgstr "Tắt trình tạo"
+
+#~ msgid ""
+#~ "All content created in the Divi Builder will be lost. Previous content "
+#~ "will be restored."
+#~ msgstr ""
+#~ "Tất cả nội dung được tạo trong Trình tạo Divi sẽ bị mất. Nội dung trước "
+#~ "đó sẽ được khôi phục."
+
+#~ msgid "Do you wish to proceed?"
+#~ msgstr "Bạn có muốn tiếp tục?"
+
+#~ msgid "All of your current page content will be lost."
+#~ msgstr "Tất cả nội dung trong trang hiện tại của bạn sẽ bị mất."
+
+#~ msgid "All advanced module settings in will be lost."
+#~ msgstr "Tất cả các thiết lập mô đun cao cấp sẽ bị mất."
+
+#~ msgid "Save To Library"
+#~ msgstr "Lưu vào Thư viện"
+
+#~ msgid "Save your current page to the Divi Library for later use."
+#~ msgstr "Lưu trang hiện tại của bạn vào Thư viện Divi để dùng về sau."
+
+#~ msgid "Layout Name:"
+#~ msgstr "Tên Bố cục:"
+
+#~ msgid "Save And Add To Library"
+#~ msgstr "Lưu và Thêm vào Thư viện"
+
+#~ msgid "Add To Categories:"
+#~ msgstr "Thêm vào Các Mục:"
+
+#~ msgid "Create New Category"
+#~ msgstr "Tạo Mục Mới"
+
+#~ msgid ""
+#~ "Here you can save the current item and add it to your Divi Library for "
+#~ "later use as well."
+#~ msgstr ""
+#~ "Tại đây bạn có thể lưu mục dữ liệu hiện tại và thêm vào Thư viện Divi của "
+#~ "bạn để dùng về sau."
+
+#~ msgid "Template Name"
+#~ msgstr "Tên Mẫu"
+
+#~ msgid "Selective Sync"
+#~ msgstr "Đồng bộ chọn lọc"
+
+#~ msgid "Include General settings"
+#~ msgstr "Bao gồm các thiết lập chung"
+
+#~ msgid "Include Advanced Design settings"
+#~ msgstr "Bao gồm các thiết lập thiết kế cao cấp"
+
+#~ msgid "Include Custom CSS"
+#~ msgstr "Bao gồm Tùy chỉnh CSS"
+
+#~ msgid "Please select at least 1 tab to save"
+#~ msgstr "Vui lòng lựa chọn ít nhất một thẻ để lưu"
+
+#~ msgid "Save as Global:"
+#~ msgstr "Lưu toàn cầu:"
+
+#~ msgid "Make this a global item"
+#~ msgstr "Lưu thành một mục dữ liệu toàn cầu"
+
+#~ msgid "Scope"
+#~ msgstr "Phạm vi"
+
+#~ msgid "Layout Type"
+#~ msgstr "Loại bố cục"
+
+#~ msgid "Module Width"
+#~ msgstr "Chiều rộng mô đun"
+
+#~ msgid "New Template Settings"
+#~ msgstr "Thiết lập Mẫu mới"
+
+#~ msgid "Template Name:"
+#~ msgstr "Tên Mẫu:"
+
+#~ msgid "Template Type:"
+#~ msgstr "Loại Mẫu:"
+
+#~ msgid "Fullwidth Module"
+#~ msgstr "Mô đun có chiều rộng toàn bộ"
+
+#~ msgid "Row"
+#~ msgstr "Hàng"
+
+#~ msgid "Section"
+#~ msgstr "Mục"
+
+#~ msgid "Include General Settings"
+#~ msgstr "Bao gồm các Thiết lập Chung"
+
+#~ msgid "Include Advanced Design Settings"
+#~ msgstr "Bao gồm các thiết lập thiết kế cao cấp"
+
+#~ msgid ""
+#~ "Select category(ies) for new template or type a new name ( optional )"
+#~ msgstr "Lựa chọn (các) hạng mục cho mẫu mới hoặc gõ một tên mới (tùy chọn)"
+
+#~ msgid "Open in Lightbox"
+#~ msgstr "Mở bằng Lightbox"
+
+#~ msgid "Image Alignment"
+#~ msgstr "Căn chỉnh Hình ảnh"
+
+#~ msgid "Here you can choose the image alignment."
+#~ msgstr "Bạn có thể chọn thiết lập căn chỉnh hình ảnh tại đây."
+
+#~ msgid "Image Max Width"
+#~ msgstr "Chiều rộng Tối đa của Hình ảnh"
+
+#~ msgid "Force Fullwidth"
+#~ msgstr "Chọn Chiều rộng Tối đa"
+
+#~ msgid "Always Center Image On Mobile"
+#~ msgstr "Luôn đặt Hình ảnh vào Trung tâm trên Điện thoại"
+
+#~ msgid "Gallery Item"
+#~ msgstr "Mục Thư viện Ảnh"
+
+#~ msgid "Overlay"
+#~ msgstr "Hình đè"
+
+#~ msgid "Overlay Icon"
+#~ msgstr "Biểu tượng Hình đè"
+
+#~ msgid "Gallery Item Title"
+#~ msgstr "Tên Mục Thư viện Ảnh"
+
+#~ msgid "Caption Font"
+#~ msgstr "Phông chữ Chú thích"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "Màu Phông chữ Chú thích"
+
+#~ msgid "Hover Icon Picker"
+#~ msgstr "Công cụ chọn Biểu tượng khi di chuột"
+
+#~ msgid "Video Icon"
+#~ msgstr "Biểu tượng Video"
+
+#~ msgid "Play Icon Color"
+#~ msgstr "Màu Biểu tượng khi Chơi video"
+
+#~ msgid "Play Button"
+#~ msgstr "Nút Chơi video"
+
+#~ msgid "Thumbnail Item"
+#~ msgstr "Mục Hình thu nhỏ"
+
+#~ msgid "Thumbnail Overlay Color"
+#~ msgstr "Màu Hình đè thu nhỏ"
+
+#~ msgid "Line Height"
+#~ msgstr "Chiều cao Dòng"
+
+#~ msgid "Use Border Color"
+#~ msgstr "Sử dụng Màu cho Khung viền"
+
+#~ msgid "Max Width"
+#~ msgstr "Chiều rộng tối đa"
+
+#~ msgid "Header"
+#~ msgstr "Đầu trang"
+
+#~ msgid "Body"
+#~ msgstr "Thân"
+
+#~ msgid "Blurb Image"
+#~ msgstr "Hình ảnh phụ đề"
+
+#~ msgid "Blurb Title"
+#~ msgstr "Tên Phụ đề"
+
+#~ msgid "Blurb Content"
+#~ msgstr "Nội dung Phụ đề"
+
+#~ msgid "Use Icon Font Size"
+#~ msgstr "Sử dụng Biểu tượng Kích cỡ Phông chữ"
+
+#~ msgid "Icon Font Size"
+#~ msgstr "Biểu tượng Kích cỡ Phông chữ"
+
+#~ msgid "Tabs Controls"
+#~ msgstr "Điều khiển các Thẻ"
+
+#~ msgid "Active Tab"
+#~ msgstr "Thẻ đang hoạt động"
+
+#~ msgid "Active Tab Background Color"
+#~ msgstr "Màu nền Thẻ đang hoạt động"
+
+#~ msgid "Inactive Tab Background Color"
+#~ msgstr "Màu nền Thẻ đang ngừng hoạt động"
+
+#~ msgid "Slide Description"
+#~ msgstr "Mô tả slide"
+
+#~ msgid "Slide Title"
+#~ msgstr "Tên slide"
+
+#~ msgid "Slide Button"
+#~ msgstr "Nút slide"
+
+#~ msgid "Slide Controllers"
+#~ msgstr "Bộ điều khiển slide"
+
+#~ msgid "Slide Active Controller"
+#~ msgstr "Bộ điều khiển Slide đang hoạt động"
+
+#~ msgid "Use Parallax effect"
+#~ msgstr "Sử dụng hiệu ứng Thị sai"
+
+#~ msgid "Remove Inner Shadow"
+#~ msgstr "Loại bỏ Bóng bên trong"
+
+#~ msgid "Top Padding"
+#~ msgstr "Khoảng đệm trên"
+
+#~ msgid "Bottom Padding"
+#~ msgstr "Khoảng đệm dưới"
+
+#~ msgid "Hide Content On Mobile"
+#~ msgstr "Ẩn nội dung trên Điện thoại"
+
+#~ msgid "Hide CTA On Mobile"
+#~ msgstr "Ẩn CTA trên Điện thoại"
+
+#~ msgid "Show Image / Video On Mobile"
+#~ msgstr "Hiển thị Hình ảnh / Video trên Điện thoại"
+
+#~ msgid "Arrows Custom Color"
+#~ msgstr "Tùy chỉnh Màu Mũi tên"
+
+#~ msgid "Dot Nav Custom Color"
+#~ msgstr "Tùy chỉnh Màu Chấm điều hướng"
+
+#~ msgid "Testimonial Portrait"
+#~ msgstr "Chân dung Chứng thực"
+
+#~ msgid "Testimonial Description"
+#~ msgstr "Mô tả Chứng thực"
+
+#~ msgid "Testimonial Author"
+#~ msgstr "Tác giả Chứng thực"
+
+#~ msgid "Testimonial Meta"
+#~ msgstr "lý lịch dữ liệu chứng thực"
+
+#~ msgid "Body Text Font"
+#~ msgstr "Phông chữ Thân website"
+
+#~ msgid "Body Font Size"
+#~ msgstr "Kích cỡ chữ Thân website"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "Khoảng cách chữ Thân website"
+
+#~ msgid "Quote Icon Color"
+#~ msgstr "Màu Biểu tượng Đoạn trích dẫn"
+
+#~ msgid "Portrait Width"
+#~ msgstr "Chiều rộng Chân dung"
+
+#~ msgid "Portrait Height"
+#~ msgstr "Chiều cao Chân dung"
+
+#~ msgid "Pricing Tables"
+#~ msgstr "Bảng giá"
+
+#~ msgid "Pricing Heading"
+#~ msgstr "Tiêu đề Bảng giá"
+
+#~ msgid "Pricing Title"
+#~ msgstr "Tên Bảng giá"
+
+#~ msgid "Pricing Top"
+#~ msgstr "Đầu Bảng giá"
+
+#~ msgid "Pricing Content"
+#~ msgstr "Nội dung Bảng giá"
+
+#~ msgid "Pricing Button"
+#~ msgstr "Nút Bảng giá"
+
+#~ msgid "Featured Table"
+#~ msgstr "Bảng giá Nổi bật"
+
+#~ msgid "Subheader"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "Featured Table Background Color"
+#~ msgstr "Màu nền của Bảng giá Nổi bật"
+
+#~ msgid "Table Header Background Color"
+#~ msgstr "Màu nền của Tiêu đề Bảng giá"
+
+#~ msgid "Featured Table Header Background Color"
+#~ msgstr "Màu nền của Tiêu đề Bảng giá Nổi bật"
+
+#~ msgid "Featured Table Header Text Color"
+#~ msgstr "Màu chữ của Đầu trang Bảng giá Nổi bật"
+
+#~ msgid "Featured Table Subheader Text Color"
+#~ msgstr "Màu chữ của Tiêu đề Bảng giá Nổi bật"
+
+#~ msgid "Featured Table Price Color"
+#~ msgstr "Màu giá trong Bảng giá Nổi bật"
+
+#~ msgid "Featured Table Body Text Color"
+#~ msgstr "Màu chữ trong Thân Bảng giá Nổi bật"
+
+#~ msgid "Show Bullet"
+#~ msgstr "Hiển thị Chấm"
+
+#~ msgid "Bullet Color"
+#~ msgstr "Màu chấm"
+
+#~ msgid "Featured Table Bullet Color"
+#~ msgstr "Màu chấm trong Bảng giá Nổi bật"
+
+#~ msgid "Remove Featured Table Drop Shadow"
+#~ msgstr "Bỏ Đổ bóng trong Bảng giá Nổi bật"
+
+#~ msgid "Center List Items"
+#~ msgstr "Căn giữa các Mục trong Danh sách"
+
+#~ msgid "Promo Description"
+#~ msgstr "Mô tả"
+
+#~ msgid "Promo Button"
+#~ msgstr "Nút"
+
+#~ msgid "Audio Cover Art"
+#~ msgstr "Hình ảnh Âm thanh"
+
+#~ msgid "Audio Content"
+#~ msgstr "Nội dung Âm thanh"
+
+#~ msgid "Audio Meta"
+#~ msgstr "Lý lịch dữ liệu âm thanh"
+
+#~ msgid "Signup"
+#~ msgstr "Đăng ký"
+
+#~ msgid "Newsletter Description"
+#~ msgstr "Mô tả Mẫu đăng ký Thư thông báo"
+
+#~ msgid "Newsletter Form"
+#~ msgstr "Mẫu Đăng ký Thư thông báo"
+
+#~ msgid "Newsletter Button"
+#~ msgstr "Nút Đăng ký Thư thông báo"
+
+#~ msgid "Form Field Background Color"
+#~ msgstr "Màu nền cho Trường Mẫu đăng ký"
+
+#~ msgid "Form Field Text Color"
+#~ msgstr "Màu chữ Trường Mẫu đăng ký"
+
+#~ msgid "Focus Background Color"
+#~ msgstr "Màu nền Trung tâm Trường Mẫu đăng ký"
+
+#~ msgid "Focus Text Color"
+#~ msgstr "Màu chữ Trung tâm"
+
+#~ msgid "Use Focus Border Color"
+#~ msgstr "Sử dụng Màu Khung viền Trung tâm"
+
+#~ msgid "Focus Border Color"
+#~ msgstr "Màu Khung viền Trung tâm"
+
+#~ msgid "Portfolio Image"
+#~ msgstr "Hình ảnh Danh  mục"
+
+#~ msgid "Portfolio Post Meta"
+#~ msgstr "Mô tả danh mục"
+
+#~ msgid "Filter"
+#~ msgstr "Bộ lọc"
+
+#~ msgid "Portfolio Filters"
+#~ msgstr "Bộ lọc Danh mục"
+
+#~ msgid "Active Portfolio Filter"
+#~ msgstr "Bộ lọc Danh mục đang hoạt động"
+
+#~ msgid "Counter Title"
+#~ msgstr "Tên Bộ đếm"
+
+#~ msgid "Counter Container"
+#~ msgstr "Khoảng chứa Bộ đếm"
+
+#~ msgid "Counter Amount"
+#~ msgstr "Số Bộ đếm"
+
+#~ msgid "Use Percentages"
+#~ msgstr "Sử dụng Chỉ số Phần trăm"
+
+#~ msgid "Bar Top Padding"
+#~ msgstr "Khoảng đệm trên của Thanh"
+
+#~ msgid "Bar Bottom Padding"
+#~ msgstr "Khoảng đệm dưới của Thanh"
+
+#~ msgid "Label Color"
+#~ msgstr "Màu Nhãn"
+
+#~ msgid "Percentage Color"
+#~ msgstr "Màu Chỉ số Phần trăm"
+
+#~ msgid "Circle Counter Title"
+#~ msgstr "Tên Bộ đếm Vòng"
+
+#~ msgid "Circle Color Opacity"
+#~ msgstr "Độ mờ màu Vòng đếm"
+
+#~ msgid "Number Counter Title"
+#~ msgstr "Tên Bộ đếm Số"
+
+#~ msgid "Open Toggle"
+#~ msgstr "Mở Công tắc"
+
+#~ msgid "Toggle Title"
+#~ msgstr "Tên Công tắc"
+
+#~ msgid "Toggle Icon"
+#~ msgstr "Biểu tượng Công tắc"
+
+#~ msgid "Toggle Content"
+#~ msgstr "Nội dung Công tắc"
+
+#~ msgid "Open Toggle Background Color"
+#~ msgstr "Màu nền Công tắc khi mở"
+
+#~ msgid "Closed Toggle Background Color"
+#~ msgstr "Màu nền Công tắc khi đóng"
+
+#~ msgid "Open Toggle Text Color"
+#~ msgstr "Màu chữ Công tắc khi mở"
+
+#~ msgid "Closed Toggle Text Color"
+#~ msgstr "Màu chữ Công tắc khi đóng"
+
+#~ msgid "Form Field"
+#~ msgstr "Trường Mẫu liên hệ"
+
+#~ msgid "Contact Title"
+#~ msgstr "Tên Liên hệ"
+
+#~ msgid "Contact Button"
+#~ msgstr "Nút Liên hệ"
+
+#~ msgid "Form Background Color"
+#~ msgstr "Màu nền Mẫu Liên hệ"
+
+#~ msgid "Input Border Radius"
+#~ msgstr "Bán kính Khung viền Trường Đầu vào"
+
+#~ msgid "Widget"
+#~ msgstr "Công cụ"
+
+#~ msgid "Remove Border Separator"
+#~ msgstr "Xóa Bộ chia Khung viền"
+
+#~ msgid "Define how much space should be added below the divider."
+#~ msgstr "Xác định khoảng cách cần có dưới nhân tố chia"
+
+#~ msgid "Hide On Mobile"
+#~ msgstr "Ẩn trên Điện thoại"
+
+#~ msgid "Member Image"
+#~ msgstr "Hình ảnh Thành viên"
+
+#~ msgid "Member Description"
+#~ msgstr "Mô tả Thành viên"
+
+#~ msgid "Member Position"
+#~ msgstr "Vị trí Thành viên"
+
+#~ msgid "Member Social Links"
+#~ msgstr "Liên kết Xã hội của Thành viên"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "Màu của Biểu tượng khi di chuột"
+
+#~ msgid "Meta"
+#~ msgstr "Dữ liệu"
+
+#~ msgid "Post Meta"
+#~ msgstr "Lý lịch dữ liệu"
+
+#~ msgid "Pagenavi"
+#~ msgstr "Chuyển trang"
+
+#~ msgid "Grid Tile Background Color"
+#~ msgstr "Màu nền của các ô trong lưới"
+
+#~ msgid "Use Dropshadow"
+#~ msgstr "Sử dụng Đổ bóng"
+
+#~ msgid "Product"
+#~ msgstr "Sản phẩm"
+
+#~ msgid "Onsale"
+#~ msgstr "Đang bán"
+
+#~ msgid "Rating"
+#~ msgstr "Xếp hạng"
+
+#~ msgid "default"
+#~ msgstr "Mặc định"
+
+#~ msgid "Choose how many columns to display."
+#~ msgstr "Chọn số cột để hiển thị."
+
+#~ msgid "Sale Badge Color"
+#~ msgstr "Màu Thẻ Bán hàng"
+
+#~ msgid "Numbers"
+#~ msgstr "Số"
+
+#~ msgid "Label"
+#~ msgstr "Nhãn"
+
+#~ msgid "Container"
+#~ msgstr "Nơi chứa"
+
+#~ msgid "Timer Section"
+#~ msgstr "Bộ đếm thời gian"
+
+#~ msgid "Pin"
+#~ msgstr "Ghim"
+
+#~ msgid "Use Grayscale Filter"
+#~ msgstr "Dùng Bộ lọc Thang xám"
+
+#~ msgid "Grayscale Filter Amount (%)"
+#~ msgstr "Số lượng Bộ lọc Thang xám (%)"
+
+#~ msgid "Social Icon"
+#~ msgstr "Biểu tượng Mạng xã hội"
+
+#~ msgid "Here you can choose whether or not display the Post Title"
+#~ msgstr "Bạn có thể chọn hiển thị hoặc không hiển thị tên bài viết tại đây"
+
+#~ msgid "Show Meta"
+#~ msgstr "Hiển thị lý lịch dữ liệu"
+
+#~ msgid "Here you can choose whether or not display the Post Meta"
+#~ msgstr ""
+#~ "Bạn có thể chọn hiển thị hoặc không hiển thị lý lịch dữ liệu tại đây"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Author Name in Post Meta"
+#~ msgstr ""
+#~ "Bạn có thể chọn hiển thị hoặc không hiển thị thông tin về Tên Tác giả "
+#~ "trong phần lý lịch dữ liệu tại đây"
+
+#~ msgid "Here you can choose whether or not display the Date in Post Meta"
+#~ msgstr ""
+#~ "Bạn có thể chọn hiển thị hoặc không hiển thị thông tin về ngày đăng trong "
+#~ "phần lý lịch dữ liệu tại đây"
+
+#~ msgid "Date Format"
+#~ msgstr "Định dạng Ngày"
+
+#~ msgid ""
+#~ "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+#~ msgstr ""
+#~ "Bạn có thể lựa chọn Định dạng Ngày trong phần lý lịch dữ liệu. Mặc định "
+#~ "dạng 'M j, Y'"
+
+#~ msgid "Show Post Categories"
+#~ msgstr "Hiển thị các Mục bài đăng"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Categories in Post Meta. "
+#~ "Note: This option doesn't work with custom post types."
+#~ msgstr ""
+#~ "Bạn có thể chọn hiển thị hoặc không hiển thị các Hạng mục trong phần lý "
+#~ "lịch dữ liệu tại đây. Lưu ý: Phương án này không phù hợp với các dạng bài "
+#~ "đăng tùy chỉnh."
+
+#~ msgid "Show Comments Count"
+#~ msgstr "Hiểm thị bộ đếm bình luận"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Comments Count in Post "
+#~ "Meta."
+#~ msgstr ""
+#~ "Bạn có thể chọn hiển thị hoặc không hiển thị bộ đếm bình luận trong phần "
+#~ "lý lịch dữ liệu tại đây."
+
+#~ msgid "Here you can choose whether or not display the Featured Image"
+#~ msgstr "Bạn có thể chọn hiển thị hoặc không hiển thị Hình ảnh Nổi bật."
+
+#~ msgid "Featured Image Placement"
+#~ msgstr "Bố trí Hình ảnh Nổi bật"
+
+#~ msgid "Below Title"
+#~ msgstr "Dưới Tiêu đề"
+
+#~ msgid "Above Title"
+#~ msgstr "Trên Tiêu đề"
+
+#~ msgid "Title/Meta Background Image"
+#~ msgstr "Hình ảnh nền Tiêu đề"
+
+#~ msgid "Here you can choose where to place the Featured Image"
+#~ msgstr ""
+#~ "Bạn có thể chọn hiển thị hoặc không hiển thị Hình ảnh Nổi bật tại đây"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use parallax effect for the featured "
+#~ "image"
+#~ msgstr ""
+#~ "Bạn có thể chọn sử dụng hoặc không sử dụng hiệu ứng thị sai cho hình ảnh "
+#~ "nổi bật tại đây"
+
+#~ msgid "Parallax Method"
+#~ msgstr "Phương pháp Thị sai"
+
+#~ msgid ""
+#~ "Here you can choose which parallax method to use for the featured image"
+#~ msgstr ""
+#~ "Bạn có thể chọn phương pháp thị sai để sử dụng cho hình ảnh nổi bật tại "
+#~ "đây"
+
+#~ msgid "Here you can choose the orientation for the Title/Meta text"
+#~ msgstr "Bạn có thể chọn hướng cho chữ của Tiêu đề tại đây"
+
+#~ msgid "Here you can choose the color for the Title/Meta text"
+#~ msgstr "Bạn có thể chọn màu cho chữ của Tiêu đề tại đây"
+
+#~ msgid "Use Text Background Color"
+#~ msgstr "Sử dụng Màu nền cho chữ"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use the background color for the Title/"
+#~ "Meta text"
+#~ msgstr ""
+#~ "Bạn có thể chọn sử dụng hoặc không sử dụng Màu nền cho chữ của Tiêu đề "
+#~ "tại đây"
+
+#~ msgid "Text Background Color"
+#~ msgstr "Màu nền chữ"
+
+#~ msgid "Title Styling"
+#~ msgstr "Kiểu Tiêu đề"
+
+#~ msgid "Subhead Styling"
+#~ msgstr "Kiểu Tiêu đề phụ"
+
+#~ msgid "Content Styling"
+#~ msgstr "Kiểu Nội dung"
+
+#~ msgid "Button Styling"
+#~ msgstr "Kiểu Nút"
+
+#~ msgid "Text & Logo Orientation"
+#~ msgstr "Hướng Chữ & Logo"
+
+#~ msgid "Make Fullscreen"
+#~ msgstr "Hiển thị Toàn màn hình"
+
+#~ msgid ""
+#~ "Here you can choose whether the header is expanded to fullscreen size."
+#~ msgstr ""
+#~ "Bạn có thể chọn mở rộng tiêu đề phụ đến kích thước toàn màn hình tại đây."
+
+#~ msgid "Show Scroll Down Button"
+#~ msgstr "Hiển thị Nút Kéo xuống"
+
+#~ msgid "Here you can choose whether the scroll down button is shown."
+#~ msgstr "Bạn có thể chọn liệu có hiển thị nút kéo xuống hay không."
+
+#~ msgid "Choose an icon to display for the scroll down button."
+#~ msgstr "Chọn một biểu tượng để hiển thị cho nút kéo xuống."
+
+#~ msgid "Scroll Down Icon Color"
+#~ msgstr "Màu Biểu tượng Kéo xuống"
+
+#~ msgid "Scroll Down Icon Size"
+#~ msgstr "Kích cỡ Biểu tượng Kéo xuống"
+
+#~ msgid "Title Font"
+#~ msgstr "Phông chữ Tiêu đề"
+
+#~ msgid "Title Font Color"
+#~ msgstr "Màu Phông chữ Tiêu đề"
+
+#~ msgid "Subhead Font"
+#~ msgstr "Phông chữ Tiêu đề phụ"
+
+#~ msgid "Subhead Font Color"
+#~ msgstr "Màu Phông chữ Tiêu đề phụ"
+
+#~ msgid "Content Font"
+#~ msgstr "Phông chữ Nội dung"
+
+#~ msgid "Content Font Color"
+#~ msgstr "Màu Phông chữ Nội dung"
+
+#~ msgid "Button %1$s Text"
+#~ msgstr "Chữ của Nút %1$s"
+
+#~ msgid "Enter the text for the Button."
+#~ msgstr "Nhập chữ cho Nút"
+
+#~ msgid "Button %1$s URL"
+#~ msgstr "URL của Nút %1$s"
+
+#~ msgid "Enter the URL for the Button."
+#~ msgstr "Nhập URL cho Nút."
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "Phông chữ Nút %1$s"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "Màu Phông chữ Nút %1$s"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "Màu Nền Nút %1$s"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "Kích cỡ Phông chữ Nút %1$s"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "Bán kính Khung viền Nút %1$s"
+
+#~ msgid "Background Image URL"
+#~ msgstr "URL Hình ảnh Nền"
+
+#~ msgid "Background Overlay Color"
+#~ msgstr "Màu Ảnh chèn Nền"
+
+#~ msgid "Logo Image URL"
+#~ msgstr "URL Hình ảnh Logo"
+
+#~ msgid "Text Vertical Alignment"
+#~ msgstr "Căn chỉnh Dọc cho Chữ"
+
+#~ msgid ""
+#~ "This setting determines the vertical alignment of your content. Your "
+#~ "content can either be vertically centered, or aligned to the bottom."
+#~ msgstr ""
+#~ "Thiết lập này xác định chế độ căn chỉnh theo chiều dọc cho nội dung của "
+#~ "bạn. Nội dung của bạn có thể được căn giữa hoặc căn dưới theo chiều dọc."
+
+#~ msgid "Header Image URL"
+#~ msgstr "URL Hình ảnh Đầu trang"
+
+#~ msgid "Image Vertical Alignment"
+#~ msgstr "Căn chỉnh Dọc cho Hình ảnh"
+
+#~ msgid "This controls the orientation of the image within the module."
+#~ msgstr "Thiết lập này điều chỉnh hướng của hình ảnh trong phạm vi mô đun."
+
+#~ msgid "Code"
+#~ msgstr "Mã"
+
+#~ msgid "Fullwidth Code"
+#~ msgstr "Mã Toàn bộ chiều rộng"
+
+#~ msgid "Fullwidth Image"
+#~ msgstr "Hình ảnh Toàn bộ chiều rộng"
+
+#~ msgid "Fullwidth Post Title"
+#~ msgstr "Tên Bài viết Toàn bộ Chiều rộng"
+
+#~ msgid ""
+#~ "Enabling this option will remove the background color of this section, "
+#~ "allowing the website background color or background image to show through."
+#~ msgstr ""
+#~ "Kích hoạt phương án này sẽ làm mất màu nền của mục này, cho phép màu nền "
+#~ "của website hoặc của hình ảnh được nhìn xuyên qua."
+
+#~ msgid ""
+#~ "Adjust padding to specific values, or leave blank to use the default "
+#~ "padding."
+#~ msgstr ""
+#~ "Điều chỉnh khoảng đến đến các giá trị nhất định, hoặc để trống để sử dụng "
+#~ "giá trị khoảng đệm mặc định."
+
+#~ msgid "Keep Custom Padding on Mobile"
+#~ msgstr "Duy trì Khoảng đệm điều chỉnh trên Điện thoại"
+
+#~ msgid "Allow custom padding to be retained on mobile screens"
+#~ msgstr "Cho phép giữ khoảng đệm điều chỉnh trên màn hình điện thoại."
+
+#~ msgid "Make This Row Fullwidth"
+#~ msgstr "Xem rộng toàn màn hình dòng này"
+
+#~ msgid ""
+#~ "Enable this option to extend the width of this row to the edge of the "
+#~ "browser window."
+#~ msgstr ""
+#~ "Kích hoạt phương án này sẽ làm mở rộng chiều rộng của dòng đến cạnh của "
+#~ "cửa sổ trình duyệt."
+
+#~ msgid "Use Custom Width"
+#~ msgstr "Sử dụng Tủy chỉnh Chiều rộng"
+
+#~ msgid ""
+#~ "Change to Yes if you would like to adjust the width of this row to a non-"
+#~ "standard width."
+#~ msgstr ""
+#~ "Chuyển sang Có nếu bạn muốn điều chỉnh chiều rộng của dòng này thành "
+#~ "chiều rộng không tiêu chuẩn."
+
+#~ msgid "Unit"
+#~ msgstr "Đơn vị"
+
+#~ msgid "px"
+#~ msgstr "pixels"
+
+#~ msgid "Custom Width"
+#~ msgstr "Tùy chỉnh chiều rộng"
+
+#~ msgid "Define custom width for this Row"
+#~ msgstr "Xác định tùy chỉnh chiều rộng cho dòng này"
+
+#~ msgid "Gutter Width"
+#~ msgstr "Khoảng cách cột"
+
+#~ msgid "Adjust the spacing between each column in this row."
+#~ msgstr "Điều chỉnh khoảng cách giữa mỗi cột trong dòng này"
+
+#~ msgid "Equalize Column Heights"
+#~ msgstr "Cân bằng chiều cao cột"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Chào mừng tới Divi! Trường khi tìm chủ đề mới của bạn, vui lòng ghé thăm "
+#~ "trang <a href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> để truy "
+#~ "cập vào hàng chục bài hướng dẫn chuyên sâu."
+
+#~ msgid "Category Font Size"
+#~ msgstr "Kích cỡ Phông chữ Hạng mục"
+
+#~ msgid "Category Font Style"
+#~ msgstr "Kiểu Phông chữ Hạng mục"

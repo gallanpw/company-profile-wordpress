@@ -1,0 +1,4279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:08+0300\n"
+"PO-Revision-Date: 2015-06-17 19:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Эта страница защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 Комментариев"
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../comments.php:18 ../comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие Комментарии"
+
+#: ../comments.php:19 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые Комментарии <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Трекбеки/Пинги"
+
+#: ../comments.php:56
+msgid "Submit Comment"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:56
+msgid "Submit a Comment"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "Сохранение..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Опции сохранены."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Опции"
+
+#: ../epanel/core_functions.php:73 ../functions.php:8939
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "настройки сохранены."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "сброс настроек."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_divi.php:297
+#: ../epanel/options_divi.php:448 ../functions.php:616
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Навигация"
+
+#: ../epanel/core_functions.php:117 ../functions.php:621
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Управление баннерами"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Цветовые опции"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Интеграция"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Документация"
+
+#: ../epanel/core_functions.php:209 ../epanel/core_functions.php:389
+msgid "Reset"
+msgstr "Сброс"
+
+#: ../epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: ../epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "У вас нет страниц"
+
+#: ../epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: ../epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"Это вернет все настройки к значениям по умолчанию. <strong>Вы уверены, что "
+"хотите это сделать?</strong>"
+
+#: ../epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "Выбрать изображение"
+
+#: ../epanel/custom_functions.php:192
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:465 ../header.php:141
+msgid "Home"
+msgstr "Главная"
+
+#: ../epanel/custom_functions.php:713
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../epanel/custom_functions.php:715
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Результаты поиска \"%s\""
+
+#: ../epanel/custom_functions.php:717
+msgid "404 Not Found"
+msgstr "404 ничего не найдено"
+
+#: ../epanel/custom_functions.php:788
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "Процесс просмотра архива: %1$s"
+
+#: ../epanel/custom_functions.php:1021
+msgid "Image doesn't exist"
+msgstr "Изображение не существует"
+
+#: ../epanel/custom_functions.php:1217
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Это новая установка %1$s темы. Не забудьте зайти в "
+"<a href=\"%2$s\">ePanel</a> для конфигурации темы.  Это сообщение исчезнет, "
+"как только вы нажмете кнопку \"Сохранить\" <a href=\"%2$s\">на странице "
+"настроек темы</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1229
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"Доступна новая версия темы %1$s. <a href=\"%2$s\" class=\"thickbox\" title="
+"\"%1$s\">Просмотреть %3$s детали</a>. <em>Прежде чем вы сможете обновить "
+"Elegant Themes, вы должны сначала установить <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> для проверки подлинности подписки.</em>"
+
+#: ../epanel/custom_functions.php:1233
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Прежде чем вы сможете обновить Elegant Themes, вы должны сначала установить "
+"<a href=\"https://www.elegantthemes.com/members-area/documentation."
+"html#updater\" target=\"_blank\">Elegant Updater Plugin</a> для проверки "
+"подлинности подписки."
+
+#: ../epanel/options_divi.php:38
+msgid "General"
+msgstr "Общие"
+
+#: ../epanel/options_divi.php:45
+msgid "Logo"
+msgstr "Логотип"
+
+#: ../epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "Выбрать для Логотипа"
+
+#: ../epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Если вы хотите использовать ваш собственный логотип, нажмите кнопку "
+"Загрузить изображение."
+
+#: ../epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "Выбрать для Favicon"
+
+#: ../epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Если вы хотите использовать ваш собственный favicon, нажмите кнопку "
+"Загрузить изображение."
+
+#: ../epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "Фиксированная панель навигации"
+
+#: ../epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"По умолчанию панель навигации всегда остается в верхней части экрана. Мы "
+"предлагаем отключить эту опцию, если вы хотите использовать логотип больший "
+"по размеру, чем оригинальный."
+
+#: ../epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "Использовать первое изображение поста"
+
+#: ../epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"По умолчанию, картинки создаются при помощи произвольных полей ( custom "
+"fields ). Но если вы хотите использовать картинки, которые уже находятся в "
+"вашем посте и не использовать произвольные поля, вы можете активировать эту "
+"опцию. Когда вы активируете эту опцию, то будет использоваться первая "
+"картинка вашего поста. Картинка должна быть размещена на вашем сервере."
+
+#: ../epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "Режим Блог"
+
+#: ../epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"По умолчанию, в теме создаются выдержки ваших постов на домашней странице и "
+"на странице архивов. Если же вы хотите, чтобы посты отображались целиком на "
+"этих страницах, активируйте данную опцию."
+
+#: ../epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "Макеты страницы магазина и страницы категории для WooCommerce"
+
+#: ../epanel/options_divi.php:90 ../functions.php:364
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+#: ../epanel/options_divi.php:91 ../functions.php:365
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: ../epanel/options_divi.php:92 ../functions.php:366
+msgid "Full Width"
+msgstr "Полная ширина"
+
+#: ../epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"Здесь вы можете выбрать макеты страниц магазина и категории для WooCommerce."
+
+#: ../epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "MailChimp API Ключ"
+
+#: ../epanel/options_divi.php:104
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"Введите ключ MailChimp API. Вы можете создать ключ api <a target=\"_blank\" "
+"href=\"%1$s\">здесь</a>"
+
+#: ../epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Aweber Авторизация"
+
+#: ../epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "Авторизируйте свой аккаунт Aweber здесь."
+
+#: ../epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "Перегенерировать списки Mailchimp"
+
+#: ../epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"По умолчанию, списки MailChimp кэшируются на 1 день. Если вы добавили новый "
+"список, но он не появился в настройках SignUp модуля, активируйте эту опцию. "
+"Не забудьте отключить ее, как только список будет регенерирован."
+
+#: ../epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Перегенерировать списки Aweber"
+
+#: ../epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"По умолчанию, списки Aweber кэшируются на 1 день. Если вы добавили новый "
+"список, но он не появился в настройках SignUp модуля, активируйте эту опцию. "
+"Не забудьте отключить ее, как только список будет регенерирован."
+
+#: ../epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Показать Facebook иконку"
+
+#: ../epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr ""
+"Здесь вы можете активировать отображение Facebook иконки на домашней "
+"странице."
+
+#: ../epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Показать Twitter иконку"
+
+#: ../epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Здесь вы можете активировать отображение Twitter иконки."
+
+#: ../epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Показать Google+ иконку"
+
+#: ../epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr ""
+"Здесь вы можете активировать отображение Google+ иконки на домашней "
+"странице. "
+
+#: ../epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "Показать RSS иконку"
+
+#: ../epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Здесь вы можете активировать отображение RSS иконки."
+
+#: ../epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "URL профиля Facebook"
+
+#: ../epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Введите URL Вашего Facebook профиля. "
+
+#: ../epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "URL профиля Twitter"
+
+#: ../epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Введите URL Вашего Twitter профиля."
+
+#: ../epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "URL профиля Google+"
+
+#: ../epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Введите URL Вашего Google+ профиля. "
+
+#: ../epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "URL RSS ленты"
+
+#: ../epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "Введите URL Вашей RSS ленты. "
+
+#: ../epanel/options_divi.php:183
+msgid "Number of Posts displayed on Category page"
+msgstr "Количество постов, отображающихся на странице категории"
+
+#: ../epanel/options_divi.php:187
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Здесь вы можете задавать количество постов, отображаемых на странице "
+"категории. Эта опция работает независимо от опции определения кол-ва постов "
+"из Settings > Reading в wp-admin."
+
+#: ../epanel/options_divi.php:191
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Количество постов, отображающихся на страницах архива"
+
+#: ../epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Здесь вы можете задавать количество постов, отображаемых на странице "
+"архивов. Эта опция работает независимо от опции определения кол-ва постов из "
+"Settings > Reading в wp-admin."
+
+#: ../epanel/options_divi.php:199
+msgid "Number of Posts displayed on Search pages"
+msgstr "Количество постов, отображающихся на страницах поиска"
+
+#: ../epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Здесь вы можете задавать количество постов, отображаемых на странице поиска. "
+"Эта опция работает независимо от опции определения кол-ва постов из Settings "
+"> Reading в wp-admin."
+
+#: ../epanel/options_divi.php:207
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Количество постов, отображающихся на страницах тэгов"
+
+#: ../epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Здесь вы можете задавать количество постов, отображаемых на странице тэгов. "
+"Эта опция работает независимо от опции определения кол-ва постов из Settings "
+"> Reading в wp-admin."
+
+#: ../epanel/options_divi.php:215
+msgid "Date format"
+msgstr "Формат даты"
+
+#: ../epanel/options_divi.php:219
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Эта опция позволяет изменить способ отображения дат. Для получения более "
+"подробной информации, пожалуйста, обратитесь к кодексу WordPress здесь:<a "
+"href='http://codex.wordpress.org/Formatting_Date_and_Time' "
+"target='_blank'>Форматирование даты и времени</a>"
+
+#: ../epanel/options_divi.php:225
+msgid "Use excerpts when defined"
+msgstr "Использовать выдержки постов, если они определены"
+
+#: ../epanel/options_divi.php:229
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Это позволит использовать выдержки в постах или на страницах."
+
+#: ../epanel/options_divi.php:232
+msgid "Responsive shortcodes"
+msgstr "Адаптивные ( responsive ) шорткоды"
+
+#: ../epanel/options_divi.php:236
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Подключите эту опцию, чтобы шорткоды адаптировались к различным разрешениям "
+"экрана"
+
+#: ../epanel/options_divi.php:241
+msgid "Google Fonts subsets"
+msgstr "Вариации Google шрифтов"
+
+#: ../epanel/options_divi.php:245
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr ""
+"Активировать поддержку Google шрифтов для остальных языков, помимо "
+"английского."
+
+#: ../epanel/options_divi.php:248
+msgid "Back To Top Button"
+msgstr "Кнопка \"Вернуться Наверх\""
+
+#: ../epanel/options_divi.php:252
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+"Подключите эту опцию, чтобы отобразить кнопку \"Вернуться Наверх\" во время "
+"прокрутки"
+
+#: ../epanel/options_divi.php:255
+msgid "Smooth Scrolling"
+msgstr "Плавная прокрутка"
+
+#: ../epanel/options_divi.php:259
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr ""
+"Подключите эту опцию для плавного эффекта прокрутки с помощью колесика мыши"
+
+#: ../epanel/options_divi.php:264
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: ../epanel/options_divi.php:268
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Здесь вы можете добавить css код, чтобы переопределить css код по умолчанию."
+
+#: ../epanel/options_divi.php:287
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../epanel/options_divi.php:292 ../functions.php:292 ../functions.php:302
+msgid "Categories"
+msgstr "Категории"
+
+#: ../epanel/options_divi.php:305
+msgid "Exclude pages from the navigation bar"
+msgstr "Исключить страницы из меню"
+
+#: ../epanel/options_divi.php:309
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Здесь вы можете выбрать определенные страницы в меню навигации, чтобы "
+"удалить их. Все страницы, отмеченные X не будут отображаться в навигационной "
+"панели. "
+
+#: ../epanel/options_divi.php:313 ../epanel/options_divi.php:368
+msgid "Show dropdown menus"
+msgstr "Показывать выпадающие меню"
+
+#: ../epanel/options_divi.php:317
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Если вы хотите удалить выпадающие меню в панели навигации, отключите эту "
+"опцию."
+
+#: ../epanel/options_divi.php:320
+msgid "Display Home link"
+msgstr "Показывать ссылку на домашнюю страницу"
+
+#: ../epanel/options_divi.php:324
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"По умолчанию в теме создается ссылка на домашнюю страницу, которая ведет на "
+"страницу блога. Но если вы используете статическую домашнюю страницу с "
+"названием Home, это приведет к дублированию ссылки. В таком случае вам нужно "
+"отключить опцию, чтобы удалить автоматически созданную ссылку."
+
+#: ../epanel/options_divi.php:329
+msgid "Sort Pages Links"
+msgstr "Сортировать ссылки страниц"
+
+#: ../epanel/options_divi.php:333
+msgid "Here you can choose to sort your pages links."
+msgstr "Здесь вы можете выбрать способ сортировки ссылок страниц."
+
+#: ../epanel/options_divi.php:336
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Упорядочить ссылки по алфавиту"
+
+#: ../epanel/options_divi.php:340
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr "Здесь вы можете изменить порядок отображения ссылок по алфавиту."
+
+#: ../epanel/options_divi.php:343 ../epanel/options_divi.php:384
+msgid "Number of dropdown tiers shown"
+msgstr "Количество уровней выпадающего меню"
+
+#: ../epanel/options_divi.php:347 ../epanel/options_divi.php:388
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Эта опция позволяет контролировать, количество уровней вашего выпадающего "
+"меню. Увеличение количества уровней позволяет отображать дополнительные "
+"элементы меню."
+
+#: ../epanel/options_divi.php:360
+msgid "Exclude categories from the navigation bar"
+msgstr "Исключить категории из меню"
+
+#: ../epanel/options_divi.php:364
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Здесь вы можете выбрать определенные категории в меню навигации, чтобы "
+"удалить их. Все категории, отмеченные X не будут отображаться в "
+"навигационной панели. "
+
+#: ../epanel/options_divi.php:372
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Если вы хотите удалить выпадающие меню из меню категорий, отключите эту "
+"опцию."
+
+#: ../epanel/options_divi.php:375
+msgid "Hide empty categories"
+msgstr "Спрятать пустые категории"
+
+#: ../epanel/options_divi.php:379
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Если вы хотите, чтобы категории в которых нет постов отображались в меню, "
+"отключите эту опцию. По умолчанию пустые категории скрыты"
+
+#: ../epanel/options_divi.php:394
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Сортировать ссылки категорий по Name/ID/Slug/Count/Term Group"
+
+#: ../epanel/options_divi.php:398
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"По умолчанию, страницы сортируются по имени. Однако, если вы предпочитаете "
+"сортировку по ID вы можете использовать эту настройку."
+
+#: ../epanel/options_divi.php:401
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Упорядочить ссылки категорий по алфавиту"
+
+#: ../epanel/options_divi.php:405
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr "Здесь вы можете изменить порядок отображения ссылок категорий."
+
+#: ../epanel/options_divi.php:414
+msgid "Disable top tier dropdown menu links"
+msgstr "Отключить верхний ряд ссылок с подссылками в меню"
+
+#: ../epanel/options_divi.php:418
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"В некоторых случаях, пользователи хотят использовать родительские категории "
+"или ссылки, чтобы определить ссылку, из которой выпадает меню. В этом случае "
+"нежелательно, чтобы эта ссылка была не пустой. Активируя эту опцию, вы "
+"уберете все ссылки с родительских страниц и категорий, чтобы они никуда не "
+"вели."
+
+#: ../epanel/options_divi.php:438
+msgid "Single Post Layout"
+msgstr "Макет поста"
+
+#: ../epanel/options_divi.php:443
+msgid "Single Page Layout"
+msgstr "Макет страницы"
+
+#: ../epanel/options_divi.php:456
+msgid "Choose which items to display in the postinfo section"
+msgstr "Выберите элементы для отображения в секции postinfo"
+
+#: ../epanel/options_divi.php:460
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Здесь вы можете выбрать какие элементы показывать на странице поста. Обычно "
+"эта информация следует за заголовком и отображает основные сведения о посте. "
+"Активные элементы будут отображаться."
+
+#: ../epanel/options_divi.php:464
+msgid "Show comments on posts"
+msgstr "Показывать комментарии в постах"
+
+#: ../epanel/options_divi.php:468
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Вы можете отключить эту опцию, чтобы не показывать форму добавления "
+"комментариев и сами комментарии на странице постов. "
+
+#: ../epanel/options_divi.php:471
+msgid "Place Thumbs on Posts"
+msgstr "Поместить картинки в посты"
+
+#: ../epanel/options_divi.php:475
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"По умолчанию картинки размещены в начале страницы поста. Если вы хотите "
+"удалить эту картинку, избежав повторения, отключите эту опцию. "
+
+#: ../epanel/options_divi.php:486
+msgid "Place Thumbs on Pages"
+msgstr "Поместить картинки на страницах"
+
+#: ../epanel/options_divi.php:490
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"По умолчанию картинки не размещаются на страницах ( они используются только "
+"в постах ). Однако, если вы хотите использовать картинки на страницах, "
+"просто подключите данную опцию."
+
+#: ../epanel/options_divi.php:493
+msgid "Show comments on pages"
+msgstr "Показывать комментарии на страницах"
+
+#: ../epanel/options_divi.php:497
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"По умолчанию, комментарии не размещаются на страницах, однако, если вы "
+"хотите, чтобы люди могли оставлять комментарии на ваших страницах, просто "
+"подключите эту опцию. "
+
+#: ../epanel/options_divi.php:508
+msgid "Post info section"
+msgstr "Секция postinfo ( информация о посте )"
+
+#: ../epanel/options_divi.php:512
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Здесь вы можете выбрать какие элементы показывать в postinfo секции на "
+"страницах. Обычно эта информация следует за заголовком и отображает основные "
+"сведения. Активные элементы будут отображаться. "
+
+#: ../epanel/options_divi.php:517
+msgid "Show Thumbs on Index pages"
+msgstr "Показывать картинки на страницах архивов"
+
+#: ../epanel/options_divi.php:521
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Подключить эту опцию, чтобы показывать картинки на страницах архивов."
+
+#: ../epanel/options_divi.php:540
+msgid "Homepage SEO"
+msgstr "SEO: домашняя страница"
+
+#: ../epanel/options_divi.php:545
+msgid "Single Post Page SEO"
+msgstr "SEO: страница поста"
+
+#: ../epanel/options_divi.php:550
+msgid "Index Page SEO"
+msgstr "SEO: главная страница"
+
+#: ../epanel/options_divi.php:558
+msgid " Enable custom title "
+msgstr "Использовать произвольный заголовок"
+
+#: ../epanel/options_divi.php:562
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"По умолчанию тема использует сочетание названия и описания вашего сайта, "
+"которые вы определили во время создания сайта, для создания названия "
+"домашней страницы. Однако если вы хотите создать произвольный заголовок, "
+"просто подключите данную опцию и заполните  произвольное поле Название "
+"( title ) ниже."
+
+#: ../epanel/options_divi.php:565
+msgid " Enable meta description"
+msgstr "Подключить мета описание"
+
+#: ../epanel/options_divi.php:569
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"По умолчанию тема использует описание вашего сайта, которые вы определили во "
+"время создания сайта, для создания тэгов meta описания. Если вы хотите "
+"использовать другое описание,  подключите данную опцию и заполните "
+"произвольного поле Описание ( description ) ниже."
+
+#: ../epanel/options_divi.php:572
+msgid " Enable meta keywords"
+msgstr "Подключить мета ключевые слова"
+
+#: ../epanel/options_divi.php:576
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"По умолчанию тема не добавляет ключевые слова в шапку сайта. Многие "
+"поисковые системы больше не используют ключевые слова для оценки вашего "
+"сайта, но многие пользователи все равно определяют их. Если вы хотите "
+"добавить meta тэг с ключевыми словами, просто подключите эту опцию и "
+"добавьте их в произвольное поле keywords ниже."
+
+#: ../epanel/options_divi.php:579 ../epanel/options_divi.php:712
+msgid " Enable canonical URL's"
+msgstr "Использовать канонический URL"
+
+#: ../epanel/options_divi.php:583 ../epanel/options_divi.php:661
+#: ../epanel/options_divi.php:716
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Канонизация помогает избежать индексирования одинакового контента поисковыми "
+"сервисами, и как результат, может помочь предотвратить блокирование сайта из-"
+"за дублирующегося контента и ухудшение ранга сайта в поисковой системе. "
+"Существуют страницы с разными ссылками, ведущими на одно и тоже место на "
+"сайте, например domain.com, domain.com/index.html, и www.domain.com, все эти "
+"ссылки ведут на главную страницу сайта. С точки зрения поисковых систем, эти "
+"дублирующиеся ссылки, которые также часто возникают вследствие использования "
+"произвольных ссылок ( custom permalinks ), могут восприниматься как "
+"уникальные ссылки. Определяя канонический URL, вы указываете поисковой "
+"системе какой URL вы хотите использовать. Тема создает канонический URL из "
+"ваших ссылок и имени домена, определенных в установках в wp-admin. "
+
+#: ../epanel/options_divi.php:588
+msgid "Homepage custom title (if enabled)"
+msgstr "Произвольный заголовок на домашней странице  (если подключено)"
+
+#: ../epanel/options_divi.php:592
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Если вы активировали произвольные заголовки, вы можете добавить ваш "
+"произвольный заголовок сюда. Все, что вы напишите сюда будет размещено между "
+"тэгами < title >< /title > в файле header.php"
+
+#: ../epanel/options_divi.php:596
+msgid "Homepage meta description (if enabled)"
+msgstr "Мета описание на домашней странице  (если подключено)"
+
+#: ../epanel/options_divi.php:600
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+"Если у вас активированы описания meta вы можете добавить описание сюда."
+
+#: ../epanel/options_divi.php:604
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Мета ключевые слова на домашней странице  (если подключено)"
+
+#: ../epanel/options_divi.php:608
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Если у вас активированы ключевые слова meta, вы можете добавить ключевые "
+"слова сюда. Ключевые слова должны быть разделены запытями. Например: "
+"wordpress,themes,templates,elegant"
+
+#: ../epanel/options_divi.php:612 ../epanel/options_divi.php:690
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "Если произвольные заголовки отключены, выберите метод автогенерации"
+
+#: ../epanel/options_divi.php:617
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Если вы не используете произвольные заголовки вы все равно можете "
+"контролировать как ваши заголовки генерируются. Здесь вы можете выбрать "
+"порядок отображения заголовка поста и названия сайта или вы можете полностью "
+"удалить название сайта из заголовка страницы."
+
+#: ../epanel/options_divi.php:620 ../epanel/options_divi.php:698
+#: ../epanel/options_divi.php:736
+msgid "Define a character to separate BlogName and Post title"
+msgstr "Определить символ, который отделяет название сайта от названия поста"
+
+#: ../epanel/options_divi.php:624 ../epanel/options_divi.php:702
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Здесь вы можете выбрать символ разделяющий название поста и заголовка сайта, "
+"когда название страниц генерируется автоматически. Самые распространенные "
+"значения: | или -"
+
+#: ../epanel/options_divi.php:634
+msgid "Enable custom titles"
+msgstr "Подключить произвольные заголовки"
+
+#: ../epanel/options_divi.php:638
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"По умолчанию в теме создается название страниц при помощи название постов и "
+"имени сайта. Если вы хотите, чтобы заголовок meta отличался от названия "
+"поста, вы можете определить произвольное значение для каждого поста "
+"используя произвольные поля. Опция должна быть включена для этого и вы "
+"должны выбрать название произвольного поля ниже."
+
+#: ../epanel/options_divi.php:641
+msgid "Enable custom description"
+msgstr "Подключить произвольное описание"
+
+#: ../epanel/options_divi.php:645
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Если вы хотите добавить описание meta в ваш пост, вы можете сделать это, "
+"используя произвольные поля. Эта опция должна быть подключена для этого. Вы "
+"можете добавить ваше meta описание используя произвольные поля на основании "
+"произвольного поля Название, которое вы определили ниже."
+
+#: ../epanel/options_divi.php:650
+msgid "Enable custom keywords"
+msgstr "Подключить произвольные ключевые слова"
+
+#: ../epanel/options_divi.php:654
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Если вы хотите добавить ключевые слова к вашему посту, вы можете "
+"использовать произвольные поля для этого. Эта опция должна быть включена "
+"чтобы применить ключевые слова к страницам постов. Вы можете добавить "
+"ключевые слова, используя произвольные поля, на основании значения в "
+"произвольном поле Имя, определенном ниже."
+
+#: ../epanel/options_divi.php:657
+msgid "Enable canonical URL's"
+msgstr "Подключить канонический URL"
+
+#: ../epanel/options_divi.php:666
+msgid "Custom field Name to be used for title"
+msgstr "Имя произвольного поля, используемого для заголовков"
+
+#: ../epanel/options_divi.php:670
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Когда вы определяете ваш заголовок с помощью произвольных полей ( custom "
+"fields ), вы должны использовать это значение для имени произвольного поля "
+"( custom field Name ). Значение вашего произвольного поля должно быть "
+"названием страницы, которое вы хотите использовать."
+
+#: ../epanel/options_divi.php:674
+msgid "Custom field Name to be used for description"
+msgstr "Имя произвольного поля используемого для описания"
+
+#: ../epanel/options_divi.php:678
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Когда вы определяете описание meta, используя произвольные поля, вам нужно "
+"использовать это значение для имени произвольного поля. Значение "
+"произвольного поля будет описание страницы, которое вы хотите использовать."
+
+#: ../epanel/options_divi.php:682
+msgid "Custom field Name to be used for keywords"
+msgstr ""
+"Имя произвольного поля ( custom fields ), которое будет использоваться для "
+"ключевых слов"
+
+#: ../epanel/options_divi.php:686
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Когда вы определяете ключевые слова с помощью произвольных полей ( custom "
+"fields ), вы должны использовать это значение для имени произвольного поля "
+"( custom field Name ). Значение вашего произвольного поля должно содержать "
+"ключевые слова, разделенные запятой."
+
+#: ../epanel/options_divi.php:695
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Если вы не используете произвольные заголовки, вы все равно можете "
+"контролировать каким образом генерируются названия страниц. Здесь вы можете "
+"выбрать порядок отображения заголовка поста и названия сайта, или вы можете "
+"совсем удалить название сайта из имени страницы."
+
+#: ../epanel/options_divi.php:719
+msgid "Enable meta descriptions"
+msgstr "Подключить мета описания"
+
+#: ../epanel/options_divi.php:723
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Активируйте эту опцию, если вы хотите отображать meta описание на страницах "
+"категорий и архивов. Описание основано на описании категории, которое "
+"задается когда вы создаете или редактируете категорию в wp-admin."
+
+#: ../epanel/options_divi.php:728
+msgid "Choose title autogeneration method"
+msgstr "Выберите метод автогенерации заголовка"
+
+#: ../epanel/options_divi.php:733
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Здесь вы можете выбрать как генерируются заголовки страниц архивов. Вы "
+"можете поменять порядок, в котором отображаются имя сайта и название "
+"страницы или вы можете удалить название сайта полностью."
+
+#: ../epanel/options_divi.php:740
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Здесь вы можете выбрать какой символ отделяет название сайта от названия "
+"страницы архива, на которой автоматически генерируются заголовки. Самые "
+"распространенные значения: | или -"
+
+#: ../epanel/options_divi.php:761
+msgid "Code Integration"
+msgstr "Код интеграции"
+
+#: ../epanel/options_divi.php:769
+msgid "Enable header code"
+msgstr "Подключить код шапки сайта"
+
+#: ../epanel/options_divi.php:773
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Деактивация этой опции удалит код в шапке сайта. Таким образом, вы можете "
+"оставить код на будущее, удалив его при этом с сайта."
+
+#: ../epanel/options_divi.php:776
+msgid "Enable body code"
+msgstr "Подключить код, добавленный к тегу <body>"
+
+#: ../epanel/options_divi.php:780
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Деактивация этой опции удалит код в тэге body на вашем сайте. Таким образом, "
+"вы можете оставить код на будущее, удалив его при этом с сайта."
+
+#: ../epanel/options_divi.php:785
+msgid "Enable single top code"
+msgstr "Активировать код в верхней части одиночных страниц"
+
+#: ../epanel/options_divi.php:789
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Деактивация этой опции удалит код в верхней части на одиночных страницах "
+"сайта. Таким образом, вы можете оставить код на будущее, удалив его при этом "
+"с сайта."
+
+#: ../epanel/options_divi.php:792
+msgid "Enable single bottom code"
+msgstr "Активировать код в нижней части одиночных страниц"
+
+#: ../epanel/options_divi.php:796
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Деактивация этой опции удалит код в нижней части одиночных страниц сайта. "
+"Таким образом, вы можете оставить код на будущее, удалив его при этом с "
+"сайта."
+
+#: ../epanel/options_divi.php:801
+msgid "Add code to the < head > of your blog"
+msgstr "Добавить код в < head > вашего блога"
+
+#: ../epanel/options_divi.php:805
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Любой код, размещенный здесь, появится в верхней части каждой страницы "
+"вашего блога. Это удобно, когда нужно добавить JavaScript или CSS для всех "
+"страниц."
+
+#: ../epanel/options_divi.php:808
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Добавить код в тэг < body > ( лучше всего работает для кода статистики, "
+"например google analytics )"
+
+#: ../epanel/options_divi.php:812
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Любой код размещенный здесь появится в тэге body на всех страницах сайта. "
+"Это позволяет размещать код статистики посещений, как например Google "
+"Analytics"
+
+#: ../epanel/options_divi.php:815
+msgid "Add code to the top of your posts"
+msgstr "Добавьте код в начало ваших постов"
+
+#: ../epanel/options_divi.php:819 ../epanel/options_divi.php:826
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Любой код размещенный здесь будет расположен в верхней части одиночных "
+"страниц постов. Может быть полезно для интеграции ссылок \"поделиться постом"
+"\" на различных социальных сайтах и так далее."
+
+#: ../epanel/options_divi.php:822
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Добавьте код в нижнюю часть ваших постов, перед комментариями"
+
+#: ../epanel/options_divi.php:844 ../functions.php:8612
+msgid "Documentation"
+msgstr "Документация"
+
+#: ../epanel/options_divi.php:870
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Управление рекламными блоками, расположенными вне виджетов"
+
+#: ../epanel/options_divi.php:878
+msgid "Enable Single Post 468x60 banner"
+msgstr "Активировать 468x60 баннер на страницах постов"
+
+#: ../epanel/options_divi.php:882
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Активация этой опции отобразит 468x60 баннер в нижней части ваших страниц "
+"постов, после контента поста. Если эта опция активирована, то вам нужно "
+"заполнить поля: url картинки и url ссылки ниже."
+
+#: ../epanel/options_divi.php:887
+msgid "Input 468x60 advertisement banner image"
+msgstr "Введите путь к картинке 468x60 баннера"
+
+#: ../epanel/options_divi.php:891
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Здесь вам нужно указать url 468x60 баннера"
+
+#: ../epanel/options_divi.php:895
+msgid "Input 468x60 advertisement destination url"
+msgstr "Введите ссылку для 468x60 баннера"
+
+#: ../epanel/options_divi.php:899
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Здесь вам нужно указать ссылку на 468x60 баннер"
+
+#: ../epanel/options_divi.php:903
+msgid "Input 468x60 adsense code"
+msgstr "Введите 468x60 код adsense"
+
+#: ../epanel/options_divi.php:907
+msgid "Place your adsense code here."
+msgstr "Поместите adsense код здесь."
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:518 ../functions.php:160
+msgid "Previous"
+msgstr "Предыдущ."
+
+#: ../epanel/shortcodes/shortcodes.php:15
+#: ../epanel/shortcodes/shortcodes.php:519 ../functions.php:161
+msgid "Next"
+msgstr "След."
+
+#: ../epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "Твитнуть"
+
+#: ../epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "Вход для зарегистрированных пользователей"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "Имя пользователя: "
+
+#: ../epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "Пароль: "
+
+#: ../epanel/shortcodes/shortcodes.php:294 ../functions.php:3522
+msgid "Login"
+msgstr "Войти"
+
+#: ../epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "Добавить текст всплывающей подсказки"
+
+#: ../epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "Нажмите, чтобы узнать больше."
+
+#: ../epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "Подписаться сейчас"
+
+#: ../epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "Добавить ET - блок Learn More"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "Добавить ET - блок с контентом"
+
+#: ../epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "Добавить ET - кнопку"
+
+#: ../epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "Добавить ET - вкладки"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "Добавить информацию об авторе"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "Заголовок"
+
+#: ../epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "Введите сюда заголовок"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "Здесь отображается заголовок"
+
+#: ../epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "Вид"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "Выберите открытый или закрытый вид"
+
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1006
+#: ../epanel/shortcodes/shortcodes.php:1035
+#: ../epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "Контент"
+
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1093
+#: ../epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "Введите контент сюда"
+
+#: ../epanel/shortcodes/shortcodes.php:992
+#: ../epanel/shortcodes/shortcodes.php:1008
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "Текст или html"
+
+#: ../epanel/shortcodes/shortcodes.php:999
+#: ../epanel/shortcodes/shortcodes.php:1021 ../functions.php:8610
+msgid "Type"
+msgstr "Вид"
+
+#: ../epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "Вид контейнера"
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "Ссылка"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "Выбрать тип кнопки"
+
+#: ../epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "Цвет"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "Выбрать цвет кнопки"
+
+#: ../epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "Текст ссылки"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "Иконка"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "Используется для типа иконки кнопки"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "Открыть ссылку в новом окне"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Выберите Да, если ссылка должна быть открыта в новом окне"
+
+#: ../epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "Тип слайдера"
+
+#: ../epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "Выбрать тип слайдера здесь"
+
+#: ../epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "Эффект"
+
+#: ../epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "Выбрать эффект анимации"
+
+#: ../epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "Автомат."
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Выберите Да, если хотите установить автоматическую анимацию у слайдера"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "Автоматическая скорость"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+"Автоматическая скорость слайдера (работает только, если установлено значение "
+"Да)"
+
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "Текст таба"
+
+#: ../epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "Контент таба"
+
+#: ../epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"Вставьте url изображения здесь, если вы выбрали вид слайдера \"изображения\""
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "Url изображения"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "URL изображения автора"
+
+#: ../epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "Использовать автоматическое изменение размера картинки"
+
+#: ../epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ Добавить еще один таб"
+
+#: ../epanel/shortcodes/shortcodes.php:1335 ../functions.php:3165
+msgid "Image Height"
+msgstr "Высота изображения"
+
+#: ../epanel/shortcodes/shortcodes.php:1336 ../functions.php:3146
+msgid "Image Width"
+msgstr "Ширина изображения"
+
+#: ../footer.php:40
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Дизайн: %s | Движок: %s"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: ../functions.php:31
+msgid "Secondary Menu"
+msgstr "Меню второго уровня"
+
+#: ../functions.php:32 ../functions.php:706
+msgid "Footer Menu"
+msgstr "Меню в футере"
+
+#: ../functions.php:73
+#, php-format
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a "
+"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
+"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+"Добро пожаловать в Divi! Перед погружением в новую тему, пожалуйста, "
+"посетите <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target="
+"\"_blank\">Divi Documentation</a> страницу для доступа к десяткам обучающих "
+"материалов."
+
+#: ../functions.php:97
+msgid "on"
+msgstr "на"
+
+#: ../functions.php:154
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Пожалуйста, проверьте поля ниже, чтобы убедиться, что вы ввели правильную "
+"информацию."
+
+#: ../functions.php:155
+msgid "Fill"
+msgstr "Заполнить"
+
+#: ../functions.php:156
+msgid "field"
+msgstr "поле"
+
+#: ../functions.php:157
+msgid "Invalid email"
+msgstr "Неверный электронный адрес"
+
+#: ../functions.php:158
+msgid "Captcha"
+msgstr "Кэпча"
+
+#: ../functions.php:159
+msgid "Prev"
+msgstr "Пред."
+
+#: ../functions.php:208
+msgid "Select Page"
+msgstr "Выбрать страницу"
+
+#: ../functions.php:246
+msgid "Divi Page Settings"
+msgstr "Настройки страницы Divi"
+
+#: ../functions.php:247
+msgid "Divi Post Settings"
+msgstr "Настройки поста Divi"
+
+#: ../functions.php:248
+msgid "Divi Product Settings"
+msgstr "Divi: настройки продукта"
+
+#: ../functions.php:249
+msgid "Divi Project Settings"
+msgstr "Настройки проекта Divi"
+
+#: ../functions.php:255
+msgid "Projects"
+msgstr "Проекты"
+
+#: ../functions.php:256
+msgid "Project"
+msgstr "Проект"
+
+#: ../functions.php:257
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: ../functions.php:258
+msgid "Add New Project"
+msgstr "Добавить новый проект"
+
+#: ../functions.php:259
+msgid "Edit Project"
+msgstr "Редактировать проект"
+
+#: ../functions.php:260
+msgid "New Project"
+msgstr "Новый проект"
+
+#: ../functions.php:261
+msgid "All Projects"
+msgstr "Все проекты"
+
+#: ../functions.php:262
+msgid "View Project"
+msgstr "Посмотреть проект"
+
+#: ../functions.php:263
+msgid "Search Projects"
+msgstr "Искать проекты"
+
+#: ../functions.php:264
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: ../functions.php:265
+msgid "Nothing found in Trash"
+msgstr "Ничего не найдено в корзине"
+
+#: ../functions.php:293
+msgid "Category"
+msgstr "Категория"
+
+#: ../functions.php:294
+msgid "Search Categories"
+msgstr "Искать категории"
+
+#: ../functions.php:295
+msgid "All Categories"
+msgstr "Все категории"
+
+#: ../functions.php:296
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+#: ../functions.php:297
+msgid "Parent Category:"
+msgstr "Родительская категория:"
+
+#: ../functions.php:298
+msgid "Edit Category"
+msgstr "Редактировать категорию"
+
+#: ../functions.php:299
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+#: ../functions.php:300
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+#: ../functions.php:301
+msgid "New Category Name"
+msgstr "Новое имя категории"
+
+#: ../functions.php:314 ../functions.php:324
+msgid "Tags"
+msgstr "Тэги"
+
+#: ../functions.php:315
+msgid "Tag"
+msgstr "Тэг"
+
+#: ../functions.php:316
+msgid "Search Tags"
+msgstr "Искать тэги"
+
+#: ../functions.php:317
+msgid "All Tags"
+msgstr "Все тэги"
+
+#: ../functions.php:318
+msgid "Parent Tag"
+msgstr "Родительский тэг"
+
+#: ../functions.php:319
+msgid "Parent Tag:"
+msgstr "Родительский тэг:"
+
+#: ../functions.php:320
+msgid "Edit Tag"
+msgstr "Редактировать тэг"
+
+#: ../functions.php:321
+msgid "Update Tag"
+msgstr "Обновить тэг"
+
+#: ../functions.php:322
+msgid "Add New Tag"
+msgstr "Добавить новый тэг"
+
+#: ../functions.php:323
+msgid "New Tag Name"
+msgstr "Новое имя тэга"
+
+#: ../functions.php:340
+msgid "Skills"
+msgstr "Навыки"
+
+#: ../functions.php:343
+msgid "Posted on"
+msgstr "Опубликовано:"
+
+#: ../functions.php:370
+msgid "Light"
+msgstr "Светлый"
+
+#: ../functions.php:371
+msgid "Dark"
+msgstr "Темный"
+
+#: ../functions.php:384
+msgid "Page Layout"
+msgstr "Макет страницы"
+
+#: ../functions.php:398
+msgid "Dot Navigation"
+msgstr "Точка навигации"
+
+#: ../functions.php:401 ../functions.php:409
+msgid "Off"
+msgstr "Выкл."
+
+#: ../functions.php:402 ../functions.php:410
+msgid "On"
+msgstr "Вкл."
+
+#: ../functions.php:406
+msgid "Hide Nav Before Scroll"
+msgstr "Скрыть навигацию перед прокруткой"
+
+#: ../functions.php:416
+msgid "Post Title"
+msgstr "Заголовок поста"
+
+#: ../functions.php:419
+msgid "Show"
+msgstr "Показать"
+
+#: ../functions.php:420
+msgid "Hide"
+msgstr "Скрыть"
+
+#: ../functions.php:425
+msgid "Use Background Color"
+msgstr "Использовать цвет фона"
+
+#: ../functions.php:430 ../functions.php:5510
+msgid "Hex Value"
+msgstr "Шестнадцатеричное значение (цвета)"
+
+#: ../functions.php:434 ../functions.php:1697 ../functions.php:1722
+#: ../functions.php:1845 ../functions.php:2350 ../functions.php:2449
+#: ../functions.php:2655
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: ../functions.php:626
+msgid "Typography"
+msgstr "Типография"
+
+#: ../functions.php:631
+msgid "Mobile Styles"
+msgstr "Мобильные стили"
+
+#: ../functions.php:636
+msgid "Tablet"
+msgstr "Планшет"
+
+#: ../functions.php:641
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../functions.php:646
+msgid "Mobile Menu"
+msgstr "Мобильное меню"
+
+#: ../functions.php:651
+msgid "Background"
+msgstr "Фон"
+
+#: ../functions.php:656
+msgid "Header & Navigation"
+msgstr "Header и навигация"
+
+#: ../functions.php:661
+msgid "Header Format"
+msgstr "Формат Header"
+
+#: ../functions.php:666
+msgid "Primary Menu Bar"
+msgstr "Первичная строка меню"
+
+#: ../functions.php:671
+msgid "Secondary Menu Bar"
+msgstr "Вторичная строка меню"
+
+#: ../functions.php:676
+msgid "Fixed Navigation Settings"
+msgstr "Фиксированные настройки навигации"
+
+#: ../functions.php:681
+msgid "Header Elements"
+msgstr "Элементы Header"
+
+#: ../functions.php:686
+msgid "Footer"
+msgstr "Footer"
+
+#: ../functions.php:691
+msgid "Layout"
+msgstr "Макет"
+
+#: ../functions.php:696
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: ../functions.php:701
+msgid "Footer Elements"
+msgstr "Элементы Footer"
+
+#: ../functions.php:711
+msgid "Bottom Bar"
+msgstr "Нижний Bar"
+
+#: ../functions.php:716 ../functions.php:1411
+msgid "Color Schemes"
+msgstr "Цветовые схемы"
+
+#: ../functions.php:718
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Примечание: Настройки цвета, выбранные выше, будут применены к основной "
+"цветовой схеме."
+
+#: ../functions.php:722
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: ../functions.php:727
+msgid "Buttons Style"
+msgstr "Стиль кнопок"
+
+#: ../functions.php:732
+msgid "Buttons Hover Style"
+msgstr "Стиль кнопок при наведении курсора"
+
+#: ../functions.php:737 ../functions.php:4774
+msgid "Blog"
+msgstr "Блог"
+
+#: ../functions.php:742
+msgid "Post"
+msgstr "Пост"
+
+#: ../functions.php:754
+msgid "Meta Text Size"
+msgstr "Размер текста Meta"
+
+#: ../functions.php:772
+msgid "Meta Line Height"
+msgstr "Высота строки Meta"
+
+#: ../functions.php:790
+msgid "Meta Letter Spacing"
+msgstr "Расстояние между букв Meta"
+
+#: ../functions.php:808 ../functions.php:4845 ../functions.php:4931
+msgid "Meta Font Style"
+msgstr "Стиль шрифта Meta"
+
+#: ../functions.php:812 ../functions.php:885 ../functions.php:1276
+#: ../functions.php:1598 ../functions.php:1682 ../functions.php:2119
+#: ../functions.php:2174 ../functions.php:2303 ../functions.php:2367
+#: ../functions.php:2546 ../functions.php:2825 ../functions.php:2864
+#: ../functions.php:2938 ../functions.php:3024 ../functions.php:3063
+#: ../functions.php:3091 ../functions.php:3111 ../functions.php:3215
+#: ../functions.php:3254 ../functions.php:3293 ../functions.php:3340
+#: ../functions.php:3406 ../functions.php:3445 ../functions.php:3492
+#: ../functions.php:3558 ../functions.php:3652 ../functions.php:3691
+#: ../functions.php:3766 ../functions.php:3805 ../functions.php:3844
+#: ../functions.php:3891 ../functions.php:3930 ../functions.php:4014
+#: ../functions.php:4053 ../functions.php:4100 ../functions.php:4139
+#: ../functions.php:4185 ../functions.php:4205 ../functions.php:4291
+#: ../functions.php:4311 ../functions.php:4396 ../functions.php:4435
+#: ../functions.php:4493 ../functions.php:4540 ../functions.php:4705
+#: ../functions.php:4744 ../functions.php:4810 ../functions.php:4849
+#: ../functions.php:4896 ../functions.php:4935 ../functions.php:4982
+#: ../functions.php:5021 ../functions.php:5060 ../functions.php:5099
+#: ../functions.php:5146 ../functions.php:5193 ../functions.php:5259
+#: ../functions.php:5298
+msgid "Bold"
+msgstr "Жирный"
+
+#: ../functions.php:813 ../functions.php:886 ../functions.php:1277
+#: ../functions.php:1599 ../functions.php:1683 ../functions.php:2120
+#: ../functions.php:2175 ../functions.php:2304 ../functions.php:2368
+#: ../functions.php:2547 ../functions.php:2826 ../functions.php:2865
+#: ../functions.php:2939 ../functions.php:3025 ../functions.php:3064
+#: ../functions.php:3092 ../functions.php:3112 ../functions.php:3216
+#: ../functions.php:3255 ../functions.php:3294 ../functions.php:3341
+#: ../functions.php:3407 ../functions.php:3446 ../functions.php:3493
+#: ../functions.php:3559 ../functions.php:3653 ../functions.php:3692
+#: ../functions.php:3767 ../functions.php:3806 ../functions.php:3845
+#: ../functions.php:3892 ../functions.php:3931 ../functions.php:4015
+#: ../functions.php:4054 ../functions.php:4101 ../functions.php:4140
+#: ../functions.php:4186 ../functions.php:4206 ../functions.php:4292
+#: ../functions.php:4312 ../functions.php:4397 ../functions.php:4436
+#: ../functions.php:4494 ../functions.php:4541 ../functions.php:4706
+#: ../functions.php:4745 ../functions.php:4811 ../functions.php:4850
+#: ../functions.php:4897 ../functions.php:4936 ../functions.php:4983
+#: ../functions.php:5022 ../functions.php:5061 ../functions.php:5100
+#: ../functions.php:5147 ../functions.php:5194 ../functions.php:5260
+#: ../functions.php:5299
+msgid "Italic"
+msgstr "Курсив"
+
+#: ../functions.php:814 ../functions.php:887 ../functions.php:1278
+#: ../functions.php:1600 ../functions.php:1684 ../functions.php:2121
+#: ../functions.php:2176 ../functions.php:2305 ../functions.php:2369
+#: ../functions.php:2548 ../functions.php:2827 ../functions.php:2866
+#: ../functions.php:2940 ../functions.php:3026 ../functions.php:3065
+#: ../functions.php:3093 ../functions.php:3113 ../functions.php:3217
+#: ../functions.php:3256 ../functions.php:3295 ../functions.php:3342
+#: ../functions.php:3408 ../functions.php:3447 ../functions.php:3494
+#: ../functions.php:3560 ../functions.php:3654 ../functions.php:3693
+#: ../functions.php:3768 ../functions.php:3807 ../functions.php:3846
+#: ../functions.php:3893 ../functions.php:3932 ../functions.php:4016
+#: ../functions.php:4055 ../functions.php:4102 ../functions.php:4141
+#: ../functions.php:4187 ../functions.php:4207 ../functions.php:4293
+#: ../functions.php:4313 ../functions.php:4398 ../functions.php:4437
+#: ../functions.php:4495 ../functions.php:4542 ../functions.php:4707
+#: ../functions.php:4746 ../functions.php:4812 ../functions.php:4851
+#: ../functions.php:4898 ../functions.php:4937 ../functions.php:4984
+#: ../functions.php:5023 ../functions.php:5062 ../functions.php:5101
+#: ../functions.php:5148 ../functions.php:5195 ../functions.php:5261
+#: ../functions.php:5300
+msgid "Uppercase"
+msgstr "Прописные"
+
+#: ../functions.php:815 ../functions.php:888 ../functions.php:1279
+#: ../functions.php:1601 ../functions.php:1685 ../functions.php:2122
+#: ../functions.php:2177 ../functions.php:2306 ../functions.php:2370
+#: ../functions.php:2549 ../functions.php:2828 ../functions.php:2867
+#: ../functions.php:2941 ../functions.php:3027 ../functions.php:3066
+#: ../functions.php:3094 ../functions.php:3114 ../functions.php:3218
+#: ../functions.php:3257 ../functions.php:3296 ../functions.php:3343
+#: ../functions.php:3409 ../functions.php:3448 ../functions.php:3495
+#: ../functions.php:3561 ../functions.php:3655 ../functions.php:3694
+#: ../functions.php:3769 ../functions.php:3808 ../functions.php:3847
+#: ../functions.php:3894 ../functions.php:3933 ../functions.php:4017
+#: ../functions.php:4056 ../functions.php:4103 ../functions.php:4142
+#: ../functions.php:4188 ../functions.php:4208 ../functions.php:4294
+#: ../functions.php:4314 ../functions.php:4399 ../functions.php:4438
+#: ../functions.php:4496 ../functions.php:4543 ../functions.php:4708
+#: ../functions.php:4747 ../functions.php:4813 ../functions.php:4852
+#: ../functions.php:4899 ../functions.php:4938 ../functions.php:4985
+#: ../functions.php:5024 ../functions.php:5063 ../functions.php:5102
+#: ../functions.php:5149 ../functions.php:5196 ../functions.php:5262
+#: ../functions.php:5301
+msgid "Underline"
+msgstr "Подчеркивание"
+
+#: ../functions.php:827 ../functions.php:1218 ../functions.php:1291
+#: ../functions.php:1309 ../functions.php:2097
+msgid "Header Text Size"
+msgstr "Размер текста Header"
+
+#: ../functions.php:845 ../functions.php:1254
+msgid "Header Line Height"
+msgstr "Высота строки Header"
+
+#: ../functions.php:863 ../functions.php:1236
+msgid "Header Letter Spacing"
+msgstr "Расстояние между букв Header"
+
+#: ../functions.php:881 ../functions.php:1272 ../functions.php:2115
+#: ../functions.php:3020 ../functions.php:3211 ../functions.php:3336
+#: ../functions.php:3402 ../functions.php:3488 ../functions.php:3554
+#: ../functions.php:4392 ../functions.php:5142 ../functions.php:5255
+msgid "Header Font Style"
+msgstr "Стиль шрифта Header"
+
+#: ../functions.php:899
+msgid "Enable Boxed Layout"
+msgstr "Включить фиксированный макет"
+
+#: ../functions.php:912
+msgid "Website Content Width"
+msgstr "Ширина контента сайта"
+
+#: ../functions.php:930
+msgid "Website Gutter Width"
+msgstr "Расстояние между столбцами сайта"
+
+#: ../functions.php:947
+msgid "Use Custom Sidebar Width"
+msgstr ""
+
+#: ../functions.php:960
+msgid "Sidebar Width"
+msgstr "Ширина боковой панели"
+
+#: ../functions.php:978 ../functions.php:996 ../functions.php:1014
+msgid "Section Height"
+msgstr "Высота раздела"
+
+#: ../functions.php:1032 ../functions.php:1050 ../functions.php:1068
+msgid "Row Height"
+msgstr "Высота строки"
+
+#: ../functions.php:1086
+msgid "Stretch Background Image"
+msgstr "Растянуть фоновое изображение"
+
+#: ../functions.php:1093 ../functions.php:1748 ../functions.php:1819
+#: ../functions.php:1832 ../functions.php:2337 ../functions.php:2462
+#: ../functions.php:2668
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: ../functions.php:1100
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: ../functions.php:1106
+msgid "Background Repeat"
+msgstr "Повтор фона"
+
+#: ../functions.php:1110
+msgid "No Repeat"
+msgstr "Без повтора"
+
+#: ../functions.php:1111
+msgid "Tile"
+msgstr "Заполнить по горизонтали и вертикали"
+
+#: ../functions.php:1112
+msgid "Tile Horizontally"
+msgstr "Заполнить по горизонтали"
+
+#: ../functions.php:1113
+msgid "Tile Vertically"
+msgstr "Заполнить по вертикали"
+
+#: ../functions.php:1118 ../functions.php:1129
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: ../functions.php:1122 ../functions.php:2626
+msgid "Left"
+msgstr "Слева"
+
+#: ../functions.php:1123
+msgid "Center"
+msgstr "По Центру"
+
+#: ../functions.php:1124 ../functions.php:2625
+msgid "Right"
+msgstr "Справа"
+
+#: ../functions.php:1133
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: ../functions.php:1134
+msgid "Fixed"
+msgstr "Фиксированный"
+
+#: ../functions.php:1146 ../functions.php:1182 ../functions.php:1200
+msgid "Body Text Size"
+msgstr "Размер текста Body"
+
+#: ../functions.php:1164
+msgid "Body Line Height"
+msgstr "Высота строки Body"
+
+#: ../functions.php:1328
+msgid "Header Font"
+msgstr "Шрифт заголовков"
+
+#: ../functions.php:1343
+msgid "Body Font"
+msgstr "Основной шрифт"
+
+#: ../functions.php:1359
+msgid "Body Link Color"
+msgstr "Цвет ссылки Body"
+
+#: ../functions.php:1372
+msgid "Body Text Color"
+msgstr "Цвет текста Body"
+
+#: ../functions.php:1385
+msgid "Header Text Color"
+msgstr "Цвет текста Header"
+
+#: ../functions.php:1398
+msgid "Theme Accent Color"
+msgstr "Основной цвет темы"
+
+#: ../functions.php:1416 ../functions.php:1436 ../functions.php:5474
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../functions.php:1417
+msgid "Green"
+msgstr "Зелен."
+
+#: ../functions.php:1418
+msgid "Orange"
+msgstr "Оранж."
+
+#: ../functions.php:1419
+msgid "Pink"
+msgstr "Розов."
+
+#: ../functions.php:1420
+msgid "Red"
+msgstr "Красн."
+
+#: ../functions.php:1432
+msgid "Header Style"
+msgstr "Стиль шапки сайта"
+
+#: ../functions.php:1437
+msgid "Centered"
+msgstr "По центру"
+
+#: ../functions.php:1438
+msgid "Centered Inline Logo"
+msgstr "Разместить по центру встроенный логотип"
+
+#: ../functions.php:1449
+msgid "Enable Vertical Navigation"
+msgstr "Включить вертикальную навигацию"
+
+#: ../functions.php:1461
+msgid "Hide Navigation Until Scroll"
+msgstr "Скрыть навигацию до прокрутки"
+
+#: ../functions.php:1473 ../functions.php:2045
+msgid "Show Social Icons"
+msgstr "Показать иконки социальных сетей"
+
+#: ../functions.php:1486
+msgid "Show Search Icon"
+msgstr "Показывать социальные иконки"
+
+#: ../functions.php:1498 ../functions.php:1619
+msgid "Make Full Width"
+msgstr "Сделать по всей ширине"
+
+#: ../functions.php:1510 ../functions.php:1709 ../functions.php:1919
+msgid "Hide Logo Image"
+msgstr "Скрыть изображение логотипа"
+
+#: ../functions.php:1523
+msgid "Menu/Logo Height"
+msgstr "Высота меню/логотипа"
+
+#: ../functions.php:1541 ../functions.php:1625 ../functions.php:1950
+#: ../functions.php:2431
+msgid "Text Size"
+msgstr "Размер текста"
+
+#: ../functions.php:1559 ../functions.php:1643 ../functions.php:2281
+#: ../functions.php:2524 ../functions.php:2712
+msgid "Letter Spacing"
+msgstr "Расстояние между букв"
+
+#: ../functions.php:1578 ../functions.php:1662
+msgid "Font"
+msgstr "Шрифт"
+
+#: ../functions.php:1594 ../functions.php:1678 ../functions.php:2299
+#: ../functions.php:2363
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: ../functions.php:1735
+msgid "Active Link Color"
+msgstr "Цвет активной ссылки"
+
+#: ../functions.php:1761 ../functions.php:1858
+msgid "Dropdown Menu Background Color"
+msgstr "Цвет фона выпадающего меню"
+
+#: ../functions.php:1774
+msgid "Dropdown Menu Line Color"
+msgstr "Цвет линии выпадающего меню"
+
+#: ../functions.php:1787 ../functions.php:1871
+msgid "Dropdown Menu Text Color"
+msgstr "Цвет текста выпадающего меню"
+
+#: ../functions.php:1800 ../functions.php:1884
+msgid "Dropdown Menu Animation"
+msgstr "Анимация выпадающего меню"
+
+#: ../functions.php:1804 ../functions.php:1888
+msgid "Fade"
+msgstr "Затемнить"
+
+#: ../functions.php:1805 ../functions.php:1889
+msgid "Expand"
+msgstr "Расширить"
+
+#: ../functions.php:1806 ../functions.php:1890
+msgid "Slide"
+msgstr "Слайд"
+
+#: ../functions.php:1807 ../functions.php:1891
+msgid "Flip"
+msgstr "Отразить"
+
+#: ../functions.php:1932
+msgid "Fixed Menu/Logo Height"
+msgstr "Фиксированное меню/Высота логотипа"
+
+#: ../functions.php:1968
+msgid "Primary Menu Background Color"
+msgstr "Цвет фона первичного меню"
+
+#: ../functions.php:1981
+msgid "Secondary Menu Background Color"
+msgstr "Цвет фона вторичного меню"
+
+#: ../functions.php:1994
+msgid "Menu Link Color"
+msgstr "Цвет ссылки меню"
+
+#: ../functions.php:2007
+msgid "Active Menu Link Color"
+msgstr "Цвет активных ссылок в меню"
+
+#: ../functions.php:2020
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: ../functions.php:2032
+msgid "Email"
+msgstr "Электронный адрес"
+
+#: ../functions.php:2058
+msgid "Column Layout"
+msgstr "Макет столбца"
+
+#: ../functions.php:2063 ../functions.php:2064 ../functions.php:2065
+#: ../functions.php:2067 ../functions.php:2068 ../functions.php:2069
+#: ../functions.php:2070 ../functions.php:2071 ../functions.php:2072
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s Столбцы"
+
+#: ../functions.php:2066
+msgid "1 Column"
+msgstr "1 столбец"
+
+#: ../functions.php:2084
+msgid "Footer Background Color"
+msgstr "Цвет фона футера"
+
+#: ../functions.php:2134
+msgid "Body/Link Text Size"
+msgstr "Размер текста Body/ссылки"
+
+#: ../functions.php:2152
+msgid "Body/Link Line Height"
+msgstr "Высота строки Body/ссылки"
+
+#: ../functions.php:2170
+msgid "Body Font Style"
+msgstr "Стиль шрифта Body"
+
+#: ../functions.php:2189
+msgid "Widget Text Color"
+msgstr "Цвет текста виджета"
+
+#: ../functions.php:2202
+msgid "Widget Link Color"
+msgstr "Цвет ссылки виджета"
+
+#: ../functions.php:2215
+msgid "Widget Header Color"
+msgstr "Цвет Header виджета"
+
+#: ../functions.php:2228
+msgid "Widget Bullet Color"
+msgstr "Цвет маркира списка у виджита"
+
+#: ../functions.php:2242
+msgid "Footer Menu Background Color"
+msgstr "Цвет фона Footer меню"
+
+#: ../functions.php:2255
+msgid "Footer Menu Text Color"
+msgstr "Цвет текста Footer меню"
+
+#: ../functions.php:2268
+msgid "Footer Menu Active Link Color"
+msgstr "Цвет активной ссылки Footer меню"
+
+#: ../functions.php:2318 ../functions.php:2382
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: ../functions.php:2400
+msgid "Social Icon Size"
+msgstr "Размер социальной иконки"
+
+#: ../functions.php:2418
+msgid "Social Icon Color"
+msgstr "Цвет социальной иконки"
+
+#: ../functions.php:2475
+msgid "Border Width"
+msgstr "Ширина рамки"
+
+#: ../functions.php:2493 ../functions.php:2681
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: ../functions.php:2506 ../functions.php:2694
+msgid "Border Radius"
+msgstr "Радиус рамки"
+
+#: ../functions.php:2542 ../functions.php:5189
+msgid "Button Font Style"
+msgstr "Стиль шрифта кнопки"
+
+#: ../functions.php:2562
+msgid "Buttons Font"
+msgstr "Шрифт кнопок"
+
+#: ../functions.php:2578
+msgid "Add Button Icon"
+msgstr "Добавить значок кнопки"
+
+#: ../functions.php:2582 ../functions.php:2642
+msgid "Yes"
+msgstr "Да"
+
+#: ../functions.php:2583 ../functions.php:2643
+msgid "No"
+msgstr "Нет"
+
+#: ../functions.php:2595
+msgid "Select Icon"
+msgstr "Выбрать значок"
+
+#: ../functions.php:2608
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: ../functions.php:2621
+msgid "Icon Placement"
+msgstr "Размещение значка"
+
+#: ../functions.php:2638
+msgid "Only Show Icon on Hover"
+msgstr "Показывать значок только при наведении курсора"
+
+#: ../functions.php:2727
+msgid "Left to Right"
+msgstr "Слева направо"
+
+#: ../functions.php:2728
+msgid "Right to Left"
+msgstr "Справа налево"
+
+#: ../functions.php:2729
+msgid "Top to Bottom"
+msgstr "Сверху вниз"
+
+#: ../functions.php:2730
+msgid "Bottom to Top"
+msgstr "Снизу вверх"
+
+#: ../functions.php:2731
+msgid "Fade In"
+msgstr "Постепенное появление"
+
+#: ../functions.php:2732
+msgid "No Animation"
+msgstr "Без анимации"
+
+#: ../functions.php:2739 ../includes/widgets/widget-about.php:50
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "Изображение"
+
+#: ../functions.php:2740
+msgid "Image Module Settings"
+msgstr "Настройки модуля изображения"
+
+#: ../functions.php:2750
+msgid "Animation"
+msgstr "Анимация"
+
+#: ../functions.php:2751
+msgid "This controls default direction of the lazy-loading animation."
+msgstr "Это контролирует по умолчанию направление lazy-loading анимации."
+
+#: ../functions.php:2761
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../functions.php:2774 ../functions.php:3601 ../functions.php:3715
+msgid "Zoom Icon Color"
+msgstr "Цвет увеличенного значка"
+
+#: ../functions.php:2788 ../functions.php:3615 ../functions.php:3729
+msgid "Hover Overlay Color"
+msgstr "Цвет наложения при наведении курсора"
+
+#: ../functions.php:2802 ../functions.php:2915 ../functions.php:3629
+#: ../functions.php:3743 ../functions.php:4030 ../functions.php:4116
+#: ../functions.php:4162 ../functions.php:4268
+msgid "Title Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: ../functions.php:2821 ../functions.php:2934 ../functions.php:3648
+#: ../functions.php:3762 ../functions.php:4049 ../functions.php:4135
+#: ../functions.php:4806 ../functions.php:4892
+msgid "Title Font Style"
+msgstr "Стиль шрифта заголовка"
+
+#: ../functions.php:2841 ../functions.php:3668 ../functions.php:3782
+msgid "Caption Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: ../functions.php:2860 ../functions.php:3687 ../functions.php:3801
+msgid "Caption Font Style"
+msgstr "Стиль шрифта Caption"
+
+#: ../functions.php:2875
+msgid "Blurb"
+msgstr "Краткое описание"
+
+#: ../functions.php:2888 ../functions.php:3001 ../functions.php:3192
+#: ../functions.php:3317 ../functions.php:3383 ../functions.php:3469
+#: ../functions.php:3535 ../functions.php:4373 ../functions.php:5123
+#: ../functions.php:5236
+msgid "Header Font Size"
+msgstr "Размер шрифта Header"
+
+#: ../functions.php:2902
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: ../functions.php:2955 ../functions.php:3356 ../functions.php:3508
+#: ../functions.php:3574
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: ../functions.php:2969
+msgid "Slider"
+msgstr "Слайдер"
+
+#: ../functions.php:2982 ../functions.php:5217
+msgid "Top & Bottom Padding"
+msgstr "Верхний и нижний отступ"
+
+#: ../functions.php:3040 ../functions.php:5275
+msgid "Content Font Size"
+msgstr "Размер шрифта контента"
+
+#: ../functions.php:3059 ../functions.php:5294
+msgid "Content Font Style"
+msgstr "Стиль шрифта контента"
+
+#: ../functions.php:3074
+msgid "Testimonial"
+msgstr "Отзывы"
+
+#: ../functions.php:3087 ../functions.php:4701
+msgid "Name Font Style"
+msgstr "Стиль шрифта имени"
+
+#: ../functions.php:3107
+msgid "Details Font Style"
+msgstr "Стиль шрифта деталей"
+
+#: ../functions.php:3127
+msgid "Portrait Border Radius"
+msgstr "Радиус рамки портрета"
+
+#: ../functions.php:3179
+msgid "Pricing Table"
+msgstr "Таблица с расценками"
+
+#: ../functions.php:3231 ../functions.php:3422 ../functions.php:4721
+msgid "Subheader Font Size"
+msgstr "Размер шрифта подзаголовка"
+
+#: ../functions.php:3250 ../functions.php:3441 ../functions.php:4740
+msgid "Subheader Font Style"
+msgstr "Стиль шрифта подзаголовка"
+
+#: ../functions.php:3270 ../functions.php:5037
+msgid "Price Font Size"
+msgstr "Размер шрифта цены"
+
+#: ../functions.php:3289
+msgid "Pricing Font Style"
+msgstr "Стиль шрифта цены"
+
+#: ../functions.php:3304
+msgid "Call To Action"
+msgstr "Кнопка \"Призыв к действию\""
+
+#: ../functions.php:3370
+msgid "Audio"
+msgstr "Аудио"
+
+#: ../functions.php:3456
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: ../functions.php:3588
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: ../functions.php:3702
+msgid "Filterable Portfolio"
+msgstr "Портфолио с фильтрами"
+
+#: ../functions.php:3821
+msgid "Filters Font Size"
+msgstr "Размер шрифта фильтров"
+
+#: ../functions.php:3840
+msgid "Filters Font Style"
+msgstr "Стиль шрифта фильтров"
+
+#: ../functions.php:3855
+msgid "Bar Counter"
+msgstr "Полосный счётчик"
+
+#: ../functions.php:3868
+msgid "Label Font Size"
+msgstr "Размер шрифта метки"
+
+#: ../functions.php:3887
+msgid "Label Font Style"
+msgstr "Стиль шрифта метки"
+
+#: ../functions.php:3907
+msgid "Percent Font Size"
+msgstr "Размер шрифта процентов"
+
+#: ../functions.php:3926
+msgid "Percent Font Style"
+msgstr "Стиль шрифта процентов"
+
+#: ../functions.php:3946
+msgid "Bar Padding"
+msgstr "Отступ Bar"
+
+#: ../functions.php:3965
+msgid "Bar Border Radius"
+msgstr "Радиус рамки Bar"
+
+#: ../functions.php:3979
+msgid "Circle Counter"
+msgstr "Счетчик с кругами"
+
+#: ../functions.php:3991 ../functions.php:4077
+msgid "Number Font Size"
+msgstr "Размер шрифта номера"
+
+#: ../functions.php:4010 ../functions.php:4096
+msgid "Number Font Style"
+msgstr "Стиль шрифта номера"
+
+#: ../functions.php:4064
+msgid "Number Counter"
+msgstr "Счетчик с числами"
+
+#: ../functions.php:4150
+msgid "Accordion"
+msgstr "Элемент-аккордион"
+
+#: ../functions.php:4181 ../functions.php:4287
+msgid "Opened Title Font Style"
+msgstr "Стиль шрифта открытого заголовка"
+
+#: ../functions.php:4201 ../functions.php:4307
+msgid "Closed Title Font Style"
+msgstr "Стиль шрифта закрытого заголовка"
+
+#: ../functions.php:4221 ../functions.php:4327
+msgid "Toggle Icon Size"
+msgstr "Размер значка элемета Toggle"
+
+#: ../functions.php:4241 ../functions.php:4346
+msgid "Toggle Padding"
+msgstr "Отступ элемента Toggle"
+
+#: ../functions.php:4255
+msgid "Toggle"
+msgstr "Переключатель с текстом"
+
+#: ../functions.php:4360
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: ../functions.php:4412
+msgid "Input Font Size"
+msgstr "Размер шрифта ввода"
+
+#: ../functions.php:4431
+msgid "Input Font Style"
+msgstr "Стиль шрифта ввода"
+
+#: ../functions.php:4451
+msgid "Input Field Padding"
+msgstr "Отступ поля ввода"
+
+#: ../functions.php:4470
+msgid "Captcha Font Size"
+msgstr "Размер шрифта Captcha"
+
+#: ../functions.php:4489
+msgid "Captcha Font Style"
+msgstr "Стиль шрифта Captcha"
+
+#: ../functions.php:4504 ../includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: ../functions.php:4517
+msgid "Widget Header Font Size"
+msgstr "Размер шрифта Widget Header"
+
+#: ../functions.php:4536
+msgid "Widget Header Font Style"
+msgstr "Стиль шрифта Widget Header"
+
+#: ../functions.php:4556
+msgid "Remove Vertical Divider"
+msgstr "Удалить вертикальный разделитель"
+
+#: ../functions.php:4565
+msgid "Divider"
+msgstr "Разделитель"
+
+#: ../functions.php:4577
+msgid "Show Divider"
+msgstr "Показывать разделитель"
+
+#: ../functions.php:4591
+msgid "Divider Style"
+msgstr "Тип разделителя"
+
+#: ../functions.php:4596
+msgid "Solid"
+msgstr "Сплошной"
+
+#: ../functions.php:4597
+msgid "Dotted"
+msgstr "Точечный"
+
+#: ../functions.php:4598
+msgid "Dashed"
+msgstr "Пунктирный"
+
+#: ../functions.php:4599
+msgid "Double"
+msgstr "Двойной"
+
+#: ../functions.php:4600
+msgid "Groove"
+msgstr "Радиальный"
+
+#: ../functions.php:4601
+msgid "Ridge"
+msgstr "Волнистый"
+
+#: ../functions.php:4602
+msgid "Inset"
+msgstr "Внутренний"
+
+#: ../functions.php:4603
+msgid "Outset"
+msgstr "Внешний"
+
+#: ../functions.php:4616
+msgid "Divider Weight"
+msgstr "Ширина разделителя"
+
+#: ../functions.php:4635
+msgid "Divider Height"
+msgstr "Высота разделителя"
+
+#: ../functions.php:4654
+msgid "Divider Position"
+msgstr "Положение разделителя"
+
+#: ../functions.php:4659
+msgid "Top"
+msgstr "Вверху"
+
+#: ../functions.php:4660
+msgid "Vertically Centered"
+msgstr "Вертикально по центру"
+
+#: ../functions.php:4661
+msgid "Bottom"
+msgstr "Низ"
+
+#: ../functions.php:4669
+msgid "Person"
+msgstr "Модуль Персона"
+
+#: ../functions.php:4682
+msgid "Name Font Size"
+msgstr "Размер шрифта имени"
+
+#: ../functions.php:4760
+msgid "Social Network Icon Size"
+msgstr "Размер значка социальной сети"
+
+#: ../functions.php:4787 ../functions.php:4873
+msgid "Post Title Font Size"
+msgstr "Размер шрифта заголовка поста"
+
+#: ../functions.php:4826 ../functions.php:4912
+msgid "Meta Font Size"
+msgstr "Размер шрифта Meta"
+
+#: ../functions.php:4860
+msgid "Masonry Blog"
+msgstr "Блог Masonry"
+
+#: ../functions.php:4946
+msgid "Shop"
+msgstr "Магазин"
+
+#: ../functions.php:4959
+msgid "Product Name Font Size"
+msgstr "Размер шрифта наименования товара"
+
+#: ../functions.php:4978
+msgid "Product Name Font Style"
+msgstr "Стиль шрифта наименования товара"
+
+#: ../functions.php:4998
+msgid "Sale Badge Font Size"
+msgstr "Размер шрифта значка Sale"
+
+#: ../functions.php:5017
+msgid "Sale Badge Font Style"
+msgstr "Стиль шрифта значка Sale"
+
+#: ../functions.php:5056
+msgid "Price Font Style"
+msgstr "Стиль шрифта цены"
+
+#: ../functions.php:5076
+msgid "Sale Price Font Size"
+msgstr "Размер шрифта Sale"
+
+#: ../functions.php:5095
+msgid "Sale Price Font Style"
+msgstr "Стиль шрифта Sale"
+
+#: ../functions.php:5110
+msgid "Countdown"
+msgstr "Обратный отсчет"
+
+#: ../functions.php:5157
+msgid "Social Follow"
+msgstr "Социальные сети"
+
+#: ../functions.php:5170
+msgid "Follow Font & Icon Size"
+msgstr "Follow шрифт и размер значка"
+
+#: ../functions.php:5204
+msgid "Full Width Slider"
+msgstr "Full Width слайдер"
+
+#: ../functions.php:7875
+msgid "0 comments"
+msgstr "Нет комментариев"
+
+#: ../functions.php:7875
+msgid "1 comment"
+msgstr "1 коммент."
+
+#: ../functions.php:7875
+msgid "comments"
+msgstr "коммент."
+
+#: ../functions.php:8026
+msgid "No Gallery Found"
+msgstr ""
+
+#: ../functions.php:8028
+msgid "No items found"
+msgstr ""
+
+#: ../functions.php:8170
+msgid "Password Protected"
+msgstr "Страница защищена паролем"
+
+#: ../functions.php:8171
+msgid "To view this protected post, enter the password below"
+msgstr "Чтобы просмотреть защищенную страницу. введите пароль ниже"
+
+#: ../functions.php:8174
+msgid "Password"
+msgstr "Пароль"
+
+#: ../functions.php:8175
+msgid "Submit"
+msgstr "Отправить"
+
+#: ../functions.php:8347
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:8349
+msgid "Item"
+msgstr "Шт."
+
+#: ../functions.php:8349
+msgid "Items"
+msgstr "Шт."
+
+#: ../functions.php:8524
+msgid "Connecting..."
+msgstr "Соединение..."
+
+#: ../functions.php:8525
+msgid "Connection failed"
+msgstr "Не удалось установить соединение"
+
+#: ../functions.php:8526
+msgid "Removing connection..."
+msgstr "Удаление соединения..."
+
+#: ../functions.php:8527
+msgid "Done"
+msgstr "Выполнено"
+
+#: ../functions.php:8556
+#, php-format
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr ""
+"Шаг 1: <a href=\"%1$s\" target=\"_blank\">Сгенерировать код авторизации</a>"
+
+#: ../functions.php:8557
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Шаг 2: Вставьте код авторизации и нажмите кнопку \"Установление соединения"
+"\": "
+
+#: ../functions.php:8558
+msgid "Make a connection"
+msgstr "Установление соединения"
+
+#: ../functions.php:8561
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber установлен корректно. Вы можете удалить соединение здесь, если хотите."
+
+#: ../functions.php:8562
+msgid "Remove the connection"
+msgstr "Удалить соединение"
+
+#: ../functions.php:8570
+msgid "Nonce failed."
+msgstr "Nonce не прошел валидацию."
+
+#: ../functions.php:8576
+msgid "Authorization code is empty."
+msgstr "Код авторизации пуст."
+
+#: ../functions.php:8587
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"Код авторизации недействителен. Попробуйте сгенерировать и вставить новый "
+"код."
+
+#: ../functions.php:8609
+msgid "Aweber API Exception"
+msgstr "Aweber API исключение"
+
+#: ../functions.php:8611
+msgid "Message"
+msgstr "Сообщение"
+
+#: ../functions.php:8622
+msgid "Nonce failed"
+msgstr "Nonce не прошел валидацию"
+
+#: ../functions.php:8717
+msgid "Read more"
+msgstr "Читать далее"
+
+#: ../functions.php:8845
+msgid "Configuration error"
+msgstr "Ошибка конфигурации"
+
+#: ../functions.php:8855
+msgid "Please enter first name"
+msgstr "Пожалуйста, введите имя"
+
+#: ../functions.php:8857
+msgid "Incorrect email"
+msgstr "Ошибочный адрес электронной почты"
+
+#: ../functions.php:8859
+msgid "Configuration error: List is not defined"
+msgstr "Ошибка конфигурации: Список не определен"
+
+#: ../functions.php:8861
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Подписка оформлена - вам выслано письмо с "
+"подтверждением!</h2>"
+
+#: ../functions.php:8873
+msgid "Configuration error: api key is not defined"
+msgstr "Ошибка конфигурации: ключ API не определен"
+
+#: ../functions.php:8910
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: Неправильные конфигурационные данные"
+
+#: ../functions.php:8940 ../functions.php:8961
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: ../functions.php:8941 ../functions.php:8971
+msgid "Module Customizer"
+msgstr "Настройщик модуля"
+
+#: ../functions.php:8942
+msgid "Divi Library"
+msgstr "Библиотека Divi"
+
+#: ../header.php:176
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: ../header.php:178
+msgid "Search for:"
+msgstr "Поиск:"
+
+#. translators: 1: date, 2: time
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr " %1$s в %2$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Ред.)"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Читать Divi документацию"
+
+#: ../includes/functions/sidebars.php:13 ../includes/functions/sidebars.php:22
+#: ../includes/functions/sidebars.php:31 ../includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "Зона футера"
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Посмотрите обучающие видео"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие Записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следующие Записи &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Запрашиваемая страница не найдена. Попробуйте уточнить параметры поиска или "
+"используйте меню для нахождения страницы."
+
+#: ../includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: ../includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: ../includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Отображает информацию \"Обо мне\""
+
+#: ../includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "Виджет с информацией \"Обо мне\""
+
+#: ../includes/widgets/widget-about.php:12
+#: ../includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "Обо мне"
+
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads.php:172
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "Текст"
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Отображает рекламу"
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "ET Реклама"
+
+#: ../includes/widgets/widget-ads.php:12
+#: ../includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "Реклама"
+
+#: ../includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "Использовать относительные пути к изображениям"
+
+#: ../includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "Открывать ссылки в новом окне"
+
+#: ../includes/widgets/widget-ads.php:180
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:184
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:188
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:192
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:196
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:200
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:204
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:208
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:212
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:216
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:220
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:224
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:228
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:232
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:236
+#: ../includes/widgets/widget-ads.php:238
+#: ../includes/widgets/widget-ads.php:240
+#: ../includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "Баннер"
+
+#: ../includes/widgets/widget-ads.php:182
+#: ../includes/widgets/widget-ads.php:190
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:206
+#: ../includes/widgets/widget-ads.php:214
+#: ../includes/widgets/widget-ads.php:222
+#: ../includes/widgets/widget-ads.php:230
+#: ../includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "Url"
+
+#: ../includes/widgets/widget-ads.php:186
+#: ../includes/widgets/widget-ads.php:194
+#: ../includes/widgets/widget-ads.php:202
+#: ../includes/widgets/widget-ads.php:210
+#: ../includes/widgets/widget-ads.php:218
+#: ../includes/widgets/widget-ads.php:226
+#: ../includes/widgets/widget-ads.php:234
+#: ../includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "Описание картинки"
+
+#: ../includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr ""
+"Если вы не хотите показывать некоторые баннеры - оставьте соответствующие "
+"поля пустыми"
+
+#: ../includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Показывать рекламу Adsense"
+
+#: ../includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "ET Adsense виджет"
+
+#: ../includes/widgets/widget-adsense.php:12
+#: ../includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: ../includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Adsense код"
+
+#: ../page-template-blank.php:49 ../page.php:48 ../single-project.php:53
+#: ../single.php:105
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../single-project.php:62
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:63
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">Divi Documentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Добро пожаловать в Divi! Перед погружением в новую тему, пожалуйста, "
+#~ "посетите <a href=\"%1$s\" target=\"_blank\">Divi Documentation</a> "
+#~ "страницу для доступа к десяткам обучающих материалов."
+
+#~ msgid "%1$s Font"
+#~ msgstr "%1$s Шрифт"
+
+#~ msgid "%1$s Font Size"
+#~ msgstr "%1$s Размер шрифта"
+
+#~ msgid "%1$s Text Color"
+#~ msgstr "%1$s Цвет текста"
+
+#~ msgid "%1$s Letter Spacing"
+#~ msgstr "%1$s Расстояние между букв"
+
+#~ msgid "%1$s Line Height"
+#~ msgstr "%1$s Высота строки"
+
+#~ msgid "%1$s All Caps"
+#~ msgstr "%1$s Все прописные"
+
+#~ msgid "Use Border"
+#~ msgstr "Использовать рамку"
+
+#~ msgid "Border Style"
+#~ msgstr "Стиль рамки"
+
+#~ msgid "Custom Margin"
+#~ msgstr "Пользовательский внешний отступ"
+
+#~ msgid "Custom Padding"
+#~ msgstr "Пользовательский  внутренний отступ"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "Использовать пользовательские стили кнопок"
+
+#~ msgid "Button Text Size"
+#~ msgstr "Размер текста кнопки"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Цвет текста кнопки"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Цвет фона кнопки"
+
+#~ msgid "Button Border Width"
+#~ msgstr "Ширина рамки кнопки"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Цвет рамки кнопки"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Радиус рамки кнопки"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "Расстояние между букв кнопки"
+
+#~ msgid "Button Font"
+#~ msgstr "Шрифт кнопки"
+
+#~ msgid "Button Icon"
+#~ msgstr "Значок кнопки"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "Цвет значка кнопки"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "Показывать значок только при наведении курсора"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "Цвет текста кнопки при наведении курсора"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Цвет фона кнопки при наведении курсора"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Цвет рамки кнопки при наведении курсора"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "Радиус рамки кнопки при наведении курсора"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "Расстояние между букв кнопки при наведении курсора"
+
+#~ msgid "Before"
+#~ msgstr "До"
+
+#~ msgid "Main Element"
+#~ msgstr "Основной элемент"
+
+#~ msgid "After"
+#~ msgstr "После"
+
+#~ msgid "Choose Custom Color"
+#~ msgstr "Выбрать собственный цвет"
+
+#~ msgid "Upload"
+#~ msgstr "Загрузить"
+
+#~ msgid "Choose image"
+#~ msgstr "Выбрать изображение"
+
+#~ msgid "Set image"
+#~ msgstr "Установить изображение"
+
+#~ msgid "Advanced Design Settings"
+#~ msgstr "Настройки дополнительного дизайна"
+
+#~ msgid "Add New %s"
+#~ msgstr "Добавить новый %s"
+
+#~ msgid "%1$s %2$s Settings"
+#~ msgstr "%1$s %2$s Настройки"
+
+#~ msgid "Column"
+#~ msgstr "Столбец"
+
+#~ msgid "Modules"
+#~ msgstr "Модули"
+
+#~ msgid "Rows"
+#~ msgstr "Строки"
+
+#~ msgid "Sections"
+#~ msgstr "Секции"
+
+#~ msgid "Global/not Global"
+#~ msgstr "Глобальный / не глобальный"
+
+#~ msgid "Global"
+#~ msgstr "Глобальный"
+
+#~ msgid "not Global"
+#~ msgstr "Не глобальный"
+
+#~ msgid "Justified"
+#~ msgstr "Выравнено по ширине"
+
+#~ msgid "Export Divi Builder Layouts"
+#~ msgstr "Экспортировать шаблоны Divi Builder"
+
+#~ msgid "Select Templates you want to export:"
+#~ msgstr "Выберите шаблоны, которые вы хотите экспортировать:"
+
+#~ msgid "Export Divi Layouts"
+#~ msgstr "Экспортировать Divi шаблоны"
+
+#~ msgid "Manage Categories"
+#~ msgstr "Управлять категориями"
+
+#~ msgid "Use The Divi Builder"
+#~ msgstr "Использовать Divi Builder"
+
+#~ msgid ""
+#~ "You have not saved any items to your Divi Library yet. Once an item has "
+#~ "been saved to your library, it will appear here for easy use."
+#~ msgstr ""
+#~ "Вы еще не сохранили ни одной позиции для вашей Divi библиотеки. После "
+#~ "того, как позиция была сохранена в библиотеке, она появится здесь для "
+#~ "простоты использования."
+
+#~ msgid ""
+#~ "You're about to update global module. This change will be applied to all "
+#~ "pages where you use this module. Press OK if you want to update this "
+#~ "module"
+#~ msgstr ""
+#~ "Вы собираетесь обновить глобальный модуль. Данное изменение будет "
+#~ "применяться ко всем страницам, где используется этот модуль. Нажмите OK "
+#~ "если вы хотите обновить этот модуль"
+
+#~ msgid "You cannot add global rows into global sections"
+#~ msgstr "Вы не можете добавить глобальные строки в глобальные разделы"
+
+#~ msgid "You cannot add global modules into global sections or rows"
+#~ msgstr ""
+#~ "Вы не можете добавить глобальные модули в глобальные разделы или строки"
+
+#~ msgid "The Divi Builder"
+#~ msgstr "Divi Builder"
+
+#~ msgid "Save to Library"
+#~ msgstr "Сохранить в библиотеку"
+
+#~ msgid "Load From Library"
+#~ msgstr "Загрузить из иблиотеки"
+
+#~ msgid "Standard Section"
+#~ msgstr "Стандартный раздел"
+
+#~ msgid "Full width Section"
+#~ msgstr "Раздел по всей ширине"
+
+#~ msgid "Special Section"
+#~ msgstr "Специальный раздел"
+
+#~ msgid "Add From Library"
+#~ msgstr "Добавить из библиотеки"
+
+#~ msgid "Change Structure"
+#~ msgstr "Изменить структуру"
+
+#~ msgid "Remove Module"
+#~ msgstr "Удалить модуль"
+
+#~ msgid "Save & Add To Library"
+#~ msgstr "Сохранить и добавить в библиотеку"
+
+#~ msgid "Cancel"
+#~ msgstr "Отмена"
+
+#~ msgid "Save & Exit"
+#~ msgstr "Сохранить и выйти"
+
+#~ msgid "New Row"
+#~ msgstr "Новая строка"
+
+#~ msgid "New Module"
+#~ msgstr "Новый модуль"
+
+#~ msgid "Predefined Layouts"
+#~ msgstr "Предварительные шаблоны"
+
+#~ msgid "Disable Builder"
+#~ msgstr "Отключить Builder"
+
+#~ msgid ""
+#~ "All content created in the Divi Builder will be lost. Previous content "
+#~ "will be restored."
+#~ msgstr ""
+#~ "Весь контент, созданный в Divi Builder будет потерян. Предыдущее "
+#~ "содержимое будет восстановлено."
+
+#~ msgid "Do you wish to proceed?"
+#~ msgstr "Вы хотите продолжить?"
+
+#~ msgid "All of your current page content will be lost."
+#~ msgstr "Весь контент вашей текущей страницы будет потерян."
+
+#~ msgid "All advanced module settings in will be lost."
+#~ msgstr "Все дополнительные настройки модуля будут потеряны."
+
+#~ msgid "Save To Library"
+#~ msgstr "Сохранить в библиотеку"
+
+#~ msgid "Save your current page to the Divi Library for later use."
+#~ msgstr ""
+#~ "Сохранить вашу текущую страницу в Divi Library для последующего "
+#~ "использования."
+
+#~ msgid "Layout Name:"
+#~ msgstr "Имя шаблона:"
+
+#~ msgid "Save And Add To Library"
+#~ msgstr "Сохранить и добавить в библиотеку"
+
+#~ msgid "Add To Categories:"
+#~ msgstr "Добавить в категории:"
+
+#~ msgid "Create New Category"
+#~ msgstr "Создать новую категорию"
+
+#~ msgid ""
+#~ "Here you can save the current item and add it to your Divi Library for "
+#~ "later use as well."
+#~ msgstr ""
+#~ "Здесь вы можете сохранить текущий элемент и добавить его в Divi Library "
+#~ "для последующего использования."
+
+#~ msgid "Template Name"
+#~ msgstr "Название шаблона"
+
+#~ msgid "Selective Sync"
+#~ msgstr "Выборочная синхронизация"
+
+#~ msgid "Include General settings"
+#~ msgstr "Включить общие настройки"
+
+#~ msgid "Include Advanced Design settings"
+#~ msgstr "Включить настройки усовершенствованного дизайна"
+
+#~ msgid "Include Custom CSS"
+#~ msgstr "Включить Custom CSS"
+
+#~ msgid "Please select at least 1 tab to save"
+#~ msgstr "Пожалуйста, выберите хотя бы 1 таб для сохранения"
+
+#~ msgid "Save as Global:"
+#~ msgstr "Сохранить как глобальные:"
+
+#~ msgid "Make this a global item"
+#~ msgstr "Сделать это глобальным элементом"
+
+#~ msgid "Scope"
+#~ msgstr "Область"
+
+#~ msgid "Layout Type"
+#~ msgstr "Тип макета"
+
+#~ msgid "Module Width"
+#~ msgstr "Ширина модуля"
+
+#~ msgid "New Template Settings"
+#~ msgstr "Настройки нового шаблона"
+
+#~ msgid "Template Name:"
+#~ msgstr "Имя шаблона:"
+
+#~ msgid "Template Type:"
+#~ msgstr "Тип шаблона:"
+
+#~ msgid "Full width Module"
+#~ msgstr "Модуль по всей ширине"
+
+#~ msgid "Row"
+#~ msgstr "Строка"
+
+#~ msgid "Section"
+#~ msgstr "Раздел"
+
+#~ msgid "Include General Settings"
+#~ msgstr "Включить общие настройки"
+
+#~ msgid "Include Advanced Design Settings"
+#~ msgstr "Включить настройки усовершенствованного дизайна"
+
+#~ msgid ""
+#~ "Select category(ies) for new template or type a new name ( optional )"
+#~ msgstr ""
+#~ "Выберите категорию(и) для нового шаблона или введите новое имя "
+#~ "(необязательно)"
+
+#~ msgid "Open in Lightbox"
+#~ msgstr "Открыть в Lightbox"
+
+#~ msgid "Image Alignment"
+#~ msgstr "Выравнивание изображения"
+
+#~ msgid "Here you can choose the image alignment."
+#~ msgstr "Здесь вы можете выбрать выравнивание изображения."
+
+#~ msgid "Image Maximum Width"
+#~ msgstr "Максимальная ширина изображения"
+
+#~ msgid "Always Center Image On Mobile"
+#~ msgstr "Всегда центрировать изображение на мобильном устройстве"
+
+#~ msgid "Gallery Item"
+#~ msgstr "Элемент галереи"
+
+#~ msgid "Overlay"
+#~ msgstr "Наложение"
+
+#~ msgid "Overlay Icon"
+#~ msgstr "Наложение значка"
+
+#~ msgid "Gallery Item Title"
+#~ msgstr "Заголовок элемента галереи"
+
+#~ msgid "Caption Font"
+#~ msgstr "Шрифт заголовка"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "Цвет шрифта заголовка"
+
+#~ msgid "Hover Icon Picker"
+#~ msgstr "Выбор значка при наведении курсора"
+
+#~ msgid "Video Icon"
+#~ msgstr "Значок видео"
+
+#~ msgid "Play Icon Color"
+#~ msgstr "Цвет значка воспроизведения"
+
+#~ msgid "Play Button"
+#~ msgstr "Кнопка воспроизведения"
+
+#~ msgid "Thumbnail Item"
+#~ msgstr "Эскиз элемента"
+
+#~ msgid "Thumbnail Overlay Color"
+#~ msgstr "Цвет наложения эскиза"
+
+#~ msgid "Line Height"
+#~ msgstr "Высота строки"
+
+#~ msgid "Use Border Color"
+#~ msgstr "Использовать цвет рамки"
+
+#~ msgid "Maximum Width"
+#~ msgstr "Максимальная ширина"
+
+#~ msgid "Header"
+#~ msgstr "Header"
+
+#~ msgid "Body"
+#~ msgstr "Body"
+
+#~ msgid "Blurb Image"
+#~ msgstr "Blurb изображение"
+
+#~ msgid "Blurb Title"
+#~ msgstr "Blurb заголовок"
+
+#~ msgid "Blurb Content"
+#~ msgstr "Blurb контент"
+
+#~ msgid "Use Icon Font Size"
+#~ msgstr "Использовать размер шрифта значка"
+
+#~ msgid "Icon Font Size"
+#~ msgstr "Размер шрифта значка"
+
+#~ msgid "Tabs Controls"
+#~ msgstr "Элементы управления вкладками"
+
+#~ msgid "Active Tab"
+#~ msgstr "Активная вкладка"
+
+#~ msgid "Active Tab Background Color"
+#~ msgstr "Цвет фона активной вкладки"
+
+#~ msgid "Inactive Tab Background Color"
+#~ msgstr "Цвет фона неактивной вкладки"
+
+#~ msgid "Slide Description"
+#~ msgstr "Описание слайда"
+
+#~ msgid "Slide Title"
+#~ msgstr "Заголовок слайда"
+
+#~ msgid "Slide Button"
+#~ msgstr "Кнопка слайда"
+
+#~ msgid "Slide Controllers"
+#~ msgstr "Элементы управления слайда"
+
+#~ msgid "Slide Active Controller"
+#~ msgstr "Элементы управления активного слайда"
+
+#~ msgid "Use Parallax effect"
+#~ msgstr "Использовать Parallax effect"
+
+#~ msgid "Remove Inner Shadow"
+#~ msgstr "Удалить внутреннюю тень"
+
+#~ msgid "Top Padding"
+#~ msgstr "Верхний отступ"
+
+#~ msgid "Bottom Padding"
+#~ msgstr "Нижний отступ"
+
+#~ msgid "Hide Content On Mobile"
+#~ msgstr "Скрыть контент на мобильном устройстве"
+
+#~ msgid "Hide CTA On Mobile"
+#~ msgstr "Скрыть CTA на мобильном устройстве"
+
+#~ msgid "Show Image / Video On Mobile"
+#~ msgstr "Показать изображение/видео на мобильном устройстве"
+
+#~ msgid "Arrows Custom Color"
+#~ msgstr "Пользовательский цвет стрелкок"
+
+#~ msgid "Dot Nav Custom Color"
+#~ msgstr "Пользовательский цвет точки навигации"
+
+#~ msgid "Testimonial Portrait"
+#~ msgstr "Портрет Testimonial"
+
+#~ msgid "Testimonial Description"
+#~ msgstr "Описание Testimonial"
+
+#~ msgid "Testimonial Author"
+#~ msgstr "Автор Testimonial"
+
+#~ msgid "Testimonial Meta"
+#~ msgstr "Testimonial Meta"
+
+#~ msgid "Body Text Font"
+#~ msgstr "Шрифт текста Body"
+
+#~ msgid "Body Font Size"
+#~ msgstr "Размер шрифта Body"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "Расстояние между букв Body"
+
+#~ msgid "Quote Icon Color"
+#~ msgstr "Цвет значка цитаты"
+
+#~ msgid "Portrait Width"
+#~ msgstr "Ширина портрета"
+
+#~ msgid "Portrait Height"
+#~ msgstr "Высота портрета"
+
+#~ msgid "Pricing Tables"
+#~ msgstr "Таблицы цен"
+
+#~ msgid "Pricing Subhead"
+#~ msgstr "Подзаголовок цены"
+
+#~ msgid "Pricing Title"
+#~ msgstr "Заголовок цены"
+
+#~ msgid "Pricing Top"
+#~ msgstr "Верхняя часть цены"
+
+#~ msgid "Pricing Content"
+#~ msgstr "Контент цены"
+
+#~ msgid "Pricing Button"
+#~ msgstr "Кнопка цены"
+
+#~ msgid "Featured Table"
+#~ msgstr "Рекомендуемая таблица"
+
+#~ msgid "Subhead"
+#~ msgstr "Подзаголовок"
+
+#~ msgid "Featured Table Background Color"
+#~ msgstr "Цвет фона рекомендуемой таблицы"
+
+#~ msgid "Table Header Background Color"
+#~ msgstr "Цвет фона заголовка таблицы"
+
+#~ msgid "Featured Table Header Background Color"
+#~ msgstr "Цвет фона заголовка рекомендуемой таблицы"
+
+#~ msgid "Featured Table Header Text Color"
+#~ msgstr "Цвет текста заголовка рекомендуемой таблицы"
+
+#~ msgid "Featured Table Subhead Text Color"
+#~ msgstr "Цвет текста подзаголовка рекомендуемой таблицы"
+
+#~ msgid "Featured Table Price Color"
+#~ msgstr "Цвет цены рекомендуемой таблицы"
+
+#~ msgid "Featured Table Body Text Color"
+#~ msgstr "Цвет текста Body рекомендуемой таблицы"
+
+#~ msgid "Show Dot"
+#~ msgstr "Показать точку"
+
+#~ msgid "Dot Color"
+#~ msgstr "Цвет точки"
+
+#~ msgid "Featured Table Dot Color"
+#~ msgstr "Цвет точки рекомендуемой таблицы"
+
+#~ msgid "Remove Featured Table Drop Shadow"
+#~ msgstr "Удалить тень рекомендуемой таблицы"
+
+#~ msgid "Center List Items"
+#~ msgstr "Разместить по центру список элементов"
+
+#~ msgid "Description"
+#~ msgstr "Описание"
+
+#~ msgid "Button"
+#~ msgstr "Кнопка"
+
+#~ msgid "Audio Image"
+#~ msgstr "Аудио изображение"
+
+#~ msgid "Audio Content"
+#~ msgstr "Аудио контент"
+
+#~ msgid "Audio Meta"
+#~ msgstr "Audio Meta"
+
+#~ msgid "Sign-up"
+#~ msgstr "Подписаться"
+
+#~ msgid "Newsletter Description"
+#~ msgstr "Описание рассылки"
+
+#~ msgid "Newsletter Form"
+#~ msgstr "Форма рассылки"
+
+#~ msgid "Newsletter Button"
+#~ msgstr "Кнопка рассылки"
+
+#~ msgid "Form Field Background Color"
+#~ msgstr "Цвет фона поля формы"
+
+#~ msgid "Form Field Text Color"
+#~ msgstr "Цвет текста поля формы"
+
+#~ msgid "Focus Background Color"
+#~ msgstr "Сфокусировать цвет фона"
+
+#~ msgid "Focus Text Color"
+#~ msgstr "Сфокусировать цвет текста"
+
+#~ msgid "Use Focus Border Color"
+#~ msgstr "Использовать фокус цвета рамки"
+
+#~ msgid "Focus Border Color"
+#~ msgstr "Сфокусировать цвет рамки"
+
+#~ msgid "Portfolio Image"
+#~ msgstr "Изображение портфолио"
+
+#~ msgid "Portfolio Post Meta"
+#~ msgstr "Portfolio Post Meta"
+
+#~ msgid "Filter"
+#~ msgstr "Фильтр"
+
+#~ msgid "Portfolio Filters"
+#~ msgstr "Фильтры портфолио"
+
+#~ msgid "Active Portfolio Filter"
+#~ msgstr "Активный фильтр портфолио"
+
+#~ msgid "Counter Title"
+#~ msgstr "Заголовок счётчика"
+
+#~ msgid "Counter Container"
+#~ msgstr "Контейнер счётчика"
+
+#~ msgid "Counter Number"
+#~ msgstr "Номер счётчика"
+
+#~ msgid "Use Percentages"
+#~ msgstr "Использовать проценты"
+
+#~ msgid "Bar Top Padding"
+#~ msgstr "Верхний отступ Bar"
+
+#~ msgid "Bar Bottom Padding"
+#~ msgstr "Нижний отступ Bar"
+
+#~ msgid "Label Color"
+#~ msgstr "Цвет ярлыка"
+
+#~ msgid "Percentage Color"
+#~ msgstr "Цвет процента"
+
+#~ msgid "Circle Counter Title"
+#~ msgstr "Заголовок кругового счётчика"
+
+#~ msgid "Circle Color Opacity"
+#~ msgstr "Прозрачность цвета круга"
+
+#~ msgid "Number Counter Title"
+#~ msgstr "Заголовок номерного счётчика"
+
+#~ msgid "Open Toggle"
+#~ msgstr "Открытый переключатель"
+
+#~ msgid "Toggle Title"
+#~ msgstr "Заголовок переключателя"
+
+#~ msgid "Toggle Icon"
+#~ msgstr "Значок переключателя"
+
+#~ msgid "Toggle Content"
+#~ msgstr "Контент переключателя"
+
+#~ msgid "Open Toggle Background Color"
+#~ msgstr "Цвет фона открытого переключателя"
+
+#~ msgid "Closed Toggle Background Color"
+#~ msgstr "Цвет фона закрытого переключателя"
+
+#~ msgid "Open Toggle Text Color"
+#~ msgstr "Цвет текста открытого переключателя"
+
+#~ msgid "Closed Toggle Text Color"
+#~ msgstr "Цвет текста закрытого переключателя"
+
+#~ msgid "Form Field"
+#~ msgstr "Поле формы"
+
+#~ msgid "Contact Title"
+#~ msgstr "Заголовок формы Contact"
+
+#~ msgid "Contact Button"
+#~ msgstr "Кнопка формы Contact"
+
+#~ msgid "Form Background Color"
+#~ msgstr "Цвет фона формы"
+
+#~ msgid "Input Border Radius"
+#~ msgstr "Радиус рамки ввода"
+
+#~ msgid "Widget"
+#~ msgstr "Виджет"
+
+#~ msgid "Remove Border Separator"
+#~ msgstr "Удалить разделитель"
+
+#~ msgid "Define how much space should be added below the divider."
+#~ msgstr "Определить, сколько места должно быть добавлено ниже разделителя."
+
+#~ msgid "Hide On Mobile"
+#~ msgstr "Скрыть на мобильном устройстве"
+
+#~ msgid "Member Image"
+#~ msgstr "Изображение пользователя"
+
+#~ msgid "Member Description"
+#~ msgstr "Описание пользователя"
+
+#~ msgid "Member Position"
+#~ msgstr "Должность пользователя"
+
+#~ msgid "Member Social Links"
+#~ msgstr "Ссылки социальных сетей пользователя"
+
+#~ msgid "Icon Hover Color"
+#~ msgstr "Цвет значка при наведении курсора"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Post Meta"
+#~ msgstr "Post Meta"
+
+#~ msgid "Page Navigation"
+#~ msgstr "Навигация по странице"
+
+#~ msgid "Grid Tile Background Color"
+#~ msgstr "Цвет фона элемента"
+
+#~ msgid "Use Dropshadow"
+#~ msgstr "Использовать тень"
+
+#~ msgid "Product"
+#~ msgstr "Продукт"
+
+#~ msgid "On Sale"
+#~ msgstr "В продаже"
+
+#~ msgid "Rating"
+#~ msgstr "Рейтинг"
+
+#~ msgid "default"
+#~ msgstr "По умолчанию"
+
+#~ msgid "Choose how many columns to display."
+#~ msgstr "Выберите, сколько столбцов показать."
+
+#~ msgid "Sale Badge Color"
+#~ msgstr "Цвет значка распродажи"
+
+#~ msgid "Numbers"
+#~ msgstr "Номера"
+
+#~ msgid "Label"
+#~ msgstr "Ярлык"
+
+#~ msgid "Container"
+#~ msgstr "Контейнер"
+
+#~ msgid "Timer Section"
+#~ msgstr "Секция таймера"
+
+#~ msgid "Pin"
+#~ msgstr "Pin"
+
+#~ msgid "Use Grayscale Filter"
+#~ msgstr "Использовать фильтр оттенков серого"
+
+#~ msgid "Grayscale Filter Amount (%)"
+#~ msgstr "Значение (%) фильтра оттенков серого"
+
+#~ msgid "Social Icon"
+#~ msgstr "Значок социальной сети"
+
+#~ msgid "Here you can choose whether or not display the Post Title"
+#~ msgstr "Здесь вы можете выбрать, отображать или нет заголовок поста"
+
+#~ msgid "Show Meta"
+#~ msgstr "Показывать Meta"
+
+#~ msgid "Here you can choose whether or not display the Post Meta"
+#~ msgstr "Здесь вы можете выбрать, отображать или нет Post Meta"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Author Name in Post Meta"
+#~ msgstr "Здесь вы можете выбрать, отображать или нет имя автора в Post Meta"
+
+#~ msgid "Here you can choose whether or not display the Date in Post Meta"
+#~ msgstr "Здесь вы можете выбрать, отображать или нет дату в Post Meta"
+
+#~ msgid "Date Format"
+#~ msgstr "Формат даты"
+
+#~ msgid ""
+#~ "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+#~ msgstr ""
+#~ "Здесь вы можете определить формат даты в Post Meta. По умолчанию 'M j, Y'"
+
+#~ msgid "Show Post Categories"
+#~ msgstr "Показывать категории поста"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Categories in Post Meta. "
+#~ "Note: This option doesn't work with custom post types."
+#~ msgstr ""
+#~ "Здесь вы можете выбрать, отображать или нет категории в Post Meta. "
+#~ "Примечание: эта опция не работает с пользовательскими типами поста."
+
+#~ msgid "Show Comments Count"
+#~ msgstr "Показывать количество комментариев"
+
+#~ msgid ""
+#~ "Here you can choose whether or not display the Comments Count in Post "
+#~ "Meta."
+#~ msgstr ""
+#~ "Здесь вы можете выбрать, отображать или нет количество комментариев в "
+#~ "Post Meta."
+
+#~ msgid "Here you can choose whether or not display the Featured Image"
+#~ msgstr "Здесь вы можете выбрать, отображать или нет Featured Image"
+
+#~ msgid "Featured Image Placement"
+#~ msgstr "Размещение Featured Image"
+
+#~ msgid "Below Title"
+#~ msgstr "Ниже заголовка"
+
+#~ msgid "Above Title"
+#~ msgstr "Выше заголовка"
+
+#~ msgid "Title Background Image"
+#~ msgstr "Фоновое изображение заголовка"
+
+#~ msgid "Here you can choose where to place the Featured Image"
+#~ msgstr "Здесь вы можете выбрать, где разместить Featured Image"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use parallax effect for the featured "
+#~ "image"
+#~ msgstr ""
+#~ "Здесь вы можете выбрать, использовать или нет parallax эффект для "
+#~ "featured image"
+
+#~ msgid "Parallax Method"
+#~ msgstr "Метод Parallax"
+
+#~ msgid ""
+#~ "Here you can choose which parallax method to use for the featured image"
+#~ msgstr ""
+#~ "Здесь вы можете выбрать, какой метод parallax использовать для featured "
+#~ "image"
+
+#~ msgid "Here you can choose the orientation for the Title text"
+#~ msgstr "Здесь вы можете выбрать ориентацию для текста заголовка"
+
+#~ msgid "Here you can choose the color for the Title text"
+#~ msgstr "Здесь вы можете выбрать цвет для текста заголовка"
+
+#~ msgid "Use Text Background Color"
+#~ msgstr "Использовать цвет фонового текста"
+
+#~ msgid ""
+#~ "Here you can choose whether or not use the background color for the Title "
+#~ "text"
+#~ msgstr ""
+#~ "Здесь вы можете выбрать, использовать или нет фоновый цвет для текста "
+#~ "заголовка"
+
+#~ msgid "Text Background Color"
+#~ msgstr "Цвет фона текста"
+
+#~ msgid "Title Styling"
+#~ msgstr "Стилизация заголовка"
+
+#~ msgid "Subhead Styling"
+#~ msgstr "Стилизация подзаголовка"
+
+#~ msgid "Content Styling"
+#~ msgstr "Стилизация контента"
+
+#~ msgid "Button Styling"
+#~ msgstr "Стилизация кнопки"
+
+#~ msgid "Text & Logo Orientation"
+#~ msgstr "Ориентация текста и логотипа"
+
+#~ msgid "Make Fullscreen"
+#~ msgstr "Сделать на весь экран"
+
+#~ msgid ""
+#~ "Here you can choose whether the header is expanded to fullscreen size."
+#~ msgstr ""
+#~ "Здесь вы можете выбрать, будет ли header расширен в полноэкранный размер."
+
+#~ msgid "Show Scroll Down Button"
+#~ msgstr "Показать кнопку прокрутки вниз"
+
+#~ msgid "Here you can choose whether the scroll down button is shown."
+#~ msgstr ""
+#~ "Здесь вы можете выбрать, будет ли отображаться кнопка прокрутки вниз."
+
+#~ msgid "Choose an icon to display for the scroll down button."
+#~ msgstr "Выбрать значок для отображения кнопки прокрутки вниз."
+
+#~ msgid "Scroll Down Icon Color"
+#~ msgstr "Цвет значка прокрутки вниз"
+
+#~ msgid "Scroll Down Icon Size"
+#~ msgstr "Размер значка прокрутки вниз"
+
+#~ msgid "Title Font"
+#~ msgstr "Шрифт заголовка"
+
+#~ msgid "Title Font Color"
+#~ msgstr "Цвет шрифта заголовка"
+
+#~ msgid "Subhead Font"
+#~ msgstr "Шрифт подзаголовка"
+
+#~ msgid "Subhead Font Color"
+#~ msgstr "Цвет шрифта подзаголовка"
+
+#~ msgid "Subhead Font Size"
+#~ msgstr "Размер шрифта подзаголовка"
+
+#~ msgid "Content Font"
+#~ msgstr "Шрифт контента"
+
+#~ msgid "Content Font Color"
+#~ msgstr "Цвет шрифта контента"
+
+#~ msgid "Button %1$s Text"
+#~ msgstr "Текст %1$s кнопки"
+
+#~ msgid "Enter the text for the Button."
+#~ msgstr "Введите текст для кнопки."
+
+#~ msgid "Button %1$s URL"
+#~ msgstr "URL-адрес %1$s кнопки"
+
+#~ msgid "Enter the URL for the Button."
+#~ msgstr "Введите URL для кнопки."
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "Шрифт %1$s кнопки"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "Цвет шрифта %1$s кнопки"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "Цвет фона %1$s кнопки"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "Размер шрифта %1$s кнопки"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "Радиус рамки %1$s кнопки"
+
+#~ msgid "Background Image URL"
+#~ msgstr "URL фонового изображения"
+
+#~ msgid "Background Overlay Color"
+#~ msgstr "Цвет наложения фона"
+
+#~ msgid "Logo Image URL"
+#~ msgstr "URL-адрес изображения логотипа"
+
+#~ msgid "Text Vertical Alignment"
+#~ msgstr "Вертикальное выравнивание текста"
+
+#~ msgid ""
+#~ "This setting determines the vertical alignment of your content. Your "
+#~ "content can either be vertically centered, or aligned to the bottom."
+#~ msgstr ""
+#~ "Этот параметр определяет вертикальное выравнивание контента. Ваш контент "
+#~ "может быть либо вертикально по центру, или выровнен по низу."
+
+#~ msgid "Header Image URL"
+#~ msgstr "URL-адрес Header Image"
+
+#~ msgid "Image Vertical Alignment"
+#~ msgstr "Вертикальное выравнивание изображения"
+
+#~ msgid "This controls the orientation of the image within the module."
+#~ msgstr "Это определяет ориентацию изображения в пределах модуля."
+
+#~ msgid "Code"
+#~ msgstr "Код"
+
+#~ msgid "Full Width Code"
+#~ msgstr "Full Width код"
+
+#~ msgid "Full Width Image"
+#~ msgstr "Full Width изображение"
+
+#~ msgid "Full Width Post Title"
+#~ msgstr "Заголовок Full Width поста"
+
+#~ msgid ""
+#~ "Enabling this option will remove the background color of this section, "
+#~ "allowing the website background color or background image to show through."
+#~ msgstr ""
+#~ "Включение этой опции удалит цвет фона этого раздела, что позволяет "
+#~ "показать цветовой фон веб-сайта или фоновое изображение."
+
+#~ msgid ""
+#~ "Adjust padding to specific values, or leave blank to use the default "
+#~ "padding."
+#~ msgstr ""
+#~ "Настройте отступ конкретными значениями или оставьте поле пустым, чтобы "
+#~ "использовать отступ по умолчанию."
+
+#~ msgid "Keep Custom Padding on Mobile"
+#~ msgstr "Сохранить пользовательский отступ на мобильных устройствах"
+
+#~ msgid "Allow custom padding to be retained on mobile screens"
+#~ msgstr ""
+#~ "Разрешить пользовательскому отступу сохраниться на мобильных экранах"
+
+#~ msgid "Make This Row Full Width"
+#~ msgstr "Сделать эту строку во всю ширину"
+
+#~ msgid ""
+#~ "Enable this option to extend the width of this row to the edge of the "
+#~ "browser window."
+#~ msgstr ""
+#~ "Включите эту опцию, чтобы увеличить ширину строки до края окна браузера."
+
+#~ msgid "Use Custom Width"
+#~ msgstr "Использовать пользовательскую ширину"
+
+#~ msgid ""
+#~ "Change to Yes if you would like to adjust the width of this row to a non-"
+#~ "standard width."
+#~ msgstr ""
+#~ "Изменить на Yes, если вы хотите изменить ширину этой строки на "
+#~ "нестандартную."
+
+#~ msgid "Unit"
+#~ msgstr "Блок"
+
+#~ msgid "pixels"
+#~ msgstr "Пиксели"
+
+#~ msgid "Custom Width"
+#~ msgstr "Пользовательская ширина"
+
+#~ msgid "Define custom width for this Row"
+#~ msgstr "Определить пользовательскую ширину для этой строки"
+
+#~ msgid "Column Spacing"
+#~ msgstr "Расстояние между столбцами"
+
+#~ msgid "Adjust the spacing between each column in this row."
+#~ msgstr "Установите расстояние между каждым столбцом в этой строке."
+
+#~ msgid "Equalize Column Heights"
+#~ msgstr "Выровнить высоту столбца"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\"\"\"\" target=\"\"\"\"_blank\"\"\"\">DiviDocumentation</a> "
+#~ "page for access to dozens of in-depth tutorials.\"\"\""
+#~ msgstr ""
+#~ "Добро пожаловать в Divi! Перед погружением в новую тему, пожалуйста, "
+#~ "посетите <a href=\"%1$s\"\"\"\" target=\"\"\"\"_blank"
+#~ "\"\"\"\">DiviDocumentation</a> страницу для доступа к десяткам обучающих "
+#~ "материалов.\"\"\""
+
+#~ msgid "Website Column Spacing"
+#~ msgstr "Расстояние между столбцами сайта"
+
+#~ msgid "Widget Dot Color"
+#~ msgstr "Цвет точки виджета"
+
+#~ msgid "Subhead Font Style"
+#~ msgstr "Стиль шрифта подзаголовка"
+
+#~ msgid "Category Font Size"
+#~ msgstr "Размер шрифта категории"
+
+#~ msgid "Category Font Style"
+#~ msgstr "Стиль шрифта категории"
