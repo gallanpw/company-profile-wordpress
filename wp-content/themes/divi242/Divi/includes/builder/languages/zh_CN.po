@@ -1,0 +1,5033 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:15+0300\n"
+"PO-Revision-Date: 2015-06-17 18:15+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../class-et-builder-element.php:406 ../class-et-builder-element.php:681
+#, php-format
+msgid "%1$s Font"
+msgstr "%1$s字体"
+
+#: ../class-et-builder-element.php:412
+#, php-format
+msgid "%1$s Font Size"
+msgstr "%1$s字体大小"
+
+#: ../class-et-builder-element.php:418 ../class-et-builder-element.php:624
+#, php-format
+msgid "%1$s Text Color"
+msgstr "%1$s文本颜色"
+
+#: ../class-et-builder-element.php:425 ../class-et-builder-element.php:672
+#, php-format
+msgid "%1$s Letter Spacing"
+msgstr "%1$s字母间距"
+
+#: ../class-et-builder-element.php:432
+#, php-format
+msgid "%1$s Line Height"
+msgstr "%1$s行高"
+
+#: ../class-et-builder-element.php:440
+#, php-format
+msgid "%1$s All Caps"
+msgstr "%1$s全部大写"
+
+#: ../class-et-builder-element.php:443 ../main-modules.php:417
+#: ../main-modules.php:2015 ../main-modules.php:5703 ../main-modules.php:6040
+#: ../main-modules.php:6217 ../main-modules.php:7804 ../main-modules.php:7886
+#: ../main-modules.php:8628 ../main-modules.php:8872 ../main-modules.php:10426
+#: ../main-modules.php:10761 ../main-modules.php:10953
+msgid "Off"
+msgstr "关闭"
+
+#: ../class-et-builder-element.php:444 ../main-modules.php:418
+#: ../main-modules.php:2016 ../main-modules.php:5702 ../main-modules.php:6039
+#: ../main-modules.php:6216 ../main-modules.php:7805 ../main-modules.php:7887
+#: ../main-modules.php:8627 ../main-modules.php:8873 ../main-modules.php:10427
+#: ../main-modules.php:10762 ../main-modules.php:10952
+msgid "On"
+msgstr "打开"
+
+#: ../class-et-builder-element.php:471 ../class-et-builder-element.php:2612
+#: ../main-modules.php:2398 ../main-modules.php:2830 ../main-modules.php:3752
+#: ../main-modules.php:3973 ../main-modules.php:4238 ../main-modules.php:4638
+#: ../main-modules.php:5689 ../main-modules.php:5824 ../main-modules.php:8469
+#: ../main-modules.php:9326 ../main-modules.php:9739 ../main-modules.php:10160
+#: ../main-modules.php:11552 ../main-structure-elements.php:117
+#: ../main-structure-elements.php:818
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: ../class-et-builder-element.php:480 ../class-et-builder-element.php:2608
+#: ../main-modules.php:2364 ../main-structure-elements.php:97
+#: ../main-structure-elements.php:810
+msgid "Background Image"
+msgstr "背景图像"
+
+#: ../class-et-builder-element.php:482 ../class-et-builder-element.php:2609
+#: ../main-modules.php:77 ../main-modules.php:673 ../main-modules.php:1007
+#: ../main-modules.php:1428 ../main-modules.php:2366 ../main-modules.php:2405
+#: ../main-modules.php:2803 ../main-modules.php:3967 ../main-modules.php:7469
+#: ../main-modules.php:9733 ../main-modules.php:9772 ../main-modules.php:9791
+#: ../main-modules.php:11186 ../main-structure-elements.php:99
+#: ../main-structure-elements.php:812
+msgid "Upload an image"
+msgstr "上载图像"
+
+#: ../class-et-builder-element.php:483 ../class-et-builder-element.php:2610
+#: ../main-modules.php:2367 ../main-structure-elements.php:100
+#: ../main-structure-elements.php:813
+msgid "Choose a Background Image"
+msgstr "选择背景图像"
+
+#: ../class-et-builder-element.php:484 ../class-et-builder-element.php:2611
+#: ../main-modules.php:2368 ../main-structure-elements.php:101
+#: ../main-structure-elements.php:814
+msgid "Set As Background"
+msgstr "设置为背景"
+
+#: ../class-et-builder-element.php:502
+msgid "Use Border"
+msgstr "使用边框"
+
+#: ../class-et-builder-element.php:505 ../class-et-builder-element.php:591
+#: ../class-et-builder-element.php:693 ../class-et-builder-element.php:744
+#: ../functions.php:2685 ../main-modules.php:96 ../main-modules.php:131
+#: ../main-modules.php:170 ../main-modules.php:180 ../main-modules.php:391
+#: ../main-modules.php:400 ../main-modules.php:1359 ../main-modules.php:1390
+#: ../main-modules.php:1410 ../main-modules.php:1502 ../main-modules.php:2033
+#: ../main-modules.php:2057 ../main-modules.php:2116 ../main-modules.php:2125
+#: ../main-modules.php:2134 ../main-modules.php:2470 ../main-modules.php:2822
+#: ../main-modules.php:3231 ../main-modules.php:3256 ../main-modules.php:3266
+#: ../main-modules.php:3523 ../main-modules.php:3744 ../main-modules.php:4230
+#: ../main-modules.php:4306 ../main-modules.php:4620 ../main-modules.php:4630
+#: ../main-modules.php:4706 ../main-modules.php:4988 ../main-modules.php:4997
+#: ../main-modules.php:5006 ../main-modules.php:5346 ../main-modules.php:5355
+#: ../main-modules.php:5364 ../main-modules.php:6809 ../main-modules.php:7134
+#: ../main-modules.php:7297 ../main-modules.php:7784 ../main-modules.php:7815
+#: ../main-modules.php:7824 ../main-modules.php:7833 ../main-modules.php:7842
+#: ../main-modules.php:8461 ../main-modules.php:8651 ../main-modules.php:9170
+#: ../main-modules.php:9179 ../main-modules.php:9194 ../main-modules.php:9204
+#: ../main-modules.php:9225 ../main-modules.php:9235 ../main-modules.php:9245
+#: ../main-modules.php:9271 ../main-modules.php:9312 ../main-modules.php:9613
+#: ../main-modules.php:9625 ../main-modules.php:9750 ../main-modules.php:10444
+#: ../main-modules.php:10466 ../main-modules.php:10525
+#: ../main-modules.php:10534 ../main-modules.php:10543
+#: ../main-modules.php:10735 ../main-modules.php:10744
+#: ../main-modules.php:11205 ../main-modules.php:11396
+#: ../main-modules.php:11405 ../main-modules.php:11420
+#: ../main-modules.php:11430 ../main-modules.php:11451
+#: ../main-modules.php:11461 ../main-modules.php:11471
+#: ../main-modules.php:11497 ../main-modules.php:11538
+#: ../main-structure-elements.php:108 ../main-structure-elements.php:154
+#: ../main-structure-elements.php:163 ../main-structure-elements.php:172
+#: ../main-structure-elements.php:200 ../main-structure-elements.php:219
+#: ../main-structure-elements.php:229 ../main-structure-elements.php:282
+#: ../main-structure-elements.php:291 ../main-structure-elements.php:703
+#: ../main-structure-elements.php:713 ../main-structure-elements.php:765
+#: ../main-structure-elements.php:794 ../main-structure-elements.php:855
+#: ../main-structure-elements.php:864 ../main-structure-elements.php:886
+#: ../main-structure-elements.php:1258 ../main-structure-elements.php:1267
+#: ../main-structure-elements.php:1300
+msgid "No"
+msgstr "否"
+
+#: ../class-et-builder-element.php:506 ../class-et-builder-element.php:592
+#: ../class-et-builder-element.php:692 ../class-et-builder-element.php:743
+#: ../functions.php:2686 ../main-modules.php:97 ../main-modules.php:132
+#: ../main-modules.php:171 ../main-modules.php:179 ../main-modules.php:390
+#: ../main-modules.php:399 ../main-modules.php:1360 ../main-modules.php:1391
+#: ../main-modules.php:1411 ../main-modules.php:1503 ../main-modules.php:2034
+#: ../main-modules.php:2058 ../main-modules.php:2117 ../main-modules.php:2126
+#: ../main-modules.php:2135 ../main-modules.php:2471 ../main-modules.php:2821
+#: ../main-modules.php:3230 ../main-modules.php:3257 ../main-modules.php:3267
+#: ../main-modules.php:3524 ../main-modules.php:3743 ../main-modules.php:4229
+#: ../main-modules.php:4307 ../main-modules.php:4621 ../main-modules.php:4629
+#: ../main-modules.php:4707 ../main-modules.php:4987 ../main-modules.php:4996
+#: ../main-modules.php:5005 ../main-modules.php:5345 ../main-modules.php:5354
+#: ../main-modules.php:5363 ../main-modules.php:6808 ../main-modules.php:7135
+#: ../main-modules.php:7296 ../main-modules.php:7783 ../main-modules.php:7814
+#: ../main-modules.php:7823 ../main-modules.php:7832 ../main-modules.php:7841
+#: ../main-modules.php:8460 ../main-modules.php:8652 ../main-modules.php:9169
+#: ../main-modules.php:9178 ../main-modules.php:9193 ../main-modules.php:9203
+#: ../main-modules.php:9224 ../main-modules.php:9234 ../main-modules.php:9244
+#: ../main-modules.php:9270 ../main-modules.php:9313 ../main-modules.php:9614
+#: ../main-modules.php:9626 ../main-modules.php:9751 ../main-modules.php:10445
+#: ../main-modules.php:10467 ../main-modules.php:10526
+#: ../main-modules.php:10535 ../main-modules.php:10544
+#: ../main-modules.php:10734 ../main-modules.php:10743
+#: ../main-modules.php:11206 ../main-modules.php:11395
+#: ../main-modules.php:11404 ../main-modules.php:11419
+#: ../main-modules.php:11429 ../main-modules.php:11450
+#: ../main-modules.php:11460 ../main-modules.php:11470
+#: ../main-modules.php:11496 ../main-modules.php:11539
+#: ../main-structure-elements.php:109 ../main-structure-elements.php:155
+#: ../main-structure-elements.php:164 ../main-structure-elements.php:173
+#: ../main-structure-elements.php:201 ../main-structure-elements.php:220
+#: ../main-structure-elements.php:230 ../main-structure-elements.php:283
+#: ../main-structure-elements.php:292 ../main-structure-elements.php:704
+#: ../main-structure-elements.php:714 ../main-structure-elements.php:766
+#: ../main-structure-elements.php:795 ../main-structure-elements.php:856
+#: ../main-structure-elements.php:865 ../main-structure-elements.php:887
+#: ../main-structure-elements.php:1259 ../main-structure-elements.php:1268
+#: ../main-structure-elements.php:1301
+msgid "Yes"
+msgstr "是"
+
+#: ../class-et-builder-element.php:518
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: ../class-et-builder-element.php:527
+msgid "Border Width"
+msgstr "边框宽度"
+
+#: ../class-et-builder-element.php:536
+msgid "Border Style"
+msgstr "边框样式"
+
+#: ../class-et-builder-element.php:562
+msgid "Custom Margin"
+msgstr "自定义边距"
+
+#: ../class-et-builder-element.php:570 ../main-structure-elements.php:191
+#: ../main-structure-elements.php:785 ../main-structure-elements.php:1249
+msgid "Custom Padding"
+msgstr "自定义内边距"
+
+#: ../class-et-builder-element.php:588
+#, php-format
+msgid "Use Custom Styles for %1$s "
+msgstr ""
+
+#: ../class-et-builder-element.php:616
+#, php-format
+msgid "%1$s Text Size"
+msgstr ""
+
+#: ../class-et-builder-element.php:634
+#, php-format
+msgid "%1$s Background Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:644
+#, php-format
+msgid "%1$s Border Width"
+msgstr ""
+
+#: ../class-et-builder-element.php:653
+#, php-format
+msgid "%1$s Border Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:663
+#, php-format
+msgid "%1$s Border Radius"
+msgstr ""
+
+#: ../class-et-builder-element.php:688
+#, php-format
+msgid "Add %1$s Icon"
+msgstr ""
+
+#: ../class-et-builder-element.php:691 ../functions.php:836
+#: ../main-modules.php:2065 ../main-modules.php:2081 ../main-modules.php:2375
+#: ../main-modules.php:2391 ../main-modules.php:10474
+#: ../main-modules.php:10490
+msgid "Default"
+msgstr "默认"
+
+#: ../class-et-builder-element.php:707
+#, php-format
+msgid "%1$s Icon"
+msgstr ""
+
+#: ../class-et-builder-element.php:718
+#, php-format
+msgid "%1$s Icon Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:728
+#, php-format
+msgid "%1$s Icon Placement"
+msgstr ""
+
+#: ../class-et-builder-element.php:731 ../class-et-builder-element.php:1307
+#: ../class-et-builder-element.php:2616 ../functions.php:248
+#: ../functions.php:254 ../main-modules.php:142 ../main-modules.php:1332
+#: ../main-modules.php:7097 ../main-modules.php:9295 ../main-modules.php:11521
+msgid "Right"
+msgstr "靠右"
+
+#: ../class-et-builder-element.php:732 ../class-et-builder-element.php:1319
+#: ../class-et-builder-element.php:2618 ../functions.php:246
+#: ../main-modules.php:140 ../main-modules.php:1330 ../main-modules.php:7096
+#: ../main-modules.php:9293 ../main-modules.php:11519
+msgid "Left"
+msgstr "靠左"
+
+#: ../class-et-builder-element.php:740
+#, php-format
+msgid "Only Show Icon On Hover for %1$s"
+msgstr ""
+
+#: ../class-et-builder-element.php:752
+#, php-format
+msgid "%1$s Hover Text Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:762
+#, php-format
+msgid "%1$s Hover Background Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:772
+#, php-format
+msgid "%1$s Hover Border Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:782
+#, php-format
+msgid "%1$s Hover Border Radius"
+msgstr ""
+
+#: ../class-et-builder-element.php:791
+#, php-format
+msgid "%1$s Hover Letter Spacing"
+msgstr ""
+
+#: ../class-et-builder-element.php:812
+msgid "Before"
+msgstr "之前"
+
+#: ../class-et-builder-element.php:817
+msgid "Main Element"
+msgstr "主元素"
+
+#: ../class-et-builder-element.php:820
+msgid "After"
+msgstr "之后"
+
+#: ../class-et-builder-element.php:1233 ../class-et-builder-element.php:2613
+msgid "Hex Value"
+msgstr "颜色值"
+
+#: ../class-et-builder-element.php:1244
+msgid "Choose Custom Color"
+msgstr "选择自定义颜色"
+
+#: ../class-et-builder-element.php:1254
+msgid "Upload"
+msgstr "上传"
+
+#: ../class-et-builder-element.php:1255
+msgid "Choose image"
+msgstr "选择图像"
+
+#: ../class-et-builder-element.php:1256
+msgid "Set image"
+msgstr "设置图像"
+
+#: ../class-et-builder-element.php:1301 ../class-et-builder-element.php:2615
+#: ../main-modules.php:1326 ../main-modules.php:7279
+msgid "Top"
+msgstr "顶部"
+
+#: ../class-et-builder-element.php:1313 ../class-et-builder-element.php:2617
+#: ../main-modules.php:2415 ../main-modules.php:7281 ../main-modules.php:9782
+#: ../main-modules.php:9801
+msgid "Bottom"
+msgstr "底部"
+
+#: ../class-et-builder-element.php:1452 ../class-et-builder-element.php:1629
+msgid "General Settings"
+msgstr "常规设置"
+
+#: ../class-et-builder-element.php:1453
+msgid "Advanced Design Settings"
+msgstr "高级设计设置"
+
+#: ../class-et-builder-element.php:1454
+msgid "Custom CSS"
+msgstr "自定义 CSS"
+
+#: ../class-et-builder-element.php:1605 ../main-modules.php:1166
+#: ../main-modules.php:1474 ../main-modules.php:1867 ../main-modules.php:2476
+#: ../main-modules.php:2851 ../main-modules.php:3564 ../main-modules.php:3773
+#: ../main-modules.php:4259 ../main-modules.php:4659 ../main-modules.php:6500
+#: ../main-modules.php:6625 ../main-modules.php:7789 ../main-modules.php:8762
+#: ../main-modules.php:9026 ../main-modules.php:9807 ../main-modules.php:11025
+#: ../main-modules.php:11103
+msgid "Content"
+msgstr "内容"
+
+#: ../class-et-builder-element.php:1606 ../main-modules.php:1869
+#: ../main-modules.php:6502
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr "可在此处定义将在当前选项卡中放置的内容。"
+
+#: ../class-et-builder-element.php:1618
+msgid "Add New Item"
+msgstr "添加新项目"
+
+#: ../class-et-builder-element.php:1618
+#, php-format
+msgid "Add New %s"
+msgstr "添加新%s"
+
+#: ../class-et-builder-element.php:1706
+#, php-format
+msgid "%1$s %2$s Settings"
+msgstr "%1$s %2$s设置"
+
+#: ../class-et-builder-element.php:1708
+msgid "Item"
+msgstr "项目"
+
+#: ../class-et-builder-element.php:1708 ../functions.php:1795
+#: ../layouts.php:174
+msgid "Module"
+msgstr "模块"
+
+#: ../class-et-builder-element.php:2607 ../main-structure-elements.php:1484
+msgid "Column"
+msgstr "列"
+
+#: ../class-et-builder-element.php:2614
+msgid "Padding"
+msgstr "内边距"
+
+#: ../functions.php:65 ../functions.php:1804
+msgid "All Categories"
+msgstr "所有类别"
+
+#: ../functions.php:74 ../layouts.php:10
+msgid "All Layouts"
+msgstr "所有布局"
+
+#: ../functions.php:75 ../functions.php:1155
+msgid "Modules"
+msgstr "模块"
+
+#: ../functions.php:76 ../functions.php:1154
+msgid "Rows"
+msgstr "行"
+
+#: ../functions.php:77 ../functions.php:1153
+msgid "Sections"
+msgstr "部分"
+
+#: ../functions.php:78 ../functions.php:1152 ../layouts.php:4
+msgid "Layouts"
+msgstr "布局"
+
+#: ../functions.php:82
+msgid "Global/not Global"
+msgstr "全局/非全局"
+
+#: ../functions.php:83 ../layouts.php:181
+msgid "Global"
+msgstr "全局"
+
+#: ../functions.php:84
+msgid "not Global"
+msgstr "非全局"
+
+#: ../functions.php:247 ../functions.php:255 ../main-modules.php:141
+#: ../main-modules.php:2376 ../main-modules.php:2414 ../main-modules.php:9294
+#: ../main-modules.php:9781 ../main-modules.php:11520
+msgid "Center"
+msgstr "居中"
+
+#: ../functions.php:249
+msgid "Justified"
+msgstr "齐行"
+
+#: ../functions.php:267
+msgid "Update Gallery"
+msgstr "更新图库"
+
+#: ../functions.php:276
+msgid "Select a menu"
+msgstr "选择菜单"
+
+#: ../functions.php:383
+msgid "Solid"
+msgstr "实线"
+
+#: ../functions.php:384
+msgid "Dotted"
+msgstr "点线"
+
+#: ../functions.php:385
+msgid "Dashed"
+msgstr "虚线"
+
+#: ../functions.php:386
+msgid "Double"
+msgstr "双线"
+
+#: ../functions.php:387
+msgid "Groove"
+msgstr "凹槽"
+
+#: ../functions.php:388
+msgid "Ridge"
+msgstr "边缘"
+
+#: ../functions.php:389
+msgid "Inset"
+msgstr "插入"
+
+#: ../functions.php:390
+msgid "Outset"
+msgstr "外部"
+
+#: ../functions.php:1112
+#, php-format
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+" 已创建了 <strong>%1$s</strong> 小部件区域。可以创建更多区域。完成页面更新后"
+"可看到所有区域。"
+
+#: ../functions.php:1136
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr "您没有足够的权限来导出这个网站的内容。"
+
+#: ../functions.php:1140
+msgid "Export Divi Builder Layouts"
+msgstr "导出Divi 构建器布局"
+
+#: ../functions.php:1141
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"当您点击下面的按钮，WordPress 将创建一个 XML 文件，以便保存到您的电脑中。"
+
+#: ../functions.php:1142
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"这种格式，我们称之为 WordPress eXtended RSS 或 WXR，将包含您使用页面生成器创"
+"建的所有布局。"
+
+#: ../functions.php:1143
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"一旦您保存了下载文件，您可以在另一个安装的 WordPress 中使用导入功能从本网站导"
+"入所有布局。"
+
+#: ../functions.php:1144
+msgid "Select Templates you want to export:"
+msgstr "选择您想要导出的模板："
+
+#: ../functions.php:1177
+msgid "Download Export File"
+msgstr "下载导出文件"
+
+#: ../functions.php:1182
+msgid "Export Divi Layouts"
+msgstr "导出Divi布局"
+
+#: ../functions.php:1186
+msgid "Manage Categories"
+msgstr "管理类别"
+
+#: ../functions.php:1331 ../functions.php:1333
+msgid "Use Default Editor"
+msgstr "使用默认编辑器"
+
+#: ../functions.php:1331 ../functions.php:1332
+msgid "Use The Divi Builder"
+msgstr "使用Divi构建器"
+
+#: ../functions.php:1368
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr "可在此处创建供在侧边栏模块中使用的新小部件区域"
+
+#: ../functions.php:1369
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"注：为小部件区域 \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", \"sidebar 4\" "
+"or \"sidebar 5\" 命名将导致与此主题冲突"
+
+#: ../functions.php:1370
+msgid "Widget Name"
+msgstr "小部件名称"
+
+#: ../functions.php:1371
+msgid "Create"
+msgstr "创建"
+
+#: ../functions.php:1373 ../functions.php:1456 ../functions.php:2471
+msgid "Delete"
+msgstr "删除"
+
+#: ../functions.php:1414
+msgid "Replace the existing content with loaded layout"
+msgstr "用新布局替换现有内容"
+
+#: ../functions.php:1453
+msgid "Load"
+msgstr "加载"
+
+#: ../functions.php:1555
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"您还没有保存任何项目到您的Divi库中。一旦您将某个项目保存到了您的库中，它将出"
+"现在这里以便于使用。"
+
+#: ../functions.php:1791
+msgid "The section should have at least one row."
+msgstr "该部分应具有至少一行。"
+
+#: ../functions.php:1792
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr "全宽模块不能在全宽部分之外使用。"
+
+#: ../functions.php:1793
+msgid "3 column row can't be used in this column."
+msgstr "3 列行不能在此列中使用。"
+
+#: ../functions.php:1794
+msgid "Preview"
+msgstr "预览"
+
+#: ../functions.php:1796
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr "无法从此视频服务和/或该视频格式生成静止图像"
+
+#: ../functions.php:1797
+msgid "Geocode was not successful for the following reason"
+msgstr "由于以下原因，地理编码未成功"
+
+#: ../functions.php:1798
+msgid "Geocoder failed due to"
+msgstr "地理编码器失败原因"
+
+#: ../functions.php:1799
+msgid "No results found"
+msgstr "找不到结果"
+
+#: ../functions.php:1800
+msgid "No available options for this configuration."
+msgstr "该配置无可用选项。"
+
+#: ../functions.php:1801
+msgid ""
+"You're about to update global module. This change will be applied to all "
+"pages where you use this module. Press OK if you want to update this module"
+msgstr ""
+"您即将更新全局模块。这种变更将被应用到使用这个模块的所有页面。如果您想更新该"
+"模块，请按确定"
+
+#: ../functions.php:1802
+msgid "You cannot add global rows into global sections"
+msgstr "您不能将全局行添加到全局部分"
+
+#: ../functions.php:1803
+msgid "You cannot add global modules into global sections or rows"
+msgstr "您不能将全局模块添加到全局部分或行"
+
+#: ../functions.php:1819
+msgid "The Divi Builder"
+msgstr "Divi构建器"
+
+#: ../functions.php:1830
+#, php-format
+msgid "Posts by %s"
+msgstr "发表人 %s"
+
+#: ../functions.php:1845
+msgid "% Comments"
+msgstr "% 评论"
+
+#: ../functions.php:1847
+msgid "No Comments"
+msgstr "无评论"
+
+#: ../functions.php:1849
+msgid "1 Comment"
+msgstr "1 条评论"
+
+#: ../functions.php:1860
+msgid "by"
+msgstr "由"
+
+#: ../functions.php:2156
+msgid "Save to Library"
+msgstr "保存到库"
+
+#: ../functions.php:2157
+msgid "Load From Library"
+msgstr "从库中加载"
+
+#: ../functions.php:2158 ../functions.php:2516
+msgid "Clear Layout"
+msgstr "清除布局"
+
+#: ../functions.php:2174 ../functions.php:2223 ../functions.php:2472
+msgid "Settings"
+msgstr "设置"
+
+#: ../functions.php:2175
+msgid "Clone Section"
+msgstr "克隆区段"
+
+#: ../functions.php:2176
+msgid "Delete Section"
+msgstr "删除区段"
+
+#: ../functions.php:2187
+msgid "Standard Section"
+msgstr "标准部分"
+
+#: ../functions.php:2188 ../layouts.php:178
+msgid "Fullwidth Section"
+msgstr "全宽部分"
+
+#: ../functions.php:2189 ../layouts.php:179
+msgid "Specialty Section"
+msgstr "特殊部分"
+
+#: ../functions.php:2190 ../functions.php:2373 ../functions.php:2411
+#: ../functions.php:2441
+msgid "Add From Library"
+msgstr "从库中添加"
+
+#: ../functions.php:2224
+msgid "Clone Row"
+msgstr "克隆行"
+
+#: ../functions.php:2225
+msgid "Delete Row"
+msgstr "删除行"
+
+#: ../functions.php:2226
+msgid "Change Structure"
+msgstr "更改结构"
+
+#: ../functions.php:2239
+msgid "Add Row"
+msgstr "添加行"
+
+#: ../functions.php:2256
+msgid "Insert Column(s)"
+msgstr "插入列"
+
+#: ../functions.php:2268 ../functions.php:2473
+msgid "Clone Module"
+msgstr "克隆模块"
+
+#: ../functions.php:2276
+msgid "Remove Module"
+msgstr "删除模块"
+
+#: ../functions.php:2287
+msgid "Module Settings"
+msgstr "模块设置"
+
+#: ../functions.php:2300
+msgid "Save & Add To Library"
+msgstr "保存并添加到库"
+
+#: ../functions.php:2322 ../functions.php:2491 ../functions.php:2546
+msgid "Cancel"
+msgstr "取消"
+
+#: ../functions.php:2324
+msgid "Save & Exit"
+msgstr "保存并退出"
+
+#: ../functions.php:2370
+msgid "Insert Columns"
+msgstr "插入列"
+
+#: ../functions.php:2372
+msgid "New Row"
+msgstr "新行"
+
+#: ../functions.php:2409
+msgid "Insert Module"
+msgstr "插入模块"
+
+#: ../functions.php:2410
+msgid "New Module"
+msgstr "新模块"
+
+#: ../functions.php:2439
+msgid "Load Layout"
+msgstr "加载布局"
+
+#: ../functions.php:2440
+msgid "Predefined Layouts"
+msgstr "预定义布局"
+
+#: ../functions.php:2452
+msgid "Insert Module(s)"
+msgstr "插入模块"
+
+#: ../functions.php:2492 ../functions.php:2547
+msgid "Save"
+msgstr "保存"
+
+#: ../functions.php:2503
+msgid "Disable Builder"
+msgstr "禁用构建器"
+
+#: ../functions.php:2504
+msgid ""
+"All content created in the Divi Builder will be lost. Previous content will "
+"be restored."
+msgstr "Divi构建器创建的所有内容都将丢失。以前的内容将被恢复。"
+
+#: ../functions.php:2505 ../functions.php:2518 ../functions.php:2529
+msgid "Do you wish to proceed?"
+msgstr "您是否要继续？"
+
+#: ../functions.php:2517
+msgid "All of your current page content will be lost."
+msgstr "所有您当前的页面内容都将丢失。"
+
+#: ../functions.php:2528
+msgid "All advanced module settings in will be lost."
+msgstr "所有高级模块设置都将丢失。"
+
+#: ../functions.php:2560
+msgid "Save To Library"
+msgstr "保存到库"
+
+#: ../functions.php:2561
+msgid "Save your current page to the Divi Library for later use."
+msgstr "保存您的当前页面到Divi库以备后用。"
+
+#: ../functions.php:2562
+msgid "Layout Name:"
+msgstr "布局名称："
+
+#: ../functions.php:2576
+msgid "Save And Add To Library"
+msgstr "保存并添加到库"
+
+#: ../functions.php:2583
+msgid "Add To Categories:"
+msgstr "添加到分类："
+
+#: ../functions.php:2604
+msgid "Create New Category"
+msgstr "创建新分类"
+
+#: ../functions.php:2659
+msgid ""
+"Here you can save the current item and add it to your Divi Library for later "
+"use as well."
+msgstr "在这里，您可以保存当前项目并把它添加到您的Divi库中以备后用。"
+
+#: ../functions.php:2660
+msgid "Template Name"
+msgstr "模板名称"
+
+#: ../functions.php:2661
+msgid "Selective Sync"
+msgstr "选择同步"
+
+#: ../functions.php:2662
+msgid "Include General settings"
+msgstr "包括一般设置"
+
+#: ../functions.php:2663
+msgid "Include Advanced Design settings"
+msgstr "包括高级设计设置"
+
+#: ../functions.php:2664 ../layouts.php:185
+msgid "Include Custom CSS"
+msgstr "包括自定义 CSS"
+
+#: ../functions.php:2665 ../layouts.php:186
+msgid "Please select at least 1 tab to save"
+msgstr "请选择至少一个选项卡进行保存"
+
+#: ../functions.php:2666
+msgid "Save as Global:"
+msgstr "保存为全局"
+
+#: ../functions.php:2667
+msgid "Make this a global item"
+msgstr "将其作为全局项目"
+
+#: ../functions.php:2695
+msgid "Add Specialty Section"
+msgstr "添加特型区段"
+
+#: ../layouts.php:5 ../layouts.php:180 ../main-modules.php:365
+#: ../main-modules.php:4965 ../main-modules.php:5323 ../main-modules.php:7749
+#: ../main-modules.php:10712
+msgid "Layout"
+msgstr "布局"
+
+#: ../layouts.php:6
+msgid "Add New"
+msgstr "添加新的"
+
+#: ../layouts.php:7
+msgid "Add New Layout"
+msgstr "添加新布局"
+
+#: ../layouts.php:8
+msgid "Edit Layout"
+msgstr "编辑布局"
+
+#: ../layouts.php:9
+msgid "New Layout"
+msgstr "新布局"
+
+#: ../layouts.php:11
+msgid "View Layout"
+msgstr "查看布局"
+
+#: ../layouts.php:12
+msgid "Search Layouts"
+msgstr "搜索布局"
+
+#: ../layouts.php:13
+msgid "Nothing found"
+msgstr "什么都没找到"
+
+#: ../layouts.php:14
+msgid "Nothing found in Trash"
+msgstr "垃圾箱中没有找到任何东西"
+
+#: ../layouts.php:38
+msgid "Scope"
+msgstr "范围"
+
+#: ../layouts.php:51
+msgid "Layout Type"
+msgstr "布局类型"
+
+#: ../layouts.php:64
+msgid "Module Width"
+msgstr "模块宽度"
+
+#: ../layouts.php:77
+msgid "Category"
+msgstr "类别"
+
+#: ../layouts.php:171
+msgid "New Template Settings"
+msgstr "新模板设置"
+
+#: ../layouts.php:172
+msgid "Template Name:"
+msgstr "模板名称："
+
+#: ../layouts.php:173
+msgid "Template Type:"
+msgstr "模板类型："
+
+#: ../layouts.php:175
+msgid "Fullwidth Module"
+msgstr "全宽模块"
+
+#: ../layouts.php:176 ../main-structure-elements.php:604
+#: ../main-structure-elements.php:1188
+msgid "Row"
+msgstr "行"
+
+#: ../layouts.php:177 ../main-structure-elements.php:5
+msgid "Section"
+msgstr "部分"
+
+#: ../layouts.php:182
+msgid "Close Modal Window"
+msgstr "关闭模态窗口"
+
+#: ../layouts.php:183
+msgid "Include General Settings"
+msgstr "包括一般设置"
+
+#: ../layouts.php:184
+msgid "Include Advanced Design Settings"
+msgstr "包括高级设计设置"
+
+#: ../layouts.php:187
+msgid "Select category(ies) for new template or type a new name ( optional )"
+msgstr "选择新模板的类别或输入新名称（可选）"
+
+#: ../layouts.php:252
+msgid "Homepage Basic"
+msgstr "基本主页"
+
+#: ../layouts.php:260
+msgid "Homepage Shop"
+msgstr "商店主页"
+
+#: ../layouts.php:270
+msgid "Homepage Portfolio"
+msgstr "选辑主页"
+
+#: ../layouts.php:278
+msgid "Homepage Company"
+msgstr "公司主页"
+
+#: ../layouts.php:286
+msgid "Homepage Corporate"
+msgstr "企业主页"
+
+#: ../layouts.php:297
+msgid "Homepage Extended"
+msgstr "扩展主页"
+
+#: ../layouts.php:306
+msgid "Page Fullwidth"
+msgstr "全宽主页"
+
+#: ../layouts.php:340
+msgid "Page Right Sidebar"
+msgstr "页面右侧边栏"
+
+#: ../layouts.php:374
+msgid "Page Left Sidebar"
+msgstr "页面左侧边栏"
+
+#: ../layouts.php:408
+msgid "Page Dual Sidebars"
+msgstr "页面双侧边栏"
+
+#: ../layouts.php:430
+msgid "Portfolio Grid"
+msgstr "选辑网格"
+
+#: ../layouts.php:438
+msgid "Portfolio 1 Column"
+msgstr "选辑 1 列"
+
+#: ../layouts.php:446
+msgid "Portfolio Fullwidth Carousel"
+msgstr "选辑全宽幻灯转盘"
+
+#: ../layouts.php:454
+msgid "Portfolio Fullwidth Grid"
+msgstr "选辑全宽网格"
+
+#: ../layouts.php:462
+msgid "Project Extended"
+msgstr "扩展项目"
+
+#: ../layouts.php:472
+msgid "Project Extended 2"
+msgstr "扩展项目 2"
+
+#: ../layouts.php:485
+msgid "Blog Masonry"
+msgstr "博客网格"
+
+#: ../layouts.php:493
+msgid "Blog Standard"
+msgstr "博客标准"
+
+#: ../layouts.php:501
+msgid "Shop Basic"
+msgstr "基本商店"
+
+#: ../layouts.php:509
+msgid "Shop Extended"
+msgstr "扩展商店"
+
+#: ../layouts.php:517
+msgid "Splash Page"
+msgstr "启动页面"
+
+#: ../layouts.php:528
+msgid "Maintenance Mode"
+msgstr "维护模式"
+
+#: ../layouts.php:537
+msgid "Coming Soon"
+msgstr "即将推出"
+
+#: ../layouts.php:545
+msgid "Landing Page"
+msgstr "登录页"
+
+#: ../layouts.php:554
+msgid "About Me"
+msgstr "关于我"
+
+#: ../layouts.php:563
+msgid "About Us"
+msgstr "关于我们"
+
+#: ../layouts.php:572
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: ../layouts.php:588
+msgid "Our Team"
+msgstr "我们的团队"
+
+#: ../layouts.php:701
+msgid "Creative Agency"
+msgstr "创意机构"
+
+#: ../layouts.php:710
+msgid "Sales Page"
+msgstr "销售页面"
+
+#: ../layouts.php:746
+msgid "Case Study"
+msgstr "案例研究"
+
+#: ../layouts.php:756
+msgid "Product Features"
+msgstr "产品特性"
+
+#: ../main-modules.php:4 ../main-modules.php:1426 ../main-modules.php:8173
+msgid "Image"
+msgstr "图像"
+
+#: ../main-modules.php:46 ../main-modules.php:1451 ../main-modules.php:7480
+#: ../main-modules.php:11234
+msgid "Left To Right"
+msgstr "从左至右"
+
+#: ../main-modules.php:47 ../main-modules.php:1452 ../main-modules.php:7481
+#: ../main-modules.php:11235
+msgid "Right To Left"
+msgstr "从右至左"
+
+#: ../main-modules.php:48 ../main-modules.php:1450 ../main-modules.php:7482
+#: ../main-modules.php:11236
+msgid "Top To Bottom"
+msgstr "从上至下"
+
+#: ../main-modules.php:49 ../main-modules.php:1453 ../main-modules.php:7483
+#: ../main-modules.php:11237
+msgid "Bottom To Top"
+msgstr "从下至上"
+
+#: ../main-modules.php:50 ../main-modules.php:7479 ../main-modules.php:11238
+msgid "Fade In"
+msgstr "淡入"
+
+#: ../main-modules.php:51 ../main-modules.php:1454 ../main-modules.php:7478
+#: ../main-modules.php:11239
+msgid "No Animation"
+msgstr "无动画"
+
+#: ../main-modules.php:75 ../main-modules.php:7467 ../main-modules.php:11184
+msgid "Image URL"
+msgstr "图像 URL"
+
+#: ../main-modules.php:78 ../main-modules.php:674 ../main-modules.php:1008
+#: ../main-modules.php:1429 ../main-modules.php:2804 ../main-modules.php:3968
+#: ../main-modules.php:7470 ../main-modules.php:9734 ../main-modules.php:9773
+#: ../main-modules.php:9792 ../main-modules.php:11187
+msgid "Choose an Image"
+msgstr "选择图像"
+
+#: ../main-modules.php:79 ../main-modules.php:675 ../main-modules.php:1009
+#: ../main-modules.php:1430 ../main-modules.php:2805 ../main-modules.php:3969
+#: ../main-modules.php:7471 ../main-modules.php:9735 ../main-modules.php:9774
+#: ../main-modules.php:9793 ../main-modules.php:11188
+msgid "Set As Image"
+msgstr "设置为图像"
+
+#: ../main-modules.php:80 ../main-modules.php:2806 ../main-modules.php:3970
+#: ../main-modules.php:7472 ../main-modules.php:9736 ../main-modules.php:9775
+#: ../main-modules.php:9794 ../main-modules.php:11189
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr "上载所需的图像，或者键入要显示的图像的 URL。"
+
+#: ../main-modules.php:83 ../main-modules.php:2425 ../main-modules.php:11192
+msgid "Image Alternative Text"
+msgstr "图像替代文本"
+
+#: ../main-modules.php:85 ../main-modules.php:11194
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr "此处定义图像替代文本。可在此处放置对图像的简短描述。"
+
+#: ../main-modules.php:88 ../main-modules.php:11197
+msgid "Image Title Text"
+msgstr "图像标题文本"
+
+#: ../main-modules.php:90 ../main-modules.php:11199
+msgid "This defines the HTML Title text."
+msgstr "此处定义 HTML 标题文本。"
+
+#: ../main-modules.php:93
+msgid "Open in Lightbox"
+msgstr "在 Lightbox 中打开"
+
+#: ../main-modules.php:103 ../main-modules.php:11212
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"可在此处选择图像是否应在灯箱中打开。注：如果选择在灯箱中打开图像，则将忽略下"
+"面的 URL 选项。"
+
+#: ../main-modules.php:106 ../main-modules.php:11215
+msgid "Link URL"
+msgstr "链接 URL"
+
+#: ../main-modules.php:109 ../main-modules.php:11218
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"如果要让图像成为链接，请在此处输入目标 URL。如果将此字段留空，则不会创建任何"
+"链接。"
+
+#: ../main-modules.php:112 ../main-modules.php:1347 ../main-modules.php:3726
+#: ../main-modules.php:8860 ../main-modules.php:11221
+msgid "Url Opens"
+msgstr "URL 打开"
+
+#: ../main-modules.php:115 ../main-modules.php:1350 ../main-modules.php:2795
+#: ../main-modules.php:3729 ../main-modules.php:8863 ../main-modules.php:11224
+msgid "In The Same Window"
+msgstr "在相同窗口中"
+
+#: ../main-modules.php:116 ../main-modules.php:1351 ../main-modules.php:2796
+#: ../main-modules.php:3730 ../main-modules.php:8864 ../main-modules.php:11225
+msgid "In The New Tab"
+msgstr "在新选项卡中"
+
+#: ../main-modules.php:119 ../main-modules.php:1353 ../main-modules.php:3732
+#: ../main-modules.php:8866 ../main-modules.php:11228
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr "可在此处选择是否在新窗口中打开链接"
+
+#: ../main-modules.php:122 ../main-modules.php:7475 ../main-modules.php:11231
+msgid "Animation"
+msgstr "动画"
+
+#: ../main-modules.php:125 ../main-modules.php:1456 ../main-modules.php:7485
+#: ../main-modules.php:11241
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "此处控制动画的方向。"
+
+#: ../main-modules.php:128
+msgid "Remove Space Below The Image"
+msgstr "删除图像下方的空间"
+
+#: ../main-modules.php:134
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr "可在此处选择图像下方是否应有空间。"
+
+#: ../main-modules.php:137
+msgid "Image Alignment"
+msgstr "图像对齐"
+
+#: ../main-modules.php:144
+msgid "Here you can choose the image alignment."
+msgstr "在这里您可以选择图像对齐。"
+
+#: ../main-modules.php:147 ../main-modules.php:433 ../main-modules.php:690
+#: ../main-modules.php:857 ../main-modules.php:982 ../main-modules.php:1171
+#: ../main-modules.php:1479 ../main-modules.php:1716 ../main-modules.php:2088
+#: ../main-modules.php:2856 ../main-modules.php:3164 ../main-modules.php:3778
+#: ../main-modules.php:3987 ../main-modules.php:4264 ../main-modules.php:4664
+#: ../main-modules.php:5020 ../main-modules.php:5378 ../main-modules.php:5707
+#: ../main-modules.php:6059 ../main-modules.php:6236 ../main-modules.php:6366
+#: ../main-modules.php:6630 ../main-modules.php:6824 ../main-modules.php:7116
+#: ../main-modules.php:7254 ../main-modules.php:7522 ../main-modules.php:7862
+#: ../main-modules.php:8242 ../main-modules.php:8475 ../main-modules.php:8633
+#: ../main-modules.php:8878 ../main-modules.php:9332 ../main-modules.php:9813
+#: ../main-modules.php:10189 ../main-modules.php:10497
+#: ../main-modules.php:10776 ../main-modules.php:10958
+#: ../main-modules.php:11030 ../main-modules.php:11108
+#: ../main-modules.php:11244 ../main-modules.php:11558
+msgid "Admin Label"
+msgstr "管理标签"
+
+#: ../main-modules.php:149 ../main-modules.php:435 ../main-modules.php:692
+#: ../main-modules.php:859 ../main-modules.php:1173 ../main-modules.php:1481
+#: ../main-modules.php:1718 ../main-modules.php:2090 ../main-modules.php:2858
+#: ../main-modules.php:3166 ../main-modules.php:3780 ../main-modules.php:3989
+#: ../main-modules.php:4266 ../main-modules.php:4666 ../main-modules.php:5022
+#: ../main-modules.php:5380 ../main-modules.php:5709 ../main-modules.php:6061
+#: ../main-modules.php:6238 ../main-modules.php:6368 ../main-modules.php:6632
+#: ../main-modules.php:6826 ../main-modules.php:7118 ../main-modules.php:7256
+#: ../main-modules.php:7524 ../main-modules.php:7864 ../main-modules.php:8244
+#: ../main-modules.php:8477 ../main-modules.php:8635 ../main-modules.php:8880
+#: ../main-modules.php:9334 ../main-modules.php:9815 ../main-modules.php:10191
+#: ../main-modules.php:10499 ../main-modules.php:10778
+#: ../main-modules.php:10960 ../main-modules.php:11032
+#: ../main-modules.php:11110 ../main-modules.php:11246
+#: ../main-modules.php:11560
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr "这将更改模块在生成器中的标签以便识别。"
+
+#: ../main-modules.php:152 ../main-modules.php:438 ../main-modules.php:695
+#: ../main-modules.php:862 ../main-modules.php:1176 ../main-modules.php:1484
+#: ../main-modules.php:1721 ../main-modules.php:2093 ../main-modules.php:2861
+#: ../main-modules.php:3169 ../main-modules.php:3783 ../main-modules.php:3992
+#: ../main-modules.php:4269 ../main-modules.php:4669 ../main-modules.php:5025
+#: ../main-modules.php:5383 ../main-modules.php:5712 ../main-modules.php:6064
+#: ../main-modules.php:6241 ../main-modules.php:6371 ../main-modules.php:6635
+#: ../main-modules.php:6829 ../main-modules.php:7121 ../main-modules.php:7259
+#: ../main-modules.php:7527 ../main-modules.php:7867 ../main-modules.php:8247
+#: ../main-modules.php:8480 ../main-modules.php:8638 ../main-modules.php:8883
+#: ../main-modules.php:9337 ../main-modules.php:9818 ../main-modules.php:10194
+#: ../main-modules.php:10502 ../main-modules.php:10781
+#: ../main-modules.php:10963 ../main-modules.php:11035
+#: ../main-modules.php:11113 ../main-modules.php:11249
+#: ../main-modules.php:11563 ../main-structure-elements.php:206
+#: ../main-structure-elements.php:800 ../main-structure-elements.php:1287
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: ../main-modules.php:154 ../main-modules.php:440 ../main-modules.php:697
+#: ../main-modules.php:864 ../main-modules.php:1178 ../main-modules.php:1486
+#: ../main-modules.php:1723 ../main-modules.php:2095 ../main-modules.php:2863
+#: ../main-modules.php:3171 ../main-modules.php:3785 ../main-modules.php:3994
+#: ../main-modules.php:4271 ../main-modules.php:4671 ../main-modules.php:5027
+#: ../main-modules.php:5385 ../main-modules.php:5714 ../main-modules.php:6066
+#: ../main-modules.php:6243 ../main-modules.php:6373 ../main-modules.php:6637
+#: ../main-modules.php:6831 ../main-modules.php:7123 ../main-modules.php:7261
+#: ../main-modules.php:7529 ../main-modules.php:7869 ../main-modules.php:8249
+#: ../main-modules.php:8482 ../main-modules.php:8640 ../main-modules.php:8885
+#: ../main-modules.php:9339 ../main-modules.php:9820 ../main-modules.php:10196
+#: ../main-modules.php:10504 ../main-modules.php:10783
+#: ../main-modules.php:10965 ../main-modules.php:11037
+#: ../main-modules.php:11115 ../main-modules.php:11251
+#: ../main-modules.php:11565 ../main-structure-elements.php:208
+#: ../main-structure-elements.php:802 ../main-structure-elements.php:1289
+msgid ""
+"Enter an optional CSS ID to be used for this module. An ID can be used to "
+"create custom CSS styling, or to create links to particular sections of your "
+"page."
+msgstr ""
+"输入要用于此模块的可选 CSS ID。ID 可用于创建定制的 CSS 样式，或者用于创建到页"
+"面特定区段的链接。"
+
+#: ../main-modules.php:157 ../main-modules.php:443 ../main-modules.php:700
+#: ../main-modules.php:867 ../main-modules.php:1181 ../main-modules.php:1489
+#: ../main-modules.php:1726 ../main-modules.php:2098 ../main-modules.php:2866
+#: ../main-modules.php:3174 ../main-modules.php:3788 ../main-modules.php:3997
+#: ../main-modules.php:4274 ../main-modules.php:4674 ../main-modules.php:5030
+#: ../main-modules.php:5388 ../main-modules.php:5717 ../main-modules.php:6069
+#: ../main-modules.php:6246 ../main-modules.php:6376 ../main-modules.php:6640
+#: ../main-modules.php:6834 ../main-modules.php:7126 ../main-modules.php:7264
+#: ../main-modules.php:7532 ../main-modules.php:7872 ../main-modules.php:8252
+#: ../main-modules.php:8485 ../main-modules.php:8643 ../main-modules.php:8888
+#: ../main-modules.php:9342 ../main-modules.php:9823 ../main-modules.php:10199
+#: ../main-modules.php:10507 ../main-modules.php:10786
+#: ../main-modules.php:10968 ../main-modules.php:11040
+#: ../main-modules.php:11118 ../main-modules.php:11254
+#: ../main-modules.php:11568 ../main-structure-elements.php:211
+#: ../main-structure-elements.php:805 ../main-structure-elements.php:1292
+msgid "CSS Class"
+msgstr "CSS 类"
+
+#: ../main-modules.php:159 ../main-modules.php:445 ../main-modules.php:702
+#: ../main-modules.php:869 ../main-modules.php:1183 ../main-modules.php:1491
+#: ../main-modules.php:1728 ../main-modules.php:2100 ../main-modules.php:2868
+#: ../main-modules.php:3176 ../main-modules.php:3790 ../main-modules.php:3999
+#: ../main-modules.php:4276 ../main-modules.php:4676 ../main-modules.php:5032
+#: ../main-modules.php:5390 ../main-modules.php:5719 ../main-modules.php:6071
+#: ../main-modules.php:6248 ../main-modules.php:6378 ../main-modules.php:6642
+#: ../main-modules.php:6836 ../main-modules.php:7128 ../main-modules.php:7266
+#: ../main-modules.php:7534 ../main-modules.php:7874 ../main-modules.php:8254
+#: ../main-modules.php:8487 ../main-modules.php:8645 ../main-modules.php:8890
+#: ../main-modules.php:9344 ../main-modules.php:9825 ../main-modules.php:10201
+#: ../main-modules.php:10509 ../main-modules.php:10788
+#: ../main-modules.php:10970 ../main-modules.php:11042
+#: ../main-modules.php:11120 ../main-modules.php:11256
+#: ../main-modules.php:11570 ../main-structure-elements.php:213
+#: ../main-structure-elements.php:807 ../main-structure-elements.php:1294
+msgid ""
+"Enter optional CSS classes to be used for this module. A CSS class can be "
+"used to create custom CSS styling. You can add multiple classes, separated "
+"with a space."
+msgstr ""
+"输入要用于此模块的可选 CSS 类。CSS 类可用于创建定制的 CSS 样式。可以添加多个"
+"类，用空格分隔。"
+
+#: ../main-modules.php:162 ../main-modules.php:1494
+msgid "Image Max Width"
+msgstr "图像最大宽度"
+
+#: ../main-modules.php:167
+msgid "Force Fullwidth"
+msgstr "设为全宽"
+
+#: ../main-modules.php:176
+msgid "Always Center Image On Mobile"
+msgstr "始终在移动设备上居中图像"
+
+#: ../main-modules.php:277
+msgid "Gallery"
+msgstr "图片库"
+
+#: ../main-modules.php:313 ../main-modules.php:3907 ../main-modules.php:4925
+#: ../main-modules.php:5269
+msgid "Caption"
+msgstr "说明"
+
+#: ../main-modules.php:320 ../main-modules.php:1337 ../main-modules.php:1862
+#: ../main-modules.php:3529 ../main-modules.php:3716 ../main-modules.php:3901
+#: ../main-modules.php:3950 ../main-modules.php:4216 ../main-modules.php:4612
+#: ../main-modules.php:4919 ../main-modules.php:5263 ../main-modules.php:5640
+#: ../main-modules.php:5814 ../main-modules.php:5996 ../main-modules.php:6025
+#: ../main-modules.php:6166 ../main-modules.php:6203 ../main-modules.php:6495
+#: ../main-modules.php:6566 ../main-modules.php:6611 ../main-modules.php:6764
+#: ../main-modules.php:6819 ../main-modules.php:7084 ../main-modules.php:7440
+#: ../main-modules.php:7732 ../main-modules.php:8150 ../main-modules.php:8181
+#: ../main-modules.php:8425 ../main-modules.php:8731 ../main-modules.php:9147
+#: ../main-modules.php:9584 ../main-modules.php:11373
+msgid "Title"
+msgstr "标题"
+
+#: ../main-modules.php:331
+msgid "Gallery Item"
+msgstr "图库项目"
+
+#: ../main-modules.php:335 ../main-modules.php:4944 ../main-modules.php:5302
+#: ../main-modules.php:8177
+msgid "Overlay"
+msgstr "覆盖"
+
+#: ../main-modules.php:339 ../main-modules.php:4948 ../main-modules.php:5306
+msgid "Overlay Icon"
+msgstr "覆盖图标"
+
+#: ../main-modules.php:343
+msgid "Gallery Item Title"
+msgstr "图库项目标题"
+
+#: ../main-modules.php:352 ../main-modules.php:360
+msgid "Gallery Images"
+msgstr "图库图像"
+
+#: ../main-modules.php:368 ../main-modules.php:1904
+msgid "Slider"
+msgstr "幻灯播放器"
+
+#: ../main-modules.php:369 ../main-modules.php:4969 ../main-modules.php:5327
+#: ../main-modules.php:7753 ../main-modules.php:10716
+msgid "Grid"
+msgstr "网格"
+
+#: ../main-modules.php:371 ../main-modules.php:7759
+msgid "Toggle between the various blog layout types."
+msgstr "在各种博客布局类型间切换。"
+
+#: ../main-modules.php:382
+msgid "Images Number"
+msgstr "图像数量"
+
+#: ../main-modules.php:384
+msgid "Define the number of images that should be displayed per page."
+msgstr "定义每页应显示的图像数量。"
+
+#: ../main-modules.php:387
+msgid "Show Title and Caption"
+msgstr "显示标题和图注"
+
+#: ../main-modules.php:393
+msgid ""
+"Here you can choose whether to show the images title and caption, if the "
+"image has them."
+msgstr "可在此处选择是否显示图像标题和图注（在图像有标题和图注的情况下）。"
+
+#: ../main-modules.php:396 ../main-modules.php:5002 ../main-modules.php:5360
+#: ../main-modules.php:7838
+msgid "Show Pagination"
+msgstr "显示分页"
+
+#: ../main-modules.php:402 ../main-modules.php:5008 ../main-modules.php:5366
+msgid "Enable or disable pagination for this feed."
+msgstr "启用或禁用此消息源的分页。"
+
+#: ../main-modules.php:405 ../main-modules.php:1151 ../main-modules.php:1459
+#: ../main-modules.php:2430 ../main-modules.php:2836 ../main-modules.php:3758
+#: ../main-modules.php:3978 ../main-modules.php:4244 ../main-modules.php:4644
+#: ../main-modules.php:5011 ../main-modules.php:5369 ../main-modules.php:5680
+#: ../main-modules.php:6045 ../main-modules.php:6227 ../main-modules.php:7107
+#: ../main-modules.php:7488 ../main-modules.php:7852 ../main-modules.php:8448
+#: ../main-modules.php:8851 ../main-modules.php:9300 ../main-modules.php:9594
+#: ../main-modules.php:10165 ../main-modules.php:10749
+#: ../main-modules.php:11526
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: ../main-modules.php:408 ../main-modules.php:852 ../main-modules.php:1022
+#: ../main-modules.php:1154 ../main-modules.php:1462 ../main-modules.php:2434
+#: ../main-modules.php:2839 ../main-modules.php:3762 ../main-modules.php:3982
+#: ../main-modules.php:4248 ../main-modules.php:4648 ../main-modules.php:5014
+#: ../main-modules.php:5372 ../main-modules.php:5683 ../main-modules.php:6048
+#: ../main-modules.php:6230 ../main-modules.php:7110 ../main-modules.php:7491
+#: ../main-modules.php:7855 ../main-modules.php:8451 ../main-modules.php:8854
+#: ../main-modules.php:9303 ../main-modules.php:9597 ../main-modules.php:10168
+#: ../main-modules.php:10752 ../main-modules.php:11529
+msgid "Dark"
+msgstr "深色"
+
+#: ../main-modules.php:409 ../main-modules.php:851 ../main-modules.php:1021
+#: ../main-modules.php:1155 ../main-modules.php:1463 ../main-modules.php:2433
+#: ../main-modules.php:2840 ../main-modules.php:3761 ../main-modules.php:3981
+#: ../main-modules.php:4247 ../main-modules.php:4647 ../main-modules.php:5015
+#: ../main-modules.php:5373 ../main-modules.php:5684 ../main-modules.php:6049
+#: ../main-modules.php:6231 ../main-modules.php:7111 ../main-modules.php:7492
+#: ../main-modules.php:7856 ../main-modules.php:8452 ../main-modules.php:8855
+#: ../main-modules.php:9304 ../main-modules.php:9598 ../main-modules.php:10169
+#: ../main-modules.php:10753 ../main-modules.php:11530
+msgid "Light"
+msgstr "浅色"
+
+#: ../main-modules.php:411 ../main-modules.php:1465 ../main-modules.php:2842
+#: ../main-modules.php:3764 ../main-modules.php:3984 ../main-modules.php:4250
+#: ../main-modules.php:4650 ../main-modules.php:5017 ../main-modules.php:5375
+#: ../main-modules.php:5686 ../main-modules.php:6051 ../main-modules.php:7113
+#: ../main-modules.php:7859 ../main-modules.php:8454 ../main-modules.php:8857
+#: ../main-modules.php:10755
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"可在此处选择文本应为浅色还是深色。如果要使用深色背景，则文本应为浅色。如果背"
+"景是浅色，则文本应设置为深色。"
+
+#: ../main-modules.php:414 ../main-modules.php:2012 ../main-modules.php:10423
+msgid "Automatic Animation"
+msgstr "自动动画"
+
+#: ../main-modules.php:424 ../main-modules.php:2021 ../main-modules.php:10432
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+"如果希望幻灯播放器自动播放幻灯片，无需访问者单击“下一个”按钮，请启用此选项，"
+"然后根据需要在下面调整交替速度。"
+
+#: ../main-modules.php:427 ../main-modules.php:2024 ../main-modules.php:10435
+msgid "Automatic Animation Speed (in ms)"
+msgstr "自动动画速度（以毫秒为单位）"
+
+#: ../main-modules.php:430 ../main-modules.php:2027 ../main-modules.php:10438
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+"可在此处指定幻灯播放器在每张幻灯片之间淡入淡出的速度（在启用了上面的“自动动"
+"画”选项的情况下）。数值越高，每次交替之间的暂停时间越长。"
+
+#: ../main-modules.php:448 ../main-modules.php:5035 ../main-modules.php:5401
+msgid "Zoom Icon Color"
+msgstr "缩放图标颜色"
+
+#: ../main-modules.php:455 ../main-modules.php:5041 ../main-modules.php:5407
+#: ../main-modules.php:8269
+msgid "Hover Overlay Color"
+msgstr "悬停覆盖颜色"
+
+#: ../main-modules.php:462 ../main-modules.php:5047 ../main-modules.php:5393
+#: ../main-modules.php:8275
+msgid "Hover Icon Picker"
+msgstr "悬停图标选择器"
+
+#: ../main-modules.php:629 ../main-modules.php:786 ../main-modules.php:959
+msgid "Video"
+msgstr "视频"
+
+#: ../main-modules.php:644
+msgid "Video Icon"
+msgstr "视频图标"
+
+#: ../main-modules.php:653 ../main-modules.php:987
+msgid "Video MP4/URL"
+msgstr "视频 .MP4 URL"
+
+#: ../main-modules.php:656 ../main-modules.php:665 ../main-modules.php:990
+#: ../main-modules.php:999 ../main-modules.php:2442 ../main-modules.php:2451
+#: ../main-structure-elements.php:126 ../main-structure-elements.php:135
+#: ../main-structure-elements.php:827 ../main-structure-elements.php:836
+msgid "Upload a video"
+msgstr "上载视频"
+
+#: ../main-modules.php:657 ../main-modules.php:991
+msgid "Choose a Video MP4 File"
+msgstr "选择视频 .MP4 文件"
+
+#: ../main-modules.php:658 ../main-modules.php:667 ../main-modules.php:992
+#: ../main-modules.php:1001
+msgid "Set As Video"
+msgstr "设置为视频"
+
+#: ../main-modules.php:659 ../main-modules.php:993
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr " 以 .MP4 格式上载所需视频，或者键入要显示的视频的 URL。"
+
+#: ../main-modules.php:662 ../main-modules.php:996
+msgid "Video Webm"
+msgstr "视频 .WEBM"
+
+#: ../main-modules.php:666 ../main-modules.php:1000
+msgid "Choose a Video WEBM File"
+msgstr "选择视频 .WEBM 文件"
+
+#: ../main-modules.php:668 ../main-modules.php:1002
+msgid ""
+"Upload the .WEBM version of your video here. All uploaded videos should be "
+"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+msgstr ""
+"在此处上载 .WEBM 版视频。所有上载的视频都应采用 .MP4 和 .WEBM 格式，以确保在"
+"所有浏览器中的最大兼容性。"
+
+#: ../main-modules.php:671 ../main-modules.php:1005
+msgid "Image Overlay URL"
+msgstr "图像叠加 URL"
+
+#: ../main-modules.php:678 ../main-modules.php:1012
+msgid "Generate From Video"
+msgstr "从视频生成"
+
+#: ../main-modules.php:681 ../main-modules.php:1015
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display over your video. You can also generate a still image from your video."
+msgstr ""
+"上载所需的图像，或者键入要在视频上显示的图像的 URL。也可以从视频生成静态图"
+"像。"
+
+#: ../main-modules.php:684 ../main-modules.php:872
+msgid "Play Icon Color"
+msgstr "播放图标颜色"
+
+#: ../main-modules.php:783
+msgid "Video Slider"
+msgstr "视频幻灯播放器"
+
+#: ../main-modules.php:808
+msgid "Play Button"
+msgstr "播放按钮"
+
+#: ../main-modules.php:812
+msgid "Thumbnail Item"
+msgstr "缩略图项目"
+
+#: ../main-modules.php:821
+msgid "Display Image Overlays on Main Video"
+msgstr "在主视频上显示图像叠加"
+
+#: ../main-modules.php:824
+msgid "Hide"
+msgstr "隐藏"
+
+#: ../main-modules.php:825
+msgid "Show"
+msgstr "显示"
+
+#: ../main-modules.php:827
+msgid ""
+"This option will cover the player UI on the main video. This image can "
+"either be uploaded in each video setting or auto-generated by Divi."
+msgstr ""
+"此选项将覆盖主视频上的播放器界面。此图像可在每个视频设置中上载，也可由 Divi "
+"自动生成。"
+
+#: ../main-modules.php:830 ../main-modules.php:1994 ../main-modules.php:10405
+msgid "Arrows"
+msgstr "箭头"
+
+#: ../main-modules.php:833 ../main-modules.php:1997 ../main-modules.php:10408
+msgid "Show Arrows"
+msgstr "显示箭头"
+
+#: ../main-modules.php:834 ../main-modules.php:1998 ../main-modules.php:10409
+msgid "Hide Arrows"
+msgstr "隐藏箭头"
+
+#: ../main-modules.php:836 ../main-modules.php:2000
+msgid "This setting will turn on and off the navigation arrows."
+msgstr "此设置将启用和禁用导航箭头。"
+
+#: ../main-modules.php:839
+msgid "Slider Controls"
+msgstr "幻灯播放器控件"
+
+#: ../main-modules.php:842
+msgid "Use Thumbnail Track"
+msgstr "使用缩微轨道"
+
+#: ../main-modules.php:843
+msgid "Use Dot Navigation"
+msgstr "使用点导航"
+
+#: ../main-modules.php:845
+msgid ""
+"This setting will let you choose to use the thumbnail track controls below "
+"the slider or dot navigation at the bottom of the slider."
+msgstr ""
+"此设置可选择在幻灯播放器下方使用缩微轨道控件，或者在幻灯播放器底部使用点导"
+"航。"
+
+#: ../main-modules.php:848
+msgid "Slider Controls Color"
+msgstr "幻灯播放器控件颜色"
+
+#: ../main-modules.php:854
+msgid ""
+"This setting will make your slider controls either light or dark in color. "
+"Slider controls are either the arrows on the thumbnail track or the circles "
+"in dot navigation."
+msgstr ""
+"此设置将使幻灯播放器控件变成浅色或深色。幻灯播放器控件是缩微轨道上的箭头或者"
+"点导航中的圆圈。"
+
+#: ../main-modules.php:878
+msgid "Thumbnail Overlay Color"
+msgstr "缩略图覆盖颜色"
+
+#: ../main-modules.php:963
+msgid "New Video"
+msgstr "添加视频"
+
+#: ../main-modules.php:964
+msgid "Video Settings"
+msgstr "视频设置"
+
+#: ../main-modules.php:984
+msgid ""
+"This will change the label of the video in the builder for easy "
+"identification."
+msgstr "这将更改视频在生成器中的标签以便识别。"
+
+#: ../main-modules.php:1018
+msgid "Slider Arrows Color"
+msgstr "幻灯播放器箭头颜色"
+
+#: ../main-modules.php:1024
+msgid ""
+"This setting will make your slider arrows either light or dark in color."
+msgstr "此设置将使幻灯播放器箭头变成浅色或深色。"
+
+#: ../main-modules.php:1114 ../main-modules.php:1136
+msgid "Text"
+msgstr "文本"
+
+#: ../main-modules.php:1157 ../main-modules.php:7494 ../main-modules.php:9600
+#: ../main-modules.php:10171
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with a "
+"light background, then your text should be dark."
+msgstr ""
+"可在此处选择文本值。如果要使用深色背景，则文本应设置为浅色。如果要使用浅色背"
+"景，则文本应为深色。"
+
+#: ../main-modules.php:1160 ../main-modules.php:1468 ../main-modules.php:2845
+#: ../main-modules.php:3767 ../main-modules.php:4253 ../main-modules.php:4653
+#: ../main-modules.php:9290 ../main-modules.php:10174
+#: ../main-modules.php:11516
+msgid "Text Orientation"
+msgstr "文本方向"
+
+#: ../main-modules.php:1163 ../main-modules.php:9606 ../main-modules.php:10177
+msgid "This controls the how your text is aligned within the module."
+msgstr "此控件控制文本在模块中的对齐方式。"
+
+#: ../main-modules.php:1168 ../main-modules.php:11027
+#: ../main-modules.php:11105
+msgid "Here you can create the content that will be used within the module."
+msgstr "可在此处创建将在模块中使用的内容。"
+
+#: ../main-modules.php:1186 ../main-modules.php:3793 ../main-modules.php:11045
+msgid "Max Width"
+msgstr "最大宽度"
+
+#: ../main-modules.php:1236
+msgid "Blurb"
+msgstr "图文标"
+
+#: ../main-modules.php:1286 ../main-modules.php:1948 ../main-modules.php:2320
+#: ../main-modules.php:3112 ../main-modules.php:3473 ../main-modules.php:3674
+#: ../main-modules.php:4123 ../main-modules.php:4573 ../main-modules.php:7065
+#: ../main-modules.php:7410 ../main-modules.php:7710 ../main-modules.php:8394
+#: ../main-modules.php:10356
+msgid "Header"
+msgstr "标题"
+
+#: ../main-modules.php:1292 ../main-modules.php:1680 ../main-modules.php:1841
+#: ../main-modules.php:1954 ../main-modules.php:2327 ../main-modules.php:2733
+#: ../main-modules.php:3130 ../main-modules.php:3491 ../main-modules.php:3680
+#: ../main-modules.php:4129 ../main-modules.php:4579 ../main-modules.php:6314
+#: ../main-modules.php:6572 ../main-modules.php:7071 ../main-modules.php:7416
+#: ../main-modules.php:7722 ../main-modules.php:10365
+msgid "Body"
+msgstr "正文"
+
+#: ../main-modules.php:1308
+msgid "Blurb Image"
+msgstr "短文本图像"
+
+#: ../main-modules.php:1312
+msgid "Blurb Title"
+msgstr "短文本标题"
+
+#: ../main-modules.php:1316
+msgid "Blurb Content"
+msgstr "短文本内容"
+
+#: ../main-modules.php:1339
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr "图文标的标题将以粗体出现在图文标图像的下方。"
+
+#: ../main-modules.php:1342
+msgid "Url"
+msgstr "URL"
+
+#: ../main-modules.php:1344
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr "如果要让图文标成为链接，请在此处输入目标 URL。"
+
+#: ../main-modules.php:1356
+msgid "Use Icon"
+msgstr "使用图标"
+
+#: ../main-modules.php:1369
+msgid "Here you can choose whether icon set below should be used."
+msgstr "可在此处选择是否应使用下面设置的图标。"
+
+#: ../main-modules.php:1372 ../main-modules.php:9634
+msgid "Icon"
+msgstr "图标"
+
+#: ../main-modules.php:1377
+msgid "Choose an icon to display with your blurb."
+msgstr "选择要随图文标显示的图标。"
+
+#: ../main-modules.php:1381 ../main-modules.php:6393 ../main-modules.php:6529
+#: ../main-modules.php:6657 ../main-modules.php:7537 ../main-modules.php:9035
+msgid "Icon Color"
+msgstr "图标颜色"
+
+#: ../main-modules.php:1383
+msgid "Here you can define a custom color for your icon."
+msgstr "可在此处定义图标的定制颜色。"
+
+#: ../main-modules.php:1387
+msgid "Circle Icon"
+msgstr "圆圈图标"
+
+#: ../main-modules.php:1397
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr "可在此处选择是否应在圆圈中显示上面设置的图标。"
+
+#: ../main-modules.php:1401 ../main-modules.php:6074
+msgid "Circle Color"
+msgstr "圆圈颜色"
+
+#: ../main-modules.php:1403
+msgid "Here you can define a custom color for the icon circle."
+msgstr "可在此处定义图标圆圈的定制颜色。"
+
+#: ../main-modules.php:1407
+msgid "Show Circle Border"
+msgstr "显示圆圈边界"
+
+#: ../main-modules.php:1416
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr "可在此处选择是否应显示圆圈边界。"
+
+#: ../main-modules.php:1420
+msgid "Circle Border Color"
+msgstr "圆圈边界颜色"
+
+#: ../main-modules.php:1422
+msgid "Here you can define a custom color for the icon circle border."
+msgstr "可在此处定义图标圆圈边界的定制颜色。"
+
+#: ../main-modules.php:1432
+msgid "Upload an image to display at the top of your blurb."
+msgstr "上载要在图文标顶部显示的图像。"
+
+#: ../main-modules.php:1435
+msgid "Image Alt Text"
+msgstr "图像替代文本"
+
+#: ../main-modules.php:1437
+msgid "Define the HTML ALT text for your image here."
+msgstr "在此处定义图像的图像替代文本。"
+
+#: ../main-modules.php:1441
+msgid "Image/Icon Placement"
+msgstr "图像/图标放置"
+
+#: ../main-modules.php:1444
+msgid "Here you can choose where to place the icon."
+msgstr "可在此处选择图标的放置位置。"
+
+#: ../main-modules.php:1447
+msgid "Image/Icon Animation"
+msgstr "图像/图标动画"
+
+#: ../main-modules.php:1471
+msgid "This will control how your blurb text is aligned."
+msgstr "此控件控制图文标文本的对齐方式。"
+
+#: ../main-modules.php:1476 ../main-modules.php:2853 ../main-modules.php:3775
+#: ../main-modules.php:4261 ../main-modules.php:4661 ../main-modules.php:6627
+#: ../main-modules.php:7519
+msgid "Input the main text content for your module here."
+msgstr "在此处输入模块的主要文本内容。"
+
+#: ../main-modules.php:1499
+msgid "Use Icon Font Size"
+msgstr "使用图标字体大小"
+
+#: ../main-modules.php:1511
+msgid "Icon Font Size"
+msgstr "图标字体大小"
+
+#: ../main-modules.php:1656
+msgid "Tabs"
+msgstr "选项卡"
+
+#: ../main-modules.php:1659 ../main-modules.php:1673 ../main-modules.php:1703
+#: ../main-modules.php:1817 ../main-modules.php:1833 ../main-modules.php:1885
+msgid "Tab"
+msgstr "标签页"
+
+#: ../main-modules.php:1699
+msgid "Tabs Controls"
+msgstr "选项卡控制"
+
+#: ../main-modules.php:1707
+msgid "Active Tab"
+msgstr "作用中选项卡"
+
+#: ../main-modules.php:1731
+msgid "Active Tab Background Color"
+msgstr "作用中选项卡背景颜色"
+
+#: ../main-modules.php:1737
+msgid "Inactive Tab Background Color"
+msgstr "非作用中选项卡背景颜色"
+
+#: ../main-modules.php:1827
+msgid "New Tab"
+msgstr "新选项卡"
+
+#: ../main-modules.php:1828
+msgid "Tab Settings"
+msgstr "选项卡设置"
+
+#: ../main-modules.php:1864 ../main-modules.php:8733
+msgid "The title will be used within the tab button for this tab."
+msgstr "标题将在此选项卡的选项卡按钮中使用。"
+
+#: ../main-modules.php:1907 ../main-modules.php:2276 ../main-modules.php:10315
+msgid "Slide"
+msgstr "幻灯片"
+
+#: ../main-modules.php:1963 ../main-modules.php:2337 ../main-modules.php:3155
+#: ../main-modules.php:3508 ../main-modules.php:3697 ../main-modules.php:4139
+#: ../main-modules.php:4589 ../main-modules.php:6786 ../main-modules.php:10374
+msgid "Button"
+msgstr ""
+
+#: ../main-modules.php:1969 ../main-modules.php:10380
+msgid "Slide Description"
+msgstr "幻灯片说明"
+
+#: ../main-modules.php:1973 ../main-modules.php:10384
+msgid "Slide Title"
+msgstr "幻灯片标题"
+
+#: ../main-modules.php:1977 ../main-modules.php:10388
+msgid "Slide Button"
+msgstr "幻灯片按钮"
+
+#: ../main-modules.php:1981 ../main-modules.php:10392
+msgid "Slide Controllers"
+msgstr "幻灯片控制器"
+
+#: ../main-modules.php:1985 ../main-modules.php:10396
+msgid "Slide Active Controller"
+msgstr "幻灯片作用中控制器"
+
+#: ../main-modules.php:2003 ../main-modules.php:10414
+msgid "Controls"
+msgstr "控件"
+
+#: ../main-modules.php:2006 ../main-modules.php:10417
+msgid "Show Slider Controls"
+msgstr "显示幻灯播放器控件"
+
+#: ../main-modules.php:2007 ../main-modules.php:10418
+msgid "Hide Slider Controls"
+msgstr "隐藏幻灯播放器控件"
+
+#: ../main-modules.php:2009
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr "此设置将在幻灯播放器底部启用和禁用圆圈按钮。"
+
+#: ../main-modules.php:2030 ../main-modules.php:9747 ../main-modules.php:10441
+msgid "Use Parallax effect"
+msgstr "使用视差效果"
+
+#: ../main-modules.php:2041
+msgid ""
+"Enabling this option will give your background images a fixed position as "
+"you scroll."
+msgstr "启用此选项后，在滚动时背景图像的位置将固定。"
+
+#: ../main-modules.php:2044 ../main-modules.php:9759 ../main-modules.php:10453
+msgid "Parallax method"
+msgstr "视差方法"
+
+#: ../main-modules.php:2047 ../main-modules.php:9283 ../main-modules.php:9762
+#: ../main-modules.php:10456 ../main-modules.php:11509
+#: ../main-structure-elements.php:184 ../main-structure-elements.php:876
+msgid "CSS"
+msgstr "CSS"
+
+#: ../main-modules.php:2048 ../main-modules.php:9284 ../main-modules.php:9763
+#: ../main-modules.php:10457 ../main-modules.php:11510
+#: ../main-structure-elements.php:185 ../main-structure-elements.php:877
+msgid "True Parallax"
+msgstr "真视差"
+
+#: ../main-modules.php:2051 ../main-modules.php:9766 ../main-modules.php:10460
+#: ../main-structure-elements.php:188
+msgid "Define the method, used for the parallax effect."
+msgstr "定义用于视差效果的方法。"
+
+#: ../main-modules.php:2054 ../main-modules.php:10463
+msgid "Remove Inner Shadow"
+msgstr "删除内部阴影"
+
+#: ../main-modules.php:2062 ../main-modules.php:2372 ../main-modules.php:10471
+msgid "Background Image Position"
+msgstr ""
+
+#: ../main-modules.php:2066 ../main-modules.php:2377 ../main-modules.php:10475
+msgid "Top Left"
+msgstr ""
+
+#: ../main-modules.php:2067 ../main-modules.php:2378 ../main-modules.php:10476
+msgid "Top Center"
+msgstr ""
+
+#: ../main-modules.php:2068 ../main-modules.php:2379 ../main-modules.php:10477
+msgid "Top Right"
+msgstr ""
+
+#: ../main-modules.php:2069 ../main-modules.php:2380 ../main-modules.php:10478
+msgid "Center Right"
+msgstr ""
+
+#: ../main-modules.php:2070 ../main-modules.php:2381 ../main-modules.php:10479
+msgid "Center Left"
+msgstr ""
+
+#: ../main-modules.php:2071 ../main-modules.php:2382 ../main-modules.php:10480
+msgid "Bottom Left"
+msgstr ""
+
+#: ../main-modules.php:2072 ../main-modules.php:2383 ../main-modules.php:10481
+msgid "Bottom Center"
+msgstr ""
+
+#: ../main-modules.php:2073 ../main-modules.php:2384 ../main-modules.php:10482
+msgid "Bottom Right"
+msgstr ""
+
+#: ../main-modules.php:2078 ../main-modules.php:2388 ../main-modules.php:10487
+msgid "Background Image Size"
+msgstr ""
+
+#: ../main-modules.php:2082 ../main-modules.php:2393 ../main-modules.php:10491
+msgid "Fit"
+msgstr ""
+
+#: ../main-modules.php:2083 ../main-modules.php:2394 ../main-modules.php:10492
+msgid "Actual Size"
+msgstr ""
+
+#: ../main-modules.php:2103 ../main-modules.php:10512
+msgid "Top Padding"
+msgstr "顶部填内边距"
+
+#: ../main-modules.php:2108 ../main-modules.php:10517
+msgid "Bottom Padding"
+msgstr "底部内边距"
+
+#: ../main-modules.php:2113 ../main-modules.php:10522
+msgid "Hide Content On Mobile"
+msgstr "在移动设备上隐藏内容"
+
+#: ../main-modules.php:2122 ../main-modules.php:10531
+msgid "Hide CTA On Mobile"
+msgstr "在移动设备上隐藏CTA"
+
+#: ../main-modules.php:2131 ../main-modules.php:10540
+msgid "Show Image / Video On Mobile"
+msgstr "在移动设备上显示图像/视频"
+
+#: ../main-modules.php:2314
+msgid "New Slide"
+msgstr "新幻灯片"
+
+#: ../main-modules.php:2315
+msgid "Slide Settings"
+msgstr "幻灯片设置"
+
+#: ../main-modules.php:2349
+msgid "Heading"
+msgstr "标题"
+
+#: ../main-modules.php:2351
+msgid "Define the title text for your slide."
+msgstr "定义幻灯片的标题文本。"
+
+#: ../main-modules.php:2354 ../main-modules.php:3559 ../main-modules.php:3735
+#: ../main-modules.php:4221
+msgid "Button Text"
+msgstr "按钮文本"
+
+#: ../main-modules.php:2356
+msgid "Define the text for the slide button"
+msgstr "定义幻灯片按钮的文本"
+
+#: ../main-modules.php:2359 ../main-modules.php:3554 ../main-modules.php:3721
+msgid "Button URL"
+msgstr "按钮 URL"
+
+#: ../main-modules.php:2361
+msgid "Input a destination URL for the slide button."
+msgstr "输入幻灯片按钮的目标 URL。"
+
+#: ../main-modules.php:2369 ../main-structure-elements.php:102
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"如果定义，则此图像将用作该模块的背景。要删除背景图像，只需从设置字段中删除 "
+"URL。"
+
+#: ../main-modules.php:2392
+msgid "Cover"
+msgstr ""
+
+#: ../main-modules.php:2400 ../main-modules.php:10162
+msgid "Use the color picker to choose a background color for this module."
+msgstr "使用颜色选取器选择此模块的背景颜色。"
+
+#: ../main-modules.php:2403
+msgid "Slide Image"
+msgstr "幻灯片图像"
+
+#: ../main-modules.php:2406
+msgid "Choose a Slide Image"
+msgstr "选择幻灯片图像"
+
+#: ../main-modules.php:2407
+msgid "Set As Slide Image"
+msgstr "设置为幻灯片图像"
+
+#: ../main-modules.php:2408
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+"如果定义，则此幻灯片图像将出现在幻灯片文本的左侧。上载一个图像，或者留空（适"
+"用于纯文本幻灯片）。"
+
+#: ../main-modules.php:2411
+msgid "Slide Image Vertical Alignment"
+msgstr "幻灯片图像垂直对齐"
+
+#: ../main-modules.php:2417
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+"此设置确定幻灯片图像的垂直对齐。图像可以垂直居中，也可以对齐到幻灯片底部。"
+
+#: ../main-modules.php:2420
+msgid "Slide Video"
+msgstr "幻灯片视频"
+
+#: ../main-modules.php:2422
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+"如果定义，则此视频将出现在幻灯片文本的左侧。输入 Youtube 或 Vimeo 页面 URL，"
+"或者留空（适用于纯文本幻灯片）。"
+
+#: ../main-modules.php:2427
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr "如果定义了幻灯片图像，请在此处输入图像的图像替代文本。"
+
+#: ../main-modules.php:2436
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+"可在此处选择文本是浅色还是深色。如果幻灯片的背景是深色的，则选择浅色文本。如"
+"果是浅色背景，则使用深色文本。"
+
+#: ../main-modules.php:2439 ../main-structure-elements.php:123
+#: ../main-structure-elements.php:824
+msgid "Background Video MP4"
+msgstr "背景视频 .MP4"
+
+#: ../main-modules.php:2443 ../main-structure-elements.php:127
+#: ../main-structure-elements.php:828
+msgid "Choose a Background Video MP4 File"
+msgstr "选择背景视频 .MP4 文件"
+
+#: ../main-modules.php:2444 ../main-modules.php:2453
+#: ../main-structure-elements.php:128 ../main-structure-elements.php:137
+#: ../main-structure-elements.php:829 ../main-structure-elements.php:838
+msgid "Set As Background Video"
+msgstr "设置为背景视频"
+
+#: ../main-modules.php:2445 ../main-structure-elements.php:129
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"所有视频都应以 .MP4 和 .WEBM 格式上载，以确保在所有浏览器中的最大兼容性。在此"
+"处上载 .MP4 版本。重要说明：移动设备禁用视频背景。将代之以使用背景图像。为"
+"此，应同时定义背景图像和背景视频以确保最佳结果。"
+
+#: ../main-modules.php:2448 ../main-structure-elements.php:132
+#: ../main-structure-elements.php:833
+msgid "Background Video Webm"
+msgstr "背景视频 .WEBM"
+
+#: ../main-modules.php:2452 ../main-structure-elements.php:136
+#: ../main-structure-elements.php:837
+msgid "Choose a Background Video WEBM File"
+msgstr "选择背景视频 .WEBM 文件"
+
+#: ../main-modules.php:2454 ../main-structure-elements.php:138
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"所有视频都应以 .MP4 和 .WEBM 格式上载，以确保在所有浏览器中的最大兼容性。在此"
+"处上载 .WEBM 版本。重要说明：移动设备禁用视频背景。将代之以使用背景图像。为"
+"此，应同时定义背景图像和背景视频以确保最佳结果。"
+
+#: ../main-modules.php:2457 ../main-structure-elements.php:141
+#: ../main-structure-elements.php:842
+msgid "Background Video Width"
+msgstr "背景视频宽度"
+
+#: ../main-modules.php:2459 ../main-structure-elements.php:143
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"为了正确设置视频大小，必须在此处输入您的视频的准确宽度（以像素为单位）。"
+
+#: ../main-modules.php:2462 ../main-structure-elements.php:146
+#: ../main-structure-elements.php:847
+msgid "Background Video Height"
+msgstr "背景视频高度"
+
+#: ../main-modules.php:2464 ../main-structure-elements.php:148
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"为了正确设置视频大小，必须在此处输入您的视频的准确高度（以像素为单位）。"
+
+#: ../main-modules.php:2467 ../main-structure-elements.php:151
+#: ../main-structure-elements.php:852
+msgid "Pause Video"
+msgstr "暂停视频"
+
+#: ../main-modules.php:2473 ../main-structure-elements.php:157
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr "允许其他播放器在开始播放时暂停视频"
+
+#: ../main-modules.php:2478
+msgid "Input your main slide text content here."
+msgstr "在此处输入主幻灯片文本内容。"
+
+#: ../main-modules.php:2481
+msgid "Arrows Custom Color"
+msgstr "箭头自定义颜色"
+
+#: ../main-modules.php:2487
+msgid "Dot Nav Custom Color"
+msgstr "点导航自定义颜色"
+
+#: ../main-modules.php:2694
+msgid "Testimonial"
+msgstr "证言"
+
+#: ../main-modules.php:2751
+msgid "Testimonial Portrait"
+msgstr "感言肖像"
+
+#: ../main-modules.php:2755
+msgid "Testimonial Description"
+msgstr "感言说明"
+
+#: ../main-modules.php:2759
+msgid "Testimonial Author"
+msgstr "感言作者"
+
+#: ../main-modules.php:2763
+msgid "Testimonial Meta"
+msgstr "感言元数据"
+
+#: ../main-modules.php:2772
+msgid "Author Name"
+msgstr "作者姓名"
+
+#: ../main-modules.php:2774
+msgid "Input the name of the testimonial author."
+msgstr "输入证言作者的姓名。"
+
+#: ../main-modules.php:2777
+msgid "Job Title"
+msgstr "职务"
+
+#: ../main-modules.php:2779
+msgid "Input the job title."
+msgstr "输入职务。"
+
+#: ../main-modules.php:2782
+msgid "Company Name"
+msgstr "公司名称"
+
+#: ../main-modules.php:2784
+msgid "Input the name of the company."
+msgstr "输入公司的名称。"
+
+#: ../main-modules.php:2787
+msgid "Author/Company URL"
+msgstr "作者/公司 URL"
+
+#: ../main-modules.php:2789
+msgid "Input the website of the author or leave blank for no link."
+msgstr "输入作者的网站，或者留空（表示无链接）。"
+
+#: ../main-modules.php:2792
+msgid "URLs Open"
+msgstr "URLs 打开"
+
+#: ../main-modules.php:2798
+msgid "Choose whether or not the URL should open in a new window."
+msgstr "选择是否应在新窗口中打开 URL。"
+
+#: ../main-modules.php:2801
+msgid "Portrait Image URL"
+msgstr "肖像图像 URL"
+
+#: ../main-modules.php:2809
+msgid "Quote Icon"
+msgstr "引言图标"
+
+#: ../main-modules.php:2812
+msgid "Visible"
+msgstr "可见"
+
+#: ../main-modules.php:2813
+msgid "Hidden"
+msgstr "隐藏"
+
+#: ../main-modules.php:2815
+msgid "Choose whether or not the quote icon should be visible."
+msgstr "选择引言图标是否应该可见。"
+
+#: ../main-modules.php:2818 ../main-modules.php:3740 ../main-modules.php:4226
+#: ../main-modules.php:4626 ../main-modules.php:8457
+msgid "Use Background Color"
+msgstr "使用背景颜色"
+
+#: ../main-modules.php:2827 ../main-modules.php:3749 ../main-modules.php:4235
+#: ../main-modules.php:4635 ../main-modules.php:8466
+msgid ""
+"Here you can choose whether background color setting below should be used or "
+"not."
+msgstr "可在此处选择是否应使用下面的背景颜色设置。"
+
+#: ../main-modules.php:2832 ../main-modules.php:3755
+msgid "Here you can define a custom background color for your CTA."
+msgstr "可在此处定义行动号召的定制背景颜色。"
+
+#: ../main-modules.php:2848 ../main-modules.php:3770
+msgid "This will adjust the alignment of the module text."
+msgstr "这将调整模块文本的对齐。"
+
+#: ../main-modules.php:2871
+msgid "Quote Icon Color"
+msgstr "引用图标行高"
+
+#: ../main-modules.php:2877
+msgid "Portrait Border Radius"
+msgstr "肖像边框半径"
+
+#: ../main-modules.php:2882
+msgid "Portrait Width"
+msgstr "肖像宽度"
+
+#: ../main-modules.php:2887
+msgid "Portrait Height"
+msgstr "肖像高度"
+
+#: ../main-modules.php:3047
+msgid "Pricing Tables"
+msgstr "价格表"
+
+#: ../main-modules.php:3051 ../main-modules.php:3445
+msgid "Pricing Table"
+msgstr "价格表"
+
+#: ../main-modules.php:3081
+msgid "Pricing Heading"
+msgstr "价格副标题"
+
+#: ../main-modules.php:3085
+msgid "Pricing Title"
+msgstr "价格标题"
+
+#: ../main-modules.php:3089
+msgid "Pricing Top"
+msgstr "价格顶部"
+
+#: ../main-modules.php:3093 ../main-modules.php:3124 ../main-modules.php:3485
+#: ../main-modules.php:3549 ../main-modules.php:8156 ../main-modules.php:8189
+msgid "Price"
+msgstr "价格"
+
+#: ../main-modules.php:3097
+msgid "Pricing Content"
+msgstr "价格内容"
+
+#: ../main-modules.php:3101
+msgid "Pricing Button"
+msgstr "价格按钮"
+
+#: ../main-modules.php:3105
+msgid "Featured Table"
+msgstr "推荐表"
+
+#: ../main-modules.php:3118 ../main-modules.php:3479
+msgid "Subheader"
+msgstr "副标题"
+
+#: ../main-modules.php:3179
+msgid "Featured Table Background Color"
+msgstr "推荐表背景颜色"
+
+#: ../main-modules.php:3186
+msgid "Table Header Background Color"
+msgstr "表标题背景颜色"
+
+#: ../main-modules.php:3192
+msgid "Featured Table Header Background Color"
+msgstr "推荐表标题背景颜色"
+
+#: ../main-modules.php:3199
+msgid "Featured Table Header Text Color"
+msgstr "推荐表标题文字颜色"
+
+#: ../main-modules.php:3206
+msgid "Featured Table Subheader Text Color"
+msgstr "推荐表副标题文字颜色"
+
+#: ../main-modules.php:3213
+msgid "Featured Table Price Color"
+msgstr "推荐表价格颜色"
+
+#: ../main-modules.php:3220
+msgid "Featured Table Body Text Color"
+msgstr "推荐表正文文本颜色"
+
+#: ../main-modules.php:3227
+msgid "Show Bullet"
+msgstr "显示点"
+
+#: ../main-modules.php:3239
+msgid "Bullet Color"
+msgstr "点颜色"
+
+#: ../main-modules.php:3246
+msgid "Featured Table Bullet Color"
+msgstr "推荐表点颜色"
+
+#: ../main-modules.php:3253
+msgid "Remove Featured Table Drop Shadow"
+msgstr "删除表精选阴影"
+
+#: ../main-modules.php:3263
+msgid "Center List Items"
+msgstr "居中列表项"
+
+#: ../main-modules.php:3467
+msgid "New Pricing Table"
+msgstr "新价格表"
+
+#: ../main-modules.php:3468
+msgid "Pricing Table Settings"
+msgstr "价格表设置"
+
+#: ../main-modules.php:3520
+msgid "Make This Table Featured"
+msgstr "使此表成为特色"
+
+#: ../main-modules.php:3526
+msgid "Featuring a table will make it stand out from the rest."
+msgstr "使表成为特色将使其突出于其他表。"
+
+#: ../main-modules.php:3531
+msgid "Define a title for the pricing table."
+msgstr "定义价格表的标题。"
+
+#: ../main-modules.php:3534
+msgid "Subtitle"
+msgstr "副标题"
+
+#: ../main-modules.php:3536
+msgid "Define a sub title for the table if desired."
+msgstr "按需要定义表的副标题。"
+
+#: ../main-modules.php:3539
+msgid "Currency"
+msgstr "货币"
+
+#: ../main-modules.php:3541
+msgid "Input your desired currency symbol here."
+msgstr "在此处输入所需的货币符号。"
+
+#: ../main-modules.php:3544
+msgid "Per"
+msgstr "每"
+
+#: ../main-modules.php:3546
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here."
+msgstr "如果是根据订阅确定价格，请在此处输入订阅付款周期。"
+
+#: ../main-modules.php:3551
+msgid "Input the value of the product here."
+msgstr "在此处输入产品的价值。"
+
+#: ../main-modules.php:3556
+msgid "Input the destination URL for the signup button."
+msgstr "输入注册按钮的目标 URL。"
+
+#: ../main-modules.php:3561
+msgid "Adjust the text used from the signup button."
+msgstr "调整注册按钮中使用的文本。"
+
+#: ../main-modules.php:3568
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: "
+msgstr ""
+"输入在产品中包括（或不包括）的功能列表。在新行上分隔项目，以 + 或 - 符号开头"
+
+#: ../main-modules.php:3569
+msgid "Included option"
+msgstr "包括的选项"
+
+#: ../main-modules.php:3570
+msgid "Excluded option"
+msgstr "排除的选项"
+
+#: ../main-modules.php:3643
+msgid "Call To Action"
+msgstr "行动号召"
+
+#: ../main-modules.php:3703
+msgid "Promo Description"
+msgstr "说明"
+
+#: ../main-modules.php:3707
+msgid "Promo Button"
+msgstr "按钮"
+
+#: ../main-modules.php:3718
+msgid "Input your value to action title here."
+msgstr "在此处输入行动标题值。"
+
+#: ../main-modules.php:3723
+msgid "Input the destination URL for your CTA button."
+msgstr "输入行动号召按钮的目标 URL。"
+
+#: ../main-modules.php:3737
+msgid "Input your desired button text, or leave blank for no button."
+msgstr "输入所需的按钮文本，或者留空（表示无按钮）。"
+
+#: ../main-modules.php:3876 ../main-modules.php:3941
+msgid "Audio"
+msgstr "音频"
+
+#: ../main-modules.php:3924
+msgid "Audio Cover Art"
+msgstr "音频图像"
+
+#: ../main-modules.php:3928
+msgid "Audio Content"
+msgstr "音频内容"
+
+#: ../main-modules.php:3932
+msgid "Audio Meta"
+msgstr "音频元数据"
+
+#: ../main-modules.php:3944
+msgid "Upload an audio file"
+msgstr "上载音频文件"
+
+#: ../main-modules.php:3945
+msgid "Choose an Audio file"
+msgstr "选择音频文件"
+
+#: ../main-modules.php:3946
+msgid "Set As Audio for the module"
+msgstr "设置为模块的音频"
+
+#: ../main-modules.php:3947
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+"定义在模块中使用的音频文件。要从模块中移除音频文件，只需从设置字段中删除 "
+"URL。"
+
+#: ../main-modules.php:3952
+msgid "Define a title."
+msgstr "定义标题。"
+
+#: ../main-modules.php:3955
+msgid "Artist Name"
+msgstr "艺人姓名"
+
+#: ../main-modules.php:3957
+msgid "Define an artist name."
+msgstr "定义艺人姓名。"
+
+#: ../main-modules.php:3960
+msgid "Album name"
+msgstr "专辑名称"
+
+#: ../main-modules.php:3962
+msgid "Define an album name."
+msgstr "定义专辑名称。"
+
+#: ../main-modules.php:3965
+msgid "Cover Art Image URL"
+msgstr "封面艺术图像 URL"
+
+#: ../main-modules.php:3975 ../main-modules.php:4240 ../main-modules.php:4640
+#: ../main-structure-elements.php:120
+msgid ""
+"Define a custom background color for your module, or leave blank to use the "
+"default color."
+msgstr "为您的模块定义定制背景颜色，或者留空以使用默认颜色。"
+
+#: ../main-modules.php:4032
+#, php-format
+msgid "by <strong>%1$s</strong>"
+msgstr "由 <strong>%1$s</strong>"
+
+#: ../main-modules.php:4083
+msgid "Signup"
+msgstr "注册"
+
+#: ../main-modules.php:4111
+msgid "Subscribe"
+msgstr "订阅"
+
+#: ../main-modules.php:4145 ../main-modules.php:4595
+msgid "Newsletter Description"
+msgstr "通讯说明"
+
+#: ../main-modules.php:4149 ../main-modules.php:4599
+msgid "Newsletter Form"
+msgstr "通讯形式"
+
+#: ../main-modules.php:4153 ../main-modules.php:4603
+msgid "Newsletter Button"
+msgstr "通讯按钮"
+
+#: ../main-modules.php:4160
+msgid "Select the list"
+msgstr "选择列表"
+
+#: ../main-modules.php:4181
+msgid "Service Provider"
+msgstr "服务提供商"
+
+#: ../main-modules.php:4184
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: ../main-modules.php:4185
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: ../main-modules.php:4186
+msgid "Aweber"
+msgstr "Aweber"
+
+#: ../main-modules.php:4193
+msgid "Here you can choose a service provider."
+msgstr "可在此处选择服务提供商。"
+
+#: ../main-modules.php:4196
+msgid "Feed Title"
+msgstr "消息源标题"
+
+#: ../main-modules.php:4202
+msgid "MailChimp lists"
+msgstr "MailChimp 列表"
+
+#: ../main-modules.php:4205
+msgid ""
+"Here you can choose MailChimp list to add customers to. If you don't see any "
+"lists here, you need to make sure MailChimp API key is set in ePanel and you "
+"have at least one list on a MailChimp account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate MailChimp Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"可在此处要将客户添加到的 MailChimp 列表。如果在此处看不到任何列表，则需要确保"
+"在 ePanel 中设置了 MailChimp API 密钥，并且您在 MailChimp 帐户上至少有一个列"
+"表。如果添加了新列表，但该列表未在此处出现，请在 ePanel 中激活“重新生成 "
+"MailChimp 列表”选项。在重新生成列表后，不要忘记将其禁用。"
+
+#: ../main-modules.php:4209
+msgid "Aweber lists"
+msgstr "Aweber 列表"
+
+#: ../main-modules.php:4212
+msgid ""
+"Here you can choose Aweber list to add customers to. If you don't see any "
+"lists here, you need to make sure Aweber is set up properly in ePanel and "
+"you have at least one list on a Aweber account. If you added new list, but "
+"it doesn't appear here, activate 'Regenerate Aweber Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"可在此处要将客户添加到的 Aweber 列表。如果在此处看不到任何列表，则需要确保在 "
+"ePanel 中正确设置了 Aweber，并且您在 Aweber 帐户上至少有一个列表。如果添加了"
+"新列表，但该列表未在此处出现，请在 ePanel 中激活“重新生成 Aweber 列表”选项。"
+"在重新生成列表后，不要忘记将其禁用。"
+
+#: ../main-modules.php:4218
+msgid "Choose a title of your signup box."
+msgstr "选择注册框的标题。"
+
+#: ../main-modules.php:4223
+msgid "Here you can change the text used for the signup button."
+msgstr "可在此处更改用于注册按钮的文本。"
+
+#: ../main-modules.php:4256 ../main-modules.php:4656
+msgid "Here you can adjust the alignment of your text."
+msgstr "可在此处调整文本的对齐。"
+
+#: ../main-modules.php:4279 ../main-modules.php:4679
+msgid "Form Field Background Color"
+msgstr "表单域背景颜色"
+
+#: ../main-modules.php:4285 ../main-modules.php:4685
+msgid "Form Field Text Color"
+msgstr "表单域文本颜色"
+
+#: ../main-modules.php:4291 ../main-modules.php:4691
+msgid "Focus Background Color"
+msgstr "焦点背景颜色"
+
+#: ../main-modules.php:4297 ../main-modules.php:4697
+msgid "Focus Text Color"
+msgstr "焦点文本颜色"
+
+#: ../main-modules.php:4303 ../main-modules.php:4703
+msgid "Use Focus Border Color"
+msgstr "使用焦点边框颜色"
+
+#: ../main-modules.php:4315 ../main-modules.php:4715
+msgid "Focus Border Color"
+msgstr "焦点边框颜色"
+
+#: ../main-modules.php:4407
+msgid "First Name"
+msgstr "名"
+
+#: ../main-modules.php:4408
+msgid "Last Name"
+msgstr "姓"
+
+#: ../main-modules.php:4409 ../main-modules.php:6954
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: ../main-modules.php:4476 ../main-modules.php:6953 ../main-modules.php:7457
+msgid "Name"
+msgstr "姓名"
+
+#: ../main-modules.php:4538 ../main-modules.php:4847
+msgid "Login"
+msgstr "登录"
+
+#: ../main-modules.php:4614
+msgid "Choose a title of your login box."
+msgstr "选择登录框的标题。"
+
+#: ../main-modules.php:4617
+msgid "Redirect To The Current Page"
+msgstr "重定向到当前页面"
+
+#: ../main-modules.php:4623
+msgid ""
+"Here you can choose whether the user should be redirected to the current "
+"page."
+msgstr "可在此处选择是否应将用户重定向到当前页面。"
+
+#: ../main-modules.php:4808
+#, php-format
+msgid "Logged in as %1$s"
+msgstr "登录身份 %1$s"
+
+#: ../main-modules.php:4810
+msgid "Log out"
+msgstr "退出"
+
+#: ../main-modules.php:4819
+msgid "Username"
+msgstr "用户名"
+
+#: ../main-modules.php:4820
+msgid "Password"
+msgstr "密码"
+
+#: ../main-modules.php:4840
+msgid "Forgot your password?"
+msgstr "忘记密码？"
+
+#: ../main-modules.php:4887
+msgid "Portfolio"
+msgstr "选辑"
+
+#: ../main-modules.php:4940 ../main-modules.php:5298
+msgid "Portfolio Image"
+msgstr "图像组合"
+
+#: ../main-modules.php:4952 ../main-modules.php:5310 ../main-modules.php:10707
+msgid "Portfolio Title"
+msgstr "选辑标题"
+
+#: ../main-modules.php:4956 ../main-modules.php:5314
+msgid "Portfolio Post Meta"
+msgstr "组合帖子元数据"
+
+#: ../main-modules.php:4968 ../main-modules.php:5326 ../main-modules.php:7752
+msgid "Fullwidth"
+msgstr "全宽"
+
+#: ../main-modules.php:4971 ../main-modules.php:5329 ../main-modules.php:10718
+msgid "Choose your desired portfolio layout style."
+msgstr "选择所需的选辑布局样式。"
+
+#: ../main-modules.php:4974 ../main-modules.php:5332 ../main-modules.php:7762
+#: ../main-modules.php:8210 ../main-modules.php:10726
+msgid "Posts Number"
+msgstr "博文数量"
+
+#: ../main-modules.php:4976 ../main-modules.php:5334
+msgid "Define the number of projects that should be displayed per page."
+msgstr "定义每页应显示的项目数量。"
+
+#: ../main-modules.php:4979 ../main-modules.php:5337 ../main-modules.php:7767
+#: ../main-modules.php:10721
+msgid "Include Categories"
+msgstr "包括类别"
+
+#: ../main-modules.php:4981 ../main-modules.php:5339 ../main-modules.php:10723
+msgid "Select the categories that you would like to include in the feed."
+msgstr "选择要在消息源中包括的类别。"
+
+#: ../main-modules.php:4984 ../main-modules.php:5342 ../main-modules.php:9166
+#: ../main-modules.php:10731 ../main-modules.php:11392
+msgid "Show Title"
+msgstr "显示标题"
+
+#: ../main-modules.php:4990 ../main-modules.php:5348 ../main-modules.php:10737
+msgid "Turn project titles on or off."
+msgstr "启用或禁用项目标题。"
+
+#: ../main-modules.php:4993 ../main-modules.php:5351 ../main-modules.php:7829
+msgid "Show Categories"
+msgstr "显示类别"
+
+#: ../main-modules.php:4999 ../main-modules.php:5357 ../main-modules.php:7835
+msgid "Turn the category links on or off."
+msgstr "启用或禁用类别。"
+
+#: ../main-modules.php:5231
+msgid "Filterable Portfolio"
+msgstr "可筛选选辑"
+
+#: ../main-modules.php:5275
+msgid "Filter"
+msgstr "过滤器"
+
+#: ../main-modules.php:5290
+msgid "Portfolio Filters"
+msgstr "组合过滤器"
+
+#: ../main-modules.php:5294
+msgid "Active Portfolio Filter"
+msgstr "作用中组合过滤器"
+
+#: ../main-modules.php:5568
+msgid "All"
+msgstr "全部"
+
+#: ../main-modules.php:5608
+msgid "Bar Counters"
+msgstr "条形计数器"
+
+#: ../main-modules.php:5611 ../main-modules.php:5786
+msgid "Bar Counter"
+msgstr "栏计数器"
+
+#: ../main-modules.php:5646 ../main-modules.php:5819 ../main-modules.php:6012
+#: ../main-modules.php:6190
+msgid "Percent"
+msgstr "百分比"
+
+#: ../main-modules.php:5663
+msgid "Counter Title"
+msgstr "计数器标题"
+
+#: ../main-modules.php:5667
+msgid "Counter Container"
+msgstr "计数器柜"
+
+#: ../main-modules.php:5671
+msgid "Counter Amount"
+msgstr "计数器编号"
+
+#: ../main-modules.php:5691
+msgid ""
+"This will adjust the color of the empty space in the bar (currently gray)."
+msgstr "这将调整条形中空白空间的颜色（当前为灰色）。"
+
+#: ../main-modules.php:5694 ../main-modules.php:5830 ../main-modules.php:6054
+msgid "Bar Background Color"
+msgstr "条形背景颜色"
+
+#: ../main-modules.php:5696 ../main-modules.php:6056 ../main-modules.php:6224
+msgid "This will change the fill color for the bar."
+msgstr "这将更改条形的填充颜色。"
+
+#: ../main-modules.php:5699
+msgid "Use Percentages"
+msgstr "使用百分比"
+
+#: ../main-modules.php:5722
+msgid "Bar Top Padding"
+msgstr "栏顶部内边距"
+
+#: ../main-modules.php:5727
+msgid "Bar Bottom Padding"
+msgstr "栏底部填内边距"
+
+#: ../main-modules.php:5732
+msgid "Border Radius"
+msgstr "边框半径"
+
+#: ../main-modules.php:5804
+msgid "New Bar Counter"
+msgstr "新条形计数器"
+
+#: ../main-modules.php:5805
+msgid "Bar Counter Settings"
+msgstr "条形计数器设置"
+
+#: ../main-modules.php:5816
+msgid "Input a title for your bar."
+msgstr "输入条形的标题。"
+
+#: ../main-modules.php:5821
+msgid "Define a percentage for this bar."
+msgstr "定义此条形的百分比。"
+
+#: ../main-modules.php:5836
+msgid "Label Color"
+msgstr "标签颜色"
+
+#: ../main-modules.php:5842
+msgid "Percentage Color"
+msgstr "百分比颜色"
+
+#: ../main-modules.php:5969
+msgid "Circle Counter"
+msgstr "圆形计数器"
+
+#: ../main-modules.php:6002 ../main-modules.php:6030 ../main-modules.php:6172
+#: ../main-modules.php:6208
+msgid "Number"
+msgstr "数值"
+
+#: ../main-modules.php:6016
+msgid "Circle Counter Title"
+msgstr "圈计数器标题"
+
+#: ../main-modules.php:6027
+msgid "Input a title for the circle counter."
+msgstr "输入圆形计数器的标题。"
+
+#: ../main-modules.php:6033
+msgid ""
+"Define a number for the circle counter. (Don't include the percentage sign, "
+"use the option below.). <strong>Note: You can use only natural numbers from "
+"0 to 100</strong>"
+msgstr ""
+"定义圆形计数器的数值。（不包括百分比符号，请使用下面的选项。）注：只能使用从 "
+"0 到 100 的自然数"
+
+#: ../main-modules.php:6036 ../main-modules.php:6213
+msgid "Percent Sign"
+msgstr "百分比符号"
+
+#: ../main-modules.php:6042 ../main-modules.php:6219
+msgid ""
+"Here you can choose whether the percent sign should be added after the "
+"number set above."
+msgstr "可在此处选择是否应在上面设置的数值后添加百分比符号。"
+
+#: ../main-modules.php:6080
+msgid "Circle Color Opacity"
+msgstr "圈颜色不透明度"
+
+#: ../main-modules.php:6141
+msgid "Number Counter"
+msgstr "数值计数器"
+
+#: ../main-modules.php:6194
+msgid "Number Counter Title"
+msgstr "计数器标题"
+
+#: ../main-modules.php:6205
+msgid "Input a title for the counter."
+msgstr "输入计数器的标题。"
+
+#: ../main-modules.php:6210
+msgid ""
+"Define a number for the counter. (Don't include the percentage sign, use the "
+"option below.)"
+msgstr "定义计数器的数值。（不包括百分比符号，请使用下面的选项。）"
+
+#: ../main-modules.php:6222
+msgid "Counter Text Color"
+msgstr "计数器文本颜色"
+
+#: ../main-modules.php:6233
+msgid ""
+"Here you can choose whether your title text should be light or dark. If you "
+"are working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"可在此处选择标题文本应为浅色还是深色。如果要使用深色背景，则文本应为浅色。如"
+"果背景是浅色，则文本应设置为深色。"
+
+#: ../main-modules.php:6291 ../main-modules.php:6466
+msgid "Accordion"
+msgstr "可折叠面板"
+
+#: ../main-modules.php:6308 ../main-modules.php:6341 ../main-modules.php:6542
+msgid "Toggle"
+msgstr "切换"
+
+#: ../main-modules.php:6345 ../main-modules.php:6590
+msgid "Open Toggle"
+msgstr "打开切换"
+
+#: ../main-modules.php:6349 ../main-modules.php:6594
+msgid "Toggle Title"
+msgstr "切换标题"
+
+#: ../main-modules.php:6353 ../main-modules.php:6598
+msgid "Toggle Icon"
+msgstr "切换图标"
+
+#: ../main-modules.php:6357 ../main-modules.php:6602
+msgid "Toggle Content"
+msgstr "切换内容"
+
+#: ../main-modules.php:6381 ../main-modules.php:6505 ../main-modules.php:6645
+msgid "Open Toggle Background Color"
+msgstr "打开切换背景颜色"
+
+#: ../main-modules.php:6387 ../main-modules.php:6517 ../main-modules.php:6651
+msgid "Closed Toggle Background Color"
+msgstr "关闭切换背景颜色"
+
+#: ../main-modules.php:6497 ../main-modules.php:6613
+msgid ""
+"The toggle title will appear above the content and when the toggle is closed."
+msgstr "切换标题将出现在内容上方，并在关闭切换时显示。"
+
+#: ../main-modules.php:6511
+msgid "Open Toggle Text Color"
+msgstr "打开切换文字颜色"
+
+#: ../main-modules.php:6523
+msgid "Closed Toggle Text Color"
+msgstr "关闭切换文字颜色"
+
+#: ../main-modules.php:6616
+msgid "State"
+msgstr "状态"
+
+#: ../main-modules.php:6619
+msgid "Close"
+msgstr "关闭"
+
+#: ../main-modules.php:6620
+msgid "Open"
+msgstr "打开"
+
+#: ../main-modules.php:6622
+msgid ""
+"Choose whether or not this toggle should start in an open or closed state."
+msgstr "选择此切换在开始时应处于打开状态还是关闭状态。"
+
+#: ../main-modules.php:6742
+msgid "Contact Form"
+msgstr "联系人表单"
+
+#: ../main-modules.php:6770
+msgid "Form Field"
+msgstr "表单域"
+
+#: ../main-modules.php:6792
+msgid "Contact Title"
+msgstr "联系标题"
+
+#: ../main-modules.php:6796
+msgid "Contact Button"
+msgstr "联系按钮"
+
+#: ../main-modules.php:6805
+msgid "Display Captcha"
+msgstr "显示 Captcha"
+
+#: ../main-modules.php:6811
+msgid "Turn the captcha on or off using this option."
+msgstr "使用此选项启用或禁用 Captcha。"
+
+#: ../main-modules.php:6814
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../main-modules.php:6816
+msgid "Input the email address where messages should be sent."
+msgstr "输入应发送邮件的电子邮件地址。"
+
+#: ../main-modules.php:6821
+msgid "Define a title for your contact form."
+msgstr "定义联系人表单的标题。"
+
+#: ../main-modules.php:6839
+msgid "Form Background Color"
+msgstr "表格背景颜色"
+
+#: ../main-modules.php:6845
+msgid "Input Border Radius"
+msgstr "输入边框半径"
+
+#: ../main-modules.php:6894
+msgid "Make sure you entered the captcha."
+msgstr "请确保您已输入验证码。"
+
+#: ../main-modules.php:6897
+msgid "You entered the wrong number in captcha."
+msgstr "您输入的验证码错误。"
+
+#: ../main-modules.php:6904
+msgid "Make sure you fill all fields."
+msgstr "请确保您填写了所有字段。"
+
+#: ../main-modules.php:6909
+msgid "Invalid Email."
+msgstr "无效的电子邮件。"
+
+#: ../main-modules.php:6943
+#, php-format
+msgid "New Message From %1$s%2$s"
+msgstr "新信息，来自 %1$s%2$s"
+
+#: ../main-modules.php:6945
+#, php-format
+msgid " - %s"
+msgstr " - %s"
+
+#: ../main-modules.php:6948
+msgid "Thanks for contacting us"
+msgstr "感谢您与我们联系"
+
+#: ../main-modules.php:6955
+msgid "Message"
+msgstr "信息"
+
+#: ../main-modules.php:7008
+msgid "Submit"
+msgstr "提交"
+
+#: ../main-modules.php:7042
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: ../main-modules.php:7080
+msgid "Widget"
+msgstr "小工具"
+
+#: ../main-modules.php:7093
+msgid "Orientation"
+msgstr "方向"
+
+#: ../main-modules.php:7099
+msgid ""
+"Choose which side of the page your sidebar will be on. This setting controls "
+"text orientation and border position."
+msgstr "选择侧边栏所在的页面各边。此设置控制文本方向和边界位置。"
+
+#: ../main-modules.php:7102
+msgid "Widget Area"
+msgstr "小部件区域"
+
+#: ../main-modules.php:7104
+msgid ""
+"Select a widget-area that you would like to display. You can create new "
+"widget areas within the Appearances > Widgets tab."
+msgstr ""
+"选择要显示的小部件区域。可以在“外观”>“小部件”选项卡中创建新的小部件区域。"
+
+#: ../main-modules.php:7131
+msgid "Remove Border Separator"
+msgstr "删除边框分隔条"
+
+#: ../main-modules.php:7188
+msgid "Divider"
+msgstr "分隔器"
+
+#: ../main-modules.php:7199
+msgid "Don't Show Divider"
+msgstr "不显示分隔器"
+
+#: ../main-modules.php:7200
+msgid "Show Divider"
+msgstr "显示分隔器"
+
+#: ../main-modules.php:7233
+msgid "Color"
+msgstr "颜色"
+
+#: ../main-modules.php:7235
+msgid "This will adjust the color of the 1px divider line."
+msgstr "这将调整 1 个像素的分隔线的颜色。"
+
+#: ../main-modules.php:7238
+msgid "Visibility"
+msgstr "可视性"
+
+#: ../main-modules.php:7246
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect the "
+"divider height."
+msgstr "此设置启用和禁用 1 个像素的分隔器，但不影响分隔线高度。"
+
+#: ../main-modules.php:7249
+msgid "Height"
+msgstr "高度"
+
+#: ../main-modules.php:7251
+msgid "Define how much space should be added below the divider."
+msgstr "定义分隔条下方应添加多少间距。"
+
+#: ../main-modules.php:7269
+msgid "Divider Style"
+msgstr "分隔条风格"
+
+#: ../main-modules.php:7276
+msgid "Divider Position"
+msgstr "分隔条位置"
+
+#: ../main-modules.php:7280 ../main-modules.php:9800
+msgid "Vertically Centered"
+msgstr "垂直居中"
+
+#: ../main-modules.php:7287
+msgid "Divider Weight"
+msgstr "分隔条高度"
+
+#: ../main-modules.php:7293
+msgid "Hide On Mobile"
+msgstr "在移动设备上隐藏"
+
+#: ../main-modules.php:7380
+msgid "Person"
+msgstr "人员"
+
+#: ../main-modules.php:7432
+msgid "Member Image"
+msgstr "成员图片"
+
+#: ../main-modules.php:7436
+msgid "Member Description"
+msgstr "成员说明"
+
+#: ../main-modules.php:7444
+msgid "Member Position"
+msgstr "会员职位"
+
+#: ../main-modules.php:7448
+msgid "Member Social Links"
+msgstr "会员社交链接"
+
+#: ../main-modules.php:7459
+msgid "Input the name of the person"
+msgstr "输入人员的姓名"
+
+#: ../main-modules.php:7462
+msgid "Position"
+msgstr "职位"
+
+#: ../main-modules.php:7464
+msgid "Input the person's position."
+msgstr "输入人员的职位。"
+
+#: ../main-modules.php:7497
+msgid "Facebook Profile Url"
+msgstr "Facebook 个人资料 URL"
+
+#: ../main-modules.php:7499
+msgid "Input Facebook Profile Url."
+msgstr "输入 Facebook 资料 URL。"
+
+#: ../main-modules.php:7502
+msgid "Twitter Profile Url"
+msgstr "Twitter 个人资料 URL"
+
+#: ../main-modules.php:7504
+msgid "Input Twitter Profile Url"
+msgstr "输入 Twitter 资料 URL"
+
+#: ../main-modules.php:7507
+msgid "Google+ Profile Url"
+msgstr "Google+ 个人资料 URL"
+
+#: ../main-modules.php:7509
+msgid "Input Google+ Profile Url"
+msgstr "输入 Google+ 资料 URL"
+
+#: ../main-modules.php:7512
+msgid "LinkedIn Profile Url"
+msgstr "LinkedIn 资料 URL"
+
+#: ../main-modules.php:7514
+msgid "Input LinkedIn Profile Url"
+msgstr "输入 LinkedIn 资料 URL"
+
+#: ../main-modules.php:7517
+msgid "Description"
+msgstr "描述"
+
+#: ../main-modules.php:7543 ../main-modules.php:8263
+msgid "Icon Hover Color"
+msgstr "图标悬停颜色"
+
+#: ../main-modules.php:7595
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../main-modules.php:7603 ../main-modules.php:8971
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../main-modules.php:7611 ../main-modules.php:8975
+msgid "Google+"
+msgstr "Google+"
+
+#: ../main-modules.php:7619 ../main-modules.php:8983
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../main-modules.php:7666
+msgid "Blog"
+msgstr "博客"
+
+#: ../main-modules.php:7716 ../main-modules.php:9154 ../main-modules.php:11380
+msgid "Meta"
+msgstr "元"
+
+#: ../main-modules.php:7736
+msgid "Post Meta"
+msgstr "帖子元数据"
+
+#: ../main-modules.php:7740
+msgid "Pagenavi"
+msgstr "页面导航"
+
+#: ../main-modules.php:7764
+msgid "Choose how much posts you would like to display per page."
+msgstr "选择希望每页显示的博文数量。"
+
+#: ../main-modules.php:7772
+msgid "Choose which categories you would like to include in the feed."
+msgstr "选择要在消息源中包括的类别。"
+
+#: ../main-modules.php:7775
+msgid "Meta Date Format"
+msgstr "日期格式"
+
+#: ../main-modules.php:7777
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr "如果要调整日期格式，请在此处输入相应的 PHP 日期格式。"
+
+#: ../main-modules.php:7780 ../main-modules.php:9241 ../main-modules.php:11467
+msgid "Show Featured Image"
+msgstr "显示特色图像"
+
+#: ../main-modules.php:7786
+msgid "This will turn thumbnails on and off."
+msgstr "这将启用和禁用缩略图。"
+
+#: ../main-modules.php:7792
+msgid "Show Excerpt"
+msgstr "显示摘要"
+
+#: ../main-modules.php:7793
+msgid "Show Content"
+msgstr "显示内容"
+
+#: ../main-modules.php:7798
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"显示完整内容将不会在索引页上截断您的博文。显示摘要将仅显示您的摘要文本。"
+
+#: ../main-modules.php:7801
+msgid "Read More Button"
+msgstr "“阅读更多”按钮"
+
+#: ../main-modules.php:7808
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr "可在此处定义是否在摘要之后显示“阅读更多”链接。"
+
+#: ../main-modules.php:7811 ../main-modules.php:9190 ../main-modules.php:11416
+msgid "Show Author"
+msgstr "显示作者"
+
+#: ../main-modules.php:7817
+msgid "Turn on or off the author link."
+msgstr "启用或禁用作者链接。"
+
+#: ../main-modules.php:7820 ../main-modules.php:9200 ../main-modules.php:10740
+#: ../main-modules.php:11426
+msgid "Show Date"
+msgstr "显示日期"
+
+#: ../main-modules.php:7826
+msgid "Turn the date on or off."
+msgstr "启用或禁用日期。"
+
+#: ../main-modules.php:7844
+msgid "Turn pagination on and off."
+msgstr "启用或禁用分页。"
+
+#: ../main-modules.php:7847
+msgid "Offset Number"
+msgstr "偏移数"
+
+#: ../main-modules.php:7849
+msgid "Choose how many posts you would like to offset by"
+msgstr "选择要偏移的博文数"
+
+#: ../main-modules.php:7877
+msgid "Grid Tile Background Color"
+msgstr "网格磁贴背景颜色"
+
+#: ../main-modules.php:7883
+msgid "Use Dropshadow"
+msgstr "利用阴影效果"
+
+#: ../main-modules.php:8031
+#, php-format
+msgid "by %s"
+msgstr "由 %s"
+
+#: ../main-modules.php:8041
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../main-modules.php:8061
+msgid "read more..."
+msgstr "了解更多..."
+
+#: ../main-modules.php:8068
+msgid "read more"
+msgstr "了解更多"
+
+#: ../main-modules.php:8122
+msgid "Shop"
+msgstr "商店"
+
+#: ../main-modules.php:8165
+msgid "Product"
+msgstr "产品"
+
+#: ../main-modules.php:8169
+msgid "Onsale"
+msgstr "促销中"
+
+#: ../main-modules.php:8185
+msgid "Rating"
+msgstr "评价"
+
+#: ../main-modules.php:8198
+msgid "Type"
+msgstr "类型"
+
+#: ../main-modules.php:8201
+msgid "Recent Products"
+msgstr "最新产品"
+
+#: ../main-modules.php:8202
+msgid "Featured Products"
+msgstr "特色产品"
+
+#: ../main-modules.php:8203
+msgid "Sale Products"
+msgstr "销售产品"
+
+#: ../main-modules.php:8204
+msgid "Best Selling Products"
+msgstr "畅销产品"
+
+#: ../main-modules.php:8205
+msgid "Top Rated Products"
+msgstr "最受好评产品"
+
+#: ../main-modules.php:8207
+msgid "Choose which type of products you would like to display."
+msgstr "选择要显示的产品类型。"
+
+#: ../main-modules.php:8212
+msgid "Control how many products are displayed."
+msgstr "控制产品的显示数量。"
+
+#: ../main-modules.php:8215
+msgid "Columns Number"
+msgstr "列数"
+
+#: ../main-modules.php:8218
+msgid "default"
+msgstr "默认"
+
+#: ../main-modules.php:8219 ../main-modules.php:8220 ../main-modules.php:8221
+#: ../main-modules.php:8222 ../main-modules.php:8223
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s列"
+
+#: ../main-modules.php:8224
+msgid "1 Column"
+msgstr "1 列"
+
+#: ../main-modules.php:8226
+msgid "Choose how many columns to display."
+msgstr "选择显示多少列。"
+
+#: ../main-modules.php:8229
+msgid "Order By"
+msgstr "排序依据"
+
+#: ../main-modules.php:8232
+msgid "Default Sorting"
+msgstr "默认排序"
+
+#: ../main-modules.php:8233
+msgid "Sort By Popularity"
+msgstr "按受欢迎程度排序"
+
+#: ../main-modules.php:8234
+msgid "Sort By Rating"
+msgstr "按评价排序"
+
+#: ../main-modules.php:8235
+msgid "Sort By Date"
+msgstr "按日期排序"
+
+#: ../main-modules.php:8236
+msgid "Sort By Price: Low To High"
+msgstr "按价格排序：从低到高"
+
+#: ../main-modules.php:8237
+msgid "Sort By Price: High To Low"
+msgstr "按价格排序：从高到低"
+
+#: ../main-modules.php:8239
+msgid "Choose how your products should be ordered."
+msgstr "选择产品的排序方式。"
+
+#: ../main-modules.php:8257
+msgid "Sale Badge Color"
+msgstr "出售徽章颜色"
+
+#: ../main-modules.php:8370
+msgid "Countdown Timer"
+msgstr "倒计时计时器"
+
+#: ../main-modules.php:8400
+msgid "Numbers"
+msgstr "数字"
+
+#: ../main-modules.php:8406
+msgid "Label"
+msgstr "标签"
+
+#: ../main-modules.php:8421
+msgid "Container"
+msgstr "容器"
+
+#: ../main-modules.php:8429
+msgid "Timer Section"
+msgstr "定时器部分"
+
+#: ../main-modules.php:8438
+msgid "Countdown Timer Title"
+msgstr "倒计时计时器标题"
+
+#: ../main-modules.php:8440
+msgid "This is the title displayed for the countdown timer."
+msgstr "这是为倒计时计时器显示的标题。"
+
+#: ../main-modules.php:8443
+msgid "Countdown To"
+msgstr "倒计时目标"
+
+#: ../main-modules.php:8445
+msgid "This is the date the countdown timer is counting down to."
+msgstr "这是倒计时计时器的倒计时目标日期。"
+
+#: ../main-modules.php:8472
+msgid "Here you can define a custom background color for your countdown timer."
+msgstr "可在此处定义倒计时计时器的定制背景颜色。"
+
+#: ../main-modules.php:8553
+msgid "Days"
+msgstr "天"
+
+#: ../main-modules.php:8554
+msgid "Hours"
+msgstr "小时"
+
+#: ../main-modules.php:8555
+msgid "Hrs"
+msgstr "小时"
+
+#: ../main-modules.php:8556
+msgid "Minutes"
+msgstr "分钟"
+
+#: ../main-modules.php:8557
+msgid "Min"
+msgstr "分钟"
+
+#: ../main-modules.php:8558
+msgid "Seconds"
+msgstr "秒"
+
+#: ../main-modules.php:8559
+msgid "Sec"
+msgstr "秒"
+
+#: ../main-modules.php:8569
+msgid "Map"
+msgstr "地图"
+
+#: ../main-modules.php:8572 ../main-modules.php:8709 ../main-modules.php:10903
+msgid "Pin"
+msgstr "Pin"
+
+#: ../main-modules.php:8598 ../main-modules.php:10926
+msgid "Map Center Address"
+msgstr "地图中心地址"
+
+#: ../main-modules.php:8602 ../main-modules.php:8742 ../main-modules.php:10930
+msgid "Find"
+msgstr "查找"
+
+#: ../main-modules.php:8605 ../main-modules.php:10933
+msgid ""
+"Enter an address for the map center point, and the address will be geocoded "
+"and displayed on the map below."
+msgstr "输入此地图中心点的地址；该地址将进行地理编码并在下面的地图上显示。"
+
+#: ../main-modules.php:8624 ../main-modules.php:10949
+msgid "Mouse Wheel Zoom"
+msgstr "鼠标滚轮缩放"
+
+#: ../main-modules.php:8630 ../main-modules.php:10955
+msgid ""
+"Here you can choose whether the zoom level will be controlled by mouse wheel "
+"or not."
+msgstr "可在此处选择是否通过鼠标滚轮控制缩放级别。"
+
+#: ../main-modules.php:8648
+msgid "Use Grayscale Filter"
+msgstr "使用灰度滤镜"
+
+#: ../main-modules.php:8660
+msgid "Grayscale Filter Amount (%)"
+msgstr "灰度滤镜数量 (%)"
+
+#: ../main-modules.php:8724
+msgid "New Pin"
+msgstr "新图钉"
+
+#: ../main-modules.php:8725
+msgid "Pin Settings"
+msgstr "图钉设置"
+
+#: ../main-modules.php:8736
+msgid "Map Pin Address"
+msgstr "地图图钉地址"
+
+#: ../main-modules.php:8739
+msgid ""
+"Enter an address for this map pin, and the address will be geocoded and "
+"displayed on the map below."
+msgstr "输入此地图图钉的地址；该地址将进行地理编码并在下面的地图上显示。"
+
+#: ../main-modules.php:8764 ../main-modules.php:9809
+msgid ""
+"Here you can define the content that will be placed within the infobox for "
+"the pin."
+msgstr "可在此处定义将在图钉的信息框中放置的内容。"
+
+#: ../main-modules.php:8805
+msgid "Social Media Follow"
+msgstr "社交媒体关注"
+
+#: ../main-modules.php:8808 ../main-modules.php:8937 ../main-modules.php:8961
+msgid "Social Network"
+msgstr "社交网络"
+
+#: ../main-modules.php:8829
+msgid "Social Follow"
+msgstr "社交关注"
+
+#: ../main-modules.php:8833
+msgid "Social Icon"
+msgstr "社交图标"
+
+#: ../main-modules.php:8842
+msgid "Link Shape"
+msgstr "链接形状"
+
+#: ../main-modules.php:8845
+msgid "Rounded Rectangle"
+msgstr "圆角矩形"
+
+#: ../main-modules.php:8846
+msgid "Circle"
+msgstr "圆形"
+
+#: ../main-modules.php:8848
+msgid "Here you can choose the shape of your social network icons."
+msgstr "可在此处选择社交网络图标的形状。"
+
+#: ../main-modules.php:8869
+msgid "Follow Button"
+msgstr "“关注”按钮"
+
+#: ../main-modules.php:8875
+msgid ""
+"Here you can choose whether or not to include the follow button next to the "
+"icon."
+msgstr "可在此处选择是否要在图标旁边包括“关注”按钮。"
+
+#: ../main-modules.php:8954
+msgid "New Social Network"
+msgstr "新社交网络"
+
+#: ../main-modules.php:8955
+msgid "Social Network Settings"
+msgstr "社交网络设置"
+
+#: ../main-modules.php:8965
+msgid "Select a Network"
+msgstr "选择网络"
+
+#: ../main-modules.php:8967
+msgid "facebook"
+msgstr "Facebook"
+
+#: ../main-modules.php:8979
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../main-modules.php:8987
+msgid "tumblr"
+msgstr "tumblr"
+
+#: ../main-modules.php:8991
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../main-modules.php:8995
+msgid "skype"
+msgstr "skype"
+
+#: ../main-modules.php:8999
+msgid "flikr"
+msgstr "flikr"
+
+#: ../main-modules.php:9003
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../main-modules.php:9007
+msgid "dribbble"
+msgstr "dribbble"
+
+#: ../main-modules.php:9011
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../main-modules.php:9015
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../main-modules.php:9019
+msgid "RSS"
+msgstr "RSS"
+
+#: ../main-modules.php:9023
+msgid "Choose the social network"
+msgstr "选择社交网络"
+
+#: ../main-modules.php:9030
+msgid "Account URL"
+msgstr "帐户 URL"
+
+#: ../main-modules.php:9032
+msgid "The URL for this social network link."
+msgstr "此社交网络链接的 URL。"
+
+#: ../main-modules.php:9037
+msgid "This will change the icon color."
+msgstr "这将更改图标颜色。"
+
+#: ../main-modules.php:9063
+msgid "Follow"
+msgstr "关注"
+
+#: ../main-modules.php:9089
+msgid "Post Title"
+msgstr "帖子标题"
+
+#: ../main-modules.php:9172 ../main-modules.php:11398
+msgid "Here you can choose whether or not display the Post Title"
+msgstr "在这里您可以选择是否显示帖子标题"
+
+#: ../main-modules.php:9175 ../main-modules.php:11401
+msgid "Show Meta"
+msgstr "显示元数据"
+
+#: ../main-modules.php:9187 ../main-modules.php:11413
+msgid "Here you can choose whether or not display the Post Meta"
+msgstr "在这里，您可以选择是否显示帖子元数据"
+
+#: ../main-modules.php:9197 ../main-modules.php:11423
+msgid "Here you can choose whether or not display the Author Name in Post Meta"
+msgstr "在这里，您可以选择是否在帖子元数据中显示作者姓名"
+
+#: ../main-modules.php:9210 ../main-modules.php:11436
+msgid "Here you can choose whether or not display the Date in Post Meta"
+msgstr "在这里，您可以选择是否在帖子元数据中显示日期"
+
+#: ../main-modules.php:9214 ../main-modules.php:11440
+msgid "Date Format"
+msgstr "日期格式"
+
+#: ../main-modules.php:9217 ../main-modules.php:11443
+msgid "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+msgstr "在这里，您可以在帖子元数据中定义日期格式。默认值是'M j, Y'"
+
+#: ../main-modules.php:9221 ../main-modules.php:11447
+msgid "Show Post Categories"
+msgstr "显示帖子分类"
+
+#: ../main-modules.php:9228 ../main-modules.php:11454
+msgid ""
+"Here you can choose whether or not display the Categories in Post Meta. "
+"Note: This option doesn't work with custom post types."
+msgstr ""
+"在这里您可以选择是否在帖子元数据中显示类别。注：此选项不适用于自定义帖子类"
+"型。"
+
+#: ../main-modules.php:9231 ../main-modules.php:11457
+msgid "Show Comments Count"
+msgstr "显示评论数"
+
+#: ../main-modules.php:9238 ../main-modules.php:11464
+msgid ""
+"Here you can choose whether or not display the Comments Count in Post Meta."
+msgstr "在这里，您可以选择是否在帖子元数据中显示评论数。"
+
+#: ../main-modules.php:9250 ../main-modules.php:11476
+msgid "Here you can choose whether or not display the Featured Image"
+msgstr "在这里，您可以选择是否显示推荐图片"
+
+#: ../main-modules.php:9253 ../main-modules.php:11479
+msgid "Featured Image Placement"
+msgstr "推荐图像位置"
+
+#: ../main-modules.php:9256 ../main-modules.php:11482
+msgid "Below Title"
+msgstr "标题下方"
+
+#: ../main-modules.php:9257 ../main-modules.php:11483
+msgid "Above Title"
+msgstr "标题上方"
+
+#: ../main-modules.php:9258 ../main-modules.php:11484
+msgid "Title/Meta Background Image"
+msgstr "标题背景图像"
+
+#: ../main-modules.php:9264 ../main-modules.php:11490
+msgid "Here you can choose where to place the Featured Image"
+msgstr "在这里您可以选择将推荐图像置于何处"
+
+#: ../main-modules.php:9267 ../main-modules.php:11493
+#: ../main-structure-elements.php:169 ../main-structure-elements.php:861
+msgid "Use Parallax Effect"
+msgstr "使用视差效果"
+
+#: ../main-modules.php:9277 ../main-modules.php:11503
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr "在这里，您可以选择是否将视差效果用于推荐图片"
+
+#: ../main-modules.php:9280 ../main-modules.php:11506
+#: ../main-structure-elements.php:181 ../main-structure-elements.php:873
+msgid "Parallax Method"
+msgstr "视差法"
+
+#: ../main-modules.php:9287 ../main-modules.php:11513
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr "在这里，你可以选择推荐图像要使用哪种视差法"
+
+#: ../main-modules.php:9297 ../main-modules.php:11523
+msgid "Here you can choose the orientation for the Title/Meta text"
+msgstr "在这里，你可以选择标题文本的方向"
+
+#: ../main-modules.php:9306 ../main-modules.php:11532
+msgid "Here you can choose the color for the Title/Meta text"
+msgstr "在这里，您可以选择的标题/元文本的颜色"
+
+#: ../main-modules.php:9309 ../main-modules.php:11535
+msgid "Use Text Background Color"
+msgstr "使用文本背景颜色"
+
+#: ../main-modules.php:9318 ../main-modules.php:11544
+msgid ""
+"Here you can choose whether or not use the background color for the Title/"
+"Meta text"
+msgstr "在这里您可以选择是否使用标题文本的背景颜色"
+
+#: ../main-modules.php:9321 ../main-modules.php:11547
+msgid "Text Background Color"
+msgstr "文本背景颜色"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "0 comments"
+msgstr "0 条评论"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "1 comment"
+msgstr "1 条评论"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "comments"
+msgstr "评论"
+
+#: ../main-modules.php:9483
+msgid "Fullwidth Header"
+msgstr "全宽标题"
+
+#: ../main-modules.php:9543
+msgid "Title Styling"
+msgstr "标题风格"
+
+#: ../main-modules.php:9544
+msgid "Subhead Styling"
+msgstr "副标题风格"
+
+#: ../main-modules.php:9545
+msgid "Content Styling"
+msgstr "内容风格"
+
+#: ../main-modules.php:9552
+msgid "Button One"
+msgstr ""
+
+#: ../main-modules.php:9558
+msgid "Button Two"
+msgstr ""
+
+#: ../main-modules.php:9568
+msgid "Header Container"
+msgstr ""
+
+#: ../main-modules.php:9586
+msgid "Enter your page title here."
+msgstr "在此处输入页面标题。"
+
+#: ../main-modules.php:9589
+msgid "Subheading Text"
+msgstr "副标题文本"
+
+#: ../main-modules.php:9591
+msgid ""
+"If you would like to use a subhead, add it here. Your subhead will appear "
+"below your title in a small font."
+msgstr "如果要使用副标题，请在此处添加。副标题将以小字体显示在标题下方。"
+
+#: ../main-modules.php:9603
+msgid "Text & Logo Orientation"
+msgstr "文本与标志方向"
+
+#: ../main-modules.php:9610
+msgid "Make Fullscreen"
+msgstr "设为全屏"
+
+#: ../main-modules.php:9619
+msgid "Here you can choose whether the header is expanded to fullscreen size."
+msgstr "在这里，您可以选择标题是否扩大到全屏大小。"
+
+#: ../main-modules.php:9622
+msgid "Show Scroll Down Button"
+msgstr "显示向下滚动按钮"
+
+#: ../main-modules.php:9631
+msgid "Here you can choose whether the scroll down button is shown."
+msgstr "在这里，您可以选择是否显示向下滚动按钮。"
+
+#: ../main-modules.php:9639
+msgid "Choose an icon to display for the scroll down button."
+msgstr "选择一个图标以显示向下滚动按钮。"
+
+#: ../main-modules.php:9643
+msgid "Scroll Down Icon Color"
+msgstr "向下滚动图标颜色"
+
+#: ../main-modules.php:9649
+msgid "Scroll Down Icon Size"
+msgstr "向下滚动图标大小"
+
+#: ../main-modules.php:9654
+msgid "Title Font"
+msgstr "标题字体"
+
+#: ../main-modules.php:9660
+msgid "Title Font Color"
+msgstr "标题字体颜色"
+
+#: ../main-modules.php:9667
+msgid "Title Font Size"
+msgstr "标题字体大小"
+
+#: ../main-modules.php:9673
+msgid "Subhead Font"
+msgstr "副标题字体"
+
+#: ../main-modules.php:9679
+msgid "Subhead Font Color"
+msgstr "副标题字体颜色"
+
+#: ../main-modules.php:9686
+msgid "Subhead Font Size"
+msgstr "副标题字体大小"
+
+#: ../main-modules.php:9692
+msgid "Content Font"
+msgstr "内容字体"
+
+#: ../main-modules.php:9698
+msgid "Content Font Color"
+msgstr "内容字体颜色"
+
+#: ../main-modules.php:9705
+msgid "Content Font Size"
+msgstr "内容字体大小"
+
+#: ../main-modules.php:9711 ../main-modules.php:9721
+#, php-format
+msgid "Button %1$s Text"
+msgstr "按钮 %1$s文本"
+
+#: ../main-modules.php:9713 ../main-modules.php:9723
+msgid "Enter the text for the Button."
+msgstr "输入按钮文本。"
+
+#: ../main-modules.php:9716 ../main-modules.php:9726
+#, php-format
+msgid "Button %1$s URL"
+msgstr "按钮 %1$s网址"
+
+#: ../main-modules.php:9718 ../main-modules.php:9728
+msgid "Enter the URL for the Button."
+msgstr "输入按钮网址"
+
+#: ../main-modules.php:9731
+msgid "Background Image URL"
+msgstr "背景图片网址"
+
+#: ../main-modules.php:9743
+msgid "Background Overlay Color"
+msgstr "背景叠加颜色"
+
+#: ../main-modules.php:9756 ../main-modules.php:10450
+msgid ""
+"If enabled, your background images will have a fixed position as your "
+"scroll, creating a fun parallax-like effect."
+msgstr "如果启用，在滚动时背景图像位置将固定，形成一种有趣的视差效果。"
+
+#: ../main-modules.php:9770
+msgid "Logo Image URL"
+msgstr "标志图片网址"
+
+#: ../main-modules.php:9778
+msgid "Text Vertical Alignment"
+msgstr "文字垂直对齐"
+
+#: ../main-modules.php:9784
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be vertically centered, or aligned to the bottom."
+msgstr ""
+"此设置决定了你的内容的垂直对齐方式。 您的内容既可以垂直居中，也可以底部对齐。"
+
+#: ../main-modules.php:9789
+msgid "Header Image URL"
+msgstr "标题图片网址"
+
+#: ../main-modules.php:9797
+msgid "Image Vertical Alignment"
+msgstr "图像垂直对齐"
+
+#: ../main-modules.php:9803
+msgid "This controls the orientation of the image within the module."
+msgstr "这个控制模块内图像的方向。"
+
+#: ../main-modules.php:10124
+msgid "Fullwidth Menu"
+msgstr "全宽菜单"
+
+#: ../main-modules.php:10149
+msgid "Menu"
+msgstr "菜单"
+
+#: ../main-modules.php:10155
+msgid "Select a menu that should be used in the module"
+msgstr "选择应在模块中使用的菜单"
+
+#: ../main-modules.php:10156
+msgid "Click here to create new menu"
+msgstr "单击此处创建新菜单"
+
+#: ../main-modules.php:10180
+msgid "Sub-Menus Open"
+msgstr "子菜单打开"
+
+#: ../main-modules.php:10183
+msgid "Downwards"
+msgstr "向下"
+
+#: ../main-modules.php:10184
+msgid "Upwards"
+msgstr "向上"
+
+#: ../main-modules.php:10186
+msgid ""
+"Here you can choose the direction that your sub-menus will open. You can "
+"choose to have them open downwards or upwards."
+msgstr "可在此处选择子菜单打开的方向。可以选择将它们向下或向上打开。"
+
+#: ../main-modules.php:10265
+msgid "Home"
+msgstr "首页"
+
+#: ../main-modules.php:10311
+msgid "Fullwidth Slider"
+msgstr "全宽幻灯播放器"
+
+#: ../main-modules.php:10411
+msgid "This setting allows you to turn the navigation arrows on or off."
+msgstr "此设置可启用或禁用导航箭头。"
+
+#: ../main-modules.php:10420
+msgid ""
+"Disabling this option will remove the circle button at the bottom of the "
+"slider."
+msgstr "禁用此选项后，将移除幻灯播放器底部的圆圈按钮。"
+
+#: ../main-modules.php:10675
+msgid "Fullwidth Portfolio"
+msgstr "全宽选辑"
+
+#: ../main-modules.php:10709
+msgid "Title displayed above the portfolio."
+msgstr "在选辑上方显示的标题。"
+
+#: ../main-modules.php:10715
+msgid "Carousel"
+msgstr "幻灯转盘"
+
+#: ../main-modules.php:10728
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr "控制项目的显示数量。留空或使用 0 表示不限数量。"
+
+#: ../main-modules.php:10746
+msgid "Turn the date display on or off."
+msgstr "启用或禁用日期显示。"
+
+#: ../main-modules.php:10758
+msgid "Automatic Carousel Rotation"
+msgstr "自动幻灯转盘旋转"
+
+#: ../main-modules.php:10767
+msgid ""
+"If you the carousel layout option is chosen and you would like the carousel "
+"to slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"如果选择了幻灯转盘布局选项，并且希望幻灯转盘自动播放幻灯片，无需访问者单击“下"
+"一个”按钮，请启用此选项，然后根据需要在下面调整交替速度。"
+
+#: ../main-modules.php:10770
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr "自动幻灯转盘旋转速度（以毫秒为单位）"
+
+#: ../main-modules.php:10773
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"可在此处指定幻灯转盘的旋转速度（在启用了上面的“自动幻灯转盘旋转”选项的情况"
+"下）。数值越高，每次交替之间的暂停时间越长。（例如：1000 = 1 秒）"
+
+#: ../main-modules.php:10899
+msgid "Fullwidth Map"
+msgstr "全宽地图"
+
+#: ../main-modules.php:11009
+msgid "Code"
+msgstr "代码"
+
+#: ../main-modules.php:11087
+msgid "Fullwidth Code"
+msgstr "全宽码"
+
+#: ../main-modules.php:11147
+msgid "Fullwidth Image"
+msgstr "全宽图片"
+
+#: ../main-modules.php:11202
+msgid "Open In Lightbox"
+msgstr "在灯箱中打开"
+
+#: ../main-modules.php:11314
+msgid "Fullwidth Post Title"
+msgstr "全宽帖子标题"
+
+#: ../main-structure-elements.php:105
+msgid "Transparent Background Color"
+msgstr "透明背景颜色"
+
+#: ../main-structure-elements.php:114
+msgid ""
+"Enabling this option will remove the background color of this section, "
+"allowing the website background color or background image to show through."
+msgstr "启用这个选项将删除此部分的背景色，使网站背景颜色或背景图像显示出来。"
+
+#: ../main-structure-elements.php:160
+msgid "Show Inner Shadow"
+msgstr "显示内阴影"
+
+#: ../main-structure-elements.php:166
+msgid ""
+"Here you can select whether or not your section has an inner shadow. This "
+"can look great when you have colored backgrounds or background images."
+msgstr ""
+"可在此处选择区段是否有内阴影。如果是彩色的背景或背景图像，这样可能会非常好"
+"看。"
+
+#: ../main-structure-elements.php:178
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr "如果启用，背景图像将在滚动时保持固定，形成一种有趣的视差样效果。"
+
+#: ../main-structure-elements.php:194 ../main-structure-elements.php:788
+#: ../main-structure-elements.php:1252
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr "调整内边距到特定的值，或留空白以使用默认的内边距。"
+
+#: ../main-structure-elements.php:197 ../main-structure-elements.php:791
+#: ../main-structure-elements.php:1255
+msgid "Keep Custom Padding on Mobile"
+msgstr "在移动设备上保持自定义内边距"
+
+#: ../main-structure-elements.php:203 ../main-structure-elements.php:797
+#: ../main-structure-elements.php:1261
+msgid "Allow custom padding to be retained on mobile screens"
+msgstr "允许在移动设备屏幕上保持自定义内边距"
+
+#: ../main-structure-elements.php:216
+msgid "Make This Section Fullwidth"
+msgstr ""
+
+#: ../main-structure-elements.php:226 ../main-structure-elements.php:710
+msgid "Use Custom Width"
+msgstr "使用自定义宽度"
+
+#: ../main-structure-elements.php:240 ../main-structure-elements.php:724
+msgid "Unit"
+msgstr "单位"
+
+#: ../main-structure-elements.php:243 ../main-structure-elements.php:727
+msgid "px"
+msgstr "像素"
+
+#: ../main-structure-elements.php:257 ../main-structure-elements.php:268
+#: ../main-structure-elements.php:740 ../main-structure-elements.php:751
+msgid "Custom Width"
+msgstr "自定义宽度"
+
+#: ../main-structure-elements.php:279 ../main-structure-elements.php:883
+#: ../main-structure-elements.php:1297
+msgid "Equalize Column Heights"
+msgstr "平衡列高度"
+
+#: ../main-structure-elements.php:288 ../main-structure-elements.php:762
+#: ../main-structure-elements.php:1264
+msgid "Use Custom Gutter Width"
+msgstr ""
+
+#: ../main-structure-elements.php:300 ../main-structure-elements.php:774
+#: ../main-structure-elements.php:1276
+msgid "Gutter Width"
+msgstr "列间距"
+
+#: ../main-structure-elements.php:700
+msgid "Make This Row Fullwidth"
+msgstr "设该行为全宽"
+
+#: ../main-structure-elements.php:707
+msgid ""
+"Enable this option to extend the width of this row to the edge of the "
+"browser window."
+msgstr "启用该选项将该行的宽度延伸到浏览器窗口的边缘。"
+
+#: ../main-structure-elements.php:721
+msgid ""
+"Change to Yes if you would like to adjust the width of this row to a non-"
+"standard width."
+msgstr "如果你想调整该行的宽度到非标准宽度，更改为是。"
+
+#: ../main-structure-elements.php:748 ../main-structure-elements.php:759
+msgid "Define custom width for this Row"
+msgstr "定义此行的自定义宽度"
+
+#: ../main-structure-elements.php:771 ../main-structure-elements.php:1273
+msgid "Enable this option to define custom gutter width for this row."
+msgstr ""
+
+#: ../main-structure-elements.php:782 ../main-structure-elements.php:1284
+msgid "Adjust the spacing between each column in this row."
+msgstr "调整该行中的每一列之间的间距。"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "使用自定义按钮样式"
+
+#~ msgid "Button Text Size"
+#~ msgstr "按钮文本大小"
+
+#~ msgid "Button Text Color"
+#~ msgstr "按钮文本颜色"
+
+#~ msgid "Button Background Color"
+#~ msgstr "按钮背景颜色"
+
+#~ msgid "Button Border Width"
+#~ msgstr "按钮边框宽度"
+
+#~ msgid "Button Border Color"
+#~ msgstr "按钮边框颜色"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "按钮边框半径"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "按钮字母间距"
+
+#~ msgid "Button Font"
+#~ msgstr "按钮字体"
+
+#~ msgid "Add Button Icon"
+#~ msgstr "添加按钮图标"
+
+#~ msgid "Button Icon"
+#~ msgstr "按钮图标"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "按钮图标颜色"
+
+#~ msgid "Icon Placement"
+#~ msgstr "图标位置"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "仅鼠标悬停时显示图标"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "按钮悬停文本颜色"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "按钮悬停背景颜色"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "按钮悬停边框颜色"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "按钮悬停边框半径"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "按钮悬停字母间距"
+
+#~ msgid "Caption Font"
+#~ msgstr "标题字体"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "标题字体颜色"
+
+#~ msgid "Caption Font Size"
+#~ msgstr "标题字体大小"
+
+#~ msgid "Font"
+#~ msgstr "字体"
+
+#~ msgid "Text Size"
+#~ msgstr "文本大小"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "字母间距"
+
+#~ msgid "Line Height"
+#~ msgstr "行高"
+
+#~ msgid "Use Border Color"
+#~ msgstr "使用边框颜色"
+
+#~ msgid "Body Text Font"
+#~ msgstr "正文文本字体"
+
+#~ msgid "Body Font Size"
+#~ msgstr "正文文本大小"
+
+#~ msgid "Body Text Color"
+#~ msgstr "正文文本颜色"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "正文字母间距"
+
+#~ msgid "Body Line Height"
+#~ msgstr "正文行高"
+
+#~ msgid "Reset Color"
+#~ msgstr "重置颜色"
+
+#~ msgid "Button Styling"
+#~ msgstr "按钮风格"
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "按钮 %1$s字体"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "按钮%1$s字体颜色"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "按钮 %1$s背景颜色"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "按钮 %1$s字体大小"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "按钮%1$s边框半径"
+
+#~ msgid "﻿﻿﻿﻿﻿%1$s Font"
+#~ msgstr "%1$s字体"
+
+#~ msgid "Full width Section"
+#~ msgstr "全宽部分"
+
+#~ msgid "Full width Module"
+#~ msgstr "全宽模块"
+
+#~ msgid "Here you can choose the color for the Title"
+#~ msgstr "在这里，你可以选择标题的颜色"
+
+#~ msgid "text"
+#~ msgstr "文本"
+
+#~ msgid "Subheader Font Size"
+#~ msgstr "副标题字体大小"
+
+#~ msgid "Font Size"
+#~ msgstr "字体大小"
+
+#~ msgid "This setting determines the vertical alignment of your content."
+#~ msgstr "此设置决定了你的内容的垂直对齐方式。"
+
+#~ msgid ""
+#~ "Your content can either be vertically centered, or aligned to the bottom."
+#~ msgstr "您的内容既可以垂直居中，也可以底部对齐。"
+
+#~ msgid "Full Width Post"
+#~ msgstr "全宽帖子"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "欢迎来到Divi！在沉浸到您的新主题之前，请访问<a href=\"%1$s\" target="
+#~ "\"_blank\">DiviDocumentation</a>页面以获得几十项深入教程。"
+
+#~ msgid "Divi Page Settings"
+#~ msgstr "Divi页面设置"
+
+#~ msgid "Divi Post Settings"
+#~ msgstr "Divi帖子设置"
+
+#~ msgid "Divi Product Settings"
+#~ msgstr "Divi产品设置"
+
+#~ msgid "Divi Project Settings"
+#~ msgstr "Divi项目设置"
+
+#~ msgid "Dot Navigation"
+#~ msgstr "点导航"
+
+#~ msgid "Hide Nav Before Scroll"
+#~ msgstr "滚动前隐藏导航"
+
+#~ msgid "Typography"
+#~ msgstr "排版样式"
+
+#~ msgid "Mobile Styles"
+#~ msgstr "移动设备样式"
+
+#~ msgid "Tablet"
+#~ msgstr "平板电脑"
+
+#~ msgid "Phone"
+#~ msgstr "电话"
+
+#~ msgid "Mobile Menu"
+#~ msgstr "移动菜单"
+
+#~ msgid "Background"
+#~ msgstr "背景"
+
+#~ msgid "Header & Navigation"
+#~ msgstr "标题与导航"
+
+#~ msgid "Header Format"
+#~ msgstr "标题格式"
+
+#~ msgid "Primary Menu Bar"
+#~ msgstr "主菜单栏"
+
+#~ msgid "Secondary Menu Bar"
+#~ msgstr "二级菜单栏"
+
+#~ msgid "Fixed Navigation Settings"
+#~ msgstr "固定的导航设置"
+
+#~ msgid "Header Elements"
+#~ msgstr "标题元素"
+
+#~ msgid "Footer"
+#~ msgstr "页脚"
+
+#~ msgid "Widgets"
+#~ msgstr "小工具"
+
+#~ msgid "Footer Elements"
+#~ msgstr "页脚元素"
+
+#~ msgid "Bottom Bar"
+#~ msgstr "底部栏"
+
+#~ msgid "Buttons"
+#~ msgstr "按钮"
+
+#~ msgid "Buttons Style"
+#~ msgstr "按钮样式"
+
+#~ msgid "Buttons Hover Style"
+#~ msgstr "按钮悬停样式"
+
+#~ msgid "Post"
+#~ msgstr "帖子"
+
+#~ msgid "Meta Text Size"
+#~ msgstr "元文本大小"
+
+#~ msgid "Meta Line Height"
+#~ msgstr "元行高"
+
+#~ msgid "Meta Letter Spacing"
+#~ msgstr "元字母间距"
+
+#~ msgid "Meta Font Style"
+#~ msgstr "元字体样式"
+
+#~ msgid "Bold"
+#~ msgstr "加粗"
+
+#~ msgid "Italic"
+#~ msgstr "斜体"
+
+#~ msgid "Uppercase"
+#~ msgstr "大写"
+
+#~ msgid "Underline"
+#~ msgstr "下划线"
+
+#~ msgid "Header Text Size"
+#~ msgstr "标题文本大小"
+
+#~ msgid "Header Line Height"
+#~ msgstr "标题行高度"
+
+#~ msgid "Header Letter Spacing"
+#~ msgstr "标题字母间距"
+
+#~ msgid "Header Font Style"
+#~ msgstr "标题字体样式"
+
+#~ msgid "Enable Boxed Layout"
+#~ msgstr "启用盒装布局"
+
+#~ msgid "Website Content Width"
+#~ msgstr "网站内容宽度"
+
+#~ msgid "Website Gutter Width"
+#~ msgstr "网站列间距"
+
+#~ msgid "Sidebar Width"
+#~ msgstr "边栏宽度"
+
+#~ msgid "Section Height"
+#~ msgstr "截面高度"
+
+#~ msgid "Row Height"
+#~ msgstr "行高"
+
+#~ msgid "Background Repeat"
+#~ msgstr "背景重复"
+
+#~ msgid "No Repeat"
+#~ msgstr "无重复"
+
+#~ msgid "Tile"
+#~ msgstr "平铺"
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "横向平铺"
+
+#~ msgid "Tile Vertically"
+#~ msgstr "垂直平铺"
+
+#~ msgid "Background Position"
+#~ msgstr "背景位置"
+
+#~ msgid "Scroll"
+#~ msgstr "滚动"
+
+#~ msgid "Fixed"
+#~ msgstr "固定"
+
+#~ msgid "Body Text Size"
+#~ msgstr "正文文本大小"
+
+#~ msgid "Body Link Color"
+#~ msgstr "正文链接颜色"
+
+#~ msgid "Header Text Color"
+#~ msgstr "标题文本颜色"
+
+#~ msgid "Theme Accent Color"
+#~ msgstr "主题强调色彩"
+
+#~ msgid "Centered Inline Logo"
+#~ msgstr "居中内联标志"
+
+#~ msgid "Enable Vertical Navigation"
+#~ msgstr "启用垂直导航"
+
+#~ msgid "Hide Navigation Until Scroll"
+#~ msgstr "隐藏导航直到滚动"
+
+#~ msgid "Show Social Icons"
+#~ msgstr "显示社交图标"
+
+#~ msgid "Hide Logo Image"
+#~ msgstr "隐藏标志图片"
+
+#~ msgid "Menu/Logo Height"
+#~ msgstr "菜单/标志高度"
+
+#~ msgid "Font Style"
+#~ msgstr "字体样式"
+
+#~ msgid "Active Link Color"
+#~ msgstr "作用中链接颜色"
+
+#~ msgid "Dropdown Menu Background Color"
+#~ msgstr "下拉菜单背景颜色"
+
+#~ msgid "Dropdown Menu Line Color"
+#~ msgstr "下拉菜单线颜色"
+
+#~ msgid "Dropdown Menu Text Color"
+#~ msgstr "下拉菜单文本颜色"
+
+#~ msgid "Dropdown Menu Animation"
+#~ msgstr "下拉菜单动画"
+
+#~ msgid "Fade"
+#~ msgstr "消失"
+
+#~ msgid "Expand"
+#~ msgstr "扩大"
+
+#~ msgid "Flip"
+#~ msgstr "翻转"
+
+#~ msgid "Fixed Menu/Logo Height"
+#~ msgstr "固定菜单/标志高度"
+
+#~ msgid "Primary Menu Background Color"
+#~ msgstr "主菜单背景颜色"
+
+#~ msgid "Secondary Menu Background Color"
+#~ msgstr "二级菜单背景颜色"
+
+#~ msgid "Menu Link Color"
+#~ msgstr "菜单链接颜色"
+
+#~ msgid "Column Layout"
+#~ msgstr "列布局"
+
+#~ msgid "Body/Link Text Size"
+#~ msgstr "正文/链接文本大小"
+
+#~ msgid "Body/Link Line Height"
+#~ msgstr "车身/链接线高度"
+
+#~ msgid "Body Font Style"
+#~ msgstr "正文字体样式"
+
+#~ msgid "Widget Text Color"
+#~ msgstr "小工具文本颜色"
+
+#~ msgid "Widget Link Color"
+#~ msgstr "小工具链接颜色"
+
+#~ msgid "Widget Header Color"
+#~ msgstr "小工具标题颜色"
+
+#~ msgid "Widget Bullet Color"
+#~ msgstr "小工具点颜色"
+
+#~ msgid "Footer Menu Background Color"
+#~ msgstr "页脚菜单背景颜色"
+
+#~ msgid "Footer Menu Text Color"
+#~ msgstr "页脚菜单文本颜色"
+
+#~ msgid "Footer Menu Active Link Color"
+#~ msgstr "页脚菜单作用中链接颜色"
+
+#~ msgid "Social Icon Size"
+#~ msgstr "社交图标大小"
+
+#~ msgid "Social Icon Color"
+#~ msgstr "社交图标颜色"
+
+#~ msgid "Button Font Style"
+#~ msgstr "按钮字体样式"
+
+#~ msgid "Buttons Font"
+#~ msgstr "按钮字体"
+
+#~ msgid "Select Icon"
+#~ msgstr "选择图标"
+
+#~ msgid "Only Show Icon on Hover"
+#~ msgstr "仅悬停时显示图标"
+
+#~ msgid "Left to Right"
+#~ msgstr "从左到右"
+
+#~ msgid "Right to Left"
+#~ msgstr "从右到左"
+
+#~ msgid "Top to Bottom"
+#~ msgstr "从上到下"
+
+#~ msgid "Bottom to Top"
+#~ msgstr "从下到上"
+
+#~ msgid "This controls default direction of the lazy-loading animation."
+#~ msgstr "它控制延迟加载动画的默认方向"
+
+#~ msgid "Title Font Style"
+#~ msgstr "标题字体样式"
+
+#~ msgid "Caption Font Style"
+#~ msgstr "标题字体样式"
+
+#~ msgid "Header Font Size"
+#~ msgstr "标题字体大小"
+
+#~ msgid "Top & Bottom Padding"
+#~ msgstr "顶部和底部内边距"
+
+#~ msgid "Content Font Style"
+#~ msgstr "内容字体样式"
+
+#~ msgid "Name Font Style"
+#~ msgstr "名称字体样式"
+
+#~ msgid "Details Font Style"
+#~ msgstr "详细字体样式"
+
+#~ msgid "Subheader Font Style"
+#~ msgstr "副标题字体样式"
+
+#~ msgid "Price Font Size"
+#~ msgstr "价格字体大小"
+
+#~ msgid "Pricing Font Style"
+#~ msgstr "价格字体样式"
+
+#~ msgid "Category Font Size"
+#~ msgstr "类别字体大小"
+
+#~ msgid "Category Font Style"
+#~ msgstr "类别字体样式"
+
+#~ msgid "Filters Font Size"
+#~ msgstr "过滤器字体大小"
+
+#~ msgid "Filters Font Style"
+#~ msgstr "过滤器字体样式"
+
+#~ msgid "Label Font Size"
+#~ msgstr "标签字体大小"
+
+#~ msgid "Label Font Style"
+#~ msgstr "标签字体样式"
+
+#~ msgid "Percent Font Size"
+#~ msgstr "百分比字体大小"
+
+#~ msgid "Percent Font Style"
+#~ msgstr "百分比字体样式"
+
+#~ msgid "Bar Padding"
+#~ msgstr "栏边距"
+
+#~ msgid "Bar Border Radius"
+#~ msgstr "栏边框半径"
+
+#~ msgid "Number Font Size"
+#~ msgstr "数字字体大小"
+
+#~ msgid "Number Font Style"
+#~ msgstr "数字字体样式"
+
+#~ msgid "Opened Title Font Style"
+#~ msgstr "打开标题字体样式"
+
+#~ msgid "Closed Title Font Style"
+#~ msgstr "封闭标题字体样式"
+
+#~ msgid "Toggle Icon Size"
+#~ msgstr "切换图标大小"
+
+#~ msgid "Toggle Padding"
+#~ msgstr "切换内边距"
+
+#~ msgid "Input Font Size"
+#~ msgstr "输入字体大小"
+
+#~ msgid "Input Font Style"
+#~ msgstr "输入字体样式"
+
+#~ msgid "Input Field Padding"
+#~ msgstr "输入字段内边距"
+
+#~ msgid "Captcha Font Size"
+#~ msgstr "验证码字体大小"
+
+#~ msgid "Captcha Font Style"
+#~ msgstr "验证码字体样式"
+
+#~ msgid "Widget Header Font Size"
+#~ msgstr "小工具标题字体大小"
+
+#~ msgid "Widget Header Font Style"
+#~ msgstr "小工具标题字体样式"
+
+#~ msgid "Remove Vertical Divider"
+#~ msgstr "删除垂直分隔条"
+
+#~ msgid "Divider Height"
+#~ msgstr "分隔条高度"
+
+#~ msgid "Name Font Size"
+#~ msgstr "名称字体大小"
+
+#~ msgid "Social Network Icon Size"
+#~ msgstr "社交网络图标大小"
+
+#~ msgid "Post Title Font Size"
+#~ msgstr "帖子标题字体大小"
+
+#~ msgid "Meta Font Size"
+#~ msgstr "元字体大小"
+
+#~ msgid "Masonry Blog"
+#~ msgstr "砌体博客"
+
+#~ msgid "Product Name Font Size"
+#~ msgstr "产品名称字体大小"
+
+#~ msgid "Product Name Font Style"
+#~ msgstr "产品名称字体样式"
+
+#~ msgid "Sale Badge Font Size"
+#~ msgstr "出售徽章字体大小"
+
+#~ msgid "Sale Badge Font Style"
+#~ msgstr "出售徽章字体样式"
+
+#~ msgid "Price Font Style"
+#~ msgstr "价格字体样式"
+
+#~ msgid "Sale Price Font Size"
+#~ msgstr "销售价格字体大小"
+
+#~ msgid "Sale Price Font Style"
+#~ msgstr "销售价格字体样式"
+
+#~ msgid "Countdown"
+#~ msgstr "倒计时"
+
+#~ msgid "Follow Font & Icon Size"
+#~ msgstr "关注字体和图标大小"
+
+#~ msgid "Full Width Slider"
+#~ msgstr "全宽滑块"
+
+#~ msgid "Theme Customizer"
+#~ msgstr "主题定制"
+
+#~ msgid "Module Customizer"
+#~ msgstr "模块定制"
+
+#~ msgid "Divi Library"
+#~ msgstr "Divi库"

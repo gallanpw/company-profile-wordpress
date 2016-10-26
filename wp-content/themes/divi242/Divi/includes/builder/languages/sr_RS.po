@@ -1,0 +1,5165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:14+0300\n"
+"PO-Revision-Date: 2015-06-17 18:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../class-et-builder-element.php:406 ../class-et-builder-element.php:681
+#, php-format
+msgid "%1$s Font"
+msgstr "%1$s font"
+
+#: ../class-et-builder-element.php:412
+#, php-format
+msgid "%1$s Font Size"
+msgstr "%1$s veličina fonta"
+
+#: ../class-et-builder-element.php:418 ../class-et-builder-element.php:624
+#, php-format
+msgid "%1$s Text Color"
+msgstr "%1$s boja teksta"
+
+#: ../class-et-builder-element.php:425 ../class-et-builder-element.php:672
+#, php-format
+msgid "%1$s Letter Spacing"
+msgstr "%1$s razmak između slova"
+
+#: ../class-et-builder-element.php:432
+#, php-format
+msgid "%1$s Line Height"
+msgstr "%1$s visina redova"
+
+#: ../class-et-builder-element.php:440
+#, php-format
+msgid "%1$s All Caps"
+msgstr "%1$s sve velikim slovima"
+
+#: ../class-et-builder-element.php:443 ../main-modules.php:417
+#: ../main-modules.php:2015 ../main-modules.php:5703 ../main-modules.php:6040
+#: ../main-modules.php:6217 ../main-modules.php:7804 ../main-modules.php:7886
+#: ../main-modules.php:8628 ../main-modules.php:8872 ../main-modules.php:10426
+#: ../main-modules.php:10761 ../main-modules.php:10953
+msgid "Off"
+msgstr "Isključeno"
+
+#: ../class-et-builder-element.php:444 ../main-modules.php:418
+#: ../main-modules.php:2016 ../main-modules.php:5702 ../main-modules.php:6039
+#: ../main-modules.php:6216 ../main-modules.php:7805 ../main-modules.php:7887
+#: ../main-modules.php:8627 ../main-modules.php:8873 ../main-modules.php:10427
+#: ../main-modules.php:10762 ../main-modules.php:10952
+msgid "On"
+msgstr "Uključeno"
+
+#: ../class-et-builder-element.php:471 ../class-et-builder-element.php:2612
+#: ../main-modules.php:2398 ../main-modules.php:2830 ../main-modules.php:3752
+#: ../main-modules.php:3973 ../main-modules.php:4238 ../main-modules.php:4638
+#: ../main-modules.php:5689 ../main-modules.php:5824 ../main-modules.php:8469
+#: ../main-modules.php:9326 ../main-modules.php:9739 ../main-modules.php:10160
+#: ../main-modules.php:11552 ../main-structure-elements.php:117
+#: ../main-structure-elements.php:818
+msgid "Background Color"
+msgstr "Boja pozadine"
+
+#: ../class-et-builder-element.php:480 ../class-et-builder-element.php:2608
+#: ../main-modules.php:2364 ../main-structure-elements.php:97
+#: ../main-structure-elements.php:810
+msgid "Background Image"
+msgstr "Slika pozadine"
+
+#: ../class-et-builder-element.php:482 ../class-et-builder-element.php:2609
+#: ../main-modules.php:77 ../main-modules.php:673 ../main-modules.php:1007
+#: ../main-modules.php:1428 ../main-modules.php:2366 ../main-modules.php:2405
+#: ../main-modules.php:2803 ../main-modules.php:3967 ../main-modules.php:7469
+#: ../main-modules.php:9733 ../main-modules.php:9772 ../main-modules.php:9791
+#: ../main-modules.php:11186 ../main-structure-elements.php:99
+#: ../main-structure-elements.php:812
+msgid "Upload an image"
+msgstr "Otpremi sliku"
+
+#: ../class-et-builder-element.php:483 ../class-et-builder-element.php:2610
+#: ../main-modules.php:2367 ../main-structure-elements.php:100
+#: ../main-structure-elements.php:813
+msgid "Choose a Background Image"
+msgstr "Izaberi sliku pozadine"
+
+#: ../class-et-builder-element.php:484 ../class-et-builder-element.php:2611
+#: ../main-modules.php:2368 ../main-structure-elements.php:101
+#: ../main-structure-elements.php:814
+msgid "Set As Background"
+msgstr "Postavi kao pozadinu"
+
+#: ../class-et-builder-element.php:502
+msgid "Use Border"
+msgstr "Koristi ivicu"
+
+#: ../class-et-builder-element.php:505 ../class-et-builder-element.php:591
+#: ../class-et-builder-element.php:693 ../class-et-builder-element.php:744
+#: ../functions.php:2685 ../main-modules.php:96 ../main-modules.php:131
+#: ../main-modules.php:170 ../main-modules.php:180 ../main-modules.php:391
+#: ../main-modules.php:400 ../main-modules.php:1359 ../main-modules.php:1390
+#: ../main-modules.php:1410 ../main-modules.php:1502 ../main-modules.php:2033
+#: ../main-modules.php:2057 ../main-modules.php:2116 ../main-modules.php:2125
+#: ../main-modules.php:2134 ../main-modules.php:2470 ../main-modules.php:2822
+#: ../main-modules.php:3231 ../main-modules.php:3256 ../main-modules.php:3266
+#: ../main-modules.php:3523 ../main-modules.php:3744 ../main-modules.php:4230
+#: ../main-modules.php:4306 ../main-modules.php:4620 ../main-modules.php:4630
+#: ../main-modules.php:4706 ../main-modules.php:4988 ../main-modules.php:4997
+#: ../main-modules.php:5006 ../main-modules.php:5346 ../main-modules.php:5355
+#: ../main-modules.php:5364 ../main-modules.php:6809 ../main-modules.php:7134
+#: ../main-modules.php:7297 ../main-modules.php:7784 ../main-modules.php:7815
+#: ../main-modules.php:7824 ../main-modules.php:7833 ../main-modules.php:7842
+#: ../main-modules.php:8461 ../main-modules.php:8651 ../main-modules.php:9170
+#: ../main-modules.php:9179 ../main-modules.php:9194 ../main-modules.php:9204
+#: ../main-modules.php:9225 ../main-modules.php:9235 ../main-modules.php:9245
+#: ../main-modules.php:9271 ../main-modules.php:9312 ../main-modules.php:9613
+#: ../main-modules.php:9625 ../main-modules.php:9750 ../main-modules.php:10444
+#: ../main-modules.php:10466 ../main-modules.php:10525
+#: ../main-modules.php:10534 ../main-modules.php:10543
+#: ../main-modules.php:10735 ../main-modules.php:10744
+#: ../main-modules.php:11205 ../main-modules.php:11396
+#: ../main-modules.php:11405 ../main-modules.php:11420
+#: ../main-modules.php:11430 ../main-modules.php:11451
+#: ../main-modules.php:11461 ../main-modules.php:11471
+#: ../main-modules.php:11497 ../main-modules.php:11538
+#: ../main-structure-elements.php:108 ../main-structure-elements.php:154
+#: ../main-structure-elements.php:163 ../main-structure-elements.php:172
+#: ../main-structure-elements.php:200 ../main-structure-elements.php:219
+#: ../main-structure-elements.php:229 ../main-structure-elements.php:282
+#: ../main-structure-elements.php:291 ../main-structure-elements.php:703
+#: ../main-structure-elements.php:713 ../main-structure-elements.php:765
+#: ../main-structure-elements.php:794 ../main-structure-elements.php:855
+#: ../main-structure-elements.php:864 ../main-structure-elements.php:886
+#: ../main-structure-elements.php:1258 ../main-structure-elements.php:1267
+#: ../main-structure-elements.php:1300
+msgid "No"
+msgstr "Ne"
+
+#: ../class-et-builder-element.php:506 ../class-et-builder-element.php:592
+#: ../class-et-builder-element.php:692 ../class-et-builder-element.php:743
+#: ../functions.php:2686 ../main-modules.php:97 ../main-modules.php:132
+#: ../main-modules.php:171 ../main-modules.php:179 ../main-modules.php:390
+#: ../main-modules.php:399 ../main-modules.php:1360 ../main-modules.php:1391
+#: ../main-modules.php:1411 ../main-modules.php:1503 ../main-modules.php:2034
+#: ../main-modules.php:2058 ../main-modules.php:2117 ../main-modules.php:2126
+#: ../main-modules.php:2135 ../main-modules.php:2471 ../main-modules.php:2821
+#: ../main-modules.php:3230 ../main-modules.php:3257 ../main-modules.php:3267
+#: ../main-modules.php:3524 ../main-modules.php:3743 ../main-modules.php:4229
+#: ../main-modules.php:4307 ../main-modules.php:4621 ../main-modules.php:4629
+#: ../main-modules.php:4707 ../main-modules.php:4987 ../main-modules.php:4996
+#: ../main-modules.php:5005 ../main-modules.php:5345 ../main-modules.php:5354
+#: ../main-modules.php:5363 ../main-modules.php:6808 ../main-modules.php:7135
+#: ../main-modules.php:7296 ../main-modules.php:7783 ../main-modules.php:7814
+#: ../main-modules.php:7823 ../main-modules.php:7832 ../main-modules.php:7841
+#: ../main-modules.php:8460 ../main-modules.php:8652 ../main-modules.php:9169
+#: ../main-modules.php:9178 ../main-modules.php:9193 ../main-modules.php:9203
+#: ../main-modules.php:9224 ../main-modules.php:9234 ../main-modules.php:9244
+#: ../main-modules.php:9270 ../main-modules.php:9313 ../main-modules.php:9614
+#: ../main-modules.php:9626 ../main-modules.php:9751 ../main-modules.php:10445
+#: ../main-modules.php:10467 ../main-modules.php:10526
+#: ../main-modules.php:10535 ../main-modules.php:10544
+#: ../main-modules.php:10734 ../main-modules.php:10743
+#: ../main-modules.php:11206 ../main-modules.php:11395
+#: ../main-modules.php:11404 ../main-modules.php:11419
+#: ../main-modules.php:11429 ../main-modules.php:11450
+#: ../main-modules.php:11460 ../main-modules.php:11470
+#: ../main-modules.php:11496 ../main-modules.php:11539
+#: ../main-structure-elements.php:109 ../main-structure-elements.php:155
+#: ../main-structure-elements.php:164 ../main-structure-elements.php:173
+#: ../main-structure-elements.php:201 ../main-structure-elements.php:220
+#: ../main-structure-elements.php:230 ../main-structure-elements.php:283
+#: ../main-structure-elements.php:292 ../main-structure-elements.php:704
+#: ../main-structure-elements.php:714 ../main-structure-elements.php:766
+#: ../main-structure-elements.php:795 ../main-structure-elements.php:856
+#: ../main-structure-elements.php:865 ../main-structure-elements.php:887
+#: ../main-structure-elements.php:1259 ../main-structure-elements.php:1268
+#: ../main-structure-elements.php:1301
+msgid "Yes"
+msgstr "Da"
+
+#: ../class-et-builder-element.php:518
+msgid "Border Color"
+msgstr "Boja ivice"
+
+#: ../class-et-builder-element.php:527
+msgid "Border Width"
+msgstr "Širina ivice"
+
+#: ../class-et-builder-element.php:536
+msgid "Border Style"
+msgstr "Stil ivice"
+
+#: ../class-et-builder-element.php:562
+msgid "Custom Margin"
+msgstr "Prilagođena margina"
+
+#: ../class-et-builder-element.php:570 ../main-structure-elements.php:191
+#: ../main-structure-elements.php:785 ../main-structure-elements.php:1249
+msgid "Custom Padding"
+msgstr "Prilagođena unutrašnja margina"
+
+#: ../class-et-builder-element.php:588
+#, php-format
+msgid "Use Custom Styles for %1$s "
+msgstr ""
+
+#: ../class-et-builder-element.php:616
+#, php-format
+msgid "%1$s Text Size"
+msgstr ""
+
+#: ../class-et-builder-element.php:634
+#, php-format
+msgid "%1$s Background Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:644
+#, php-format
+msgid "%1$s Border Width"
+msgstr ""
+
+#: ../class-et-builder-element.php:653
+#, php-format
+msgid "%1$s Border Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:663
+#, php-format
+msgid "%1$s Border Radius"
+msgstr ""
+
+#: ../class-et-builder-element.php:688
+#, php-format
+msgid "Add %1$s Icon"
+msgstr ""
+
+#: ../class-et-builder-element.php:691 ../functions.php:836
+#: ../main-modules.php:2065 ../main-modules.php:2081 ../main-modules.php:2375
+#: ../main-modules.php:2391 ../main-modules.php:10474
+#: ../main-modules.php:10490
+msgid "Default"
+msgstr "Podrazumevana vrednost"
+
+#: ../class-et-builder-element.php:707
+#, php-format
+msgid "%1$s Icon"
+msgstr ""
+
+#: ../class-et-builder-element.php:718
+#, php-format
+msgid "%1$s Icon Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:728
+#, php-format
+msgid "%1$s Icon Placement"
+msgstr ""
+
+#: ../class-et-builder-element.php:731 ../class-et-builder-element.php:1307
+#: ../class-et-builder-element.php:2616 ../functions.php:248
+#: ../functions.php:254 ../main-modules.php:142 ../main-modules.php:1332
+#: ../main-modules.php:7097 ../main-modules.php:9295 ../main-modules.php:11521
+msgid "Right"
+msgstr "Desno"
+
+#: ../class-et-builder-element.php:732 ../class-et-builder-element.php:1319
+#: ../class-et-builder-element.php:2618 ../functions.php:246
+#: ../main-modules.php:140 ../main-modules.php:1330 ../main-modules.php:7096
+#: ../main-modules.php:9293 ../main-modules.php:11519
+msgid "Left"
+msgstr "Levo"
+
+#: ../class-et-builder-element.php:740
+#, php-format
+msgid "Only Show Icon On Hover for %1$s"
+msgstr ""
+
+#: ../class-et-builder-element.php:752
+#, php-format
+msgid "%1$s Hover Text Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:762
+#, php-format
+msgid "%1$s Hover Background Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:772
+#, php-format
+msgid "%1$s Hover Border Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:782
+#, php-format
+msgid "%1$s Hover Border Radius"
+msgstr ""
+
+#: ../class-et-builder-element.php:791
+#, php-format
+msgid "%1$s Hover Letter Spacing"
+msgstr ""
+
+#: ../class-et-builder-element.php:812
+msgid "Before"
+msgstr "Pre"
+
+#: ../class-et-builder-element.php:817
+msgid "Main Element"
+msgstr "Glavni elemenat"
+
+#: ../class-et-builder-element.php:820
+msgid "After"
+msgstr "Posle"
+
+#: ../class-et-builder-element.php:1233 ../class-et-builder-element.php:2613
+msgid "Hex Value"
+msgstr "Vrednost boje"
+
+#: ../class-et-builder-element.php:1244
+msgid "Choose Custom Color"
+msgstr "Izaberi prilagođenu boju"
+
+#: ../class-et-builder-element.php:1254
+msgid "Upload"
+msgstr "Otpremi"
+
+#: ../class-et-builder-element.php:1255
+msgid "Choose image"
+msgstr "Izaberi sliku"
+
+#: ../class-et-builder-element.php:1256
+msgid "Set image"
+msgstr "Postavi sliku"
+
+#: ../class-et-builder-element.php:1301 ../class-et-builder-element.php:2615
+#: ../main-modules.php:1326 ../main-modules.php:7279
+msgid "Top"
+msgstr "Vrh"
+
+#: ../class-et-builder-element.php:1313 ../class-et-builder-element.php:2617
+#: ../main-modules.php:2415 ../main-modules.php:7281 ../main-modules.php:9782
+#: ../main-modules.php:9801
+msgid "Bottom"
+msgstr "Na dno"
+
+#: ../class-et-builder-element.php:1452 ../class-et-builder-element.php:1629
+msgid "General Settings"
+msgstr "Opšta podešavanja"
+
+#: ../class-et-builder-element.php:1453
+msgid "Advanced Design Settings"
+msgstr "Napredna podešavanja dizajna"
+
+#: ../class-et-builder-element.php:1454
+msgid "Custom CSS"
+msgstr "Prilagođeni CSS"
+
+#: ../class-et-builder-element.php:1605 ../main-modules.php:1166
+#: ../main-modules.php:1474 ../main-modules.php:1867 ../main-modules.php:2476
+#: ../main-modules.php:2851 ../main-modules.php:3564 ../main-modules.php:3773
+#: ../main-modules.php:4259 ../main-modules.php:4659 ../main-modules.php:6500
+#: ../main-modules.php:6625 ../main-modules.php:7789 ../main-modules.php:8762
+#: ../main-modules.php:9026 ../main-modules.php:9807 ../main-modules.php:11025
+#: ../main-modules.php:11103
+msgid "Content"
+msgstr "Sadržaj"
+
+#: ../class-et-builder-element.php:1606 ../main-modules.php:1869
+#: ../main-modules.php:6502
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr ""
+"Ovde možete da odredite sadržaj koji će biti postavljen u okviru aktuelne "
+"kartice."
+
+#: ../class-et-builder-element.php:1618
+msgid "Add New Item"
+msgstr "Dodaj novu stavku"
+
+#: ../class-et-builder-element.php:1618
+#, php-format
+msgid "Add New %s"
+msgstr "Dodaj novi %s"
+
+#: ../class-et-builder-element.php:1706
+#, php-format
+msgid "%1$s %2$s Settings"
+msgstr "%1$s %2$s podešavanja"
+
+#: ../class-et-builder-element.php:1708
+msgid "Item"
+msgstr "Stavka"
+
+#: ../class-et-builder-element.php:1708 ../functions.php:1795
+#: ../layouts.php:174
+msgid "Module"
+msgstr "Modul"
+
+#: ../class-et-builder-element.php:2607 ../main-structure-elements.php:1484
+msgid "Column"
+msgstr "Kolona"
+
+#: ../class-et-builder-element.php:2614
+msgid "Padding"
+msgstr "Unutrašnja margina"
+
+#: ../functions.php:65 ../functions.php:1804
+msgid "All Categories"
+msgstr "Sve kategorije"
+
+#: ../functions.php:74 ../layouts.php:10
+msgid "All Layouts"
+msgstr "Svi rasporedi"
+
+#: ../functions.php:75 ../functions.php:1155
+msgid "Modules"
+msgstr "Moduli"
+
+#: ../functions.php:76 ../functions.php:1154
+msgid "Rows"
+msgstr "Redovi"
+
+#: ../functions.php:77 ../functions.php:1153
+msgid "Sections"
+msgstr "Odeljci"
+
+#: ../functions.php:78 ../functions.php:1152 ../layouts.php:4
+msgid "Layouts"
+msgstr "Rasporedi"
+
+#: ../functions.php:82
+msgid "Global/not Global"
+msgstr "Globalni/ne globalni"
+
+#: ../functions.php:83 ../layouts.php:181
+msgid "Global"
+msgstr "Globalni"
+
+#: ../functions.php:84
+msgid "not Global"
+msgstr "Ne globalni"
+
+#: ../functions.php:247 ../functions.php:255 ../main-modules.php:141
+#: ../main-modules.php:2376 ../main-modules.php:2414 ../main-modules.php:9294
+#: ../main-modules.php:9781 ../main-modules.php:11520
+msgid "Center"
+msgstr "Centar"
+
+#: ../functions.php:249
+msgid "Justified"
+msgstr "Obostrano poravnato"
+
+#: ../functions.php:267
+msgid "Update Gallery"
+msgstr "Ažuriraj galeriju"
+
+#: ../functions.php:276
+msgid "Select a menu"
+msgstr "Izaberi meni"
+
+#: ../functions.php:383
+msgid "Solid"
+msgstr "Puna ivica"
+
+#: ../functions.php:384
+msgid "Dotted"
+msgstr "Tačkasta ivica"
+
+#: ../functions.php:385
+msgid "Dashed"
+msgstr "Isprekidana ivica"
+
+#: ../functions.php:386
+msgid "Double"
+msgstr "Dvostruka ivica"
+
+#: ../functions.php:387
+msgid "Groove"
+msgstr "Izdubljeno"
+
+#: ../functions.php:388
+msgid "Ridge"
+msgstr "Ispupčene"
+
+#: ../functions.php:389
+msgid "Inset"
+msgstr "Sa unutrašnje strane"
+
+#: ../functions.php:390
+msgid "Outset"
+msgstr "Sa spoljašnje strane"
+
+#: ../functions.php:1112
+#, php-format
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"<strong>%1$s</strong> vidžet oblast je stvorena. Možete stvoriti više "
+"oblasti, onda kada završite ažurirajte stranicu da biste videli sve oblasti."
+
+#: ../functions.php:1136
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr "Nemate dovoljno dozvola da biste izvezli sadržaj ove lokacije."
+
+#: ../functions.php:1140
+msgid "Export Divi Builder Layouts"
+msgstr "Izvezi rasporede Divi izrade"
+
+#: ../functions.php:1141
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"Ako kliknete na taster ispod, WordPress će kreirati XML datoteku da biste je "
+"sačuvali na vašem računaru."
+
+#: ../functions.php:1142
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"Ovaj format, koji mi nazivamo WordPress eXtended RSS ili WXR, će sadržati "
+"sve rasporede koje ste napravili koristeći izrađivač stranice."
+
+#: ../functions.php:1143
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"Jednom  kada ste sačuvali preuzetu datoteku, možete koristiti funkciju uvoza "
+"u drugu WordPress instalaciju, kako biste izvezli sve rasporede sa ove "
+"lokacije."
+
+#: ../functions.php:1144
+msgid "Select Templates you want to export:"
+msgstr "Izaberi predloške koje želiš da izvezeš:"
+
+#: ../functions.php:1177
+msgid "Download Export File"
+msgstr "Preuzmi datoteku  izvoza"
+
+#: ../functions.php:1182
+msgid "Export Divi Layouts"
+msgstr "Izvezi Divi rasporede"
+
+#: ../functions.php:1186
+msgid "Manage Categories"
+msgstr "Upravljaj kategorijama"
+
+#: ../functions.php:1331 ../functions.php:1333
+msgid "Use Default Editor"
+msgstr "Koristi podrazumevani uređivač"
+
+#: ../functions.php:1331 ../functions.php:1332
+msgid "Use The Divi Builder"
+msgstr "Koristi Divi izrađivač"
+
+#: ../functions.php:1368
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr ""
+"Ovde možete stvoriti novu vidžet oblast za korišćenje u modulu bočne trake."
+
+#: ../functions.php:1369
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"Napomena: Imenovanje vaše vidžet oblasti \"sidebar 1\", \"sidebar 2\", "
+"\"sidebar 3\", \"sidebar 4\" or \"sidebar 5\" će prouzrokovati konflikte sa "
+"ovom temom"
+
+#: ../functions.php:1370
+msgid "Widget Name"
+msgstr "Ime vidžeta"
+
+#: ../functions.php:1371
+msgid "Create"
+msgstr "Kreiraj"
+
+#: ../functions.php:1373 ../functions.php:1456 ../functions.php:2471
+msgid "Delete"
+msgstr "Izbriši"
+
+#: ../functions.php:1414
+msgid "Replace the existing content with loaded layout"
+msgstr "Zameni postojeći sadržaj novim rasporedom"
+
+#: ../functions.php:1453
+msgid "Load"
+msgstr "Učitaj"
+
+#: ../functions.php:1555
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"Još uvek niste sačuvali nijednu stavku u vašu Divi biblioteku. Jednom kada "
+"stavka bude sačuvana u vašu biblioteku, pojaviće se ovde zarad lakog "
+"korišćenja."
+
+#: ../functions.php:1791
+msgid "The section should have at least one row."
+msgstr "Sekcija bi trebalo da sadrži najmanje jedan red."
+
+#: ../functions.php:1792
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr "Puna širina modula ne može biti korišćena van  sekcije pune širine."
+
+#: ../functions.php:1793
+msgid "3 column row can't be used in this column."
+msgstr "Red sa 3 kolone se ne može koristiti u ovoj koloni."
+
+#: ../functions.php:1794
+msgid "Preview"
+msgstr "Pregled"
+
+#: ../functions.php:1796
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"Statične slike ne mogu biti generisane sa ovog video servisa i/ili ovog "
+"video formata."
+
+#: ../functions.php:1797
+msgid "Geocode was not successful for the following reason"
+msgstr "Geokod nije bio uspešan iz sledećih razloga"
+
+#: ../functions.php:1798
+msgid "Geocoder failed due to"
+msgstr "Geokod nije uspeo usled"
+
+#: ../functions.php:1799
+msgid "No results found"
+msgstr "Nije pronađen nijedan rezultat"
+
+#: ../functions.php:1800
+msgid "No available options for this configuration."
+msgstr "Nema slobodnih opcija za ovu konfiguraciju."
+
+#: ../functions.php:1801
+msgid ""
+"You're about to update global module. This change will be applied to all "
+"pages where you use this module. Press OK if you want to update this module"
+msgstr ""
+"Samo što niste ažurirali grobalni modul. Ova promena će biti primenjena na "
+"sve stranice gde koristite ovaj modul. Pritisnite U REDU ako želite da "
+"ažurirate ovaj modul."
+
+#: ../functions.php:1802
+msgid "You cannot add global rows into global sections"
+msgstr "Ne možete da dodate globalne redove u globalne odeljke"
+
+#: ../functions.php:1803
+msgid "You cannot add global modules into global sections or rows"
+msgstr "Ne možete da dodate globalne module u globalne sekcije ili redove"
+
+#: ../functions.php:1819
+msgid "The Divi Builder"
+msgstr "Divi izrađivač"
+
+#: ../functions.php:1830
+#, php-format
+msgid "Posts by %s"
+msgstr "Objavio %s"
+
+#: ../functions.php:1845
+msgid "% Comments"
+msgstr "% Komentari"
+
+#: ../functions.php:1847
+msgid "No Comments"
+msgstr "Nema komentara"
+
+#: ../functions.php:1849
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: ../functions.php:1860
+msgid "by"
+msgstr "od strane"
+
+#: ../functions.php:2156
+msgid "Save to Library"
+msgstr "Sačuvaj u biblioteku"
+
+#: ../functions.php:2157
+msgid "Load From Library"
+msgstr "Učitaj iz biblioteke"
+
+#: ../functions.php:2158 ../functions.php:2516
+msgid "Clear Layout"
+msgstr "Izbriši raspored"
+
+#: ../functions.php:2174 ../functions.php:2223 ../functions.php:2472
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: ../functions.php:2175
+msgid "Clone Section"
+msgstr "Kloniraj sekciju"
+
+#: ../functions.php:2176
+msgid "Delete Section"
+msgstr "Izbriši sekciju"
+
+#: ../functions.php:2187
+msgid "Standard Section"
+msgstr "Standardni odeljak"
+
+#: ../functions.php:2188 ../layouts.php:178
+msgid "Fullwidth Section"
+msgstr "Odeljak pune širine"
+
+#: ../functions.php:2189 ../layouts.php:179
+msgid "Specialty Section"
+msgstr "Poseban odeljak"
+
+#: ../functions.php:2190 ../functions.php:2373 ../functions.php:2411
+#: ../functions.php:2441
+msgid "Add From Library"
+msgstr "Dodaj iz biblioteke"
+
+#: ../functions.php:2224
+msgid "Clone Row"
+msgstr "Kloniraj red"
+
+#: ../functions.php:2225
+msgid "Delete Row"
+msgstr "Izbriši red"
+
+#: ../functions.php:2226
+msgid "Change Structure"
+msgstr "Promeni strukturu"
+
+#: ../functions.php:2239
+msgid "Add Row"
+msgstr "Dodaj red"
+
+#: ../functions.php:2256
+msgid "Insert Column(s)"
+msgstr "Umetni kolonu"
+
+#: ../functions.php:2268 ../functions.php:2473
+msgid "Clone Module"
+msgstr "Kloniraj modul"
+
+#: ../functions.php:2276
+msgid "Remove Module"
+msgstr "Ukloni modul"
+
+#: ../functions.php:2287
+msgid "Module Settings"
+msgstr "Podešavanja modula"
+
+#: ../functions.php:2300
+msgid "Save & Add To Library"
+msgstr "Sačuvaj i dodaj u biblioteku"
+
+#: ../functions.php:2322 ../functions.php:2491 ../functions.php:2546
+msgid "Cancel"
+msgstr "Otkaži"
+
+#: ../functions.php:2324
+msgid "Save & Exit"
+msgstr "Sačuvaj i izađi"
+
+#: ../functions.php:2370
+msgid "Insert Columns"
+msgstr "Umetni kolone"
+
+#: ../functions.php:2372
+msgid "New Row"
+msgstr "Novi red"
+
+#: ../functions.php:2409
+msgid "Insert Module"
+msgstr "Umetni modul"
+
+#: ../functions.php:2410
+msgid "New Module"
+msgstr "Novi modul"
+
+#: ../functions.php:2439
+msgid "Load Layout"
+msgstr "Učitaj raspored"
+
+#: ../functions.php:2440
+msgid "Predefined Layouts"
+msgstr "Unapred definisani rasporedi"
+
+#: ../functions.php:2452
+msgid "Insert Module(s)"
+msgstr "Unesi modul(e)"
+
+#: ../functions.php:2492 ../functions.php:2547
+msgid "Save"
+msgstr "Sačuvaj"
+
+#: ../functions.php:2503
+msgid "Disable Builder"
+msgstr "Onemogući izradu"
+
+#: ../functions.php:2504
+msgid ""
+"All content created in the Divi Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Sav sadržaj napravljen u Divi izrađivaču će biti izgubljen. Prethodni "
+"sadržaj će biti vraćen u pređašnje stanje."
+
+#: ../functions.php:2505 ../functions.php:2518 ../functions.php:2529
+msgid "Do you wish to proceed?"
+msgstr "Da li želite da nastavite?"
+
+#: ../functions.php:2517
+msgid "All of your current page content will be lost."
+msgstr "Sav vaš sadržaj stranice će biti izgubljen."
+
+#: ../functions.php:2528
+msgid "All advanced module settings in will be lost."
+msgstr "Svo napredno podešavanje modula će biti izgubljeno."
+
+#: ../functions.php:2560
+msgid "Save To Library"
+msgstr "Sačuvaj u biblioteku"
+
+#: ../functions.php:2561
+msgid "Save your current page to the Divi Library for later use."
+msgstr ""
+"Sačuvajte vašu važeću stranicu u Divi biblioteku, zarad kasnije upotrebe."
+
+#: ../functions.php:2562
+msgid "Layout Name:"
+msgstr "Ime rasporeda:"
+
+#: ../functions.php:2576
+msgid "Save And Add To Library"
+msgstr "Sačuvaj i dodaj u biblioteku"
+
+#: ../functions.php:2583
+msgid "Add To Categories:"
+msgstr "Dodaj u kategorije:"
+
+#: ../functions.php:2604
+msgid "Create New Category"
+msgstr "Napravi novu kategoriju"
+
+#: ../functions.php:2659
+msgid ""
+"Here you can save the current item and add it to your Divi Library for later "
+"use as well."
+msgstr ""
+"Ovde možete sačuvati važeću stavku i dodati je vašoj Divi biblioteci takođe "
+"zarad kasnijeg korišćenja."
+
+#: ../functions.php:2660
+msgid "Template Name"
+msgstr "Ime predloška"
+
+#: ../functions.php:2661
+msgid "Selective Sync"
+msgstr "Selektivna sinhronizacija"
+
+#: ../functions.php:2662
+msgid "Include General settings"
+msgstr "Uključi opšte postavke"
+
+#: ../functions.php:2663
+msgid "Include Advanced Design settings"
+msgstr "Uključi napredne postavke dizajna"
+
+#: ../functions.php:2664 ../layouts.php:185
+msgid "Include Custom CSS"
+msgstr "Uključi prilagođeni CSS"
+
+#: ../functions.php:2665 ../layouts.php:186
+msgid "Please select at least 1 tab to save"
+msgstr "Izaberite najmanje jednu karticu za čuvanje"
+
+#: ../functions.php:2666
+msgid "Save as Global:"
+msgstr "Sačuvaj kao globalni:"
+
+#: ../functions.php:2667
+msgid "Make this a global item"
+msgstr "Napravi od ovoga globalnu stavku"
+
+#: ../functions.php:2695
+msgid "Add Specialty Section"
+msgstr "Dodaj posebnu sekciju"
+
+#: ../layouts.php:5 ../layouts.php:180 ../main-modules.php:365
+#: ../main-modules.php:4965 ../main-modules.php:5323 ../main-modules.php:7749
+#: ../main-modules.php:10712
+msgid "Layout"
+msgstr "Raspored"
+
+#: ../layouts.php:6
+msgid "Add New"
+msgstr "Dodaj novi"
+
+#: ../layouts.php:7
+msgid "Add New Layout"
+msgstr "Dodaj novi raspored"
+
+#: ../layouts.php:8
+msgid "Edit Layout"
+msgstr "Izmeni raspored"
+
+#: ../layouts.php:9
+msgid "New Layout"
+msgstr "Novi raspored"
+
+#: ../layouts.php:11
+msgid "View Layout"
+msgstr "Prikaži raspored"
+
+#: ../layouts.php:12
+msgid "Search Layouts"
+msgstr "Pretraži rasporede"
+
+#: ../layouts.php:13
+msgid "Nothing found"
+msgstr "Ništa nije pronađeno"
+
+#: ../layouts.php:14
+msgid "Nothing found in Trash"
+msgstr "Ništa nije pronađeno u Korpi za otpatke"
+
+#: ../layouts.php:38
+msgid "Scope"
+msgstr "Obim"
+
+#: ../layouts.php:51
+msgid "Layout Type"
+msgstr "Tip rasporeda"
+
+#: ../layouts.php:64
+msgid "Module Width"
+msgstr "Širina modula"
+
+#: ../layouts.php:77
+msgid "Category"
+msgstr "Kategorija"
+
+#: ../layouts.php:171
+msgid "New Template Settings"
+msgstr "Podešavanja novog predloška"
+
+#: ../layouts.php:172
+msgid "Template Name:"
+msgstr "Ime predloška:"
+
+#: ../layouts.php:173
+msgid "Template Type:"
+msgstr "Tip predloška:"
+
+#: ../layouts.php:175
+msgid "Fullwidth Module"
+msgstr "Modul pune širine"
+
+#: ../layouts.php:176 ../main-structure-elements.php:604
+#: ../main-structure-elements.php:1188
+msgid "Row"
+msgstr "Red"
+
+#: ../layouts.php:177 ../main-structure-elements.php:5
+msgid "Section"
+msgstr "Odeljak"
+
+#: ../layouts.php:182
+msgid "Close Modal Window"
+msgstr "Zatvori modalni prozor"
+
+#: ../layouts.php:183
+msgid "Include General Settings"
+msgstr "Uključi opšte postavke"
+
+#: ../layouts.php:184
+msgid "Include Advanced Design Settings"
+msgstr "Uključi napredne postavke dizajna"
+
+#: ../layouts.php:187
+msgid "Select category(ies) for new template or type a new name ( optional )"
+msgstr ""
+"Sačuvaj kategorij(u)e za novi predložak ili ukucaj novo ime (opcionalno)"
+
+#: ../layouts.php:252
+msgid "Homepage Basic"
+msgstr "Osnovna početna stranica"
+
+#: ../layouts.php:260
+msgid "Homepage Shop"
+msgstr "Početna stranica prodavnice"
+
+#: ../layouts.php:270
+msgid "Homepage Portfolio"
+msgstr "Početna stranica portfelja"
+
+#: ../layouts.php:278
+msgid "Homepage Company"
+msgstr "Početna stranica kompanije"
+
+#: ../layouts.php:286
+msgid "Homepage Corporate"
+msgstr "Početna stranica korporativnog stila"
+
+#: ../layouts.php:297
+msgid "Homepage Extended"
+msgstr "Proširena početna stranica"
+
+#: ../layouts.php:306
+msgid "Page Fullwidth"
+msgstr "Stranica pune širine"
+
+#: ../layouts.php:340
+msgid "Page Right Sidebar"
+msgstr "Stranica sa desnom  bočnom trakom"
+
+#: ../layouts.php:374
+msgid "Page Left Sidebar"
+msgstr "Stranica sa levom bočnom trakom"
+
+#: ../layouts.php:408
+msgid "Page Dual Sidebars"
+msgstr "Stranica sa bočnim trakama na obe strane"
+
+#: ../layouts.php:430
+msgid "Portfolio Grid"
+msgstr "Portfellj tipa koordinantne mreže"
+
+#: ../layouts.php:438
+msgid "Portfolio 1 Column"
+msgstr "Portfelj sa jednom kolonom"
+
+#: ../layouts.php:446
+msgid "Portfolio Fullwidth Carousel"
+msgstr "Portfelj sa panoom sa slikama pune širine"
+
+#: ../layouts.php:454
+msgid "Portfolio Fullwidth Grid"
+msgstr "Portfelj pune širine tipa koordinantne mreže"
+
+#: ../layouts.php:462
+msgid "Project Extended"
+msgstr "Prošireni projekat"
+
+#: ../layouts.php:472
+msgid "Project Extended 2"
+msgstr "Prošireni projekat 2"
+
+#: ../layouts.php:485
+msgid "Blog Masonry"
+msgstr "Blog tipa koordinantne mreže"
+
+#: ../layouts.php:493
+msgid "Blog Standard"
+msgstr "Standardni blog"
+
+#: ../layouts.php:501
+msgid "Shop Basic"
+msgstr "Prodavnica osnovnog tipa"
+
+#: ../layouts.php:509
+msgid "Shop Extended"
+msgstr "Proširena prodavnica"
+
+#: ../layouts.php:517
+msgid "Splash Page"
+msgstr "Uvodna stranica"
+
+#: ../layouts.php:528
+msgid "Maintenance Mode"
+msgstr "Režim održavanja"
+
+#: ../layouts.php:537
+msgid "Coming Soon"
+msgstr "Režim održavanja"
+
+#: ../layouts.php:545
+msgid "Landing Page"
+msgstr "Ciljna stranica"
+
+#: ../layouts.php:554
+msgid "About Me"
+msgstr "O meni"
+
+#: ../layouts.php:563
+msgid "About Us"
+msgstr "O nama"
+
+#: ../layouts.php:572
+msgid "Contact Us"
+msgstr "Kontaktirajte nas"
+
+#: ../layouts.php:588
+msgid "Our Team"
+msgstr "Naš tim"
+
+#: ../layouts.php:701
+msgid "Creative Agency"
+msgstr "Kreativna agencija"
+
+#: ../layouts.php:710
+msgid "Sales Page"
+msgstr "Stranica za prodaju"
+
+#: ../layouts.php:746
+msgid "Case Study"
+msgstr "Studija slučaja"
+
+#: ../layouts.php:756
+msgid "Product Features"
+msgstr "Karakteristike proizvoda"
+
+#: ../main-modules.php:4 ../main-modules.php:1426 ../main-modules.php:8173
+msgid "Image"
+msgstr "Slika"
+
+#: ../main-modules.php:46 ../main-modules.php:1451 ../main-modules.php:7480
+#: ../main-modules.php:11234
+msgid "Left To Right"
+msgstr "Od leve ka desnoj strani"
+
+#: ../main-modules.php:47 ../main-modules.php:1452 ../main-modules.php:7481
+#: ../main-modules.php:11235
+msgid "Right To Left"
+msgstr "Od desne ka levoj strani"
+
+#: ../main-modules.php:48 ../main-modules.php:1450 ../main-modules.php:7482
+#: ../main-modules.php:11236
+msgid "Top To Bottom"
+msgstr "Od vrha ka dnu"
+
+#: ../main-modules.php:49 ../main-modules.php:1453 ../main-modules.php:7483
+#: ../main-modules.php:11237
+msgid "Bottom To Top"
+msgstr "Od dna ka vrhu"
+
+#: ../main-modules.php:50 ../main-modules.php:7479 ../main-modules.php:11238
+msgid "Fade In"
+msgstr "Postepeno pojavljivanje"
+
+#: ../main-modules.php:51 ../main-modules.php:1454 ../main-modules.php:7478
+#: ../main-modules.php:11239
+msgid "No Animation"
+msgstr "Bez animacije"
+
+#: ../main-modules.php:75 ../main-modules.php:7467 ../main-modules.php:11184
+msgid "Image URL"
+msgstr "URL slike"
+
+#: ../main-modules.php:78 ../main-modules.php:674 ../main-modules.php:1008
+#: ../main-modules.php:1429 ../main-modules.php:2804 ../main-modules.php:3968
+#: ../main-modules.php:7470 ../main-modules.php:9734 ../main-modules.php:9773
+#: ../main-modules.php:9792 ../main-modules.php:11187
+msgid "Choose an Image"
+msgstr "Izaberite sliku"
+
+#: ../main-modules.php:79 ../main-modules.php:675 ../main-modules.php:1009
+#: ../main-modules.php:1430 ../main-modules.php:2805 ../main-modules.php:3969
+#: ../main-modules.php:7471 ../main-modules.php:9735 ../main-modules.php:9774
+#: ../main-modules.php:9793 ../main-modules.php:11188
+msgid "Set As Image"
+msgstr "Postavi kao sliku"
+
+#: ../main-modules.php:80 ../main-modules.php:2806 ../main-modules.php:3970
+#: ../main-modules.php:7472 ../main-modules.php:9736 ../main-modules.php:9775
+#: ../main-modules.php:9794 ../main-modules.php:11189
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+"Otpremite vašu željenu sliku, ili ukucajte URL slike koju biste želeli da "
+"prikažete."
+
+#: ../main-modules.php:83 ../main-modules.php:2425 ../main-modules.php:11192
+msgid "Image Alternative Text"
+msgstr "Alternativni tekst slike"
+
+#: ../main-modules.php:85 ../main-modules.php:11194
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+"Ovo definiše alternativni tekst slike. Kratki opis vaše slike može ovde biti "
+"postavljen."
+
+#: ../main-modules.php:88 ../main-modules.php:11197
+msgid "Image Title Text"
+msgstr "Tekst naslova slike"
+
+#: ../main-modules.php:90 ../main-modules.php:11199
+msgid "This defines the HTML Title text."
+msgstr "Ovo definiše HTML tekst naslova."
+
+#: ../main-modules.php:93
+msgid "Open in Lightbox"
+msgstr "Otvori u Lajtboksu"
+
+#: ../main-modules.php:103 ../main-modules.php:11212
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"Ovde možete izabrati da li bi trebalo ili ne bi da se slika otvori u "
+"fascikli. Napomena: ako izaberete da otvorite sliku u fascikli, URL opcije "
+"ispod će biti ignorisane."
+
+#: ../main-modules.php:106 ../main-modules.php:11215
+msgid "Link URL"
+msgstr "URL veza"
+
+#: ../main-modules.php:109 ../main-modules.php:11218
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"Ako biste želeli da vaša slika bude veza, unesite vašu URL destinaciju ovde. "
+"Veza se neće stvoriti ako se ovo polje ostavi prazno."
+
+#: ../main-modules.php:112 ../main-modules.php:1347 ../main-modules.php:3726
+#: ../main-modules.php:8860 ../main-modules.php:11221
+msgid "Url Opens"
+msgstr "URL otvaranja"
+
+#: ../main-modules.php:115 ../main-modules.php:1350 ../main-modules.php:2795
+#: ../main-modules.php:3729 ../main-modules.php:8863 ../main-modules.php:11224
+msgid "In The Same Window"
+msgstr "U istom prozoru"
+
+#: ../main-modules.php:116 ../main-modules.php:1351 ../main-modules.php:2796
+#: ../main-modules.php:3730 ../main-modules.php:8864 ../main-modules.php:11225
+msgid "In The New Tab"
+msgstr "U novoj kartici"
+
+#: ../main-modules.php:119 ../main-modules.php:1353 ../main-modules.php:3732
+#: ../main-modules.php:8866 ../main-modules.php:11228
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+"Ovde možete izabrati da li se vaša veza otvara ili ne otvara u novom prozoru"
+
+#: ../main-modules.php:122 ../main-modules.php:7475 ../main-modules.php:11231
+msgid "Animation"
+msgstr "Animacija"
+
+#: ../main-modules.php:125 ../main-modules.php:1456 ../main-modules.php:7485
+#: ../main-modules.php:11241
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "Ovo kontroliše smer animacije."
+
+#: ../main-modules.php:128
+msgid "Remove Space Below The Image"
+msgstr "Ukloni prostor ispod slike"
+
+#: ../main-modules.php:134
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr ""
+"Ovde možete izabrati da li slika treba ili ne treba da ima prostor ispod."
+
+#: ../main-modules.php:137
+msgid "Image Alignment"
+msgstr "Poravnjanje slike"
+
+#: ../main-modules.php:144
+msgid "Here you can choose the image alignment."
+msgstr "Ovde možete izabrati poravnjanje slike."
+
+#: ../main-modules.php:147 ../main-modules.php:433 ../main-modules.php:690
+#: ../main-modules.php:857 ../main-modules.php:982 ../main-modules.php:1171
+#: ../main-modules.php:1479 ../main-modules.php:1716 ../main-modules.php:2088
+#: ../main-modules.php:2856 ../main-modules.php:3164 ../main-modules.php:3778
+#: ../main-modules.php:3987 ../main-modules.php:4264 ../main-modules.php:4664
+#: ../main-modules.php:5020 ../main-modules.php:5378 ../main-modules.php:5707
+#: ../main-modules.php:6059 ../main-modules.php:6236 ../main-modules.php:6366
+#: ../main-modules.php:6630 ../main-modules.php:6824 ../main-modules.php:7116
+#: ../main-modules.php:7254 ../main-modules.php:7522 ../main-modules.php:7862
+#: ../main-modules.php:8242 ../main-modules.php:8475 ../main-modules.php:8633
+#: ../main-modules.php:8878 ../main-modules.php:9332 ../main-modules.php:9813
+#: ../main-modules.php:10189 ../main-modules.php:10497
+#: ../main-modules.php:10776 ../main-modules.php:10958
+#: ../main-modules.php:11030 ../main-modules.php:11108
+#: ../main-modules.php:11244 ../main-modules.php:11558
+msgid "Admin Label"
+msgstr "Oznaka administratora"
+
+#: ../main-modules.php:149 ../main-modules.php:435 ../main-modules.php:692
+#: ../main-modules.php:859 ../main-modules.php:1173 ../main-modules.php:1481
+#: ../main-modules.php:1718 ../main-modules.php:2090 ../main-modules.php:2858
+#: ../main-modules.php:3166 ../main-modules.php:3780 ../main-modules.php:3989
+#: ../main-modules.php:4266 ../main-modules.php:4666 ../main-modules.php:5022
+#: ../main-modules.php:5380 ../main-modules.php:5709 ../main-modules.php:6061
+#: ../main-modules.php:6238 ../main-modules.php:6368 ../main-modules.php:6632
+#: ../main-modules.php:6826 ../main-modules.php:7118 ../main-modules.php:7256
+#: ../main-modules.php:7524 ../main-modules.php:7864 ../main-modules.php:8244
+#: ../main-modules.php:8477 ../main-modules.php:8635 ../main-modules.php:8880
+#: ../main-modules.php:9334 ../main-modules.php:9815 ../main-modules.php:10191
+#: ../main-modules.php:10499 ../main-modules.php:10778
+#: ../main-modules.php:10960 ../main-modules.php:11032
+#: ../main-modules.php:11110 ../main-modules.php:11246
+#: ../main-modules.php:11560
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+"Ovo će promeniti oznaku modula u izrađivaču, zarad lake identifikacije."
+
+#: ../main-modules.php:152 ../main-modules.php:438 ../main-modules.php:695
+#: ../main-modules.php:862 ../main-modules.php:1176 ../main-modules.php:1484
+#: ../main-modules.php:1721 ../main-modules.php:2093 ../main-modules.php:2861
+#: ../main-modules.php:3169 ../main-modules.php:3783 ../main-modules.php:3992
+#: ../main-modules.php:4269 ../main-modules.php:4669 ../main-modules.php:5025
+#: ../main-modules.php:5383 ../main-modules.php:5712 ../main-modules.php:6064
+#: ../main-modules.php:6241 ../main-modules.php:6371 ../main-modules.php:6635
+#: ../main-modules.php:6829 ../main-modules.php:7121 ../main-modules.php:7259
+#: ../main-modules.php:7527 ../main-modules.php:7867 ../main-modules.php:8247
+#: ../main-modules.php:8480 ../main-modules.php:8638 ../main-modules.php:8883
+#: ../main-modules.php:9337 ../main-modules.php:9818 ../main-modules.php:10194
+#: ../main-modules.php:10502 ../main-modules.php:10781
+#: ../main-modules.php:10963 ../main-modules.php:11035
+#: ../main-modules.php:11113 ../main-modules.php:11249
+#: ../main-modules.php:11563 ../main-structure-elements.php:206
+#: ../main-structure-elements.php:800 ../main-structure-elements.php:1287
+msgid "CSS ID"
+msgstr "CSS identifikacija"
+
+#: ../main-modules.php:154 ../main-modules.php:440 ../main-modules.php:697
+#: ../main-modules.php:864 ../main-modules.php:1178 ../main-modules.php:1486
+#: ../main-modules.php:1723 ../main-modules.php:2095 ../main-modules.php:2863
+#: ../main-modules.php:3171 ../main-modules.php:3785 ../main-modules.php:3994
+#: ../main-modules.php:4271 ../main-modules.php:4671 ../main-modules.php:5027
+#: ../main-modules.php:5385 ../main-modules.php:5714 ../main-modules.php:6066
+#: ../main-modules.php:6243 ../main-modules.php:6373 ../main-modules.php:6637
+#: ../main-modules.php:6831 ../main-modules.php:7123 ../main-modules.php:7261
+#: ../main-modules.php:7529 ../main-modules.php:7869 ../main-modules.php:8249
+#: ../main-modules.php:8482 ../main-modules.php:8640 ../main-modules.php:8885
+#: ../main-modules.php:9339 ../main-modules.php:9820 ../main-modules.php:10196
+#: ../main-modules.php:10504 ../main-modules.php:10783
+#: ../main-modules.php:10965 ../main-modules.php:11037
+#: ../main-modules.php:11115 ../main-modules.php:11251
+#: ../main-modules.php:11565 ../main-structure-elements.php:208
+#: ../main-structure-elements.php:802 ../main-structure-elements.php:1289
+msgid ""
+"Enter an optional CSS ID to be used for this module. An ID can be used to "
+"create custom CSS styling, or to create links to particular sections of your "
+"page."
+msgstr ""
+"Unesite opcionu CSS identifikaciju koja će se koristiti za ovaj modul. "
+"Identifikacija se može koristiti da bi se stvorio prilagođeni CSS stil, ili "
+"da bi se stvorile veze ka određenim sekcijama vaše stranice."
+
+#: ../main-modules.php:157 ../main-modules.php:443 ../main-modules.php:700
+#: ../main-modules.php:867 ../main-modules.php:1181 ../main-modules.php:1489
+#: ../main-modules.php:1726 ../main-modules.php:2098 ../main-modules.php:2866
+#: ../main-modules.php:3174 ../main-modules.php:3788 ../main-modules.php:3997
+#: ../main-modules.php:4274 ../main-modules.php:4674 ../main-modules.php:5030
+#: ../main-modules.php:5388 ../main-modules.php:5717 ../main-modules.php:6069
+#: ../main-modules.php:6246 ../main-modules.php:6376 ../main-modules.php:6640
+#: ../main-modules.php:6834 ../main-modules.php:7126 ../main-modules.php:7264
+#: ../main-modules.php:7532 ../main-modules.php:7872 ../main-modules.php:8252
+#: ../main-modules.php:8485 ../main-modules.php:8643 ../main-modules.php:8888
+#: ../main-modules.php:9342 ../main-modules.php:9823 ../main-modules.php:10199
+#: ../main-modules.php:10507 ../main-modules.php:10786
+#: ../main-modules.php:10968 ../main-modules.php:11040
+#: ../main-modules.php:11118 ../main-modules.php:11254
+#: ../main-modules.php:11568 ../main-structure-elements.php:211
+#: ../main-structure-elements.php:805 ../main-structure-elements.php:1292
+msgid "CSS Class"
+msgstr "CSS klasa"
+
+#: ../main-modules.php:159 ../main-modules.php:445 ../main-modules.php:702
+#: ../main-modules.php:869 ../main-modules.php:1183 ../main-modules.php:1491
+#: ../main-modules.php:1728 ../main-modules.php:2100 ../main-modules.php:2868
+#: ../main-modules.php:3176 ../main-modules.php:3790 ../main-modules.php:3999
+#: ../main-modules.php:4276 ../main-modules.php:4676 ../main-modules.php:5032
+#: ../main-modules.php:5390 ../main-modules.php:5719 ../main-modules.php:6071
+#: ../main-modules.php:6248 ../main-modules.php:6378 ../main-modules.php:6642
+#: ../main-modules.php:6836 ../main-modules.php:7128 ../main-modules.php:7266
+#: ../main-modules.php:7534 ../main-modules.php:7874 ../main-modules.php:8254
+#: ../main-modules.php:8487 ../main-modules.php:8645 ../main-modules.php:8890
+#: ../main-modules.php:9344 ../main-modules.php:9825 ../main-modules.php:10201
+#: ../main-modules.php:10509 ../main-modules.php:10788
+#: ../main-modules.php:10970 ../main-modules.php:11042
+#: ../main-modules.php:11120 ../main-modules.php:11256
+#: ../main-modules.php:11570 ../main-structure-elements.php:213
+#: ../main-structure-elements.php:807 ../main-structure-elements.php:1294
+msgid ""
+"Enter optional CSS classes to be used for this module. A CSS class can be "
+"used to create custom CSS styling. You can add multiple classes, separated "
+"with a space."
+msgstr ""
+"Unesite opcione CSS klase koje će se koristiti za ovaj modul. CSS klasa se "
+"može koristiti da bi se stvorio prilagođeni CSS stil. Možete dodati "
+"višestruke klase, odvojene razmakom."
+
+#: ../main-modules.php:162 ../main-modules.php:1494
+msgid "Image Max Width"
+msgstr "Maksimalna širina slike"
+
+#: ../main-modules.php:167
+msgid "Force Fullwidth"
+msgstr "Učini je u potpunosti širokom"
+
+#: ../main-modules.php:176
+msgid "Always Center Image On Mobile"
+msgstr "Uvek centriraj sliku na mobilnom uređaju"
+
+#: ../main-modules.php:277
+msgid "Gallery"
+msgstr "Galerija"
+
+#: ../main-modules.php:313 ../main-modules.php:3907 ../main-modules.php:4925
+#: ../main-modules.php:5269
+msgid "Caption"
+msgstr "Natpis"
+
+#: ../main-modules.php:320 ../main-modules.php:1337 ../main-modules.php:1862
+#: ../main-modules.php:3529 ../main-modules.php:3716 ../main-modules.php:3901
+#: ../main-modules.php:3950 ../main-modules.php:4216 ../main-modules.php:4612
+#: ../main-modules.php:4919 ../main-modules.php:5263 ../main-modules.php:5640
+#: ../main-modules.php:5814 ../main-modules.php:5996 ../main-modules.php:6025
+#: ../main-modules.php:6166 ../main-modules.php:6203 ../main-modules.php:6495
+#: ../main-modules.php:6566 ../main-modules.php:6611 ../main-modules.php:6764
+#: ../main-modules.php:6819 ../main-modules.php:7084 ../main-modules.php:7440
+#: ../main-modules.php:7732 ../main-modules.php:8150 ../main-modules.php:8181
+#: ../main-modules.php:8425 ../main-modules.php:8731 ../main-modules.php:9147
+#: ../main-modules.php:9584 ../main-modules.php:11373
+msgid "Title"
+msgstr "Naslov"
+
+#: ../main-modules.php:331
+msgid "Gallery Item"
+msgstr "Stavka u galeriji"
+
+#: ../main-modules.php:335 ../main-modules.php:4944 ../main-modules.php:5302
+#: ../main-modules.php:8177
+msgid "Overlay"
+msgstr "Preklapanje"
+
+#: ../main-modules.php:339 ../main-modules.php:4948 ../main-modules.php:5306
+msgid "Overlay Icon"
+msgstr "Ikona koja preklapa"
+
+#: ../main-modules.php:343
+msgid "Gallery Item Title"
+msgstr "Ime stavke u galeriji"
+
+#: ../main-modules.php:352 ../main-modules.php:360
+msgid "Gallery Images"
+msgstr "Slike galerije"
+
+#: ../main-modules.php:368 ../main-modules.php:1904
+msgid "Slider"
+msgstr "Klizač"
+
+#: ../main-modules.php:369 ../main-modules.php:4969 ../main-modules.php:5327
+#: ../main-modules.php:7753 ../main-modules.php:10716
+msgid "Grid"
+msgstr "Koordinantna mreža"
+
+#: ../main-modules.php:371 ../main-modules.php:7759
+msgid "Toggle between the various blog layout types."
+msgstr "Šaltajte između različitih vrsta rasporeda blogova."
+
+#: ../main-modules.php:382
+msgid "Images Number"
+msgstr "Broj slika"
+
+#: ../main-modules.php:384
+msgid "Define the number of images that should be displayed per page."
+msgstr "Definišite broj slika koje bi trebalo da budu prikazane po strani."
+
+#: ../main-modules.php:387
+msgid "Show Title and Caption"
+msgstr "Prikaži naslov i natpis"
+
+#: ../main-modules.php:393
+msgid ""
+"Here you can choose whether to show the images title and caption, if the "
+"image has them."
+msgstr ""
+"Ovde možete izabrati da li da prikažete naslov i natpis slika, ako ih slika "
+"ima."
+
+#: ../main-modules.php:396 ../main-modules.php:5002 ../main-modules.php:5360
+#: ../main-modules.php:7838
+msgid "Show Pagination"
+msgstr "Prikaži numerisanje stranica"
+
+#: ../main-modules.php:402 ../main-modules.php:5008 ../main-modules.php:5366
+msgid "Enable or disable pagination for this feed."
+msgstr "Aktiviraj ili deaktiviraj numerisanje stranica za ovaj izvod."
+
+#: ../main-modules.php:405 ../main-modules.php:1151 ../main-modules.php:1459
+#: ../main-modules.php:2430 ../main-modules.php:2836 ../main-modules.php:3758
+#: ../main-modules.php:3978 ../main-modules.php:4244 ../main-modules.php:4644
+#: ../main-modules.php:5011 ../main-modules.php:5369 ../main-modules.php:5680
+#: ../main-modules.php:6045 ../main-modules.php:6227 ../main-modules.php:7107
+#: ../main-modules.php:7488 ../main-modules.php:7852 ../main-modules.php:8448
+#: ../main-modules.php:8851 ../main-modules.php:9300 ../main-modules.php:9594
+#: ../main-modules.php:10165 ../main-modules.php:10749
+#: ../main-modules.php:11526
+msgid "Text Color"
+msgstr "Boja teksta"
+
+#: ../main-modules.php:408 ../main-modules.php:852 ../main-modules.php:1022
+#: ../main-modules.php:1154 ../main-modules.php:1462 ../main-modules.php:2434
+#: ../main-modules.php:2839 ../main-modules.php:3762 ../main-modules.php:3982
+#: ../main-modules.php:4248 ../main-modules.php:4648 ../main-modules.php:5014
+#: ../main-modules.php:5372 ../main-modules.php:5683 ../main-modules.php:6048
+#: ../main-modules.php:6230 ../main-modules.php:7110 ../main-modules.php:7491
+#: ../main-modules.php:7855 ../main-modules.php:8451 ../main-modules.php:8854
+#: ../main-modules.php:9303 ../main-modules.php:9597 ../main-modules.php:10168
+#: ../main-modules.php:10752 ../main-modules.php:11529
+msgid "Dark"
+msgstr "Tamno"
+
+#: ../main-modules.php:409 ../main-modules.php:851 ../main-modules.php:1021
+#: ../main-modules.php:1155 ../main-modules.php:1463 ../main-modules.php:2433
+#: ../main-modules.php:2840 ../main-modules.php:3761 ../main-modules.php:3981
+#: ../main-modules.php:4247 ../main-modules.php:4647 ../main-modules.php:5015
+#: ../main-modules.php:5373 ../main-modules.php:5684 ../main-modules.php:6049
+#: ../main-modules.php:6231 ../main-modules.php:7111 ../main-modules.php:7492
+#: ../main-modules.php:7856 ../main-modules.php:8452 ../main-modules.php:8855
+#: ../main-modules.php:9304 ../main-modules.php:9598 ../main-modules.php:10169
+#: ../main-modules.php:10753 ../main-modules.php:11530
+msgid "Light"
+msgstr "Svetlo"
+
+#: ../main-modules.php:411 ../main-modules.php:1465 ../main-modules.php:2842
+#: ../main-modules.php:3764 ../main-modules.php:3984 ../main-modules.php:4250
+#: ../main-modules.php:4650 ../main-modules.php:5017 ../main-modules.php:5375
+#: ../main-modules.php:5686 ../main-modules.php:6051 ../main-modules.php:7113
+#: ../main-modules.php:7859 ../main-modules.php:8454 ../main-modules.php:8857
+#: ../main-modules.php:10755
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Ovde možete izabrati da li će vaš tekst da bude svetao ili taman. Ako radite "
+"sa tamnom pozadinom, onda bi vaš tekst trebalo da bude svetao. Ako je vaša "
+"pozadina svetla, onda bi vaš tekst trebalo da bude podešen na tamno."
+
+#: ../main-modules.php:414 ../main-modules.php:2012 ../main-modules.php:10423
+msgid "Automatic Animation"
+msgstr "Automatska animacija"
+
+#: ../main-modules.php:424 ../main-modules.php:2021 ../main-modules.php:10432
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+"Ako biste želeli da klizač klizi automatski, a da posetilac ne mora da "
+"klikne sledeći taster, aktivirajte ovu opciju i onda podesite ispod brzinu "
+"rotacije, ako želite."
+
+#: ../main-modules.php:427 ../main-modules.php:2024 ../main-modules.php:10435
+msgid "Automatic Animation Speed (in ms)"
+msgstr "Brzina automatske animacije (u milisekundama)"
+
+#: ../main-modules.php:430 ../main-modules.php:2027 ../main-modules.php:10438
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+"Ovde možete odrediti koliko brzo klizač bledi između svakog slajda, ako je "
+"opcija  „Automatska animacija“ aktivirana iznad. Što je veći broj, to je "
+"duža pauza između svake rotacije."
+
+#: ../main-modules.php:448 ../main-modules.php:5035 ../main-modules.php:5401
+msgid "Zoom Icon Color"
+msgstr "Boja ikone za zumiranje"
+
+#: ../main-modules.php:455 ../main-modules.php:5041 ../main-modules.php:5407
+#: ../main-modules.php:8269
+msgid "Hover Overlay Color"
+msgstr "Boja preklopa pri zadržavanju pokazivača iznad"
+
+#: ../main-modules.php:462 ../main-modules.php:5047 ../main-modules.php:5393
+#: ../main-modules.php:8275
+msgid "Hover Icon Picker"
+msgstr "Birač ikone pri zadržavanju pokazivača iznad"
+
+#: ../main-modules.php:629 ../main-modules.php:786 ../main-modules.php:959
+msgid "Video"
+msgstr "Video"
+
+#: ../main-modules.php:644
+msgid "Video Icon"
+msgstr "Ikona video snimka"
+
+#: ../main-modules.php:653 ../main-modules.php:987
+msgid "Video MP4/URL"
+msgstr "Video MP4 URL"
+
+#: ../main-modules.php:656 ../main-modules.php:665 ../main-modules.php:990
+#: ../main-modules.php:999 ../main-modules.php:2442 ../main-modules.php:2451
+#: ../main-structure-elements.php:126 ../main-structure-elements.php:135
+#: ../main-structure-elements.php:827 ../main-structure-elements.php:836
+msgid "Upload a video"
+msgstr "Otpremi video"
+
+#: ../main-modules.php:657 ../main-modules.php:991
+msgid "Choose a Video MP4 File"
+msgstr "Izaberite MP4 video datoteku"
+
+#: ../main-modules.php:658 ../main-modules.php:667 ../main-modules.php:992
+#: ../main-modules.php:1001
+msgid "Set As Video"
+msgstr "Postavi kao video"
+
+#: ../main-modules.php:659 ../main-modules.php:993
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr ""
+"Otpremite vaš željeni video u .MP4 formatu ili ukucajte URL video zapisa "
+"koji biste želeli da prikažete."
+
+#: ../main-modules.php:662 ../main-modules.php:996
+msgid "Video Webm"
+msgstr ".WEBM  video datoteka"
+
+#: ../main-modules.php:666 ../main-modules.php:1000
+msgid "Choose a Video WEBM File"
+msgstr "Izaberite .WEBM video datoteku"
+
+#: ../main-modules.php:668 ../main-modules.php:1002
+msgid ""
+"Upload the .WEBM version of your video here. All uploaded videos should be "
+"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+msgstr ""
+"Otpremite ovde .WEBM verziju vašeg video zapisa. Svi otpremljeni video "
+"zapisi treba da budu i u .MP4 i u .WEBM formatima da bi se obezbedila "
+"maksimalna kompatibilnost u svim pregledačima."
+
+#: ../main-modules.php:671 ../main-modules.php:1005
+msgid "Image Overlay URL"
+msgstr "URL prekrivajuće slike"
+
+#: ../main-modules.php:678 ../main-modules.php:1012
+msgid "Generate From Video"
+msgstr "Generiši sliku iz video zapisa"
+
+#: ../main-modules.php:681 ../main-modules.php:1015
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display over your video. You can also generate a still image from your video."
+msgstr ""
+"Otpremite vašu željenu sliku ili ukucajte URL slike koju biste želeli da "
+"prikažete preko vašeg video zapisa. Možete takođe iz vašeg video zapisa "
+"generisati i fotografiju bez pokreta."
+
+#: ../main-modules.php:684 ../main-modules.php:872
+msgid "Play Icon Color"
+msgstr "Boja ikone za reprodukovanje"
+
+#: ../main-modules.php:783
+msgid "Video Slider"
+msgstr "Video klizač"
+
+#: ../main-modules.php:808
+msgid "Play Button"
+msgstr "Taster za reprodukovanje"
+
+#: ../main-modules.php:812
+msgid "Thumbnail Item"
+msgstr "Sličica"
+
+#: ../main-modules.php:821
+msgid "Display Image Overlays on Main Video"
+msgstr "Prikaži preklapanja slike na glavnom video zapisu"
+
+#: ../main-modules.php:824
+msgid "Hide"
+msgstr "Sakrij"
+
+#: ../main-modules.php:825
+msgid "Show"
+msgstr "Prikaži"
+
+#: ../main-modules.php:827
+msgid ""
+"This option will cover the player UI on the main video. This image can "
+"either be uploaded in each video setting or auto-generated by Divi."
+msgstr ""
+"Ova opcija će pokriti interfejs plejera na glavnom video zapisu. Ova slika "
+"može biti ili otpremljena u svakom video podešavanju ili automatski "
+"generisana od strane Divi."
+
+#: ../main-modules.php:830 ../main-modules.php:1994 ../main-modules.php:10405
+msgid "Arrows"
+msgstr "Strelice"
+
+#: ../main-modules.php:833 ../main-modules.php:1997 ../main-modules.php:10408
+msgid "Show Arrows"
+msgstr "Prikaži strelice"
+
+#: ../main-modules.php:834 ../main-modules.php:1998 ../main-modules.php:10409
+msgid "Hide Arrows"
+msgstr "Sakrij strelice"
+
+#: ../main-modules.php:836 ../main-modules.php:2000
+msgid "This setting will turn on and off the navigation arrows."
+msgstr "Ovo podešavanje će uključiti i isključiti strelice za navigaciju."
+
+#: ../main-modules.php:839
+msgid "Slider Controls"
+msgstr "Kontrole klizača"
+
+#: ../main-modules.php:842
+msgid "Use Thumbnail Track"
+msgstr "Koristi traku sa sličicama"
+
+#: ../main-modules.php:843
+msgid "Use Dot Navigation"
+msgstr "Koristi tačkastu navigaciju"
+
+#: ../main-modules.php:845
+msgid ""
+"This setting will let you choose to use the thumbnail track controls below "
+"the slider or dot navigation at the bottom of the slider."
+msgstr ""
+"Ovo podešavanje će vam dozvoliti da izaberete da koristite kontrole trake sa "
+"sličicama ispod klizača ili tačkastu navigaciju na dnu klizača."
+
+#: ../main-modules.php:848
+msgid "Slider Controls Color"
+msgstr "Boja kontrola klizača"
+
+#: ../main-modules.php:854
+msgid ""
+"This setting will make your slider controls either light or dark in color. "
+"Slider controls are either the arrows on the thumbnail track or the circles "
+"in dot navigation."
+msgstr ""
+"Ovo podešavanje će učiniti vaše kontrole klizača ili svetlim ili tamnim. "
+"Kontrole klizača su ili strelice na traci sa sličicama ili krugovi u "
+"tačkastoj navigaciji."
+
+#: ../main-modules.php:878
+msgid "Thumbnail Overlay Color"
+msgstr "Preklapajuća boja sličice"
+
+#: ../main-modules.php:963
+msgid "New Video"
+msgstr "Novi video"
+
+#: ../main-modules.php:964
+msgid "Video Settings"
+msgstr "Podešavanja za video"
+
+#: ../main-modules.php:984
+msgid ""
+"This will change the label of the video in the builder for easy "
+"identification."
+msgstr ""
+"Ovo će izmeniti oznaku video zapisa u izrađivaču, zarad lakše identifikacije."
+
+#: ../main-modules.php:1018
+msgid "Slider Arrows Color"
+msgstr "Boja strelica klizača"
+
+#: ../main-modules.php:1024
+msgid ""
+"This setting will make your slider arrows either light or dark in color."
+msgstr ""
+"Ovo podešavanje će učiniti vaše strelice klizača ili svetlim ili tamnim."
+
+#: ../main-modules.php:1114 ../main-modules.php:1136
+msgid "Text"
+msgstr "Tekst"
+
+#: ../main-modules.php:1157 ../main-modules.php:7494 ../main-modules.php:9600
+#: ../main-modules.php:10171
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with a "
+"light background, then your text should be dark."
+msgstr ""
+"Ovde možete izabrati vrednost vašeg teksta. Ako radite sa tamnom pozadinom, "
+"onda bi vaš tekst trebalo da bude podešen na svetlo. Ako radite sa svetlom "
+"pozadinom, onda bi vaš tekst trebalo da bude taman."
+
+#: ../main-modules.php:1160 ../main-modules.php:1468 ../main-modules.php:2845
+#: ../main-modules.php:3767 ../main-modules.php:4253 ../main-modules.php:4653
+#: ../main-modules.php:9290 ../main-modules.php:10174
+#: ../main-modules.php:11516
+msgid "Text Orientation"
+msgstr "Orijentacija teksta"
+
+#: ../main-modules.php:1163 ../main-modules.php:9606 ../main-modules.php:10177
+msgid "This controls the how your text is aligned within the module."
+msgstr "Ovo kontroliše način na koji je vaš tekst poravnat u okviru modula."
+
+#: ../main-modules.php:1168 ../main-modules.php:11027
+#: ../main-modules.php:11105
+msgid "Here you can create the content that will be used within the module."
+msgstr "Ovde možete stvoriti sadržaj koji će biti korišćen u okviru modula."
+
+#: ../main-modules.php:1186 ../main-modules.php:3793 ../main-modules.php:11045
+msgid "Max Width"
+msgstr "Maksimalna širina"
+
+#: ../main-modules.php:1236
+msgid "Blurb"
+msgstr "Blurb tekst"
+
+#: ../main-modules.php:1286 ../main-modules.php:1948 ../main-modules.php:2320
+#: ../main-modules.php:3112 ../main-modules.php:3473 ../main-modules.php:3674
+#: ../main-modules.php:4123 ../main-modules.php:4573 ../main-modules.php:7065
+#: ../main-modules.php:7410 ../main-modules.php:7710 ../main-modules.php:8394
+#: ../main-modules.php:10356
+msgid "Header"
+msgstr "Zaglavlje"
+
+#: ../main-modules.php:1292 ../main-modules.php:1680 ../main-modules.php:1841
+#: ../main-modules.php:1954 ../main-modules.php:2327 ../main-modules.php:2733
+#: ../main-modules.php:3130 ../main-modules.php:3491 ../main-modules.php:3680
+#: ../main-modules.php:4129 ../main-modules.php:4579 ../main-modules.php:6314
+#: ../main-modules.php:6572 ../main-modules.php:7071 ../main-modules.php:7416
+#: ../main-modules.php:7722 ../main-modules.php:10365
+msgid "Body"
+msgstr "Telo"
+
+#: ../main-modules.php:1308
+msgid "Blurb Image"
+msgstr "Slika paragrafa"
+
+#: ../main-modules.php:1312
+msgid "Blurb Title"
+msgstr "Naziv paragrafa"
+
+#: ../main-modules.php:1316
+msgid "Blurb Content"
+msgstr "Sadržaj paragrafa"
+
+#: ../main-modules.php:1339
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr "Naslov vašeg blurb teksta će biti podebljan ispod vaše blurb slike."
+
+#: ../main-modules.php:1342
+msgid "Url"
+msgstr "URL"
+
+#: ../main-modules.php:1344
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr ""
+"Ako biste želeli da naslov vašeg blurb teksta pretvorite u vezu, unesite "
+"ovde vašu URL destinaciju."
+
+#: ../main-modules.php:1356
+msgid "Use Icon"
+msgstr "Koristi ikonu"
+
+#: ../main-modules.php:1369
+msgid "Here you can choose whether icon set below should be used."
+msgstr "Ovde možete izabrati da li će se ikona postavljena ispod koristiti."
+
+#: ../main-modules.php:1372 ../main-modules.php:9634
+msgid "Icon"
+msgstr "Ikona"
+
+#: ../main-modules.php:1377
+msgid "Choose an icon to display with your blurb."
+msgstr "Izaberite ikonu koju ćete prikazati sa vašim blurb tekstom."
+
+#: ../main-modules.php:1381 ../main-modules.php:6393 ../main-modules.php:6529
+#: ../main-modules.php:6657 ../main-modules.php:7537 ../main-modules.php:9035
+msgid "Icon Color"
+msgstr "Boja ikone"
+
+#: ../main-modules.php:1383
+msgid "Here you can define a custom color for your icon."
+msgstr "Ovde možete odrediti prilagođenu boju za vašu ikonu."
+
+#: ../main-modules.php:1387
+msgid "Circle Icon"
+msgstr "Kružna ikona"
+
+#: ../main-modules.php:1397
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+"Ovde možete izabrati da li da se ikona postavljena iznad prikazuje u okviru "
+"kruga."
+
+#: ../main-modules.php:1401 ../main-modules.php:6074
+msgid "Circle Color"
+msgstr "Boja kruga"
+
+#: ../main-modules.php:1403
+msgid "Here you can define a custom color for the icon circle."
+msgstr "Ovde možete odrediti prilagođenu boju za krug ikone."
+
+#: ../main-modules.php:1407
+msgid "Show Circle Border"
+msgstr "Prikaži ivicu kruga"
+
+#: ../main-modules.php:1416
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr "Ovde možete izabrati da li će biti prikazana ivica kruga."
+
+#: ../main-modules.php:1420
+msgid "Circle Border Color"
+msgstr "Boja ivice kruga"
+
+#: ../main-modules.php:1422
+msgid "Here you can define a custom color for the icon circle border."
+msgstr "Ovde možete izabrati prilagođenu boju za ivicu kruga ikone."
+
+#: ../main-modules.php:1432
+msgid "Upload an image to display at the top of your blurb."
+msgstr "Otpremi sliku da biste je prikazali na vrhu vašeg blurb teksta."
+
+#: ../main-modules.php:1435
+msgid "Image Alt Text"
+msgstr "Alternativni tekst slike"
+
+#: ../main-modules.php:1437
+msgid "Define the HTML ALT text for your image here."
+msgstr "Definišite ovde alternativni tekst slike za vašu sliku."
+
+#: ../main-modules.php:1441
+msgid "Image/Icon Placement"
+msgstr "Raspored slike/ikone"
+
+#: ../main-modules.php:1444
+msgid "Here you can choose where to place the icon."
+msgstr "Ovde možete izabrati gde da smestite ikonu."
+
+#: ../main-modules.php:1447
+msgid "Image/Icon Animation"
+msgstr "Animacija slike/ikone"
+
+#: ../main-modules.php:1471
+msgid "This will control how your blurb text is aligned."
+msgstr "Ovo će kontrolisati na koji način je vaš blurb tekst poravnat."
+
+#: ../main-modules.php:1476 ../main-modules.php:2853 ../main-modules.php:3775
+#: ../main-modules.php:4261 ../main-modules.php:4661 ../main-modules.php:6627
+#: ../main-modules.php:7519
+msgid "Input the main text content for your module here."
+msgstr "Unesite ovde sadržaj glavnog teksta za vaš modul."
+
+#: ../main-modules.php:1499
+msgid "Use Icon Font Size"
+msgstr "Koristi veličinu fonta ikone"
+
+#: ../main-modules.php:1511
+msgid "Icon Font Size"
+msgstr "Veličina fonta ikone"
+
+#: ../main-modules.php:1656
+msgid "Tabs"
+msgstr "Kartice"
+
+#: ../main-modules.php:1659 ../main-modules.php:1673 ../main-modules.php:1703
+#: ../main-modules.php:1817 ../main-modules.php:1833 ../main-modules.php:1885
+msgid "Tab"
+msgstr "Kartica"
+
+#: ../main-modules.php:1699
+msgid "Tabs Controls"
+msgstr "Postavke kartica"
+
+#: ../main-modules.php:1707
+msgid "Active Tab"
+msgstr "Aktivna kartica"
+
+#: ../main-modules.php:1731
+msgid "Active Tab Background Color"
+msgstr "Pozadinska boja aktivne kartice"
+
+#: ../main-modules.php:1737
+msgid "Inactive Tab Background Color"
+msgstr "Pozadinska boja neaktivne kartice"
+
+#: ../main-modules.php:1827
+msgid "New Tab"
+msgstr "Nova kartica"
+
+#: ../main-modules.php:1828
+msgid "Tab Settings"
+msgstr "Podešavanja kartice"
+
+#: ../main-modules.php:1864 ../main-modules.php:8733
+msgid "The title will be used within the tab button for this tab."
+msgstr "Naslov će biti korišćen u okviru tastera za karticu za ovu karticu."
+
+#: ../main-modules.php:1907 ../main-modules.php:2276 ../main-modules.php:10315
+msgid "Slide"
+msgstr "Slajd"
+
+#: ../main-modules.php:1963 ../main-modules.php:2337 ../main-modules.php:3155
+#: ../main-modules.php:3508 ../main-modules.php:3697 ../main-modules.php:4139
+#: ../main-modules.php:4589 ../main-modules.php:6786 ../main-modules.php:10374
+msgid "Button"
+msgstr ""
+
+#: ../main-modules.php:1969 ../main-modules.php:10380
+msgid "Slide Description"
+msgstr "Opis slajda"
+
+#: ../main-modules.php:1973 ../main-modules.php:10384
+msgid "Slide Title"
+msgstr "Naziv slajda"
+
+#: ../main-modules.php:1977 ../main-modules.php:10388
+msgid "Slide Button"
+msgstr "Taster slajda"
+
+#: ../main-modules.php:1981 ../main-modules.php:10392
+msgid "Slide Controllers"
+msgstr "Kontroleri slajda"
+
+#: ../main-modules.php:1985 ../main-modules.php:10396
+msgid "Slide Active Controller"
+msgstr "Upravljač aktivnog slajda"
+
+#: ../main-modules.php:2003 ../main-modules.php:10414
+msgid "Controls"
+msgstr "Kontrole"
+
+#: ../main-modules.php:2006 ../main-modules.php:10417
+msgid "Show Slider Controls"
+msgstr "Prikaži kontrole klizača"
+
+#: ../main-modules.php:2007 ../main-modules.php:10418
+msgid "Hide Slider Controls"
+msgstr "Sakrij kontrole klizača"
+
+#: ../main-modules.php:2009
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr ""
+"Ovo podešavanje će uključiti i isključiti kružne tastere na dnu klizača."
+
+#: ../main-modules.php:2030 ../main-modules.php:9747 ../main-modules.php:10441
+msgid "Use Parallax effect"
+msgstr "Koristi Paralaksa efekat"
+
+#: ../main-modules.php:2041
+msgid ""
+"Enabling this option will give your background images a fixed position as "
+"you scroll."
+msgstr ""
+"Aktiviranje ove opcije će dati vašim pozadinskim slikama fiksiranu poziciju "
+"dok se pomerate po stranici."
+
+#: ../main-modules.php:2044 ../main-modules.php:9759 ../main-modules.php:10453
+msgid "Parallax method"
+msgstr "Paralaksa efekat"
+
+#: ../main-modules.php:2047 ../main-modules.php:9283 ../main-modules.php:9762
+#: ../main-modules.php:10456 ../main-modules.php:11509
+#: ../main-structure-elements.php:184 ../main-structure-elements.php:876
+msgid "CSS"
+msgstr "CSS"
+
+#: ../main-modules.php:2048 ../main-modules.php:9284 ../main-modules.php:9763
+#: ../main-modules.php:10457 ../main-modules.php:11510
+#: ../main-structure-elements.php:185 ../main-structure-elements.php:877
+msgid "True Parallax"
+msgstr "Istinski Paralaksa efekat"
+
+#: ../main-modules.php:2051 ../main-modules.php:9766 ../main-modules.php:10460
+#: ../main-structure-elements.php:188
+msgid "Define the method, used for the parallax effect."
+msgstr "Odredite metod koji ćete koristiti za Paralaksa efekat."
+
+#: ../main-modules.php:2054 ../main-modules.php:10463
+msgid "Remove Inner Shadow"
+msgstr "Ukloni unutrašnju senku"
+
+#: ../main-modules.php:2062 ../main-modules.php:2372 ../main-modules.php:10471
+msgid "Background Image Position"
+msgstr ""
+
+#: ../main-modules.php:2066 ../main-modules.php:2377 ../main-modules.php:10475
+msgid "Top Left"
+msgstr ""
+
+#: ../main-modules.php:2067 ../main-modules.php:2378 ../main-modules.php:10476
+msgid "Top Center"
+msgstr ""
+
+#: ../main-modules.php:2068 ../main-modules.php:2379 ../main-modules.php:10477
+msgid "Top Right"
+msgstr ""
+
+#: ../main-modules.php:2069 ../main-modules.php:2380 ../main-modules.php:10478
+msgid "Center Right"
+msgstr ""
+
+#: ../main-modules.php:2070 ../main-modules.php:2381 ../main-modules.php:10479
+msgid "Center Left"
+msgstr ""
+
+#: ../main-modules.php:2071 ../main-modules.php:2382 ../main-modules.php:10480
+msgid "Bottom Left"
+msgstr ""
+
+#: ../main-modules.php:2072 ../main-modules.php:2383 ../main-modules.php:10481
+msgid "Bottom Center"
+msgstr ""
+
+#: ../main-modules.php:2073 ../main-modules.php:2384 ../main-modules.php:10482
+msgid "Bottom Right"
+msgstr ""
+
+#: ../main-modules.php:2078 ../main-modules.php:2388 ../main-modules.php:10487
+msgid "Background Image Size"
+msgstr ""
+
+#: ../main-modules.php:2082 ../main-modules.php:2393 ../main-modules.php:10491
+msgid "Fit"
+msgstr ""
+
+#: ../main-modules.php:2083 ../main-modules.php:2394 ../main-modules.php:10492
+msgid "Actual Size"
+msgstr ""
+
+#: ../main-modules.php:2103 ../main-modules.php:10512
+msgid "Top Padding"
+msgstr "Gornja unutrašnja margina"
+
+#: ../main-modules.php:2108 ../main-modules.php:10517
+msgid "Bottom Padding"
+msgstr "Donja unutrašnja margina"
+
+#: ../main-modules.php:2113 ../main-modules.php:10522
+msgid "Hide Content On Mobile"
+msgstr "Sakrij sadržaj na mobilnom uređaju"
+
+#: ../main-modules.php:2122 ../main-modules.php:10531
+msgid "Hide CTA On Mobile"
+msgstr "Sakrij CTA na mobilnom uređaju"
+
+#: ../main-modules.php:2131 ../main-modules.php:10540
+msgid "Show Image / Video On Mobile"
+msgstr "Prikaži sliku / video snimak na mobilnom uređaju"
+
+#: ../main-modules.php:2314
+msgid "New Slide"
+msgstr "Novi slajd"
+
+#: ../main-modules.php:2315
+msgid "Slide Settings"
+msgstr "Podešavanja slajda"
+
+#: ../main-modules.php:2349
+msgid "Heading"
+msgstr "Naslov"
+
+#: ../main-modules.php:2351
+msgid "Define the title text for your slide."
+msgstr "Definišite tekst naslova za vaš slajd."
+
+#: ../main-modules.php:2354 ../main-modules.php:3559 ../main-modules.php:3735
+#: ../main-modules.php:4221
+msgid "Button Text"
+msgstr "Tekst tastera"
+
+#: ../main-modules.php:2356
+msgid "Define the text for the slide button"
+msgstr "Odredite tekst za taster slajda"
+
+#: ../main-modules.php:2359 ../main-modules.php:3554 ../main-modules.php:3721
+msgid "Button URL"
+msgstr "URL tastera"
+
+#: ../main-modules.php:2361
+msgid "Input a destination URL for the slide button."
+msgstr "Unesite URL destinaciju za taster slajda."
+
+#: ../main-modules.php:2369 ../main-structure-elements.php:102
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"Ako se definiše, ova slika će biti korišćena kao pozadina za ovaj modul. Da "
+"biste uklonili sliku pozadine, jednostavno izbrišite URL iz polja za "
+"podešavanja."
+
+#: ../main-modules.php:2392
+msgid "Cover"
+msgstr ""
+
+#: ../main-modules.php:2400 ../main-modules.php:10162
+msgid "Use the color picker to choose a background color for this module."
+msgstr "Koristite birač boja da biste izabrali boju pozadine za ovaj modul."
+
+#: ../main-modules.php:2403
+msgid "Slide Image"
+msgstr "Slika slajda"
+
+#: ../main-modules.php:2406
+msgid "Choose a Slide Image"
+msgstr "Izaberite sliku slajda"
+
+#: ../main-modules.php:2407
+msgid "Set As Slide Image"
+msgstr "Postavi kao sliku slajda"
+
+#: ../main-modules.php:2408
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+"Ako je definisano, ova slika slajda će se pojaviti levo od vašeg teksta "
+"slajda. Otpremite sliku, ili ostavite prazno da biste imali samo slajd sa "
+"tekstom."
+
+#: ../main-modules.php:2411
+msgid "Slide Image Vertical Alignment"
+msgstr "Vertikalno poravnanje slike slajda"
+
+#: ../main-modules.php:2417
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+"Ovo podešavanje određuje vertikalno poravnanje vaše slike slajda. Vaša slika "
+"može biti ili vertikalno postavljena, ili poravnana na dno vašeg slajda."
+
+#: ../main-modules.php:2420
+msgid "Slide Video"
+msgstr "Video slajda"
+
+#: ../main-modules.php:2422
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+"Ako je definisano, ovaj video će se pojaviti levo od vašeg teksta slajda. "
+"Unesite URL stranica Youtube ili Vimeo, ili ostavite prazno da biste imali "
+"samo slajd sa tekstom."
+
+#: ../main-modules.php:2427
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr ""
+"Ako imate definisanu sliku slajda, unesite ovde vaš HTML alternativni tekst "
+"za sliku."
+
+#: ../main-modules.php:2436
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+"Ovde možete izabrati da li je vaš tekst svetao ili taman. Ako imate slajd sa "
+"tamnom pozadinom, onda izaberite svetao tekst. Ako imate svetlu pozadinu, "
+"onda koristite taman tekst."
+
+#: ../main-modules.php:2439 ../main-structure-elements.php:123
+#: ../main-structure-elements.php:824
+msgid "Background Video MP4"
+msgstr "Video MP4 za pozadinu"
+
+#: ../main-modules.php:2443 ../main-structure-elements.php:127
+#: ../main-structure-elements.php:828
+msgid "Choose a Background Video MP4 File"
+msgstr "Izaberite MP4 video datoteku kao pozadinu"
+
+#: ../main-modules.php:2444 ../main-modules.php:2453
+#: ../main-structure-elements.php:128 ../main-structure-elements.php:137
+#: ../main-structure-elements.php:829 ../main-structure-elements.php:838
+msgid "Set As Background Video"
+msgstr "Postavi kao pozadinski video"
+
+#: ../main-modules.php:2445 ../main-structure-elements.php:129
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Svi video zapisi bi trebalo da budu otpremljeni i u .MP4 i u .WEBM "
+"formatima, da bi se obezbedila maksimalna kompatibilnost u svim "
+"pregledačima. Otpremi ovde .MP4 verziju. Važna napomena: Video zapisi kao "
+"pozadine su onemogućeni sa mobilnih uređaja. Umesto toga, biće korišćena "
+"vaša pozadinska slika. Iz ovog razloga, trebalo bi da odredite i pozadinsku "
+"sliku i pozadinski video da biste obezbedili najbolje rezultate."
+
+#: ../main-modules.php:2448 ../main-structure-elements.php:132
+#: ../main-structure-elements.php:833
+msgid "Background Video Webm"
+msgstr "Video WEBM kao pozadina"
+
+#: ../main-modules.php:2452 ../main-structure-elements.php:136
+#: ../main-structure-elements.php:837
+msgid "Choose a Background Video WEBM File"
+msgstr "Izaberite .WEBM video datoteku kao pozadinu"
+
+#: ../main-modules.php:2454 ../main-structure-elements.php:138
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Svi video zapisi bi trebalo da budu otpremljeni i u .MP4 i u .WEBM "
+"formatima, da bi se obezbedila maksimalna kompatibilnost u svim "
+"pregledačima. Otpremi ovde .WEBM verziju. Važna napomena: Video zapisi kao "
+"pozadine su onemogućeni sa mobilnih uređaja. Umesto toga, biće korišćena "
+"vaša pozadinska slika. Iz ovog razloga, trebalo bi da odredite i pozadinsku "
+"sliku i pozadinski video da biste obezbedili najbolje rezultate."
+
+#: ../main-modules.php:2457 ../main-structure-elements.php:141
+#: ../main-structure-elements.php:842
+msgid "Background Video Width"
+msgstr "Širina pozadinskog videa"
+
+#: ../main-modules.php:2459 ../main-structure-elements.php:143
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"Da bi video zapisima bila ispravno podešena veličina, morate ovde uneti "
+"tačnu širinu (u pikselima) vašeg video zapisa."
+
+#: ../main-modules.php:2462 ../main-structure-elements.php:146
+#: ../main-structure-elements.php:847
+msgid "Background Video Height"
+msgstr "Visina pozadinskog videa"
+
+#: ../main-modules.php:2464 ../main-structure-elements.php:148
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"Da bi video zapisima bila ispravno podešena veličina, morate ovde uneti "
+"tačnu širinu (u pikselima) vašeg video zapisa."
+
+#: ../main-modules.php:2467 ../main-structure-elements.php:151
+#: ../main-structure-elements.php:852
+msgid "Pause Video"
+msgstr "Pauziraj video"
+
+#: ../main-modules.php:2473 ../main-structure-elements.php:157
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr ""
+"Dozvolite da se video pauzira od strane ostalih plejera kada započnu puštanje"
+
+#: ../main-modules.php:2478
+msgid "Input your main slide text content here."
+msgstr "Unesite ovde vaš sadžaj glavnog teksta slajda."
+
+#: ../main-modules.php:2481
+msgid "Arrows Custom Color"
+msgstr "Prilagođena boja strelica"
+
+#: ../main-modules.php:2487
+msgid "Dot Nav Custom Color"
+msgstr "Prilagođena boja Dot navigacije"
+
+#: ../main-modules.php:2694
+msgid "Testimonial"
+msgstr "Svedočanstva"
+
+#: ../main-modules.php:2751
+msgid "Testimonial Portrait"
+msgstr "Portret izjavnog teksta"
+
+#: ../main-modules.php:2755
+msgid "Testimonial Description"
+msgstr "Opis izjavnog teksta"
+
+#: ../main-modules.php:2759
+msgid "Testimonial Author"
+msgstr "Autor izjavnog teksta"
+
+#: ../main-modules.php:2763
+msgid "Testimonial Meta"
+msgstr "Meta podaci izjavnog teksta"
+
+#: ../main-modules.php:2772
+msgid "Author Name"
+msgstr "Ime autora"
+
+#: ../main-modules.php:2774
+msgid "Input the name of the testimonial author."
+msgstr "Unesite ime autora koji svedoči."
+
+#: ../main-modules.php:2777
+msgid "Job Title"
+msgstr "Radno mesto"
+
+#: ../main-modules.php:2779
+msgid "Input the job title."
+msgstr "Unesite naziv radnog mesta"
+
+#: ../main-modules.php:2782
+msgid "Company Name"
+msgstr "Ime kompanije"
+
+#: ../main-modules.php:2784
+msgid "Input the name of the company."
+msgstr "Unesite ime kompanije."
+
+#: ../main-modules.php:2787
+msgid "Author/Company URL"
+msgstr "URL kompanije/autora"
+
+#: ../main-modules.php:2789
+msgid "Input the website of the author or leave blank for no link."
+msgstr "Unesite veb lokaciju autora ili ostavite prazno ako ne želite vezu."
+
+#: ../main-modules.php:2792
+msgid "URLs Open"
+msgstr "Način otvaranja URLs"
+
+#: ../main-modules.php:2798
+msgid "Choose whether or not the URL should open in a new window."
+msgstr "Izaberite da li ili ne URL treba da se otvori u novom prozoru."
+
+#: ../main-modules.php:2801
+msgid "Portrait Image URL"
+msgstr "URL portretne slike"
+
+#: ../main-modules.php:2809
+msgid "Quote Icon"
+msgstr "Ikona za citat"
+
+#: ../main-modules.php:2812
+msgid "Visible"
+msgstr "Vidljivo"
+
+#: ../main-modules.php:2813
+msgid "Hidden"
+msgstr "Sakriveno"
+
+#: ../main-modules.php:2815
+msgid "Choose whether or not the quote icon should be visible."
+msgstr "Izaberite da li će ili neće ikona za citat biti vidljiva."
+
+#: ../main-modules.php:2818 ../main-modules.php:3740 ../main-modules.php:4226
+#: ../main-modules.php:4626 ../main-modules.php:8457
+msgid "Use Background Color"
+msgstr "Koristi boju pozadine"
+
+#: ../main-modules.php:2827 ../main-modules.php:3749 ../main-modules.php:4235
+#: ../main-modules.php:4635 ../main-modules.php:8466
+msgid ""
+"Here you can choose whether background color setting below should be used or "
+"not."
+msgstr ""
+"Ovde možete izabrati da li ćete koristiti podešavanje za boju pozadine koje "
+"se nalazi ispod."
+
+#: ../main-modules.php:2832 ../main-modules.php:3755
+msgid "Here you can define a custom background color for your CTA."
+msgstr ""
+"Ovde možete definisati prilagođenu boju pozadine za vaš „Poziv na akciju“."
+
+#: ../main-modules.php:2848 ../main-modules.php:3770
+msgid "This will adjust the alignment of the module text."
+msgstr "Ovo će podesiti poravnanje teksta modula."
+
+#: ../main-modules.php:2871
+msgid "Quote Icon Color"
+msgstr "Boja ikone citata"
+
+#: ../main-modules.php:2877
+msgid "Portrait Border Radius"
+msgstr "Radijus ivice portreta"
+
+#: ../main-modules.php:2882
+msgid "Portrait Width"
+msgstr "Širina portreta"
+
+#: ../main-modules.php:2887
+msgid "Portrait Height"
+msgstr "Visina portreta"
+
+#: ../main-modules.php:3047
+msgid "Pricing Tables"
+msgstr "Cenovnici"
+
+#: ../main-modules.php:3051 ../main-modules.php:3445
+msgid "Pricing Table"
+msgstr "Cenovnik"
+
+#: ../main-modules.php:3081
+msgid "Pricing Heading"
+msgstr "Podnaslov važećeg cenovnika"
+
+#: ../main-modules.php:3085
+msgid "Pricing Title"
+msgstr "Naslov cenovnika"
+
+#: ../main-modules.php:3089
+msgid "Pricing Top"
+msgstr "Vrh cenovnika"
+
+#: ../main-modules.php:3093 ../main-modules.php:3124 ../main-modules.php:3485
+#: ../main-modules.php:3549 ../main-modules.php:8156 ../main-modules.php:8189
+msgid "Price"
+msgstr "Cena"
+
+#: ../main-modules.php:3097
+msgid "Pricing Content"
+msgstr "Sadržaj cenovnika"
+
+#: ../main-modules.php:3101
+msgid "Pricing Button"
+msgstr "Taster za kupovinu"
+
+#: ../main-modules.php:3105
+msgid "Featured Table"
+msgstr "Istaknuta tabela"
+
+#: ../main-modules.php:3118 ../main-modules.php:3479
+msgid "Subheader"
+msgstr "Podnaslov"
+
+#: ../main-modules.php:3179
+msgid "Featured Table Background Color"
+msgstr "Pozadinska boja istaknute tabele"
+
+#: ../main-modules.php:3186
+msgid "Table Header Background Color"
+msgstr "Pozadinska boja zaglavlja tabele"
+
+#: ../main-modules.php:3192
+msgid "Featured Table Header Background Color"
+msgstr "Pozadinska boja zaglavlja istaknute tabele"
+
+#: ../main-modules.php:3199
+msgid "Featured Table Header Text Color"
+msgstr "Boja teksta zaglavlja istaknute tabele"
+
+#: ../main-modules.php:3206
+msgid "Featured Table Subheader Text Color"
+msgstr "Boja teksta podnaslova istaknute tabele"
+
+#: ../main-modules.php:3213
+msgid "Featured Table Price Color"
+msgstr "Boja cene na istaknutoj tabeli"
+
+#: ../main-modules.php:3220
+msgid "Featured Table Body Text Color"
+msgstr "Boja teksta glavnog sadržaja istaknute tabele"
+
+#: ../main-modules.php:3227
+msgid "Show Bullet"
+msgstr "Prikaži tačke"
+
+#: ../main-modules.php:3239
+msgid "Bullet Color"
+msgstr "Boja tačaka"
+
+#: ../main-modules.php:3246
+msgid "Featured Table Bullet Color"
+msgstr "Boja tačaka istaknute tabele"
+
+#: ../main-modules.php:3253
+msgid "Remove Featured Table Drop Shadow"
+msgstr "Ukloni padajuću senku sa istaknute tabele"
+
+#: ../main-modules.php:3263
+msgid "Center List Items"
+msgstr "Centriraj listu stavki"
+
+#: ../main-modules.php:3467
+msgid "New Pricing Table"
+msgstr "Novi cenovnk"
+
+#: ../main-modules.php:3468
+msgid "Pricing Table Settings"
+msgstr "Podešavanja cenovnika"
+
+#: ../main-modules.php:3520
+msgid "Make This Table Featured"
+msgstr "Istakni ovaj cenovnik"
+
+#: ../main-modules.php:3526
+msgid "Featuring a table will make it stand out from the rest."
+msgstr "Ako istaknete cenovnik to će ga izdvojiti od drugih."
+
+#: ../main-modules.php:3531
+msgid "Define a title for the pricing table."
+msgstr "Odredite naslov cenovnika"
+
+#: ../main-modules.php:3534
+msgid "Subtitle"
+msgstr "Podnaslov"
+
+#: ../main-modules.php:3536
+msgid "Define a sub title for the table if desired."
+msgstr "Odredite podnaslov cenovnika, ukoliko to želite"
+
+#: ../main-modules.php:3539
+msgid "Currency"
+msgstr "Valuta"
+
+#: ../main-modules.php:3541
+msgid "Input your desired currency symbol here."
+msgstr "Unesite ovde vaš željeni simbol valute."
+
+#: ../main-modules.php:3544
+msgid "Per"
+msgstr "Po"
+
+#: ../main-modules.php:3546
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here."
+msgstr ""
+"Ako je vaša cena zasnovana na pretplati, unesite ovde uplatu za pretplate."
+
+#: ../main-modules.php:3551
+msgid "Input the value of the product here."
+msgstr "Unesite vrednost proizvoda ovde."
+
+#: ../main-modules.php:3556
+msgid "Input the destination URL for the signup button."
+msgstr "Unesite URL destinaciju za taster za registrovanje."
+
+#: ../main-modules.php:3561
+msgid "Adjust the text used from the signup button."
+msgstr "Prilagodi tekst korišćen za taster za registraciju."
+
+#: ../main-modules.php:3568
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: "
+msgstr ""
+"Ubacite listu karakteristika koje odgovaraju/ne odgovaraju proizvodu. "
+"Odvojite stavke na novoj liniji, i započnite ili sa simbolom + ili sa "
+"simbolom  -"
+
+#: ../main-modules.php:3569
+msgid "Included option"
+msgstr "Uključena opcija"
+
+#: ../main-modules.php:3570
+msgid "Excluded option"
+msgstr "Isključena opcija"
+
+#: ../main-modules.php:3643
+msgid "Call To Action"
+msgstr "Poziv na akciju"
+
+#: ../main-modules.php:3703
+msgid "Promo Description"
+msgstr "Opis"
+
+#: ../main-modules.php:3707
+msgid "Promo Button"
+msgstr "Taster"
+
+#: ../main-modules.php:3718
+msgid "Input your value to action title here."
+msgstr "Unesite ovde vašu vrednost naslova akcije."
+
+#: ../main-modules.php:3723
+msgid "Input the destination URL for your CTA button."
+msgstr "Unesite URL destinaciju za vaš taster za „Poziv na akciju “."
+
+#: ../main-modules.php:3737
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+"Unesite vaš željeni tekst za taster, ili ostavite prazno ako ne želite "
+"taster."
+
+#: ../main-modules.php:3876 ../main-modules.php:3941
+msgid "Audio"
+msgstr "Audio"
+
+#: ../main-modules.php:3924
+msgid "Audio Cover Art"
+msgstr "Slika audio datoteke"
+
+#: ../main-modules.php:3928
+msgid "Audio Content"
+msgstr "Sadržaj audio datoteke"
+
+#: ../main-modules.php:3932
+msgid "Audio Meta"
+msgstr "Meta podaci audio datoteke"
+
+#: ../main-modules.php:3944
+msgid "Upload an audio file"
+msgstr "Otpremi audio datoteku"
+
+#: ../main-modules.php:3945
+msgid "Choose an Audio file"
+msgstr "Izaberi audio datoteku"
+
+#: ../main-modules.php:3946
+msgid "Set As Audio for the module"
+msgstr "Postavi kao audio za modul"
+
+#: ../main-modules.php:3947
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+"Odredite audio datoteku koju ćete koristiti u modulu. Da biste uklonili "
+"audio datoteku iz modula, jednostavno izbrišite URL iz polja podešavanja."
+
+#: ../main-modules.php:3952
+msgid "Define a title."
+msgstr "Odredite naslov."
+
+#: ../main-modules.php:3955
+msgid "Artist Name"
+msgstr "Ime umetnika"
+
+#: ../main-modules.php:3957
+msgid "Define an artist name."
+msgstr "Odredite ime umetnika."
+
+#: ../main-modules.php:3960
+msgid "Album name"
+msgstr "Ime albuma"
+
+#: ../main-modules.php:3962
+msgid "Define an album name."
+msgstr "Odredite ime albuma."
+
+#: ../main-modules.php:3965
+msgid "Cover Art Image URL"
+msgstr "URL slike omota"
+
+#: ../main-modules.php:3975 ../main-modules.php:4240 ../main-modules.php:4640
+#: ../main-structure-elements.php:120
+msgid ""
+"Define a custom background color for your module, or leave blank to use the "
+"default color."
+msgstr ""
+"Odredite prilagođenu boju pozadine za vaš modul, ili ostavite prazno da "
+"biste koristili podrazumevanu boju."
+
+#: ../main-modules.php:4032
+#, php-format
+msgid "by <strong>%1$s</strong>"
+msgstr "od strane <strong>%1$s</strong>"
+
+#: ../main-modules.php:4083
+msgid "Signup"
+msgstr "Registrovanje"
+
+#: ../main-modules.php:4111
+msgid "Subscribe"
+msgstr "Pretplatite se"
+
+#: ../main-modules.php:4145 ../main-modules.php:4595
+msgid "Newsletter Description"
+msgstr "Opis biltena"
+
+#: ../main-modules.php:4149 ../main-modules.php:4599
+msgid "Newsletter Form"
+msgstr "Obrazac za prijavljivanje na bilten"
+
+#: ../main-modules.php:4153 ../main-modules.php:4603
+msgid "Newsletter Button"
+msgstr "Taster biltena"
+
+#: ../main-modules.php:4160
+msgid "Select the list"
+msgstr "Izaberi listu"
+
+#: ../main-modules.php:4181
+msgid "Service Provider"
+msgstr "Dobavljač usluga"
+
+#: ../main-modules.php:4184
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: ../main-modules.php:4185
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: ../main-modules.php:4186
+msgid "Aweber"
+msgstr "Aweber"
+
+#: ../main-modules.php:4193
+msgid "Here you can choose a service provider."
+msgstr "Ovde možete izabrati dobavljača usluga."
+
+#: ../main-modules.php:4196
+msgid "Feed Title"
+msgstr "Naslov izvoda"
+
+#: ../main-modules.php:4202
+msgid "MailChimp lists"
+msgstr "MailChimp liste"
+
+#: ../main-modules.php:4205
+msgid ""
+"Here you can choose MailChimp list to add customers to. If you don't see any "
+"lists here, you need to make sure MailChimp API key is set in ePanel and you "
+"have at least one list on a MailChimp account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate MailChimp Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Ovde možete izabrati MailChimp listu da na nju dodate klijente. Ako ovde ne "
+"vidite liste, morate da se uverite da je MailChimp API ključ postavljen u "
+"ePanel i da imate makar jednu listu na MailChimp nalogu. Ako ste dodali novu "
+"listu, ali se ovde ne pojavljuje, aktivirajte „Ponovo generiši MailChimp  "
+"liste“opciju u ePanel. Ne zaboravite da je deaktivirate onda kada je lista "
+"ponovo generisana."
+
+#: ../main-modules.php:4209
+msgid "Aweber lists"
+msgstr "Aweber liste"
+
+#: ../main-modules.php:4212
+msgid ""
+"Here you can choose Aweber list to add customers to. If you don't see any "
+"lists here, you need to make sure Aweber is set up properly in ePanel and "
+"you have at least one list on a Aweber account. If you added new list, but "
+"it doesn't appear here, activate 'Regenerate Aweber Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Ovde možete izabrati Aweber listu da na nju dodate klijente. Ako ovde ne "
+"vidite liste, morate da se uverite da je Aweber propisno  postavljen u "
+"ePanel i da imate makar jednu listu na Aweber nalogu. Ako ste dodali novu "
+"listu, ali se ovde ne pojavljuje, aktivirajte „Ponovo generiši Aweber  "
+"liste“opciju u ePanel. Ne zaboravite da je deaktivirate onda kada je lista "
+"ponovo generisana."
+
+#: ../main-modules.php:4218
+msgid "Choose a title of your signup box."
+msgstr "Izaberite naslov vašeg polja za registrovanje."
+
+#: ../main-modules.php:4223
+msgid "Here you can change the text used for the signup button."
+msgstr ""
+"Ovde možete da promenite tekst koji se koristi za taster za registrovanje."
+
+#: ../main-modules.php:4256 ../main-modules.php:4656
+msgid "Here you can adjust the alignment of your text."
+msgstr "Ovde možete da podesite poravnanje vašeg teksta."
+
+#: ../main-modules.php:4279 ../main-modules.php:4679
+msgid "Form Field Background Color"
+msgstr "Pozadinska boja polja obrasca"
+
+#: ../main-modules.php:4285 ../main-modules.php:4685
+msgid "Form Field Text Color"
+msgstr "Boja teksta unutar polja obrasca"
+
+#: ../main-modules.php:4291 ../main-modules.php:4691
+msgid "Focus Background Color"
+msgstr "Pozadinska boja dela polja na koji se kliknulo"
+
+#: ../main-modules.php:4297 ../main-modules.php:4697
+msgid "Focus Text Color"
+msgstr "Boja teksta na koji se kliknulo"
+
+#: ../main-modules.php:4303 ../main-modules.php:4703
+msgid "Use Focus Border Color"
+msgstr "Koristi boju ivice za polje na koje se kliknulo"
+
+#: ../main-modules.php:4315 ../main-modules.php:4715
+msgid "Focus Border Color"
+msgstr "Boja ivice polja na koje se kliknulo"
+
+#: ../main-modules.php:4407
+msgid "First Name"
+msgstr "Ime"
+
+#: ../main-modules.php:4408
+msgid "Last Name"
+msgstr "Prezime"
+
+#: ../main-modules.php:4409 ../main-modules.php:6954
+msgid "Email Address"
+msgstr "Adresa e-pošte"
+
+#: ../main-modules.php:4476 ../main-modules.php:6953 ../main-modules.php:7457
+msgid "Name"
+msgstr "Ime"
+
+#: ../main-modules.php:4538 ../main-modules.php:4847
+msgid "Login"
+msgstr "Prijava"
+
+#: ../main-modules.php:4614
+msgid "Choose a title of your login box."
+msgstr "Izaberite naslov vašeg polja za prijavljivanje."
+
+#: ../main-modules.php:4617
+msgid "Redirect To The Current Page"
+msgstr "Preusmeri na trenutnu stranicu"
+
+#: ../main-modules.php:4623
+msgid ""
+"Here you can choose whether the user should be redirected to the current "
+"page."
+msgstr ""
+"Ovde možete izabrati da li će korisnik biti preusmeren na trenutnu stranicu."
+
+#: ../main-modules.php:4808
+#, php-format
+msgid "Logged in as %1$s"
+msgstr "Prijavljen kao %1$s"
+
+#: ../main-modules.php:4810
+msgid "Log out"
+msgstr "Odjavite se"
+
+#: ../main-modules.php:4819
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: ../main-modules.php:4820
+msgid "Password"
+msgstr "Šifra"
+
+#: ../main-modules.php:4840
+msgid "Forgot your password?"
+msgstr "Zaboravili ste šifru?"
+
+#: ../main-modules.php:4887
+msgid "Portfolio"
+msgstr "Portfelj"
+
+#: ../main-modules.php:4940 ../main-modules.php:5298
+msgid "Portfolio Image"
+msgstr "Slika portfolija"
+
+#: ../main-modules.php:4952 ../main-modules.php:5310 ../main-modules.php:10707
+msgid "Portfolio Title"
+msgstr "Naslov portfelja"
+
+#: ../main-modules.php:4956 ../main-modules.php:5314
+msgid "Portfolio Post Meta"
+msgstr "Opisni tekst portfolija"
+
+#: ../main-modules.php:4968 ../main-modules.php:5326 ../main-modules.php:7752
+msgid "Fullwidth"
+msgstr "Puna širina"
+
+#: ../main-modules.php:4971 ../main-modules.php:5329 ../main-modules.php:10718
+msgid "Choose your desired portfolio layout style."
+msgstr "Izaberite željeni stil rasporeda portfelja."
+
+#: ../main-modules.php:4974 ../main-modules.php:5332 ../main-modules.php:7762
+#: ../main-modules.php:8210 ../main-modules.php:10726
+msgid "Posts Number"
+msgstr "Broj objava"
+
+#: ../main-modules.php:4976 ../main-modules.php:5334
+msgid "Define the number of projects that should be displayed per page."
+msgstr "Odredite broj projekata koje treba prikazati po stranici."
+
+#: ../main-modules.php:4979 ../main-modules.php:5337 ../main-modules.php:7767
+#: ../main-modules.php:10721
+msgid "Include Categories"
+msgstr "Obuhvati kategorije"
+
+#: ../main-modules.php:4981 ../main-modules.php:5339 ../main-modules.php:10723
+msgid "Select the categories that you would like to include in the feed."
+msgstr "Izaberite kategorije koje biste želeli da budu uključene u izvod."
+
+#: ../main-modules.php:4984 ../main-modules.php:5342 ../main-modules.php:9166
+#: ../main-modules.php:10731 ../main-modules.php:11392
+msgid "Show Title"
+msgstr "Prikaži naslov"
+
+#: ../main-modules.php:4990 ../main-modules.php:5348 ../main-modules.php:10737
+msgid "Turn project titles on or off."
+msgstr "Uključite ili isključite naslove projekata."
+
+#: ../main-modules.php:4993 ../main-modules.php:5351 ../main-modules.php:7829
+msgid "Show Categories"
+msgstr "Prikaži kategorije"
+
+#: ../main-modules.php:4999 ../main-modules.php:5357 ../main-modules.php:7835
+msgid "Turn the category links on or off."
+msgstr "Uključi ili isključi veze kategorija."
+
+#: ../main-modules.php:5231
+msgid "Filterable Portfolio"
+msgstr "Portfelj koji se može filtrirati"
+
+#: ../main-modules.php:5275
+msgid "Filter"
+msgstr "Filter"
+
+#: ../main-modules.php:5290
+msgid "Portfolio Filters"
+msgstr "Filteri portfolija"
+
+#: ../main-modules.php:5294
+msgid "Active Portfolio Filter"
+msgstr "Aktivni filter portfolija"
+
+#: ../main-modules.php:5568
+msgid "All"
+msgstr "Sve"
+
+#: ../main-modules.php:5608
+msgid "Bar Counters"
+msgstr "Traka za brojanje"
+
+#: ../main-modules.php:5611 ../main-modules.php:5786
+msgid "Bar Counter"
+msgstr "Traka u brojaču"
+
+#: ../main-modules.php:5646 ../main-modules.php:5819 ../main-modules.php:6012
+#: ../main-modules.php:6190
+msgid "Percent"
+msgstr "Procenat"
+
+#: ../main-modules.php:5663
+msgid "Counter Title"
+msgstr "Naziv brojača"
+
+#: ../main-modules.php:5667
+msgid "Counter Container"
+msgstr "Kontejner brojača"
+
+#: ../main-modules.php:5671
+msgid "Counter Amount"
+msgstr "Brojevi brojača"
+
+#: ../main-modules.php:5691
+msgid ""
+"This will adjust the color of the empty space in the bar (currently gray)."
+msgstr "Ovo će prilagoditi boju praznog prostora u traci (trenutno siva)."
+
+#: ../main-modules.php:5694 ../main-modules.php:5830 ../main-modules.php:6054
+msgid "Bar Background Color"
+msgstr "Boja pozadine trake"
+
+#: ../main-modules.php:5696 ../main-modules.php:6056 ../main-modules.php:6224
+msgid "This will change the fill color for the bar."
+msgstr "Ovo će izmeniti unutrašnju boju trake."
+
+#: ../main-modules.php:5699
+msgid "Use Percentages"
+msgstr "Koristi procente"
+
+#: ../main-modules.php:5722
+msgid "Bar Top Padding"
+msgstr "Gornja unutrašnja margina polja trake"
+
+#: ../main-modules.php:5727
+msgid "Bar Bottom Padding"
+msgstr "Donja unutrašnja margina polja trake"
+
+#: ../main-modules.php:5732
+msgid "Border Radius"
+msgstr "Radijus ivice"
+
+#: ../main-modules.php:5804
+msgid "New Bar Counter"
+msgstr "Nova traka za brojanje"
+
+#: ../main-modules.php:5805
+msgid "Bar Counter Settings"
+msgstr "Podešavanja trake za brojanje"
+
+#: ../main-modules.php:5816
+msgid "Input a title for your bar."
+msgstr "Unesite naslov vaše trake."
+
+#: ../main-modules.php:5821
+msgid "Define a percentage for this bar."
+msgstr "Odredite procenat za ovu traku."
+
+#: ../main-modules.php:5836
+msgid "Label Color"
+msgstr "Boja teksta oznake"
+
+#: ../main-modules.php:5842
+msgid "Percentage Color"
+msgstr "Boja procenata"
+
+#: ../main-modules.php:5969
+msgid "Circle Counter"
+msgstr "Kružni brojač"
+
+#: ../main-modules.php:6002 ../main-modules.php:6030 ../main-modules.php:6172
+#: ../main-modules.php:6208
+msgid "Number"
+msgstr "Broj"
+
+#: ../main-modules.php:6016
+msgid "Circle Counter Title"
+msgstr "Naslov kružnog brojača"
+
+#: ../main-modules.php:6027
+msgid "Input a title for the circle counter."
+msgstr "Unesite naslov kružnog brojača."
+
+#: ../main-modules.php:6033
+msgid ""
+"Define a number for the circle counter. (Don't include the percentage sign, "
+"use the option below.). <strong>Note: You can use only natural numbers from "
+"0 to 100</strong>"
+msgstr ""
+"Odredite broj za kružni brojač. (Ne uključujte znak za procente, koristite "
+"opciju ispod.) Napomena: Možete koristiti prirodne brojeve od nula do 100"
+
+#: ../main-modules.php:6036 ../main-modules.php:6213
+msgid "Percent Sign"
+msgstr "Znak za procente"
+
+#: ../main-modules.php:6042 ../main-modules.php:6219
+msgid ""
+"Here you can choose whether the percent sign should be added after the "
+"number set above."
+msgstr ""
+"Ovde možete izabrati da li bi znak za procente trebalo dodati nakon broja "
+"postavljenog iznad."
+
+#: ../main-modules.php:6080
+msgid "Circle Color Opacity"
+msgstr "Zatamnjenost boje kruga"
+
+#: ../main-modules.php:6141
+msgid "Number Counter"
+msgstr "Brojač oblika broja"
+
+#: ../main-modules.php:6194
+msgid "Number Counter Title"
+msgstr "Naslov brojevnog brojača"
+
+#: ../main-modules.php:6205
+msgid "Input a title for the counter."
+msgstr "Unesite naslov za brojač."
+
+#: ../main-modules.php:6210
+msgid ""
+"Define a number for the counter. (Don't include the percentage sign, use the "
+"option below.)"
+msgstr ""
+"Odredite broj za brojač. (Ne uključujte znak za procente, koristite opciju "
+"ispod.)"
+
+#: ../main-modules.php:6222
+msgid "Counter Text Color"
+msgstr "Boja teksta brojača"
+
+#: ../main-modules.php:6233
+msgid ""
+"Here you can choose whether your title text should be light or dark. If you "
+"are working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Ovde možete izabrati da li će vaš tekst da bude svetao ili taman. Ako radite "
+"sa tamnom pozadinom, onda bi vaš tekst trebalo da bude svetao. Ako je vaša "
+"pozadina svetla, onda bi vaš tekst trebalo da bude podešen na tamno."
+
+#: ../main-modules.php:6291 ../main-modules.php:6466
+msgid "Accordion"
+msgstr "Harmonika"
+
+#: ../main-modules.php:6308 ../main-modules.php:6341 ../main-modules.php:6542
+msgid "Toggle"
+msgstr "Preklopnik"
+
+#: ../main-modules.php:6345 ../main-modules.php:6590
+msgid "Open Toggle"
+msgstr "Otvori preklopnik"
+
+#: ../main-modules.php:6349 ../main-modules.php:6594
+msgid "Toggle Title"
+msgstr "Naslov preklopnika"
+
+#: ../main-modules.php:6353 ../main-modules.php:6598
+msgid "Toggle Icon"
+msgstr "Ikona preklopnika"
+
+#: ../main-modules.php:6357 ../main-modules.php:6602
+msgid "Toggle Content"
+msgstr "Sadržaj preklopnika"
+
+#: ../main-modules.php:6381 ../main-modules.php:6505 ../main-modules.php:6645
+msgid "Open Toggle Background Color"
+msgstr "Pozadinska boja otvorenog preklopnika"
+
+#: ../main-modules.php:6387 ../main-modules.php:6517 ../main-modules.php:6651
+msgid "Closed Toggle Background Color"
+msgstr "Pozadinska boja zatvorenog preklopnika"
+
+#: ../main-modules.php:6497 ../main-modules.php:6613
+msgid ""
+"The toggle title will appear above the content and when the toggle is closed."
+msgstr ""
+"Naslov preklopnika će se pojaviti iznad sadržaja i kad je preklopnik "
+"zatvoren."
+
+#: ../main-modules.php:6511
+msgid "Open Toggle Text Color"
+msgstr "Boja teksta otvorenog preklopnika"
+
+#: ../main-modules.php:6523
+msgid "Closed Toggle Text Color"
+msgstr "Boja teksta zatvorenog preklopnika"
+
+#: ../main-modules.php:6616
+msgid "State"
+msgstr "Stanje"
+
+#: ../main-modules.php:6619
+msgid "Close"
+msgstr "Zatvori"
+
+#: ../main-modules.php:6620
+msgid "Open"
+msgstr "Otvori"
+
+#: ../main-modules.php:6622
+msgid ""
+"Choose whether or not this toggle should start in an open or closed state."
+msgstr ""
+"Izaberite da li ovaj preklopnik treba da startuje u otvorenom ili zatvorenom "
+"stanju."
+
+#: ../main-modules.php:6742
+msgid "Contact Form"
+msgstr "Obrazac za kontakt"
+
+#: ../main-modules.php:6770
+msgid "Form Field"
+msgstr "Polje obrasca"
+
+#: ../main-modules.php:6792
+msgid "Contact Title"
+msgstr "Naslov kontakta"
+
+#: ../main-modules.php:6796
+msgid "Contact Button"
+msgstr "Taster za kontakt"
+
+#: ../main-modules.php:6805
+msgid "Display Captcha"
+msgstr "Prikaži Captcha"
+
+#: ../main-modules.php:6811
+msgid "Turn the captcha on or off using this option."
+msgstr "Uključi ili isključi Captcha koristeći ovu opciju."
+
+#: ../main-modules.php:6814
+msgid "Email"
+msgstr "E-adresa"
+
+#: ../main-modules.php:6816
+msgid "Input the email address where messages should be sent."
+msgstr "Unesite e-adresu na koju poruke treba da budu poslate."
+
+#: ../main-modules.php:6821
+msgid "Define a title for your contact form."
+msgstr "Odredite naslov za vaš obrazac za kontakt."
+
+#: ../main-modules.php:6839
+msgid "Form Background Color"
+msgstr "Pozadinska boja obrasca"
+
+#: ../main-modules.php:6845
+msgid "Input Border Radius"
+msgstr "Radijus ivice polja za unos"
+
+#: ../main-modules.php:6894
+msgid "Make sure you entered the captcha."
+msgstr "Proverite da li ste uneli potvrdni kod"
+
+#: ../main-modules.php:6897
+msgid "You entered the wrong number in captcha."
+msgstr "Uneli ste pogrešan broj u polje za potvrdni kod."
+
+#: ../main-modules.php:6904
+msgid "Make sure you fill all fields."
+msgstr "Postarajte se da popunite sva polja."
+
+#: ../main-modules.php:6909
+msgid "Invalid Email."
+msgstr "Nevažeća e-adresa."
+
+#: ../main-modules.php:6943
+#, php-format
+msgid "New Message From %1$s%2$s"
+msgstr "Nova poruka od %1$s%2$s"
+
+#: ../main-modules.php:6945
+#, php-format
+msgid " - %s"
+msgstr " - %s"
+
+#: ../main-modules.php:6948
+msgid "Thanks for contacting us"
+msgstr "Hvala što ste nas kontaktirali"
+
+#: ../main-modules.php:6955
+msgid "Message"
+msgstr "Poruka"
+
+#: ../main-modules.php:7008
+msgid "Submit"
+msgstr "Prosledi"
+
+#: ../main-modules.php:7042
+msgid "Sidebar"
+msgstr "Bočna traka"
+
+#: ../main-modules.php:7080
+msgid "Widget"
+msgstr "Vidžet"
+
+#: ../main-modules.php:7093
+msgid "Orientation"
+msgstr "Orijentacija"
+
+#: ../main-modules.php:7099
+msgid ""
+"Choose which side of the page your sidebar will be on. This setting controls "
+"text orientation and border position."
+msgstr ""
+"Izaberite na kojoj strani stranice će se nalaziti vaša bočna traka. Ovo "
+"podešavanje kontroliše orijentaciju teksta i graničnu poziciju."
+
+#: ../main-modules.php:7102
+msgid "Widget Area"
+msgstr "Oblast vidžeta"
+
+#: ../main-modules.php:7104
+msgid ""
+"Select a widget-area that you would like to display. You can create new "
+"widget areas within the Appearances > Widgets tab."
+msgstr ""
+"Izaberite oblast vidžeta koju želite da prikažete. Možete formirati nove "
+"oblasti vidžeta unutar Izgledi > Vidžet kartica."
+
+#: ../main-modules.php:7131
+msgid "Remove Border Separator"
+msgstr "Ukloni ivični razdelnik"
+
+#: ../main-modules.php:7188
+msgid "Divider"
+msgstr "Razdelnik"
+
+#: ../main-modules.php:7199
+msgid "Don't Show Divider"
+msgstr "Ne prikazuj razdelnik"
+
+#: ../main-modules.php:7200
+msgid "Show Divider"
+msgstr "Prikaži razdelnik"
+
+#: ../main-modules.php:7233
+msgid "Color"
+msgstr "Boja"
+
+#: ../main-modules.php:7235
+msgid "This will adjust the color of the 1px divider line."
+msgstr "Ovo će podesiti boju linije razdelnika veličine jednog piksela."
+
+#: ../main-modules.php:7238
+msgid "Visibility"
+msgstr "Vidljivost"
+
+#: ../main-modules.php:7246
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect the "
+"divider height."
+msgstr ""
+"Ova podešavanja uključuju i isključuju liniju razdelnika od jednog piksela, "
+"ali ne utiču na visinu razdelnika."
+
+#: ../main-modules.php:7249
+msgid "Height"
+msgstr "Visina"
+
+#: ../main-modules.php:7251
+msgid "Define how much space should be added below the divider."
+msgstr "Definišite koliko prostora treba da se doda ispod razdelnika."
+
+#: ../main-modules.php:7269
+msgid "Divider Style"
+msgstr "Stil razdelnika"
+
+#: ../main-modules.php:7276
+msgid "Divider Position"
+msgstr "Pozicija razdelnika"
+
+#: ../main-modules.php:7280 ../main-modules.php:9800
+msgid "Vertically Centered"
+msgstr "Vertikalno pozicioniran"
+
+#: ../main-modules.php:7287
+msgid "Divider Weight"
+msgstr "Visina razdelnika"
+
+#: ../main-modules.php:7293
+msgid "Hide On Mobile"
+msgstr "Sakrij na mobilnom uređaju"
+
+#: ../main-modules.php:7380
+msgid "Person"
+msgstr "Osoba"
+
+#: ../main-modules.php:7432
+msgid "Member Image"
+msgstr "Slika člana"
+
+#: ../main-modules.php:7436
+msgid "Member Description"
+msgstr "Opis člana"
+
+#: ../main-modules.php:7444
+msgid "Member Position"
+msgstr "Pozicija člana"
+
+#: ../main-modules.php:7448
+msgid "Member Social Links"
+msgstr "Veze ka društvenim mrežama člana"
+
+#: ../main-modules.php:7459
+msgid "Input the name of the person"
+msgstr "Unesite ime osobe"
+
+#: ../main-modules.php:7462
+msgid "Position"
+msgstr "Pozicija"
+
+#: ../main-modules.php:7464
+msgid "Input the person's position."
+msgstr "Unesite poziciju osobe"
+
+#: ../main-modules.php:7497
+msgid "Facebook Profile Url"
+msgstr "Facebook profil URL"
+
+#: ../main-modules.php:7499
+msgid "Input Facebook Profile Url."
+msgstr "Unesite URL Facebook profila"
+
+#: ../main-modules.php:7502
+msgid "Twitter Profile Url"
+msgstr "Twitter profil URL"
+
+#: ../main-modules.php:7504
+msgid "Input Twitter Profile Url"
+msgstr "Unesite URL Twitter profila"
+
+#: ../main-modules.php:7507
+msgid "Google+ Profile Url"
+msgstr "Google+ profil URL"
+
+#: ../main-modules.php:7509
+msgid "Input Google+ Profile Url"
+msgstr "Unesite URL Google+ profila"
+
+#: ../main-modules.php:7512
+msgid "LinkedIn Profile Url"
+msgstr "URL LinkedIn profila"
+
+#: ../main-modules.php:7514
+msgid "Input LinkedIn Profile Url"
+msgstr "Unesite URL LinkedIn profila"
+
+#: ../main-modules.php:7517
+msgid "Description"
+msgstr "Opis"
+
+#: ../main-modules.php:7543 ../main-modules.php:8263
+msgid "Icon Hover Color"
+msgstr "Boja ikone pri zadržavanju pokazivača iznad"
+
+#: ../main-modules.php:7595
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../main-modules.php:7603 ../main-modules.php:8971
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../main-modules.php:7611 ../main-modules.php:8975
+msgid "Google+"
+msgstr "Google+"
+
+#: ../main-modules.php:7619 ../main-modules.php:8983
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../main-modules.php:7666
+msgid "Blog"
+msgstr "Blog"
+
+#: ../main-modules.php:7716 ../main-modules.php:9154 ../main-modules.php:11380
+msgid "Meta"
+msgstr "Meta podaci"
+
+#: ../main-modules.php:7736
+msgid "Post Meta"
+msgstr "Meta podaci objave"
+
+#: ../main-modules.php:7740
+msgid "Pagenavi"
+msgstr "Navigacija po stranici"
+
+#: ../main-modules.php:7764
+msgid "Choose how much posts you would like to display per page."
+msgstr "Izaberite koliko objava želite da bude prikazano po stranici."
+
+#: ../main-modules.php:7772
+msgid "Choose which categories you would like to include in the feed."
+msgstr "Izaberite koje biste katogorije želeli da budu uključene u izvod."
+
+#: ../main-modules.php:7775
+msgid "Meta Date Format"
+msgstr "Format datuma"
+
+#: ../main-modules.php:7777
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+"Ako biste želeli da prilagodite format datuma, unesite ovde odgovarajući PHP "
+"format datuma."
+
+#: ../main-modules.php:7780 ../main-modules.php:9241 ../main-modules.php:11467
+msgid "Show Featured Image"
+msgstr "Prikaži istaknutu sliku"
+
+#: ../main-modules.php:7786
+msgid "This will turn thumbnails on and off."
+msgstr "Ovim ćete isključiti ili uključiti sličice."
+
+#: ../main-modules.php:7792
+msgid "Show Excerpt"
+msgstr "Prikaži izvod"
+
+#: ../main-modules.php:7793
+msgid "Show Content"
+msgstr "Prikaži sadržaj"
+
+#: ../main-modules.php:7798
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"Prikazivanje punog sadržaja neće skratiti vaše objave na osnovnoj stranici. "
+"Prikazivanjem izvoda će se prikazati samo tekst izvoda."
+
+#: ../main-modules.php:7801
+msgid "Read More Button"
+msgstr "Taster Opširnije"
+
+#: ../main-modules.php:7808
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr ""
+"Ovde možete odrediti da li će taster Opširnije biti prikazan posle izvoda "
+"ili neće."
+
+#: ../main-modules.php:7811 ../main-modules.php:9190 ../main-modules.php:11416
+msgid "Show Author"
+msgstr "Prikaži autora"
+
+#: ../main-modules.php:7817
+msgid "Turn on or off the author link."
+msgstr "Uključi ili isključi vezu autora."
+
+#: ../main-modules.php:7820 ../main-modules.php:9200 ../main-modules.php:10740
+#: ../main-modules.php:11426
+msgid "Show Date"
+msgstr "Prikaži datum"
+
+#: ../main-modules.php:7826
+msgid "Turn the date on or off."
+msgstr "Uključi ili isključi datum."
+
+#: ../main-modules.php:7844
+msgid "Turn pagination on and off."
+msgstr "Uključi i isključi numerisanje stranica."
+
+#: ../main-modules.php:7847
+msgid "Offset Number"
+msgstr "Brojni nedostatak"
+
+#: ../main-modules.php:7849
+msgid "Choose how many posts you would like to offset by"
+msgstr "Izaberite koliko objava biste želeli da nadoknadite"
+
+#: ../main-modules.php:7877
+msgid "Grid Tile Background Color"
+msgstr "Pozadinska boja mreže pločica"
+
+#: ../main-modules.php:7883
+msgid "Use Dropshadow"
+msgstr "Koristi padajuću senku"
+
+#: ../main-modules.php:8031
+#, php-format
+msgid "by %s"
+msgstr "od strane %s"
+
+#: ../main-modules.php:8041
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../main-modules.php:8061
+msgid "read more..."
+msgstr "opširnije..."
+
+#: ../main-modules.php:8068
+msgid "read more"
+msgstr "opširnije"
+
+#: ../main-modules.php:8122
+msgid "Shop"
+msgstr "Prodavnica"
+
+#: ../main-modules.php:8165
+msgid "Product"
+msgstr "Proizvod"
+
+#: ../main-modules.php:8169
+msgid "Onsale"
+msgstr "Na rasprodaji"
+
+#: ../main-modules.php:8185
+msgid "Rating"
+msgstr "Rejting"
+
+#: ../main-modules.php:8198
+msgid "Type"
+msgstr "Tip"
+
+#: ../main-modules.php:8201
+msgid "Recent Products"
+msgstr "Skorašnji proizvodi"
+
+#: ../main-modules.php:8202
+msgid "Featured Products"
+msgstr "Istaknuti proizvodi"
+
+#: ../main-modules.php:8203
+msgid "Sale Products"
+msgstr "Proizvodi na rasprodaji"
+
+#: ../main-modules.php:8204
+msgid "Best Selling Products"
+msgstr "Najprodavaniji proizvodi"
+
+#: ../main-modules.php:8205
+msgid "Top Rated Products"
+msgstr "Najbolje ocenjeni proizvodi"
+
+#: ../main-modules.php:8207
+msgid "Choose which type of products you would like to display."
+msgstr "Izaberite koju vrstu proizvoda biste želeli da prikažete."
+
+#: ../main-modules.php:8212
+msgid "Control how many products are displayed."
+msgstr "Kontrolišite broj proizvoda koji će biti prikazan."
+
+#: ../main-modules.php:8215
+msgid "Columns Number"
+msgstr "Broj kolona"
+
+#: ../main-modules.php:8218
+msgid "default"
+msgstr "podrazumevana vrednost"
+
+#: ../main-modules.php:8219 ../main-modules.php:8220 ../main-modules.php:8221
+#: ../main-modules.php:8222 ../main-modules.php:8223
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s Kolone"
+
+#: ../main-modules.php:8224
+msgid "1 Column"
+msgstr "Jedna kolona"
+
+#: ../main-modules.php:8226
+msgid "Choose how many columns to display."
+msgstr "Izaberi koliko kolona želiš da bude prikazano."
+
+#: ../main-modules.php:8229
+msgid "Order By"
+msgstr "Sortiraj prema"
+
+#: ../main-modules.php:8232
+msgid "Default Sorting"
+msgstr "Podrazumevano sortiranje"
+
+#: ../main-modules.php:8233
+msgid "Sort By Popularity"
+msgstr "Sortiraj prema popularnosti"
+
+#: ../main-modules.php:8234
+msgid "Sort By Rating"
+msgstr "Sortiraj prema oceni"
+
+#: ../main-modules.php:8235
+msgid "Sort By Date"
+msgstr "Sortiraj prema datumu"
+
+#: ../main-modules.php:8236
+msgid "Sort By Price: Low To High"
+msgstr "Sortiraj prema ceni: od jeftinijeg ka skupljem"
+
+#: ../main-modules.php:8237
+msgid "Sort By Price: High To Low"
+msgstr "Sortiraj prema ceni: od skupljeg ka jeftinijem"
+
+#: ../main-modules.php:8239
+msgid "Choose how your products should be ordered."
+msgstr "Izaberite kako će vaši proizvodi biti sortirani"
+
+#: ../main-modules.php:8257
+msgid "Sale Badge Color"
+msgstr "Boja značke za rasprodaju"
+
+#: ../main-modules.php:8370
+msgid "Countdown Timer"
+msgstr "Sat za odbrojavanje"
+
+#: ../main-modules.php:8400
+msgid "Numbers"
+msgstr "Brojevi"
+
+#: ../main-modules.php:8406
+msgid "Label"
+msgstr "Oznaka"
+
+#: ../main-modules.php:8421
+msgid "Container"
+msgstr "Kontejner"
+
+#: ../main-modules.php:8429
+msgid "Timer Section"
+msgstr "Odeljak vremenskog brojača"
+
+#: ../main-modules.php:8438
+msgid "Countdown Timer Title"
+msgstr "Naslov sata za odbrojavanje"
+
+#: ../main-modules.php:8440
+msgid "This is the title displayed for the countdown timer."
+msgstr "Ovo je naslov prikazan za sat za odbrojavanje."
+
+#: ../main-modules.php:8443
+msgid "Countdown To"
+msgstr "Odbrojavaj do"
+
+#: ../main-modules.php:8445
+msgid "This is the date the countdown timer is counting down to."
+msgstr "Ovo je datum do koga će sat za odbrojavanje odbrojavati."
+
+#: ../main-modules.php:8472
+msgid "Here you can define a custom background color for your countdown timer."
+msgstr ""
+"Ovde možete odrediti prilagođenu boju pozadine vašeg sata za odbrojavanje."
+
+#: ../main-modules.php:8553
+msgid "Days"
+msgstr "Dani"
+
+#: ../main-modules.php:8554
+msgid "Hours"
+msgstr "Sati"
+
+#: ../main-modules.php:8555
+msgid "Hrs"
+msgstr "Č"
+
+#: ../main-modules.php:8556
+msgid "Minutes"
+msgstr "Minuti"
+
+#: ../main-modules.php:8557
+msgid "Min"
+msgstr "Min."
+
+#: ../main-modules.php:8558
+msgid "Seconds"
+msgstr "Sekunde"
+
+#: ../main-modules.php:8559
+msgid "Sec"
+msgstr "Sek."
+
+#: ../main-modules.php:8569
+msgid "Map"
+msgstr "Mapa"
+
+#: ../main-modules.php:8572 ../main-modules.php:8709 ../main-modules.php:10903
+msgid "Pin"
+msgstr "Zakačka"
+
+#: ../main-modules.php:8598 ../main-modules.php:10926
+msgid "Map Center Address"
+msgstr "Glavna adresa mape"
+
+#: ../main-modules.php:8602 ../main-modules.php:8742 ../main-modules.php:10930
+msgid "Find"
+msgstr "Pronađi"
+
+#: ../main-modules.php:8605 ../main-modules.php:10933
+msgid ""
+"Enter an address for the map center point, and the address will be geocoded "
+"and displayed on the map below."
+msgstr ""
+"Unesite adresu centralne tačke mape, i adresa će biti geokodirana i "
+"prikazana na mapi ispod."
+
+#: ../main-modules.php:8624 ../main-modules.php:10949
+msgid "Mouse Wheel Zoom"
+msgstr "Zumiranje točkićem na mišu"
+
+#: ../main-modules.php:8630 ../main-modules.php:10955
+msgid ""
+"Here you can choose whether the zoom level will be controlled by mouse wheel "
+"or not."
+msgstr ""
+"Ovde možete izabrati da li će se nivo zumiranja kontrolisati točkićem miša "
+"ili ne."
+
+#: ../main-modules.php:8648
+msgid "Use Grayscale Filter"
+msgstr "Koristi filter skale sivih tonova"
+
+#: ../main-modules.php:8660
+msgid "Grayscale Filter Amount (%)"
+msgstr "Količina filtera skale sivih tonova (%)"
+
+#: ../main-modules.php:8724
+msgid "New Pin"
+msgstr "Nova čioda"
+
+#: ../main-modules.php:8725
+msgid "Pin Settings"
+msgstr "Podešavanja čiode"
+
+#: ../main-modules.php:8736
+msgid "Map Pin Address"
+msgstr "Obeležena adresa na mapi"
+
+#: ../main-modules.php:8739
+msgid ""
+"Enter an address for this map pin, and the address will be geocoded and "
+"displayed on the map below."
+msgstr ""
+"Unesite adresu za ovu čiodu na mapi, i ova adresa će biti geokodirana i "
+"prikazana na mapi ispod."
+
+#: ../main-modules.php:8764 ../main-modules.php:9809
+msgid ""
+"Here you can define the content that will be placed within the infobox for "
+"the pin."
+msgstr ""
+"Ovde možete odrediti sadržaj koji će biti postavljen unutar informacionog "
+"polja za čiodu."
+
+#: ../main-modules.php:8805
+msgid "Social Media Follow"
+msgstr "Ikonice za praćenje društvenih medija"
+
+#: ../main-modules.php:8808 ../main-modules.php:8937 ../main-modules.php:8961
+msgid "Social Network"
+msgstr "Društvena mreža"
+
+#: ../main-modules.php:8829
+msgid "Social Follow"
+msgstr "Pratioci na društvenim mrežama"
+
+#: ../main-modules.php:8833
+msgid "Social Icon"
+msgstr "Ikonica društvene mreže"
+
+#: ../main-modules.php:8842
+msgid "Link Shape"
+msgstr "Oblik veze"
+
+#: ../main-modules.php:8845
+msgid "Rounded Rectangle"
+msgstr "Zaobljeni pravougaonik"
+
+#: ../main-modules.php:8846
+msgid "Circle"
+msgstr "Krug"
+
+#: ../main-modules.php:8848
+msgid "Here you can choose the shape of your social network icons."
+msgstr "Ovde možete izabrati oblik vaših ikona za društvene mreže"
+
+#: ../main-modules.php:8869
+msgid "Follow Button"
+msgstr "Taster „Prati“"
+
+#: ../main-modules.php:8875
+msgid ""
+"Here you can choose whether or not to include the follow button next to the "
+"icon."
+msgstr ""
+"Ovde možete izabrati da li ćete ili nećete pored ikone uključiti i taster za "
+"praćenje."
+
+#: ../main-modules.php:8954
+msgid "New Social Network"
+msgstr "Nova društvena mreža"
+
+#: ../main-modules.php:8955
+msgid "Social Network Settings"
+msgstr "Podešavanja društvene mreže"
+
+#: ../main-modules.php:8965
+msgid "Select a Network"
+msgstr "Izaberi mrežu"
+
+#: ../main-modules.php:8967
+msgid "facebook"
+msgstr "Facebook"
+
+#: ../main-modules.php:8979
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../main-modules.php:8987
+msgid "tumblr"
+msgstr "tumblr"
+
+#: ../main-modules.php:8991
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../main-modules.php:8995
+msgid "skype"
+msgstr "skype"
+
+#: ../main-modules.php:8999
+msgid "flikr"
+msgstr "flikr"
+
+#: ../main-modules.php:9003
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../main-modules.php:9007
+msgid "dribbble"
+msgstr "dribbble"
+
+#: ../main-modules.php:9011
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../main-modules.php:9015
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../main-modules.php:9019
+msgid "RSS"
+msgstr "RSS"
+
+#: ../main-modules.php:9023
+msgid "Choose the social network"
+msgstr "Izaberi društvenu mrežu"
+
+#: ../main-modules.php:9030
+msgid "Account URL"
+msgstr "URL naloga"
+
+#: ../main-modules.php:9032
+msgid "The URL for this social network link."
+msgstr "URL veze za ovu društvenu mrežu."
+
+#: ../main-modules.php:9037
+msgid "This will change the icon color."
+msgstr "Ovo će promeniti boju ikone."
+
+#: ../main-modules.php:9063
+msgid "Follow"
+msgstr "Prati"
+
+#: ../main-modules.php:9089
+msgid "Post Title"
+msgstr "Naslov objave"
+
+#: ../main-modules.php:9172 ../main-modules.php:11398
+msgid "Here you can choose whether or not display the Post Title"
+msgstr "Ovde možete izabrati da li da bude prikazan ili ne naslov objave."
+
+#: ../main-modules.php:9175 ../main-modules.php:11401
+msgid "Show Meta"
+msgstr "Prikaži meta podatke"
+
+#: ../main-modules.php:9187 ../main-modules.php:11413
+msgid "Here you can choose whether or not display the Post Meta"
+msgstr "Ovde možete izabrati da li da budu prikazani ili ne meta podaci objave"
+
+#: ../main-modules.php:9197 ../main-modules.php:11423
+msgid "Here you can choose whether or not display the Author Name in Post Meta"
+msgstr ""
+"Ovde možete izabrati da li da bude prikazano ili ne ime autora u meta "
+"podacima objave"
+
+#: ../main-modules.php:9210 ../main-modules.php:11436
+msgid "Here you can choose whether or not display the Date in Post Meta"
+msgstr ""
+"Ovde možete izabrati da li da bude prikazan ili ne datum u meta podacima "
+"objave"
+
+#: ../main-modules.php:9214 ../main-modules.php:11440
+msgid "Date Format"
+msgstr "Format datuma"
+
+#: ../main-modules.php:9217 ../main-modules.php:11443
+msgid "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+msgstr ""
+"Ovde možete odrediti format datuma u meta podacima objave. Podrazumevano je "
+"'M j, Y'"
+
+#: ../main-modules.php:9221 ../main-modules.php:11447
+msgid "Show Post Categories"
+msgstr "Prikaži kategorije objave"
+
+#: ../main-modules.php:9228 ../main-modules.php:11454
+msgid ""
+"Here you can choose whether or not display the Categories in Post Meta. "
+"Note: This option doesn't work with custom post types."
+msgstr ""
+"Ovde možete izabrati da li da budu prikazane ili ne kategorije u meta "
+"podacima objave. Napomena: Ova opcija ne radi u objavama prilagođenog tipa."
+
+#: ../main-modules.php:9231 ../main-modules.php:11457
+msgid "Show Comments Count"
+msgstr "Prikaži brojač komentara"
+
+#: ../main-modules.php:9238 ../main-modules.php:11464
+msgid ""
+"Here you can choose whether or not display the Comments Count in Post Meta."
+msgstr ""
+"Ovde možete izabrati da li da bude prikazan ili ne brojač komentara u meta "
+"podacima objave."
+
+#: ../main-modules.php:9250 ../main-modules.php:11476
+msgid "Here you can choose whether or not display the Featured Image"
+msgstr "Ovde možete izabrati da li da istaknuta slika bude prikazana ili ne"
+
+#: ../main-modules.php:9253 ../main-modules.php:11479
+msgid "Featured Image Placement"
+msgstr "296: Položaj istaknute slike"
+
+#: ../main-modules.php:9256 ../main-modules.php:11482
+msgid "Below Title"
+msgstr "Ispod naslova"
+
+#: ../main-modules.php:9257 ../main-modules.php:11483
+msgid "Above Title"
+msgstr "Iznad naslova"
+
+#: ../main-modules.php:9258 ../main-modules.php:11484
+msgid "Title/Meta Background Image"
+msgstr "Pozadinska slika naslova"
+
+#: ../main-modules.php:9264 ../main-modules.php:11490
+msgid "Here you can choose where to place the Featured Image"
+msgstr "Ovde možete izabrati gde da smestite istaknutu sliku."
+
+#: ../main-modules.php:9267 ../main-modules.php:11493
+#: ../main-structure-elements.php:169 ../main-structure-elements.php:861
+msgid "Use Parallax Effect"
+msgstr "Koristi Paralaksa efekat"
+
+#: ../main-modules.php:9277 ../main-modules.php:11503
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr ""
+"Ovde možete izabrati da li da koristite ili ne paralaksa efekat za istaknutu "
+"sliku."
+
+#: ../main-modules.php:9280 ../main-modules.php:11506
+#: ../main-structure-elements.php:181 ../main-structure-elements.php:873
+msgid "Parallax Method"
+msgstr "Paralaksa metod"
+
+#: ../main-modules.php:9287 ../main-modules.php:11513
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr ""
+"Ovde možete izabrati koji paralaksa metod će se koristiti za istaknutu sliku"
+
+#: ../main-modules.php:9297 ../main-modules.php:11523
+msgid "Here you can choose the orientation for the Title/Meta text"
+msgstr "Ovde možete izabrati orijentaciju za tekst naslova"
+
+#: ../main-modules.php:9306 ../main-modules.php:11532
+msgid "Here you can choose the color for the Title/Meta text"
+msgstr "Ovde možete izabrati boju za tekst naslova"
+
+#: ../main-modules.php:9309 ../main-modules.php:11535
+msgid "Use Text Background Color"
+msgstr "Koristi pozadinsku boju teksta"
+
+#: ../main-modules.php:9318 ../main-modules.php:11544
+msgid ""
+"Here you can choose whether or not use the background color for the Title/"
+"Meta text"
+msgstr ""
+"Ovde možete izabrati da li da se koristi ili ne boja pozadine za naslov "
+"teksta"
+
+#: ../main-modules.php:9321 ../main-modules.php:11547
+msgid "Text Background Color"
+msgstr "Boja pozadine teksta"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "0 comments"
+msgstr "0 Komentara"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "1 comment"
+msgstr "1 Komentar"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "comments"
+msgstr "Komentari"
+
+#: ../main-modules.php:9483
+msgid "Fullwidth Header"
+msgstr "Zaglavlje pune širine"
+
+#: ../main-modules.php:9543
+msgid "Title Styling"
+msgstr "Stil naslova"
+
+#: ../main-modules.php:9544
+msgid "Subhead Styling"
+msgstr "Stil podnaslova"
+
+#: ../main-modules.php:9545
+msgid "Content Styling"
+msgstr "Stil sadržaja"
+
+#: ../main-modules.php:9552
+msgid "Button One"
+msgstr ""
+
+#: ../main-modules.php:9558
+msgid "Button Two"
+msgstr ""
+
+#: ../main-modules.php:9568
+msgid "Header Container"
+msgstr ""
+
+#: ../main-modules.php:9586
+msgid "Enter your page title here."
+msgstr "Unesite ovde  naslov vaše stranice."
+
+#: ../main-modules.php:9589
+msgid "Subheading Text"
+msgstr "Tekst podnaslova"
+
+#: ../main-modules.php:9591
+msgid ""
+"If you would like to use a subhead, add it here. Your subhead will appear "
+"below your title in a small font."
+msgstr ""
+"Ako želite da koristite podnaslov, dodajte ga ovde. Vaš podnaslov će biti "
+"prikazan ispod naslova malom veličinom fonta."
+
+#: ../main-modules.php:9603
+msgid "Text & Logo Orientation"
+msgstr "Orijentacija teksta i logotipa"
+
+#: ../main-modules.php:9610
+msgid "Make Fullscreen"
+msgstr "Razvij preko celog ekrana"
+
+#: ../main-modules.php:9619
+msgid "Here you can choose whether the header is expanded to fullscreen size."
+msgstr ""
+"Ovde možete izabrati da li se zaglavlje proširuje na veličinu celog ekrana."
+
+#: ../main-modules.php:9622
+msgid "Show Scroll Down Button"
+msgstr "Prikaži taster klizača nadole"
+
+#: ../main-modules.php:9631
+msgid "Here you can choose whether the scroll down button is shown."
+msgstr "Ovde možete izabrati da li će taster klizača na dole biti prikazan."
+
+#: ../main-modules.php:9639
+msgid "Choose an icon to display for the scroll down button."
+msgstr "Izaberi ikonicu kako bi prikazao taster klizača nadole"
+
+#: ../main-modules.php:9643
+msgid "Scroll Down Icon Color"
+msgstr "Boja ikonice klizača nadole"
+
+#: ../main-modules.php:9649
+msgid "Scroll Down Icon Size"
+msgstr "Veličina ikonice klizače nadole"
+
+#: ../main-modules.php:9654
+msgid "Title Font"
+msgstr "Font naslova"
+
+#: ../main-modules.php:9660
+msgid "Title Font Color"
+msgstr "Boja fonta naslova"
+
+#: ../main-modules.php:9667
+msgid "Title Font Size"
+msgstr "Veličina fonta naslova"
+
+#: ../main-modules.php:9673
+msgid "Subhead Font"
+msgstr "Font podnaslova"
+
+#: ../main-modules.php:9679
+msgid "Subhead Font Color"
+msgstr "Boja fonta podnaslova"
+
+#: ../main-modules.php:9686
+msgid "Subhead Font Size"
+msgstr "Veličina fonta podnaslova"
+
+#: ../main-modules.php:9692
+msgid "Content Font"
+msgstr "Font sadržaja"
+
+#: ../main-modules.php:9698
+msgid "Content Font Color"
+msgstr "Boja fonta sadržaja"
+
+#: ../main-modules.php:9705
+msgid "Content Font Size"
+msgstr "Veličina fonta sadržaja"
+
+#: ../main-modules.php:9711 ../main-modules.php:9721
+#, php-format
+msgid "Button %1$s Text"
+msgstr "Tekst %1$s tastera"
+
+#: ../main-modules.php:9713 ../main-modules.php:9723
+msgid "Enter the text for the Button."
+msgstr "Unesi tekst za taster"
+
+#: ../main-modules.php:9716 ../main-modules.php:9726
+#, php-format
+msgid "Button %1$s URL"
+msgstr "URL %1$s tastera"
+
+#: ../main-modules.php:9718 ../main-modules.php:9728
+msgid "Enter the URL for the Button."
+msgstr "Unesi URL za taster"
+
+#: ../main-modules.php:9731
+msgid "Background Image URL"
+msgstr "URL pozadinske slike"
+
+#: ../main-modules.php:9743
+msgid "Background Overlay Color"
+msgstr "Boja pozadine prekrivke"
+
+#: ../main-modules.php:9756 ../main-modules.php:10450
+msgid ""
+"If enabled, your background images will have a fixed position as your "
+"scroll, creating a fun parallax-like effect."
+msgstr ""
+"Ako je ova opcija aktivirana, vaše pozadinske slike će imati fiksiranu "
+"poziciju dok se pomerate po stranici, stvarajući zabavan paralaksa efekat."
+
+#: ../main-modules.php:9770
+msgid "Logo Image URL"
+msgstr "URL slike logotipa"
+
+#: ../main-modules.php:9778
+msgid "Text Vertical Alignment"
+msgstr "Vertikalno poravnanje teksta"
+
+#: ../main-modules.php:9784
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be vertically centered, or aligned to the bottom."
+msgstr ""
+"Ovo podešavanje određuje vertikalno poravnanje vašeg sadržaja. Vaš sadržaj "
+"može biti ili vertikalno centriran ili poravnat do dna."
+
+#: ../main-modules.php:9789
+msgid "Header Image URL"
+msgstr "URL slike zaglavlja"
+
+#: ../main-modules.php:9797
+msgid "Image Vertical Alignment"
+msgstr "Vertikalno poravnanje slike"
+
+#: ../main-modules.php:9803
+msgid "This controls the orientation of the image within the module."
+msgstr "Ovo kontroliše orijentaciju slike unutar modula."
+
+#: ../main-modules.php:10124
+msgid "Fullwidth Menu"
+msgstr "Meni pune širine"
+
+#: ../main-modules.php:10149
+msgid "Menu"
+msgstr "Meni"
+
+#: ../main-modules.php:10155
+msgid "Select a menu that should be used in the module"
+msgstr "Izaberite meni koji bi trebalo koristiti u modulu"
+
+#: ../main-modules.php:10156
+msgid "Click here to create new menu"
+msgstr "Kliknite ovde kako biste kreirali novi meni"
+
+#: ../main-modules.php:10180
+msgid "Sub-Menus Open"
+msgstr "Podmeniji se otvaraju"
+
+#: ../main-modules.php:10183
+msgid "Downwards"
+msgstr "Nadole"
+
+#: ../main-modules.php:10184
+msgid "Upwards"
+msgstr "Nagore"
+
+#: ../main-modules.php:10186
+msgid ""
+"Here you can choose the direction that your sub-menus will open. You can "
+"choose to have them open downwards or upwards."
+msgstr ""
+"Ovde možete izabrati pravac kojim će se vaši podmeniji otvarati. Možete "
+"izabrati da se otvaraju nadole ili nagore."
+
+#: ../main-modules.php:10265
+msgid "Home"
+msgstr "Matična stranica"
+
+#: ../main-modules.php:10311
+msgid "Fullwidth Slider"
+msgstr "Klizač pune širine"
+
+#: ../main-modules.php:10411
+msgid "This setting allows you to turn the navigation arrows on or off."
+msgstr ""
+"Ovo podešavanje vam dozvoljava da uključite ili isključite strelice za "
+"navigaciju."
+
+#: ../main-modules.php:10420
+msgid ""
+"Disabling this option will remove the circle button at the bottom of the "
+"slider."
+msgstr "Deaktiviranje ove opcije će ukloniti kružni taster na dnu klizača."
+
+#: ../main-modules.php:10675
+msgid "Fullwidth Portfolio"
+msgstr "Portfelj pune širine"
+
+#: ../main-modules.php:10709
+msgid "Title displayed above the portfolio."
+msgstr "Naslov prikazan iznad portfelja"
+
+#: ../main-modules.php:10715
+msgid "Carousel"
+msgstr "Pano sa slikama"
+
+#: ../main-modules.php:10728
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+"Kontrolišite koliko će projekata biti prikazano. Ostavite prazno ili "
+"koristite nulu da ne biste ograničavali iznos."
+
+#: ../main-modules.php:10746
+msgid "Turn the date display on or off."
+msgstr "Uključite ili isključite ekran sa datumom."
+
+#: ../main-modules.php:10758
+msgid "Automatic Carousel Rotation"
+msgstr "Automatska rotacija panoa sa slikama"
+
+#: ../main-modules.php:10767
+msgid ""
+"If you the carousel layout option is chosen and you would like the carousel "
+"to slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"Ako je opcija rasporeda panoa sa slikama izabrana i želeli biste da pano "
+"klizi automatski, a da posetilac ne mora da klikne sledeći taster, "
+"aktivirajte ovu opciju i onda, ukoliko želite, prilagodite brzinu rotacije "
+"ispod."
+
+#: ../main-modules.php:10770
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr "Automatska rotacija panoa sa slikama"
+
+#: ../main-modules.php:10773
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"Ovde možete odrediti kojom brzinom se pano okreće, ako je iznad aktivirana "
+"opcija „Automatska rotacija panoa“. Što je veći broj, to je duža pauza "
+"između svake rotacije. (Primer: 1000 = jedna sekunda)"
+
+#: ../main-modules.php:10899
+msgid "Fullwidth Map"
+msgstr "Mapa pune širine"
+
+#: ../main-modules.php:11009
+msgid "Code"
+msgstr "Kod"
+
+#: ../main-modules.php:11087
+msgid "Fullwidth Code"
+msgstr "Puna širina koda"
+
+#: ../main-modules.php:11147
+msgid "Fullwidth Image"
+msgstr "Puna širina slike"
+
+#: ../main-modules.php:11202
+msgid "Open In Lightbox"
+msgstr "Otvori u fascikli"
+
+#: ../main-modules.php:11314
+msgid "Fullwidth Post Title"
+msgstr "Puna širina naslova objave"
+
+#: ../main-structure-elements.php:105
+msgid "Transparent Background Color"
+msgstr "Prozirna boja pozadine"
+
+#: ../main-structure-elements.php:114
+msgid ""
+"Enabling this option will remove the background color of this section, "
+"allowing the website background color or background image to show through."
+msgstr ""
+"Aktiviranje ove opcije će ukloniti boju pozadine za ovu sekciju, "
+"omogućavajući prikaz pozadinske boje veb lokacije ili pozadinske slike."
+
+#: ../main-structure-elements.php:160
+msgid "Show Inner Shadow"
+msgstr "Prikaži unutrašnju senku"
+
+#: ../main-structure-elements.php:166
+msgid ""
+"Here you can select whether or not your section has an inner shadow. This "
+"can look great when you have colored backgrounds or background images."
+msgstr ""
+"Ovde možete izabrati da li vaša sekcija ima ili nema unutrašnju senku. Ovo "
+"može odlično izgledati kada imate pozadine u boji ili pozadinske slike."
+
+#: ../main-structure-elements.php:178
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"Ako se ova opcija aktivira, vaša pozadinska slika će ostati fiksirana dok se "
+"pomerate po stranici, stvarajući zabavan efekat nalik Paralaksa efektu."
+
+#: ../main-structure-elements.php:194 ../main-structure-elements.php:788
+#: ../main-structure-elements.php:1252
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr ""
+"Podesite unutrašnju marginu do određenih vrednosti, ili ostavite prazno da "
+"biste koristili podrazumevajuću vrednost unutrašnje margine."
+
+#: ../main-structure-elements.php:197 ../main-structure-elements.php:791
+#: ../main-structure-elements.php:1255
+msgid "Keep Custom Padding on Mobile"
+msgstr "Zadržite prilagođenu unutrašnju marginu na mobilnom uređaju"
+
+#: ../main-structure-elements.php:203 ../main-structure-elements.php:797
+#: ../main-structure-elements.php:1261
+msgid "Allow custom padding to be retained on mobile screens"
+msgstr ""
+"Dozvolite prilagođenoj unurašnjoj margini da se zadrži na ekranima mobilnih "
+"uređaja"
+
+#: ../main-structure-elements.php:216
+msgid "Make This Section Fullwidth"
+msgstr ""
+
+#: ../main-structure-elements.php:226 ../main-structure-elements.php:710
+msgid "Use Custom Width"
+msgstr "Koristi prilagođenu širinu"
+
+#: ../main-structure-elements.php:240 ../main-structure-elements.php:724
+msgid "Unit"
+msgstr "Jedinica"
+
+#: ../main-structure-elements.php:243 ../main-structure-elements.php:727
+msgid "px"
+msgstr "pikseli"
+
+#: ../main-structure-elements.php:257 ../main-structure-elements.php:268
+#: ../main-structure-elements.php:740 ../main-structure-elements.php:751
+msgid "Custom Width"
+msgstr "Prilagođena širina"
+
+#: ../main-structure-elements.php:279 ../main-structure-elements.php:883
+#: ../main-structure-elements.php:1297
+msgid "Equalize Column Heights"
+msgstr "Izjednači visine kolona"
+
+#: ../main-structure-elements.php:288 ../main-structure-elements.php:762
+#: ../main-structure-elements.php:1264
+msgid "Use Custom Gutter Width"
+msgstr ""
+
+#: ../main-structure-elements.php:300 ../main-structure-elements.php:774
+#: ../main-structure-elements.php:1276
+msgid "Gutter Width"
+msgstr "Razmak između kolona"
+
+#: ../main-structure-elements.php:700
+msgid "Make This Row Fullwidth"
+msgstr "Napravi ovaj red u punoj širini"
+
+#: ../main-structure-elements.php:707
+msgid ""
+"Enable this option to extend the width of this row to the edge of the "
+"browser window."
+msgstr ""
+"Aktiviraj ovu opciju kako bi povećao širinu ovog reda do ivice prozora "
+"pregledača."
+
+#: ../main-structure-elements.php:721
+msgid ""
+"Change to Yes if you would like to adjust the width of this row to a non-"
+"standard width."
+msgstr ""
+"Promeni u Da ako biste voleli da prilagodite širinu ovog reda u nestandardnu "
+"širinu."
+
+#: ../main-structure-elements.php:748 ../main-structure-elements.php:759
+msgid "Define custom width for this Row"
+msgstr "Odredi prilagođenu širinu za ovaj red"
+
+#: ../main-structure-elements.php:771 ../main-structure-elements.php:1273
+msgid "Enable this option to define custom gutter width for this row."
+msgstr ""
+
+#: ../main-structure-elements.php:782 ../main-structure-elements.php:1284
+msgid "Adjust the spacing between each column in this row."
+msgstr "Prilagodi razmak između svake kolone u ovom redu."
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "Koristi prilagođene stilove za taster"
+
+#~ msgid "Button Text Size"
+#~ msgstr "Veličina teksta tastera"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Boja teksta tastera"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Pozadinska boja tastera"
+
+#~ msgid "Button Border Width"
+#~ msgstr "Širina ivice tastera"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Boja ivice tastera"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Radijus ivice tastera"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "Razmak između slova na tasteru"
+
+#~ msgid "Button Font"
+#~ msgstr "Font teksta tastera"
+
+#~ msgid "Add Button Icon"
+#~ msgstr "Dodaj ikonu tastera"
+
+#~ msgid "Button Icon"
+#~ msgstr "Ikona tastera"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "Boja ikone tastera"
+
+#~ msgid "Icon Placement"
+#~ msgstr "Položaj ikone"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "Pokaži ikonu samo pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "Boja teksta tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Pozadinska boja tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Boja ivice tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "Radijus ivice tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "Razmak između slova tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Caption Font"
+#~ msgstr "Font natpisa"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "Boja fonta natpisa"
+
+#~ msgid "Caption Font Size"
+#~ msgstr "Veličina fonta natpisa"
+
+#~ msgid "Font"
+#~ msgstr "Font"
+
+#~ msgid "Text Size"
+#~ msgstr "Veličina teksta"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Razmak između slova"
+
+#~ msgid "Line Height"
+#~ msgstr "Visina linije"
+
+#~ msgid "Use Border Color"
+#~ msgstr "Koristi boju ivice"
+
+#~ msgid "Body Text Font"
+#~ msgstr "Font teksta u glavnom sadržaju"
+
+#~ msgid "Body Font Size"
+#~ msgstr "Veličina fonta u glavnom sadržaju"
+
+#~ msgid "Body Text Color"
+#~ msgstr "Boja teksta u glavnom sadržaju"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "Razmak slova u glavnom sadržaju"
+
+#~ msgid "Body Line Height"
+#~ msgstr "Razmak linija u glavnom sadržaju"
+
+#~ msgid "Reset Color"
+#~ msgstr "Uspostavi početnu vrednost boje"
+
+#~ msgid "Button Styling"
+#~ msgstr "Stil tastera"
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "Font %1$s tastera"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "Boja %1$s fonta tastera"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "Boja %1$s pozadine tastera"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "Veličina fonta %1$s tastera"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "Radijus ivice %1$s  tastera"
+
+#~ msgid "Full Width Module"
+#~ msgstr "Modul pune širine"
+
+#~ msgid "Here you can choose whether or not display the Post Title."
+#~ msgstr "Ovde možete izabrati da li da bude prikazan ili ne naslov objave."
+
+#~ msgid "Subheader Font Size"
+#~ msgstr "Veličina fonta podnaslova"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Dobrodošli u Divi! Pre nego šro uronite u svoju novu temu posetite <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> stranicu za pristup "
+#~ "desetinama opširnih uputstava."
+
+#~ msgid "Divi Page Settings"
+#~ msgstr "Podešavanja Divi stranice"
+
+#~ msgid "Divi Post Settings"
+#~ msgstr "Podešavanja Divi objave"
+
+#~ msgid "Divi Product Settings"
+#~ msgstr "Podešavanja Divi proizvoda"
+
+#~ msgid "Divi Project Settings"
+#~ msgstr "Podešavanja Divi projekta"
+
+#~ msgid "Dot Navigation"
+#~ msgstr "Dot navigacija"
+
+#~ msgid "Hide Nav Before Scroll"
+#~ msgstr "Sakrij navigaciju pre klizanja"
+
+#~ msgid "Typography"
+#~ msgstr "Tipografija"
+
+#~ msgid "Mobile Styles"
+#~ msgstr "Stilovi mobilnih uređaja"
+
+#~ msgid "Tablet"
+#~ msgstr "Tablet"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Mobile Menu"
+#~ msgstr "Meni mobilnih uređaja"
+
+#~ msgid "Background"
+#~ msgstr "Pozadina"
+
+#~ msgid "Header & Navigation"
+#~ msgstr "Zaglavlje i navigacija"
+
+#~ msgid "Header Format"
+#~ msgstr "Format zaglavlja"
+
+#~ msgid "Primary Menu Bar"
+#~ msgstr "Primarna traka sa menijima"
+
+#~ msgid "Secondary Menu Bar"
+#~ msgstr "Sekundarna traka sa menijima"
+
+#~ msgid "Fixed Navigation Settings"
+#~ msgstr "Fiksna podešavanja navigacije"
+
+#~ msgid "Header Elements"
+#~ msgstr "Elementi zaglavlja"
+
+#~ msgid "Footer"
+#~ msgstr "Podnožje stranice"
+
+#~ msgid "Widgets"
+#~ msgstr "Vidžeti"
+
+#~ msgid "Footer Elements"
+#~ msgstr "Elementi podnožja stranice"
+
+#~ msgid "Bottom Bar"
+#~ msgstr "Donja traka"
+
+#~ msgid "Buttons"
+#~ msgstr "Tasteri"
+
+#~ msgid "Buttons Style"
+#~ msgstr "Stil tastera"
+
+#~ msgid "Buttons Hover Style"
+#~ msgstr "Stil tastera pri zadržavanju pokazivača iznad"
+
+#~ msgid "Post"
+#~ msgstr "Objava"
+
+#~ msgid "Meta Text Size"
+#~ msgstr "Veličina teksta meta podataka"
+
+#~ msgid "Meta Line Height"
+#~ msgstr "Visina linije meta podataka"
+
+#~ msgid "Meta Letter Spacing"
+#~ msgstr "Razmak između slova u meta podacima"
+
+#~ msgid "Meta Font Style"
+#~ msgstr "Stil fonta meta podataka"
+
+#~ msgid "Bold"
+#~ msgstr "Podebljano"
+
+#~ msgid "Italic"
+#~ msgstr "Ukošen"
+
+#~ msgid "Uppercase"
+#~ msgstr "Velika slova"
+
+#~ msgid "Underline"
+#~ msgstr "Podvučeno"
+
+#~ msgid "Header Text Size"
+#~ msgstr "Veličina teksta zaglavlja"
+
+#~ msgid "Header Line Height"
+#~ msgstr "Visina linije zaglavlja"
+
+#~ msgid "Header Letter Spacing"
+#~ msgstr "Razmak između slova zaglavlja"
+
+#~ msgid "Header Font Style"
+#~ msgstr "Stil fonta zaglavlja"
+
+#~ msgid "Enable Boxed Layout"
+#~ msgstr "Aktiviraj uokvireni raspored"
+
+#~ msgid "Website Content Width"
+#~ msgstr "Širina sadržaja veb lokacije"
+
+#~ msgid "Website Gutter Width"
+#~ msgstr "Razmak između kolona veb lokacije"
+
+#~ msgid "Sidebar Width"
+#~ msgstr "Širina bočne trake"
+
+#~ msgid "Section Height"
+#~ msgstr "Visina odeljka"
+
+#~ msgid "Row Height"
+#~ msgstr "Visina reda"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Ponavljanje pozadine"
+
+#~ msgid "No Repeat"
+#~ msgstr "Bez ponavljanja"
+
+#~ msgid "Tile"
+#~ msgstr "Razvučeno"
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "Horizontalno razvučeno"
+
+#~ msgid "Tile Vertically"
+#~ msgstr "Vertikalno razvučeno"
+
+#~ msgid "Background Position"
+#~ msgstr "Pozicija pozadine"
+
+#~ msgid "Scroll"
+#~ msgstr "Klizač"
+
+#~ msgid "Fixed"
+#~ msgstr "Fiksno"
+
+#~ msgid "Body Text Size"
+#~ msgstr "Veličina teksta tela"
+
+#~ msgid "Body Link Color"
+#~ msgstr "Boja veza teksta u telu"
+
+#~ msgid "Header Text Color"
+#~ msgstr "Boja teksta zaglavlja"
+
+#~ msgid "Theme Accent Color"
+#~ msgstr "Naglašena boja teme"
+
+#~ msgid "Centered Inline Logo"
+#~ msgstr "Centrirani umetnuti logotip"
+
+#~ msgid "Enable Vertical Navigation"
+#~ msgstr "Aktiviraj vertikalnu navigaciju"
+
+#~ msgid "Hide Navigation Until Scroll"
+#~ msgstr "Sakrij navijaciju do klizanja"
+
+#~ msgid "Show Social Icons"
+#~ msgstr "Prikaži ikonice društvenih mreža"
+
+#~ msgid "Hide Logo Image"
+#~ msgstr "Sakrij sliku logotipa"
+
+#~ msgid "Menu/Logo Height"
+#~ msgstr "Meni/Visina logotipa"
+
+#~ msgid "Font Style"
+#~ msgstr "Stil fonta"
+
+#~ msgid "Active Link Color"
+#~ msgstr "Boja aktivne veze"
+
+#~ msgid "Dropdown Menu Background Color"
+#~ msgstr "Boja pozadine padajućeg menija"
+
+#~ msgid "Dropdown Menu Line Color"
+#~ msgstr "Boja linije padajućeg menija"
+
+#~ msgid "Dropdown Menu Text Color"
+#~ msgstr "Boja teksta padajućeg menija"
+
+#~ msgid "Dropdown Menu Animation"
+#~ msgstr "Animacija padajućeg menija"
+
+#~ msgid "Fade"
+#~ msgstr "Postepeno pojavljivanje i iščezavanje"
+
+#~ msgid "Expand"
+#~ msgstr "Razvij"
+
+#~ msgid "Flip"
+#~ msgstr "Preokreni"
+
+#~ msgid "Fixed Menu/Logo Height"
+#~ msgstr "Fiksni meni/Visina logotipa"
+
+#~ msgid "Primary Menu Background Color"
+#~ msgstr "Boja pozadine primarnog menija"
+
+#~ msgid "Secondary Menu Background Color"
+#~ msgstr "Boja pozadine sekundarnog menija"
+
+#~ msgid "Menu Link Color"
+#~ msgstr "Boja veza u meniju"
+
+#~ msgid "Column Layout"
+#~ msgstr "Raspored kolona"
+
+#~ msgid "Body/Link Text Size"
+#~ msgstr "Telo teksta/Veličina teksta veze"
+
+#~ msgid "Body/Link Line Height"
+#~ msgstr "Telo teksta/Visina linije veze"
+
+#~ msgid "Body Font Style"
+#~ msgstr "446 Stil fonta teksta u telu"
+
+#~ msgid "Widget Text Color"
+#~ msgstr "Boja teksta vidžeta"
+
+#~ msgid "Widget Link Color"
+#~ msgstr "Boja linka vidžeta"
+
+#~ msgid "Widget Header Color"
+#~ msgstr "Boja zaglavlja vidžeta"
+
+#~ msgid "Widget Bullet Color"
+#~ msgstr "Boja Dot vidžeta"
+
+#~ msgid "Footer Menu Background Color"
+#~ msgstr "Boja pozadine menija podnožja stranice"
+
+#~ msgid "Footer Menu Text Color"
+#~ msgstr "Boja teksta menija podnožja stranice"
+
+#~ msgid "Footer Menu Active Link Color"
+#~ msgstr "Boja aktivne veze menija podnožja stranice"
+
+#~ msgid "Font Size"
+#~ msgstr "Veličina fonta"
+
+#~ msgid "Social Icon Size"
+#~ msgstr "Veličina ikone društvene mreže"
+
+#~ msgid "Social Icon Color"
+#~ msgstr "Boja ikone društvene mreže"
+
+#~ msgid "Button Font Style"
+#~ msgstr "Stil fonta tastera"
+
+#~ msgid "Buttons Font"
+#~ msgstr "Font tastera"
+
+#~ msgid "Select Icon"
+#~ msgstr "Izaberi ikonu"
+
+#~ msgid "Only Show Icon on Hover"
+#~ msgstr "Prikaži ikonu samo pri zadržavanju pokazivača iznad"
+
+#~ msgid "Left to Right"
+#~ msgstr "S leva na desno"
+
+#~ msgid "Right to Left"
+#~ msgstr "S desna na levo"
+
+#~ msgid "Top to Bottom"
+#~ msgstr "Od vrha ka dnu"
+
+#~ msgid "Bottom to Top"
+#~ msgstr "Od dna ka vrhu"
+
+#~ msgid "This controls default direction of the lazy-loading animation."
+#~ msgstr "Ovo kontroliše podrazumevani pravac sporog-učitavanja animacije."
+
+#~ msgid "Title Font Style"
+#~ msgstr "Stil fonta naslova"
+
+#~ msgid "Caption Font Style"
+#~ msgstr "Stil fonta natpisa"
+
+#~ msgid "Header Font Size"
+#~ msgstr "Veličina fonta zaglavlja"
+
+#~ msgid "Top & Bottom Padding"
+#~ msgstr "Unutrašnja margina pri vrhu i pri dnu"
+
+#~ msgid "Content Font Style"
+#~ msgstr "Stil fonta sadržaja"
+
+#~ msgid "Name Font Style"
+#~ msgstr "Stil fonta imena"
+
+#~ msgid "Details Font Style"
+#~ msgstr "Stil fonta detalja"
+
+#~ msgid "Subheader Font Style"
+#~ msgstr "Stil fonta podnaslova"
+
+#~ msgid "Price Font Size"
+#~ msgstr "Veličina fonta cene"
+
+#~ msgid "Pricing Font Style"
+#~ msgstr "Stil fonta cenovnika"
+
+#~ msgid "Category Font Size"
+#~ msgstr "Veličina fonta kategorije"
+
+#~ msgid "Category Font Style"
+#~ msgstr "Stil fonta kategorije"
+
+#~ msgid "Filters Font Size"
+#~ msgstr "Veličina fonta filtera"
+
+#~ msgid "Filters Font Style"
+#~ msgstr "Stil fonta filtera"
+
+#~ msgid "Label Font Size"
+#~ msgstr "Veličina fonta oznake"
+
+#~ msgid "Label Font Style"
+#~ msgstr "Stil fonta oznake"
+
+#~ msgid "Percent Font Size"
+#~ msgstr "Veličina fonta procenta"
+
+#~ msgid "Percent Font Style"
+#~ msgstr "Stil fonta procenta"
+
+#~ msgid "Bar Padding"
+#~ msgstr "Popunjavanje trake"
+
+#~ msgid "Bar Border Radius"
+#~ msgstr "Radijus ivice trake"
+
+#~ msgid "Number Font Size"
+#~ msgstr "Veličina fonta broja"
+
+#~ msgid "Number Font Style"
+#~ msgstr "Stil fonta broja"
+
+#~ msgid "Opened Title Font Style"
+#~ msgstr "Stil fonta otvorenog naslova"
+
+#~ msgid "Closed Title Font Style"
+#~ msgstr "Stil fonta zatvorenog naslova"
+
+#~ msgid "Toggle Icon Size"
+#~ msgstr "Veličina ikone preklopnika"
+
+#~ msgid "Toggle Padding"
+#~ msgstr "Popunjavanje preklopnika"
+
+#~ msgid "Input Font Size"
+#~ msgstr "Veličina fonta unosa"
+
+#~ msgid "Input Font Style"
+#~ msgstr "Stil fonta unosa"
+
+#~ msgid "Input Field Padding"
+#~ msgstr "Popunjavanje polja za unos"
+
+#~ msgid "Captcha Font Size"
+#~ msgstr "Veličina “Captcha” fonta"
+
+#~ msgid "Captcha Font Style"
+#~ msgstr "Stil “Captcha” fonta"
+
+#~ msgid "Widget Header Font Size"
+#~ msgstr "Veličina fonta zaglavlja vidžeta"
+
+#~ msgid "Widget Header Font Style"
+#~ msgstr "Stil fonta zaglavlja vidžeta"
+
+#~ msgid "Remove Vertical Divider"
+#~ msgstr "Ukloni vertikalni razdelnik"
+
+#~ msgid "Divider Height"
+#~ msgstr "Visina razdelnika"
+
+#~ msgid "Name Font Size"
+#~ msgstr "Veličina fonta imena"
+
+#~ msgid "Social Network Icon Size"
+#~ msgstr "Veličina ikone socijalne mreže"
+
+#~ msgid "Post Title Font Size"
+#~ msgstr "Veličina fonta naslova objave"
+
+#~ msgid "Meta Font Size"
+#~ msgstr "Veličina fonta meta podataka"
+
+#~ msgid "Masonry Blog"
+#~ msgstr "Masonry blog"
+
+#~ msgid "Product Name Font Size"
+#~ msgstr "Veličina fonta imena proizvoda"
+
+#~ msgid "Product Name Font Style"
+#~ msgstr "Stil fonta imena proizvoda"
+
+#~ msgid "Sale Badge Font Size"
+#~ msgstr "Veličina fonta značke za rasprodaju"
+
+#~ msgid "Sale Badge Font Style"
+#~ msgstr "Stil fonta značke za rasprodaju"
+
+#~ msgid "Price Font Style"
+#~ msgstr "Stil fonta cene"
+
+#~ msgid "Sale Price Font Size"
+#~ msgstr "Veličina fonta rasprodajne cene"
+
+#~ msgid "Sale Price Font Style"
+#~ msgstr "Stil fonta rasprodajne cene"
+
+#~ msgid "Countdown"
+#~ msgstr "Odbrojavanje"
+
+#~ msgid "Follow Font & Icon Size"
+#~ msgstr "Font i veličina ikona za praćenje preko društvenih mreža"
+
+#~ msgid "Full Width Slider"
+#~ msgstr "Klizač pune širine"
+
+#~ msgid "Theme Customizer"
+#~ msgstr "Program za prilagođavanje tema"
+
+#~ msgid "Module Customizer"
+#~ msgstr "Program za prilagođavanje modula"
+
+#~ msgid "Divi Library"
+#~ msgstr "Divi biblioteka"

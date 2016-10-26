@@ -1,0 +1,5101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:13+0300\n"
+"PO-Revision-Date: 2015-06-17 18:13+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../class-et-builder-element.php:406 ../class-et-builder-element.php:681
+#, php-format
+msgid "%1$s Font"
+msgstr "%1$s フォント"
+
+#: ../class-et-builder-element.php:412
+#, php-format
+msgid "%1$s Font Size"
+msgstr "%1$s フォントサイズ"
+
+#: ../class-et-builder-element.php:418 ../class-et-builder-element.php:624
+#, php-format
+msgid "%1$s Text Color"
+msgstr "%1$s テキストカラー"
+
+#: ../class-et-builder-element.php:425 ../class-et-builder-element.php:672
+#, php-format
+msgid "%1$s Letter Spacing"
+msgstr "%1$s 文字間隔"
+
+#: ../class-et-builder-element.php:432
+#, php-format
+msgid "%1$s Line Height"
+msgstr "%1$s 行の高さ"
+
+#: ../class-et-builder-element.php:440
+#, php-format
+msgid "%1$s All Caps"
+msgstr "%1$s 全て大文字"
+
+#: ../class-et-builder-element.php:443 ../main-modules.php:417
+#: ../main-modules.php:2015 ../main-modules.php:5703 ../main-modules.php:6040
+#: ../main-modules.php:6217 ../main-modules.php:7804 ../main-modules.php:7886
+#: ../main-modules.php:8628 ../main-modules.php:8872 ../main-modules.php:10426
+#: ../main-modules.php:10761 ../main-modules.php:10953
+msgid "Off"
+msgstr "オフ"
+
+#: ../class-et-builder-element.php:444 ../main-modules.php:418
+#: ../main-modules.php:2016 ../main-modules.php:5702 ../main-modules.php:6039
+#: ../main-modules.php:6216 ../main-modules.php:7805 ../main-modules.php:7887
+#: ../main-modules.php:8627 ../main-modules.php:8873 ../main-modules.php:10427
+#: ../main-modules.php:10762 ../main-modules.php:10952
+msgid "On"
+msgstr "オン"
+
+#: ../class-et-builder-element.php:471 ../class-et-builder-element.php:2612
+#: ../main-modules.php:2398 ../main-modules.php:2830 ../main-modules.php:3752
+#: ../main-modules.php:3973 ../main-modules.php:4238 ../main-modules.php:4638
+#: ../main-modules.php:5689 ../main-modules.php:5824 ../main-modules.php:8469
+#: ../main-modules.php:9326 ../main-modules.php:9739 ../main-modules.php:10160
+#: ../main-modules.php:11552 ../main-structure-elements.php:117
+#: ../main-structure-elements.php:818
+msgid "Background Color"
+msgstr "背景色"
+
+#: ../class-et-builder-element.php:480 ../class-et-builder-element.php:2608
+#: ../main-modules.php:2364 ../main-structure-elements.php:97
+#: ../main-structure-elements.php:810
+msgid "Background Image"
+msgstr "背景画像："
+
+#: ../class-et-builder-element.php:482 ../class-et-builder-element.php:2609
+#: ../main-modules.php:77 ../main-modules.php:673 ../main-modules.php:1007
+#: ../main-modules.php:1428 ../main-modules.php:2366 ../main-modules.php:2405
+#: ../main-modules.php:2803 ../main-modules.php:3967 ../main-modules.php:7469
+#: ../main-modules.php:9733 ../main-modules.php:9772 ../main-modules.php:9791
+#: ../main-modules.php:11186 ../main-structure-elements.php:99
+#: ../main-structure-elements.php:812
+msgid "Upload an image"
+msgstr "画像をアップロードする"
+
+#: ../class-et-builder-element.php:483 ../class-et-builder-element.php:2610
+#: ../main-modules.php:2367 ../main-structure-elements.php:100
+#: ../main-structure-elements.php:813
+msgid "Choose a Background Image"
+msgstr "背景画像を選択してください"
+
+#: ../class-et-builder-element.php:484 ../class-et-builder-element.php:2611
+#: ../main-modules.php:2368 ../main-structure-elements.php:101
+#: ../main-structure-elements.php:814
+msgid "Set As Background"
+msgstr "背景に設定"
+
+#: ../class-et-builder-element.php:502
+msgid "Use Border"
+msgstr "ボーダーを使う"
+
+#: ../class-et-builder-element.php:505 ../class-et-builder-element.php:591
+#: ../class-et-builder-element.php:693 ../class-et-builder-element.php:744
+#: ../functions.php:2685 ../main-modules.php:96 ../main-modules.php:131
+#: ../main-modules.php:170 ../main-modules.php:180 ../main-modules.php:391
+#: ../main-modules.php:400 ../main-modules.php:1359 ../main-modules.php:1390
+#: ../main-modules.php:1410 ../main-modules.php:1502 ../main-modules.php:2033
+#: ../main-modules.php:2057 ../main-modules.php:2116 ../main-modules.php:2125
+#: ../main-modules.php:2134 ../main-modules.php:2470 ../main-modules.php:2822
+#: ../main-modules.php:3231 ../main-modules.php:3256 ../main-modules.php:3266
+#: ../main-modules.php:3523 ../main-modules.php:3744 ../main-modules.php:4230
+#: ../main-modules.php:4306 ../main-modules.php:4620 ../main-modules.php:4630
+#: ../main-modules.php:4706 ../main-modules.php:4988 ../main-modules.php:4997
+#: ../main-modules.php:5006 ../main-modules.php:5346 ../main-modules.php:5355
+#: ../main-modules.php:5364 ../main-modules.php:6809 ../main-modules.php:7134
+#: ../main-modules.php:7297 ../main-modules.php:7784 ../main-modules.php:7815
+#: ../main-modules.php:7824 ../main-modules.php:7833 ../main-modules.php:7842
+#: ../main-modules.php:8461 ../main-modules.php:8651 ../main-modules.php:9170
+#: ../main-modules.php:9179 ../main-modules.php:9194 ../main-modules.php:9204
+#: ../main-modules.php:9225 ../main-modules.php:9235 ../main-modules.php:9245
+#: ../main-modules.php:9271 ../main-modules.php:9312 ../main-modules.php:9613
+#: ../main-modules.php:9625 ../main-modules.php:9750 ../main-modules.php:10444
+#: ../main-modules.php:10466 ../main-modules.php:10525
+#: ../main-modules.php:10534 ../main-modules.php:10543
+#: ../main-modules.php:10735 ../main-modules.php:10744
+#: ../main-modules.php:11205 ../main-modules.php:11396
+#: ../main-modules.php:11405 ../main-modules.php:11420
+#: ../main-modules.php:11430 ../main-modules.php:11451
+#: ../main-modules.php:11461 ../main-modules.php:11471
+#: ../main-modules.php:11497 ../main-modules.php:11538
+#: ../main-structure-elements.php:108 ../main-structure-elements.php:154
+#: ../main-structure-elements.php:163 ../main-structure-elements.php:172
+#: ../main-structure-elements.php:200 ../main-structure-elements.php:219
+#: ../main-structure-elements.php:229 ../main-structure-elements.php:282
+#: ../main-structure-elements.php:291 ../main-structure-elements.php:703
+#: ../main-structure-elements.php:713 ../main-structure-elements.php:765
+#: ../main-structure-elements.php:794 ../main-structure-elements.php:855
+#: ../main-structure-elements.php:864 ../main-structure-elements.php:886
+#: ../main-structure-elements.php:1258 ../main-structure-elements.php:1267
+#: ../main-structure-elements.php:1300
+msgid "No"
+msgstr "いいえ"
+
+#: ../class-et-builder-element.php:506 ../class-et-builder-element.php:592
+#: ../class-et-builder-element.php:692 ../class-et-builder-element.php:743
+#: ../functions.php:2686 ../main-modules.php:97 ../main-modules.php:132
+#: ../main-modules.php:171 ../main-modules.php:179 ../main-modules.php:390
+#: ../main-modules.php:399 ../main-modules.php:1360 ../main-modules.php:1391
+#: ../main-modules.php:1411 ../main-modules.php:1503 ../main-modules.php:2034
+#: ../main-modules.php:2058 ../main-modules.php:2117 ../main-modules.php:2126
+#: ../main-modules.php:2135 ../main-modules.php:2471 ../main-modules.php:2821
+#: ../main-modules.php:3230 ../main-modules.php:3257 ../main-modules.php:3267
+#: ../main-modules.php:3524 ../main-modules.php:3743 ../main-modules.php:4229
+#: ../main-modules.php:4307 ../main-modules.php:4621 ../main-modules.php:4629
+#: ../main-modules.php:4707 ../main-modules.php:4987 ../main-modules.php:4996
+#: ../main-modules.php:5005 ../main-modules.php:5345 ../main-modules.php:5354
+#: ../main-modules.php:5363 ../main-modules.php:6808 ../main-modules.php:7135
+#: ../main-modules.php:7296 ../main-modules.php:7783 ../main-modules.php:7814
+#: ../main-modules.php:7823 ../main-modules.php:7832 ../main-modules.php:7841
+#: ../main-modules.php:8460 ../main-modules.php:8652 ../main-modules.php:9169
+#: ../main-modules.php:9178 ../main-modules.php:9193 ../main-modules.php:9203
+#: ../main-modules.php:9224 ../main-modules.php:9234 ../main-modules.php:9244
+#: ../main-modules.php:9270 ../main-modules.php:9313 ../main-modules.php:9614
+#: ../main-modules.php:9626 ../main-modules.php:9751 ../main-modules.php:10445
+#: ../main-modules.php:10467 ../main-modules.php:10526
+#: ../main-modules.php:10535 ../main-modules.php:10544
+#: ../main-modules.php:10734 ../main-modules.php:10743
+#: ../main-modules.php:11206 ../main-modules.php:11395
+#: ../main-modules.php:11404 ../main-modules.php:11419
+#: ../main-modules.php:11429 ../main-modules.php:11450
+#: ../main-modules.php:11460 ../main-modules.php:11470
+#: ../main-modules.php:11496 ../main-modules.php:11539
+#: ../main-structure-elements.php:109 ../main-structure-elements.php:155
+#: ../main-structure-elements.php:164 ../main-structure-elements.php:173
+#: ../main-structure-elements.php:201 ../main-structure-elements.php:220
+#: ../main-structure-elements.php:230 ../main-structure-elements.php:283
+#: ../main-structure-elements.php:292 ../main-structure-elements.php:704
+#: ../main-structure-elements.php:714 ../main-structure-elements.php:766
+#: ../main-structure-elements.php:795 ../main-structure-elements.php:856
+#: ../main-structure-elements.php:865 ../main-structure-elements.php:887
+#: ../main-structure-elements.php:1259 ../main-structure-elements.php:1268
+#: ../main-structure-elements.php:1301
+msgid "Yes"
+msgstr "はい"
+
+#: ../class-et-builder-element.php:518
+msgid "Border Color"
+msgstr "ボーダーカラー"
+
+#: ../class-et-builder-element.php:527
+msgid "Border Width"
+msgstr "ボーダー幅"
+
+#: ../class-et-builder-element.php:536
+msgid "Border Style"
+msgstr "ボーダースタイル"
+
+#: ../class-et-builder-element.php:562
+msgid "Custom Margin"
+msgstr "カスタムマージン"
+
+#: ../class-et-builder-element.php:570 ../main-structure-elements.php:191
+#: ../main-structure-elements.php:785 ../main-structure-elements.php:1249
+msgid "Custom Padding"
+msgstr "カスタムパディング"
+
+#: ../class-et-builder-element.php:588
+#, php-format
+msgid "Use Custom Styles for %1$s "
+msgstr ""
+
+#: ../class-et-builder-element.php:616
+#, php-format
+msgid "%1$s Text Size"
+msgstr ""
+
+#: ../class-et-builder-element.php:634
+#, php-format
+msgid "%1$s Background Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:644
+#, php-format
+msgid "%1$s Border Width"
+msgstr ""
+
+#: ../class-et-builder-element.php:653
+#, php-format
+msgid "%1$s Border Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:663
+#, php-format
+msgid "%1$s Border Radius"
+msgstr ""
+
+#: ../class-et-builder-element.php:688
+#, php-format
+msgid "Add %1$s Icon"
+msgstr ""
+
+#: ../class-et-builder-element.php:691 ../functions.php:836
+#: ../main-modules.php:2065 ../main-modules.php:2081 ../main-modules.php:2375
+#: ../main-modules.php:2391 ../main-modules.php:10474
+#: ../main-modules.php:10490
+msgid "Default"
+msgstr "初期設定"
+
+#: ../class-et-builder-element.php:707
+#, php-format
+msgid "%1$s Icon"
+msgstr ""
+
+#: ../class-et-builder-element.php:718
+#, php-format
+msgid "%1$s Icon Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:728
+#, php-format
+msgid "%1$s Icon Placement"
+msgstr ""
+
+#: ../class-et-builder-element.php:731 ../class-et-builder-element.php:1307
+#: ../class-et-builder-element.php:2616 ../functions.php:248
+#: ../functions.php:254 ../main-modules.php:142 ../main-modules.php:1332
+#: ../main-modules.php:7097 ../main-modules.php:9295 ../main-modules.php:11521
+msgid "Right"
+msgstr "右"
+
+#: ../class-et-builder-element.php:732 ../class-et-builder-element.php:1319
+#: ../class-et-builder-element.php:2618 ../functions.php:246
+#: ../main-modules.php:140 ../main-modules.php:1330 ../main-modules.php:7096
+#: ../main-modules.php:9293 ../main-modules.php:11519
+msgid "Left"
+msgstr "左"
+
+#: ../class-et-builder-element.php:740
+#, php-format
+msgid "Only Show Icon On Hover for %1$s"
+msgstr ""
+
+#: ../class-et-builder-element.php:752
+#, php-format
+msgid "%1$s Hover Text Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:762
+#, php-format
+msgid "%1$s Hover Background Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:772
+#, php-format
+msgid "%1$s Hover Border Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:782
+#, php-format
+msgid "%1$s Hover Border Radius"
+msgstr ""
+
+#: ../class-et-builder-element.php:791
+#, php-format
+msgid "%1$s Hover Letter Spacing"
+msgstr ""
+
+#: ../class-et-builder-element.php:812
+msgid "Before"
+msgstr "前"
+
+#: ../class-et-builder-element.php:817
+msgid "Main Element"
+msgstr "メイン要素"
+
+#: ../class-et-builder-element.php:820
+msgid "After"
+msgstr "後"
+
+#: ../class-et-builder-element.php:1233 ../class-et-builder-element.php:2613
+msgid "Hex Value"
+msgstr "明度"
+
+#: ../class-et-builder-element.php:1244
+msgid "Choose Custom Color"
+msgstr "カスタムカラー選択"
+
+#: ../class-et-builder-element.php:1254
+msgid "Upload"
+msgstr "アップロード"
+
+#: ../class-et-builder-element.php:1255
+msgid "Choose image"
+msgstr "画像選択"
+
+#: ../class-et-builder-element.php:1256
+msgid "Set image"
+msgstr "画像設定"
+
+#: ../class-et-builder-element.php:1301 ../class-et-builder-element.php:2615
+#: ../main-modules.php:1326 ../main-modules.php:7279
+msgid "Top"
+msgstr "トップ"
+
+#: ../class-et-builder-element.php:1313 ../class-et-builder-element.php:2617
+#: ../main-modules.php:2415 ../main-modules.php:7281 ../main-modules.php:9782
+#: ../main-modules.php:9801
+msgid "Bottom"
+msgstr "ボトム"
+
+#: ../class-et-builder-element.php:1452 ../class-et-builder-element.php:1629
+msgid "General Settings"
+msgstr " 一般設定"
+
+#: ../class-et-builder-element.php:1453
+msgid "Advanced Design Settings"
+msgstr "詳細デザイン設定"
+
+#: ../class-et-builder-element.php:1454
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: ../class-et-builder-element.php:1605 ../main-modules.php:1166
+#: ../main-modules.php:1474 ../main-modules.php:1867 ../main-modules.php:2476
+#: ../main-modules.php:2851 ../main-modules.php:3564 ../main-modules.php:3773
+#: ../main-modules.php:4259 ../main-modules.php:4659 ../main-modules.php:6500
+#: ../main-modules.php:6625 ../main-modules.php:7789 ../main-modules.php:8762
+#: ../main-modules.php:9026 ../main-modules.php:9807 ../main-modules.php:11025
+#: ../main-modules.php:11103
+msgid "Content"
+msgstr "コンテンツ"
+
+#: ../class-et-builder-element.php:1606 ../main-modules.php:1869
+#: ../main-modules.php:6502
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr "こちらでは現在のタブ内に配置されるコンテンツを設定できます。"
+
+#: ../class-et-builder-element.php:1618
+msgid "Add New Item"
+msgstr "新しいアイテムの追加"
+
+#: ../class-et-builder-element.php:1618
+#, php-format
+msgid "Add New %s"
+msgstr "新規%sを追加"
+
+#: ../class-et-builder-element.php:1706
+#, php-format
+msgid "%1$s %2$s Settings"
+msgstr "%1$s %2$s設定"
+
+#: ../class-et-builder-element.php:1708
+msgid "Item"
+msgstr "アイテム"
+
+#: ../class-et-builder-element.php:1708 ../functions.php:1795
+#: ../layouts.php:174
+msgid "Module"
+msgstr "モジュール"
+
+#: ../class-et-builder-element.php:2607 ../main-structure-elements.php:1484
+msgid "Column"
+msgstr "列"
+
+#: ../class-et-builder-element.php:2614
+msgid "Padding"
+msgstr "パディング"
+
+#: ../functions.php:65 ../functions.php:1804
+msgid "All Categories"
+msgstr "全てのカテゴリー"
+
+#: ../functions.php:74 ../layouts.php:10
+msgid "All Layouts"
+msgstr "全てのレイアウト"
+
+#: ../functions.php:75 ../functions.php:1155
+msgid "Modules"
+msgstr "モジュール"
+
+#: ../functions.php:76 ../functions.php:1154
+msgid "Rows"
+msgstr "行"
+
+#: ../functions.php:77 ../functions.php:1153
+msgid "Sections"
+msgstr "セクション"
+
+#: ../functions.php:78 ../functions.php:1152 ../layouts.php:4
+msgid "Layouts"
+msgstr "レイアウト"
+
+#: ../functions.php:82
+msgid "Global/not Global"
+msgstr "グローバル切替"
+
+#: ../functions.php:83 ../layouts.php:181
+msgid "Global"
+msgstr "グローバル"
+
+#: ../functions.php:84
+msgid "not Global"
+msgstr "非グローバル"
+
+#: ../functions.php:247 ../functions.php:255 ../main-modules.php:141
+#: ../main-modules.php:2376 ../main-modules.php:2414 ../main-modules.php:9294
+#: ../main-modules.php:9781 ../main-modules.php:11520
+msgid "Center"
+msgstr "中央"
+
+#: ../functions.php:249
+msgid "Justified"
+msgstr "頭末自動調整"
+
+#: ../functions.php:267
+msgid "Update Gallery"
+msgstr "ギャラリーを更新"
+
+#: ../functions.php:276
+msgid "Select a menu"
+msgstr "メニューを選択"
+
+#: ../functions.php:383
+msgid "Solid"
+msgstr "直線"
+
+#: ../functions.php:384
+msgid "Dotted"
+msgstr "点線"
+
+#: ../functions.php:385
+msgid "Dashed"
+msgstr "破線"
+
+#: ../functions.php:386
+msgid "Double"
+msgstr "二重線"
+
+#: ../functions.php:387
+msgid "Groove"
+msgstr "くぼみ線"
+
+#: ../functions.php:388
+msgid "Ridge"
+msgstr "浮き線"
+
+#: ../functions.php:389
+msgid "Inset"
+msgstr "インセット"
+
+#: ../functions.php:390
+msgid "Outset"
+msgstr "アウトセット"
+
+#: ../functions.php:1112
+#, php-format
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+" <strong>%1$s</strong>ウィジェットエリアが作成されています。ページを更新し"
+"て、すべてのエリアを表示すると、さらに多くのエリアを作成できます。"
+
+#: ../functions.php:1136
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr "このサイトのコンテンツをエクスポートできる権限がありません。"
+
+#: ../functions.php:1140
+msgid "Export Divi Builder Layouts"
+msgstr "Diviビルダーレイアウトをエクスポート"
+
+#: ../functions.php:1141
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"下のボタンをクリックすると、 WordPress は XML ファイルを作成します。これをコ"
+"ンピューターに保存してください。"
+
+#: ../functions.php:1142
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"このフォーマットは WordPress eXtended RSS または WXR, と呼ばれ、 Page "
+"Builder で作成したすべてのレイアウトを含んでいます。"
+
+#: ../functions.php:1143
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"ダウンロードファイルを一旦保存すると、他の WordPress インストールのインポート"
+"機能を使って、このサイトから全てのレイアウトをインポートすることができます。"
+
+#: ../functions.php:1144
+msgid "Select Templates you want to export:"
+msgstr "エクスポートするテンプレートを選択："
+
+#: ../functions.php:1177
+msgid "Download Export File"
+msgstr "エクスポートファイルをダウンロード"
+
+#: ../functions.php:1182
+msgid "Export Divi Layouts"
+msgstr "Diviレイアウトをエクスポート"
+
+#: ../functions.php:1186
+msgid "Manage Categories"
+msgstr "カテゴリー管理"
+
+#: ../functions.php:1331 ../functions.php:1333
+msgid "Use Default Editor"
+msgstr "デフォルトのエディターを使う。"
+
+#: ../functions.php:1331 ../functions.php:1332
+msgid "Use The Divi Builder"
+msgstr "Diviビルダーを使う"
+
+#: ../functions.php:1368
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr ""
+"こちらでは、サイドバーのモジュールで使用する新しいウィジェットエリアを作成で"
+"きます"
+
+#: ../functions.php:1369
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"注：ウィジェットエリアに\"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\"と名前を付けると、このテーマと対立が生じます。"
+
+#: ../functions.php:1370
+msgid "Widget Name"
+msgstr "ウィジェット名"
+
+#: ../functions.php:1371
+msgid "Create"
+msgstr "作成"
+
+#: ../functions.php:1373 ../functions.php:1456 ../functions.php:2471
+msgid "Delete"
+msgstr "削除"
+
+#: ../functions.php:1414
+msgid "Replace the existing content with loaded layout"
+msgstr "既存のコンテンツを新しいレイアウトに置き換える。"
+
+#: ../functions.php:1453
+msgid "Load"
+msgstr "ロード"
+
+#: ../functions.php:1555
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"Diviライブラリに何も保存されていません。ライブラリに保存されたアイテムが使い"
+"やすいようにここに表示されます。"
+
+#: ../functions.php:1791
+msgid "The section should have at least one row."
+msgstr "このセクションは少なくとも1列分必要です。"
+
+#: ../functions.php:1792
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr "全幅モジュールは、全幅セクションの外では使用できません。"
+
+#: ../functions.php:1793
+msgid "3 column row can't be used in this column."
+msgstr "この列では、 3 列の段組は使用できません。"
+
+#: ../functions.php:1794
+msgid "Preview"
+msgstr "プレビュー"
+
+#: ../functions.php:1796
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"このビデオサービスおよび / あるいはビデオフォーマットからは、静止画像を作成す"
+"ることができません。"
+
+#: ../functions.php:1797
+msgid "Geocode was not successful for the following reason"
+msgstr "ジオコードは、以下の理由により成功しませんでした"
+
+#: ../functions.php:1798
+msgid "Geocoder failed due to"
+msgstr "ジオコーダーの失敗原因"
+
+#: ../functions.php:1799
+msgid "No results found"
+msgstr "結果が見つかりません"
+
+#: ../functions.php:1800
+msgid "No available options for this configuration."
+msgstr "この設定では利用可能なオプションはありません。"
+
+#: ../functions.php:1801
+msgid ""
+"You're about to update global module. This change will be applied to all "
+"pages where you use this module. Press OK if you want to update this module"
+msgstr ""
+"グローバルモジュールを更新します。この変更はこのモジュールを使用する全ての"
+"ページに適用されます。モジュールを更新する場合はOKを押してください。"
+
+#: ../functions.php:1802
+msgid "You cannot add global rows into global sections"
+msgstr "グローバルセクションにグローバル行は追加できません。"
+
+#: ../functions.php:1803
+msgid "You cannot add global modules into global sections or rows"
+msgstr "グローバルセクションまたは行にグローバルモジュールは追加できません。"
+
+#: ../functions.php:1819
+msgid "The Divi Builder"
+msgstr "Diviビルダー"
+
+#: ../functions.php:1830
+#, php-format
+msgid "Posts by %s"
+msgstr "投稿者 %s"
+
+#: ../functions.php:1845
+msgid "% Comments"
+msgstr "% コメント"
+
+#: ../functions.php:1847
+msgid "No Comments"
+msgstr "コメントはありません。"
+
+#: ../functions.php:1849
+msgid "1 Comment"
+msgstr "コメント1件"
+
+#: ../functions.php:1860
+msgid "by"
+msgstr "執筆者"
+
+#: ../functions.php:2156
+msgid "Save to Library"
+msgstr "ライブラリに保存"
+
+#: ../functions.php:2157
+msgid "Load From Library"
+msgstr "ライブラリから読み込み"
+
+#: ../functions.php:2158 ../functions.php:2516
+msgid "Clear Layout"
+msgstr "レイアウトをクリア"
+
+#: ../functions.php:2174 ../functions.php:2223 ../functions.php:2472
+msgid "Settings"
+msgstr "設定"
+
+#: ../functions.php:2175
+msgid "Clone Section"
+msgstr "セクションをコピー"
+
+#: ../functions.php:2176
+msgid "Delete Section"
+msgstr "セクションを削除"
+
+#: ../functions.php:2187
+msgid "Standard Section"
+msgstr "標準セクション"
+
+#: ../functions.php:2188 ../layouts.php:178
+msgid "Fullwidth Section"
+msgstr "全幅セクション"
+
+#: ../functions.php:2189 ../layouts.php:179
+msgid "Specialty Section"
+msgstr "特別セクション"
+
+#: ../functions.php:2190 ../functions.php:2373 ../functions.php:2411
+#: ../functions.php:2441
+msgid "Add From Library"
+msgstr "ライブラリから追加"
+
+#: ../functions.php:2224
+msgid "Clone Row"
+msgstr "行をコピー"
+
+#: ../functions.php:2225
+msgid "Delete Row"
+msgstr "行を削除"
+
+#: ../functions.php:2226
+msgid "Change Structure"
+msgstr "構成変更"
+
+#: ../functions.php:2239
+msgid "Add Row"
+msgstr "行を追加"
+
+#: ../functions.php:2256
+msgid "Insert Column(s)"
+msgstr "列を挿入"
+
+#: ../functions.php:2268 ../functions.php:2473
+msgid "Clone Module"
+msgstr "モジュールをコピー"
+
+#: ../functions.php:2276
+msgid "Remove Module"
+msgstr "モジュール削除"
+
+#: ../functions.php:2287
+msgid "Module Settings"
+msgstr "モジュールの設定"
+
+#: ../functions.php:2300
+msgid "Save & Add To Library"
+msgstr "ライブラリに保存して追加"
+
+#: ../functions.php:2322 ../functions.php:2491 ../functions.php:2546
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../functions.php:2324
+msgid "Save & Exit"
+msgstr "保存して終了"
+
+#: ../functions.php:2370
+msgid "Insert Columns"
+msgstr "列を挿入"
+
+#: ../functions.php:2372
+msgid "New Row"
+msgstr "新規行"
+
+#: ../functions.php:2409
+msgid "Insert Module"
+msgstr "モジュールを挿入"
+
+#: ../functions.php:2410
+msgid "New Module"
+msgstr "新規モジュール"
+
+#: ../functions.php:2439
+msgid "Load Layout"
+msgstr "レイアウトをロード"
+
+#: ../functions.php:2440
+msgid "Predefined Layouts"
+msgstr "定義済レイアウト"
+
+#: ../functions.php:2452
+msgid "Insert Module(s)"
+msgstr "モジュールを挿入"
+
+#: ../functions.php:2492 ../functions.php:2547
+msgid "Save"
+msgstr "保存"
+
+#: ../functions.php:2503
+msgid "Disable Builder"
+msgstr "ビルダーを無効にする"
+
+#: ../functions.php:2504
+msgid ""
+"All content created in the Divi Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Diviビルダーで作成した全てのコンテンツが失われます。前回のコンテンツが復元さ"
+"れます。"
+
+#: ../functions.php:2505 ../functions.php:2518 ../functions.php:2529
+msgid "Do you wish to proceed?"
+msgstr "続行しますか？"
+
+#: ../functions.php:2517
+msgid "All of your current page content will be lost."
+msgstr "現在のページコンテンツが全て失われます。"
+
+#: ../functions.php:2528
+msgid "All advanced module settings in will be lost."
+msgstr "詳細モジュール設定が全て失われます。"
+
+#: ../functions.php:2560
+msgid "Save To Library"
+msgstr "ライブラリに保存"
+
+#: ../functions.php:2561
+msgid "Save your current page to the Divi Library for later use."
+msgstr "後で使うためにDiviライブラリに現在のページを保存"
+
+#: ../functions.php:2562
+msgid "Layout Name:"
+msgstr "レイアウト名："
+
+#: ../functions.php:2576
+msgid "Save And Add To Library"
+msgstr "ライブラリに保存して追加"
+
+#: ../functions.php:2583
+msgid "Add To Categories:"
+msgstr "カテゴリーに追加："
+
+#: ../functions.php:2604
+msgid "Create New Category"
+msgstr "新規カテゴリーを作成"
+
+#: ../functions.php:2659
+msgid ""
+"Here you can save the current item and add it to your Divi Library for later "
+"use as well."
+msgstr ""
+"後で使うために、ここで現在のアイテムを保存しDiviライブラリに追加できます。"
+
+#: ../functions.php:2660
+msgid "Template Name"
+msgstr "テンプレート名"
+
+#: ../functions.php:2661
+msgid "Selective Sync"
+msgstr "選択同期"
+
+#: ../functions.php:2662
+msgid "Include General settings"
+msgstr "汎用設定を含む"
+
+#: ../functions.php:2663
+msgid "Include Advanced Design settings"
+msgstr "詳細デザイン設定を含む"
+
+#: ../functions.php:2664 ../layouts.php:185
+msgid "Include Custom CSS"
+msgstr "カスタムCSSを含む"
+
+#: ../functions.php:2665 ../layouts.php:186
+msgid "Please select at least 1 tab to save"
+msgstr "1タブ以上選択して保存してください"
+
+#: ../functions.php:2666
+msgid "Save as Global:"
+msgstr "グローバルとして保存："
+
+#: ../functions.php:2667
+msgid "Make this a global item"
+msgstr "これをグローバルアイテムにする"
+
+#: ../functions.php:2695
+msgid "Add Specialty Section"
+msgstr "特殊セクションを追加"
+
+#: ../layouts.php:5 ../layouts.php:180 ../main-modules.php:365
+#: ../main-modules.php:4965 ../main-modules.php:5323 ../main-modules.php:7749
+#: ../main-modules.php:10712
+msgid "Layout"
+msgstr "レイアウト"
+
+#: ../layouts.php:6
+msgid "Add New"
+msgstr "新規追加"
+
+#: ../layouts.php:7
+msgid "Add New Layout"
+msgstr "新しいレイアウトを追加"
+
+#: ../layouts.php:8
+msgid "Edit Layout"
+msgstr "レイアウトを編集"
+
+#: ../layouts.php:9
+msgid "New Layout"
+msgstr "新しいレイアウト"
+
+#: ../layouts.php:11
+msgid "View Layout"
+msgstr "レイアウトを見る"
+
+#: ../layouts.php:12
+msgid "Search Layouts"
+msgstr "レイアウトを検索"
+
+#: ../layouts.php:13
+msgid "Nothing found"
+msgstr "検索の結果何も見つかりませんでした。"
+
+#: ../layouts.php:14
+msgid "Nothing found in Trash"
+msgstr "ゴミ箱の中は空です。"
+
+#: ../layouts.php:38
+msgid "Scope"
+msgstr "範囲"
+
+#: ../layouts.php:51
+msgid "Layout Type"
+msgstr "レイアウトタイプ"
+
+#: ../layouts.php:64
+msgid "Module Width"
+msgstr "モジュール幅"
+
+#: ../layouts.php:77
+msgid "Category"
+msgstr "カテゴリー"
+
+#: ../layouts.php:171
+msgid "New Template Settings"
+msgstr "新規テンプレート設定"
+
+#: ../layouts.php:172
+msgid "Template Name:"
+msgstr "テンプレート名："
+
+#: ../layouts.php:173
+msgid "Template Type:"
+msgstr "テンプレートタイプ："
+
+#: ../layouts.php:175
+msgid "Fullwidth Module"
+msgstr "全幅モジュール"
+
+#: ../layouts.php:176 ../main-structure-elements.php:604
+#: ../main-structure-elements.php:1188
+msgid "Row"
+msgstr "行"
+
+#: ../layouts.php:177 ../main-structure-elements.php:5
+msgid "Section"
+msgstr "セクション"
+
+#: ../layouts.php:182
+msgid "Close Modal Window"
+msgstr "モーダルウィンドウを閉じる"
+
+#: ../layouts.php:183
+msgid "Include General Settings"
+msgstr "汎用設定を含む"
+
+#: ../layouts.php:184
+msgid "Include Advanced Design Settings"
+msgstr "詳細デザイン設定を含む"
+
+#: ../layouts.php:187
+msgid "Select category(ies) for new template or type a new name ( optional )"
+msgstr "新規テンプレートのカテゴリーを選択するか名称を入力（任意）"
+
+#: ../layouts.php:252
+msgid "Homepage Basic"
+msgstr "ホームページ ベーシック"
+
+#: ../layouts.php:260
+msgid "Homepage Shop"
+msgstr "ホームページ ショップ"
+
+#: ../layouts.php:270
+msgid "Homepage Portfolio"
+msgstr "ホームページ ポートフォリオ"
+
+#: ../layouts.php:278
+msgid "Homepage Company"
+msgstr "ホームページ 会社"
+
+#: ../layouts.php:286
+msgid "Homepage Corporate"
+msgstr "ホームページ 企業"
+
+#: ../layouts.php:297
+msgid "Homepage Extended"
+msgstr "ホームページ エクステンデッド"
+
+#: ../layouts.php:306
+msgid "Page Fullwidth"
+msgstr "ページフルワイド"
+
+#: ../layouts.php:340
+msgid "Page Right Sidebar"
+msgstr "ページ右サイドバー"
+
+#: ../layouts.php:374
+msgid "Page Left Sidebar"
+msgstr "ページ左サイドバー"
+
+#: ../layouts.php:408
+msgid "Page Dual Sidebars"
+msgstr "ページのデュアルサイドバー"
+
+#: ../layouts.php:430
+msgid "Portfolio Grid"
+msgstr "ポートフォリオグリッド"
+
+#: ../layouts.php:438
+msgid "Portfolio 1 Column"
+msgstr "ポートフォリオ1カラム"
+
+#: ../layouts.php:446
+msgid "Portfolio Fullwidth Carousel"
+msgstr "ポートフォリオフルワイドカルーセル"
+
+#: ../layouts.php:454
+msgid "Portfolio Fullwidth Grid"
+msgstr "ポートフォリオフルワイドグリッド"
+
+#: ../layouts.php:462
+msgid "Project Extended"
+msgstr "プロジェクト エクステンデッド"
+
+#: ../layouts.php:472
+msgid "Project Extended 2"
+msgstr "プロジェクト エクステンデッド 2"
+
+#: ../layouts.php:485
+msgid "Blog Masonry"
+msgstr "ブログ グリッド"
+
+#: ../layouts.php:493
+msgid "Blog Standard"
+msgstr "ブログ スタンダード"
+
+#: ../layouts.php:501
+msgid "Shop Basic"
+msgstr "ショップ ベーシック"
+
+#: ../layouts.php:509
+msgid "Shop Extended"
+msgstr "ショップ エクステンデッド"
+
+#: ../layouts.php:517
+msgid "Splash Page"
+msgstr "スプラッシュページ"
+
+#: ../layouts.php:528
+msgid "Maintenance Mode"
+msgstr "メンテナンスモード"
+
+#: ../layouts.php:537
+msgid "Coming Soon"
+msgstr "近日公開"
+
+#: ../layouts.php:545
+msgid "Landing Page"
+msgstr "ランディングページ"
+
+#: ../layouts.php:554
+msgid "About Me"
+msgstr "紹介"
+
+#: ../layouts.php:563
+msgid "About Us"
+msgstr "会社概要"
+
+#: ../layouts.php:572
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: ../layouts.php:588
+msgid "Our Team"
+msgstr "当社のチーム"
+
+#: ../layouts.php:701
+msgid "Creative Agency"
+msgstr "クリエイティブエージェンシー"
+
+#: ../layouts.php:710
+msgid "Sales Page"
+msgstr "販売ページ"
+
+#: ../layouts.php:746
+msgid "Case Study"
+msgstr "ケーススタディ"
+
+#: ../layouts.php:756
+msgid "Product Features"
+msgstr "商品の特徴"
+
+#: ../main-modules.php:4 ../main-modules.php:1426 ../main-modules.php:8173
+msgid "Image"
+msgstr "画像"
+
+#: ../main-modules.php:46 ../main-modules.php:1451 ../main-modules.php:7480
+#: ../main-modules.php:11234
+msgid "Left To Right"
+msgstr "左から右へ"
+
+#: ../main-modules.php:47 ../main-modules.php:1452 ../main-modules.php:7481
+#: ../main-modules.php:11235
+msgid "Right To Left"
+msgstr "右から左へ"
+
+#: ../main-modules.php:48 ../main-modules.php:1450 ../main-modules.php:7482
+#: ../main-modules.php:11236
+msgid "Top To Bottom"
+msgstr "上から下へ"
+
+#: ../main-modules.php:49 ../main-modules.php:1453 ../main-modules.php:7483
+#: ../main-modules.php:11237
+msgid "Bottom To Top"
+msgstr "下から上へ"
+
+#: ../main-modules.php:50 ../main-modules.php:7479 ../main-modules.php:11238
+msgid "Fade In"
+msgstr "フェードイン"
+
+#: ../main-modules.php:51 ../main-modules.php:1454 ../main-modules.php:7478
+#: ../main-modules.php:11239
+msgid "No Animation"
+msgstr "アニメーションなし"
+
+#: ../main-modules.php:75 ../main-modules.php:7467 ../main-modules.php:11184
+msgid "Image URL"
+msgstr "画像 URL"
+
+#: ../main-modules.php:78 ../main-modules.php:674 ../main-modules.php:1008
+#: ../main-modules.php:1429 ../main-modules.php:2804 ../main-modules.php:3968
+#: ../main-modules.php:7470 ../main-modules.php:9734 ../main-modules.php:9773
+#: ../main-modules.php:9792 ../main-modules.php:11187
+msgid "Choose an Image"
+msgstr "画像を選択してください"
+
+#: ../main-modules.php:79 ../main-modules.php:675 ../main-modules.php:1009
+#: ../main-modules.php:1430 ../main-modules.php:2805 ../main-modules.php:3969
+#: ../main-modules.php:7471 ../main-modules.php:9735 ../main-modules.php:9774
+#: ../main-modules.php:9793 ../main-modules.php:11188
+msgid "Set As Image"
+msgstr "画像として設定"
+
+#: ../main-modules.php:80 ../main-modules.php:2806 ../main-modules.php:3970
+#: ../main-modules.php:7472 ../main-modules.php:9736 ../main-modules.php:9775
+#: ../main-modules.php:9794 ../main-modules.php:11189
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr "希望の画像をアップロードするか、表示したい画像の URLを入力します。"
+
+#: ../main-modules.php:83 ../main-modules.php:2425 ../main-modules.php:11192
+msgid "Image Alternative Text"
+msgstr "画像の代替テキスト"
+
+#: ../main-modules.php:85 ../main-modules.php:11194
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr "画像の代替テキストを設定します。画像の短い説明をここに配置できます。"
+
+#: ../main-modules.php:88 ../main-modules.php:11197
+msgid "Image Title Text"
+msgstr "画像タイトルテキスト"
+
+#: ../main-modules.php:90 ../main-modules.php:11199
+msgid "This defines the HTML Title text."
+msgstr "HTMLタイトルテキストを設定します。"
+
+#: ../main-modules.php:93
+msgid "Open in Lightbox"
+msgstr "ライトボックスを開く"
+
+#: ../main-modules.php:103 ../main-modules.php:11212
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"画像をライトボックスで開く必要があるかどうかをこちらで選択できます。注：ライ"
+"トボックスで画像を開くことを選択した場合、下の URLオプションは無視されます。"
+
+#: ../main-modules.php:106 ../main-modules.php:11215
+msgid "Link URL"
+msgstr "リンク URL"
+
+#: ../main-modules.php:109 ../main-modules.php:11218
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"画像をリンクしたい場合には、リンク先のURLをこちらに入力します。このフィールド"
+"を空白のままにするとリンクは作成されません。"
+
+#: ../main-modules.php:112 ../main-modules.php:1347 ../main-modules.php:3726
+#: ../main-modules.php:8860 ../main-modules.php:11221
+msgid "Url Opens"
+msgstr "URLを開く"
+
+#: ../main-modules.php:115 ../main-modules.php:1350 ../main-modules.php:2795
+#: ../main-modules.php:3729 ../main-modules.php:8863 ../main-modules.php:11224
+msgid "In The Same Window"
+msgstr "同じウィンドウで"
+
+#: ../main-modules.php:116 ../main-modules.php:1351 ../main-modules.php:2796
+#: ../main-modules.php:3730 ../main-modules.php:8864 ../main-modules.php:11225
+msgid "In The New Tab"
+msgstr "新しいタブで"
+
+#: ../main-modules.php:119 ../main-modules.php:1353 ../main-modules.php:3732
+#: ../main-modules.php:8866 ../main-modules.php:11228
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr "こちらでは、リンクを新しいウィンドウで開くかどうかを選択できます"
+
+#: ../main-modules.php:122 ../main-modules.php:7475 ../main-modules.php:11231
+msgid "Animation"
+msgstr "アニメーション"
+
+#: ../main-modules.php:125 ../main-modules.php:1456 ../main-modules.php:7485
+#: ../main-modules.php:11241
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "アニメーションの方向を制御します。"
+
+#: ../main-modules.php:128
+msgid "Remove Space Below The Image"
+msgstr "画像の下のスペースを削除"
+
+#: ../main-modules.php:134
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr "こちらでは、画像の下にスペースを配置するかどうかを選択できます。"
+
+#: ../main-modules.php:137
+msgid "Image Alignment"
+msgstr "画像配置"
+
+#: ../main-modules.php:144
+msgid "Here you can choose the image alignment."
+msgstr "ここで画像配置を選択できます"
+
+#: ../main-modules.php:147 ../main-modules.php:433 ../main-modules.php:690
+#: ../main-modules.php:857 ../main-modules.php:982 ../main-modules.php:1171
+#: ../main-modules.php:1479 ../main-modules.php:1716 ../main-modules.php:2088
+#: ../main-modules.php:2856 ../main-modules.php:3164 ../main-modules.php:3778
+#: ../main-modules.php:3987 ../main-modules.php:4264 ../main-modules.php:4664
+#: ../main-modules.php:5020 ../main-modules.php:5378 ../main-modules.php:5707
+#: ../main-modules.php:6059 ../main-modules.php:6236 ../main-modules.php:6366
+#: ../main-modules.php:6630 ../main-modules.php:6824 ../main-modules.php:7116
+#: ../main-modules.php:7254 ../main-modules.php:7522 ../main-modules.php:7862
+#: ../main-modules.php:8242 ../main-modules.php:8475 ../main-modules.php:8633
+#: ../main-modules.php:8878 ../main-modules.php:9332 ../main-modules.php:9813
+#: ../main-modules.php:10189 ../main-modules.php:10497
+#: ../main-modules.php:10776 ../main-modules.php:10958
+#: ../main-modules.php:11030 ../main-modules.php:11108
+#: ../main-modules.php:11244 ../main-modules.php:11558
+msgid "Admin Label"
+msgstr "Adminラベル"
+
+#: ../main-modules.php:149 ../main-modules.php:435 ../main-modules.php:692
+#: ../main-modules.php:859 ../main-modules.php:1173 ../main-modules.php:1481
+#: ../main-modules.php:1718 ../main-modules.php:2090 ../main-modules.php:2858
+#: ../main-modules.php:3166 ../main-modules.php:3780 ../main-modules.php:3989
+#: ../main-modules.php:4266 ../main-modules.php:4666 ../main-modules.php:5022
+#: ../main-modules.php:5380 ../main-modules.php:5709 ../main-modules.php:6061
+#: ../main-modules.php:6238 ../main-modules.php:6368 ../main-modules.php:6632
+#: ../main-modules.php:6826 ../main-modules.php:7118 ../main-modules.php:7256
+#: ../main-modules.php:7524 ../main-modules.php:7864 ../main-modules.php:8244
+#: ../main-modules.php:8477 ../main-modules.php:8635 ../main-modules.php:8880
+#: ../main-modules.php:9334 ../main-modules.php:9815 ../main-modules.php:10191
+#: ../main-modules.php:10499 ../main-modules.php:10778
+#: ../main-modules.php:10960 ../main-modules.php:11032
+#: ../main-modules.php:11110 ../main-modules.php:11246
+#: ../main-modules.php:11560
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr "特定を容易にするため、ビルダーでモジュールのラベルを変更します。"
+
+#: ../main-modules.php:152 ../main-modules.php:438 ../main-modules.php:695
+#: ../main-modules.php:862 ../main-modules.php:1176 ../main-modules.php:1484
+#: ../main-modules.php:1721 ../main-modules.php:2093 ../main-modules.php:2861
+#: ../main-modules.php:3169 ../main-modules.php:3783 ../main-modules.php:3992
+#: ../main-modules.php:4269 ../main-modules.php:4669 ../main-modules.php:5025
+#: ../main-modules.php:5383 ../main-modules.php:5712 ../main-modules.php:6064
+#: ../main-modules.php:6241 ../main-modules.php:6371 ../main-modules.php:6635
+#: ../main-modules.php:6829 ../main-modules.php:7121 ../main-modules.php:7259
+#: ../main-modules.php:7527 ../main-modules.php:7867 ../main-modules.php:8247
+#: ../main-modules.php:8480 ../main-modules.php:8638 ../main-modules.php:8883
+#: ../main-modules.php:9337 ../main-modules.php:9818 ../main-modules.php:10194
+#: ../main-modules.php:10502 ../main-modules.php:10781
+#: ../main-modules.php:10963 ../main-modules.php:11035
+#: ../main-modules.php:11113 ../main-modules.php:11249
+#: ../main-modules.php:11563 ../main-structure-elements.php:206
+#: ../main-structure-elements.php:800 ../main-structure-elements.php:1287
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: ../main-modules.php:154 ../main-modules.php:440 ../main-modules.php:697
+#: ../main-modules.php:864 ../main-modules.php:1178 ../main-modules.php:1486
+#: ../main-modules.php:1723 ../main-modules.php:2095 ../main-modules.php:2863
+#: ../main-modules.php:3171 ../main-modules.php:3785 ../main-modules.php:3994
+#: ../main-modules.php:4271 ../main-modules.php:4671 ../main-modules.php:5027
+#: ../main-modules.php:5385 ../main-modules.php:5714 ../main-modules.php:6066
+#: ../main-modules.php:6243 ../main-modules.php:6373 ../main-modules.php:6637
+#: ../main-modules.php:6831 ../main-modules.php:7123 ../main-modules.php:7261
+#: ../main-modules.php:7529 ../main-modules.php:7869 ../main-modules.php:8249
+#: ../main-modules.php:8482 ../main-modules.php:8640 ../main-modules.php:8885
+#: ../main-modules.php:9339 ../main-modules.php:9820 ../main-modules.php:10196
+#: ../main-modules.php:10504 ../main-modules.php:10783
+#: ../main-modules.php:10965 ../main-modules.php:11037
+#: ../main-modules.php:11115 ../main-modules.php:11251
+#: ../main-modules.php:11565 ../main-structure-elements.php:208
+#: ../main-structure-elements.php:802 ../main-structure-elements.php:1289
+msgid ""
+"Enter an optional CSS ID to be used for this module. An ID can be used to "
+"create custom CSS styling, or to create links to particular sections of your "
+"page."
+msgstr ""
+"このモジュールに使用する任意のCSS IDを入力します。 IDはCSSのスタイルをカスタ"
+"ムしたり、ページの特定のセクションへのリンクを作成したりするために使用できま"
+"す。"
+
+#: ../main-modules.php:157 ../main-modules.php:443 ../main-modules.php:700
+#: ../main-modules.php:867 ../main-modules.php:1181 ../main-modules.php:1489
+#: ../main-modules.php:1726 ../main-modules.php:2098 ../main-modules.php:2866
+#: ../main-modules.php:3174 ../main-modules.php:3788 ../main-modules.php:3997
+#: ../main-modules.php:4274 ../main-modules.php:4674 ../main-modules.php:5030
+#: ../main-modules.php:5388 ../main-modules.php:5717 ../main-modules.php:6069
+#: ../main-modules.php:6246 ../main-modules.php:6376 ../main-modules.php:6640
+#: ../main-modules.php:6834 ../main-modules.php:7126 ../main-modules.php:7264
+#: ../main-modules.php:7532 ../main-modules.php:7872 ../main-modules.php:8252
+#: ../main-modules.php:8485 ../main-modules.php:8643 ../main-modules.php:8888
+#: ../main-modules.php:9342 ../main-modules.php:9823 ../main-modules.php:10199
+#: ../main-modules.php:10507 ../main-modules.php:10786
+#: ../main-modules.php:10968 ../main-modules.php:11040
+#: ../main-modules.php:11118 ../main-modules.php:11254
+#: ../main-modules.php:11568 ../main-structure-elements.php:211
+#: ../main-structure-elements.php:805 ../main-structure-elements.php:1292
+msgid "CSS Class"
+msgstr "CSSクラス"
+
+#: ../main-modules.php:159 ../main-modules.php:445 ../main-modules.php:702
+#: ../main-modules.php:869 ../main-modules.php:1183 ../main-modules.php:1491
+#: ../main-modules.php:1728 ../main-modules.php:2100 ../main-modules.php:2868
+#: ../main-modules.php:3176 ../main-modules.php:3790 ../main-modules.php:3999
+#: ../main-modules.php:4276 ../main-modules.php:4676 ../main-modules.php:5032
+#: ../main-modules.php:5390 ../main-modules.php:5719 ../main-modules.php:6071
+#: ../main-modules.php:6248 ../main-modules.php:6378 ../main-modules.php:6642
+#: ../main-modules.php:6836 ../main-modules.php:7128 ../main-modules.php:7266
+#: ../main-modules.php:7534 ../main-modules.php:7874 ../main-modules.php:8254
+#: ../main-modules.php:8487 ../main-modules.php:8645 ../main-modules.php:8890
+#: ../main-modules.php:9344 ../main-modules.php:9825 ../main-modules.php:10201
+#: ../main-modules.php:10509 ../main-modules.php:10788
+#: ../main-modules.php:10970 ../main-modules.php:11042
+#: ../main-modules.php:11120 ../main-modules.php:11256
+#: ../main-modules.php:11570 ../main-structure-elements.php:213
+#: ../main-structure-elements.php:807 ../main-structure-elements.php:1294
+msgid ""
+"Enter optional CSS classes to be used for this module. A CSS class can be "
+"used to create custom CSS styling. You can add multiple classes, separated "
+"with a space."
+msgstr ""
+"このモジュールに使用する任意のCSSクラスを入力します。CSSクラスはCSSのスタイル"
+"をカスタムするために使用できます。スペースで区切って複数のクラスを追加できま"
+"す。"
+
+#: ../main-modules.php:162 ../main-modules.php:1494
+msgid "Image Max Width"
+msgstr "画像最大幅"
+
+#: ../main-modules.php:167
+msgid "Force Fullwidth"
+msgstr "全幅にする"
+
+#: ../main-modules.php:176
+msgid "Always Center Image On Mobile"
+msgstr "モバイルでは常に中心に画像を表示"
+
+#: ../main-modules.php:277
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: ../main-modules.php:313 ../main-modules.php:3907 ../main-modules.php:4925
+#: ../main-modules.php:5269
+msgid "Caption"
+msgstr "キャプション"
+
+#: ../main-modules.php:320 ../main-modules.php:1337 ../main-modules.php:1862
+#: ../main-modules.php:3529 ../main-modules.php:3716 ../main-modules.php:3901
+#: ../main-modules.php:3950 ../main-modules.php:4216 ../main-modules.php:4612
+#: ../main-modules.php:4919 ../main-modules.php:5263 ../main-modules.php:5640
+#: ../main-modules.php:5814 ../main-modules.php:5996 ../main-modules.php:6025
+#: ../main-modules.php:6166 ../main-modules.php:6203 ../main-modules.php:6495
+#: ../main-modules.php:6566 ../main-modules.php:6611 ../main-modules.php:6764
+#: ../main-modules.php:6819 ../main-modules.php:7084 ../main-modules.php:7440
+#: ../main-modules.php:7732 ../main-modules.php:8150 ../main-modules.php:8181
+#: ../main-modules.php:8425 ../main-modules.php:8731 ../main-modules.php:9147
+#: ../main-modules.php:9584 ../main-modules.php:11373
+msgid "Title"
+msgstr "タイトル"
+
+#: ../main-modules.php:331
+msgid "Gallery Item"
+msgstr "ギャラリーアイテム"
+
+#: ../main-modules.php:335 ../main-modules.php:4944 ../main-modules.php:5302
+#: ../main-modules.php:8177
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+#: ../main-modules.php:339 ../main-modules.php:4948 ../main-modules.php:5306
+msgid "Overlay Icon"
+msgstr "オーバーレイアイコン"
+
+#: ../main-modules.php:343
+msgid "Gallery Item Title"
+msgstr "ギャラリーアイテムタイトル"
+
+#: ../main-modules.php:352 ../main-modules.php:360
+msgid "Gallery Images"
+msgstr "ギャラリー画像"
+
+#: ../main-modules.php:368 ../main-modules.php:1904
+msgid "Slider"
+msgstr "スライダー"
+
+#: ../main-modules.php:369 ../main-modules.php:4969 ../main-modules.php:5327
+#: ../main-modules.php:7753 ../main-modules.php:10716
+msgid "Grid"
+msgstr "グリッド"
+
+#: ../main-modules.php:371 ../main-modules.php:7759
+msgid "Toggle between the various blog layout types."
+msgstr "さまざまなブログのレイアウトタイプを切り替えます。"
+
+#: ../main-modules.php:382
+msgid "Images Number"
+msgstr "画像数"
+
+#: ../main-modules.php:384
+msgid "Define the number of images that should be displayed per page."
+msgstr "ページごとに表示されるべき画像の数を設定します。"
+
+#: ../main-modules.php:387
+msgid "Show Title and Caption"
+msgstr "タイトルとキャプションを表示"
+
+#: ../main-modules.php:393
+msgid ""
+"Here you can choose whether to show the images title and caption, if the "
+"image has them."
+msgstr ""
+"こちらでは、画像にタイトルとキャプションがついている場合、それらを表示するか"
+"どうかを選択できます。"
+
+#: ../main-modules.php:396 ../main-modules.php:5002 ../main-modules.php:5360
+#: ../main-modules.php:7838
+msgid "Show Pagination"
+msgstr "ページネーションを表示"
+
+#: ../main-modules.php:402 ../main-modules.php:5008 ../main-modules.php:5366
+msgid "Enable or disable pagination for this feed."
+msgstr "このフィードのページネーションを有効または無効にします。"
+
+#: ../main-modules.php:405 ../main-modules.php:1151 ../main-modules.php:1459
+#: ../main-modules.php:2430 ../main-modules.php:2836 ../main-modules.php:3758
+#: ../main-modules.php:3978 ../main-modules.php:4244 ../main-modules.php:4644
+#: ../main-modules.php:5011 ../main-modules.php:5369 ../main-modules.php:5680
+#: ../main-modules.php:6045 ../main-modules.php:6227 ../main-modules.php:7107
+#: ../main-modules.php:7488 ../main-modules.php:7852 ../main-modules.php:8448
+#: ../main-modules.php:8851 ../main-modules.php:9300 ../main-modules.php:9594
+#: ../main-modules.php:10165 ../main-modules.php:10749
+#: ../main-modules.php:11526
+msgid "Text Color"
+msgstr "テキストの色"
+
+#: ../main-modules.php:408 ../main-modules.php:852 ../main-modules.php:1022
+#: ../main-modules.php:1154 ../main-modules.php:1462 ../main-modules.php:2434
+#: ../main-modules.php:2839 ../main-modules.php:3762 ../main-modules.php:3982
+#: ../main-modules.php:4248 ../main-modules.php:4648 ../main-modules.php:5014
+#: ../main-modules.php:5372 ../main-modules.php:5683 ../main-modules.php:6048
+#: ../main-modules.php:6230 ../main-modules.php:7110 ../main-modules.php:7491
+#: ../main-modules.php:7855 ../main-modules.php:8451 ../main-modules.php:8854
+#: ../main-modules.php:9303 ../main-modules.php:9597 ../main-modules.php:10168
+#: ../main-modules.php:10752 ../main-modules.php:11529
+msgid "Dark"
+msgstr "暗い"
+
+#: ../main-modules.php:409 ../main-modules.php:851 ../main-modules.php:1021
+#: ../main-modules.php:1155 ../main-modules.php:1463 ../main-modules.php:2433
+#: ../main-modules.php:2840 ../main-modules.php:3761 ../main-modules.php:3981
+#: ../main-modules.php:4247 ../main-modules.php:4647 ../main-modules.php:5015
+#: ../main-modules.php:5373 ../main-modules.php:5684 ../main-modules.php:6049
+#: ../main-modules.php:6231 ../main-modules.php:7111 ../main-modules.php:7492
+#: ../main-modules.php:7856 ../main-modules.php:8452 ../main-modules.php:8855
+#: ../main-modules.php:9304 ../main-modules.php:9598 ../main-modules.php:10169
+#: ../main-modules.php:10753 ../main-modules.php:11530
+msgid "Light"
+msgstr "明るい"
+
+#: ../main-modules.php:411 ../main-modules.php:1465 ../main-modules.php:2842
+#: ../main-modules.php:3764 ../main-modules.php:3984 ../main-modules.php:4250
+#: ../main-modules.php:4650 ../main-modules.php:5017 ../main-modules.php:5375
+#: ../main-modules.php:5686 ../main-modules.php:6051 ../main-modules.php:7113
+#: ../main-modules.php:7859 ../main-modules.php:8454 ../main-modules.php:8857
+#: ../main-modules.php:10755
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"こちらでは、テキストを明るくするか暗くするかを選択できます。暗い背景で作業し"
+"ている場合は、テキストは明るくする必要があります。背景が明るい場合は、テキス"
+"トを暗く設定する必要があります。"
+
+#: ../main-modules.php:414 ../main-modules.php:2012 ../main-modules.php:10423
+msgid "Automatic Animation"
+msgstr "自動アニメーション"
+
+#: ../main-modules.php:424 ../main-modules.php:2021 ../main-modules.php:10432
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+"訪問者が[次へ]ボタンをクリックすることなく、自動的にスライドさせたい場合は、"
+"このオプションを有効にし、必要に応じて、下の回転速度を調整します。"
+
+#: ../main-modules.php:427 ../main-modules.php:2024 ../main-modules.php:10435
+msgid "Automatic Animation Speed (in ms)"
+msgstr "自動アニメーション速度（ミリ秒）"
+
+#: ../main-modules.php:430 ../main-modules.php:2027 ../main-modules.php:10438
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+"こちらでは、「自動アニメーション」オプションが有効になっている場合、スライ"
+"ダーが各スライドの間でフェードする速さを指定できます。数値が高いほど、各回転"
+"の間の休止が長くなります。"
+
+#: ../main-modules.php:448 ../main-modules.php:5035 ../main-modules.php:5401
+msgid "Zoom Icon Color"
+msgstr "ズームアイコンカラー"
+
+#: ../main-modules.php:455 ../main-modules.php:5041 ../main-modules.php:5407
+#: ../main-modules.php:8269
+msgid "Hover Overlay Color"
+msgstr "マウスオーバーオーバーレイカラー"
+
+#: ../main-modules.php:462 ../main-modules.php:5047 ../main-modules.php:5393
+#: ../main-modules.php:8275
+msgid "Hover Icon Picker"
+msgstr "マウスオーバーアイコン選択"
+
+#: ../main-modules.php:629 ../main-modules.php:786 ../main-modules.php:959
+msgid "Video"
+msgstr "動画"
+
+#: ../main-modules.php:644
+msgid "Video Icon"
+msgstr "動画アイコン"
+
+#: ../main-modules.php:653 ../main-modules.php:987
+msgid "Video MP4/URL"
+msgstr "動画.MP4URL"
+
+#: ../main-modules.php:656 ../main-modules.php:665 ../main-modules.php:990
+#: ../main-modules.php:999 ../main-modules.php:2442 ../main-modules.php:2451
+#: ../main-structure-elements.php:126 ../main-structure-elements.php:135
+#: ../main-structure-elements.php:827 ../main-structure-elements.php:836
+msgid "Upload a video"
+msgstr "動画をアップロードする"
+
+#: ../main-modules.php:657 ../main-modules.php:991
+msgid "Choose a Video MP4 File"
+msgstr "動画.MP4ファイルを選択してください"
+
+#: ../main-modules.php:658 ../main-modules.php:667 ../main-modules.php:992
+#: ../main-modules.php:1001
+msgid "Set As Video"
+msgstr "動画として設定します"
+
+#: ../main-modules.php:659 ../main-modules.php:993
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr ""
+"希望の動画を.MP4フォーマットでアップロードするか、表示したい動画のURLを入力し"
+"ます。"
+
+#: ../main-modules.php:662 ../main-modules.php:996
+msgid "Video Webm"
+msgstr "動画.WEBM"
+
+#: ../main-modules.php:666 ../main-modules.php:1000
+msgid "Choose a Video WEBM File"
+msgstr "動画の.WEBMファイルを選択"
+
+#: ../main-modules.php:668 ../main-modules.php:1002
+msgid ""
+"Upload the .WEBM version of your video here. All uploaded videos should be "
+"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+msgstr ""
+"ここに動画の.WEBMバージョンをアップロードします。すべてのアップロードされた動"
+"画は、あらゆるブラウザで最大限の互換性を確保するために、.MP4と.WEBMの両方の形"
+"式にする必要があります。"
+
+#: ../main-modules.php:671 ../main-modules.php:1005
+msgid "Image Overlay URL"
+msgstr "画像オーバーレイ URL"
+
+#: ../main-modules.php:678 ../main-modules.php:1012
+msgid "Generate From Video"
+msgstr "動画から生成"
+
+#: ../main-modules.php:681 ../main-modules.php:1015
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display over your video. You can also generate a still image from your video."
+msgstr ""
+"希望の画像を.MP4フォーマットでアップロードするか、動画に表示したい画像のURLを"
+"入力します。動画から静止画像を生成することもできます。"
+
+#: ../main-modules.php:684 ../main-modules.php:872
+msgid "Play Icon Color"
+msgstr "再生アイコンカラー"
+
+#: ../main-modules.php:783
+msgid "Video Slider"
+msgstr "動画スライダー"
+
+#: ../main-modules.php:808
+msgid "Play Button"
+msgstr "再生ボタン"
+
+#: ../main-modules.php:812
+msgid "Thumbnail Item"
+msgstr "サムネイルアイテム"
+
+#: ../main-modules.php:821
+msgid "Display Image Overlays on Main Video"
+msgstr "メイン動画に画像オーバーレイを表示"
+
+#: ../main-modules.php:824
+msgid "Hide"
+msgstr "非表示"
+
+#: ../main-modules.php:825
+msgid "Show"
+msgstr "表示"
+
+#: ../main-modules.php:827
+msgid ""
+"This option will cover the player UI on the main video. This image can "
+"either be uploaded in each video setting or auto-generated by Divi."
+msgstr ""
+"このオプションはメイン動画のプレイヤーインターフェイスに適用されます。この画"
+"像は、各動画設定でアップロードするか、Diviで自動生成できます。"
+
+#: ../main-modules.php:830 ../main-modules.php:1994 ../main-modules.php:10405
+msgid "Arrows"
+msgstr "矢印"
+
+#: ../main-modules.php:833 ../main-modules.php:1997 ../main-modules.php:10408
+msgid "Show Arrows"
+msgstr "矢印を表示"
+
+#: ../main-modules.php:834 ../main-modules.php:1998 ../main-modules.php:10409
+msgid "Hide Arrows"
+msgstr "矢印を非表示"
+
+#: ../main-modules.php:836 ../main-modules.php:2000
+msgid "This setting will turn on and off the navigation arrows."
+msgstr "この設定でナビゲーション矢印のオン・オフを切り替えます。"
+
+#: ../main-modules.php:839
+msgid "Slider Controls"
+msgstr "スライダーコントロール"
+
+#: ../main-modules.php:842
+msgid "Use Thumbnail Track"
+msgstr "サムネイルトラックを使用"
+
+#: ../main-modules.php:843
+msgid "Use Dot Navigation"
+msgstr "ドットナビゲーションを使用"
+
+#: ../main-modules.php:845
+msgid ""
+"This setting will let you choose to use the thumbnail track controls below "
+"the slider or dot navigation at the bottom of the slider."
+msgstr ""
+"この設定では、スライダーの下にあるサムネイルトラックコントロール、またはスラ"
+"イダーの一番下のドットナビゲーションのどちらを使用するかを選択できます。"
+
+#: ../main-modules.php:848
+msgid "Slider Controls Color"
+msgstr "スライダーコントロールの色"
+
+#: ../main-modules.php:854
+msgid ""
+"This setting will make your slider controls either light or dark in color. "
+"Slider controls are either the arrows on the thumbnail track or the circles "
+"in dot navigation."
+msgstr ""
+"この設定では、スライダーコントロールの色の明暗を選択できます。スライダーコン"
+"トロールは、サムネイルトラック上では矢印、ドットナビゲーションでは円で表示さ"
+"れます。"
+
+#: ../main-modules.php:878
+msgid "Thumbnail Overlay Color"
+msgstr "サムネイルマウスオーバーカラー"
+
+#: ../main-modules.php:963
+msgid "New Video"
+msgstr "新しい動画"
+
+#: ../main-modules.php:964
+msgid "Video Settings"
+msgstr "動画設定"
+
+#: ../main-modules.php:984
+msgid ""
+"This will change the label of the video in the builder for easy "
+"identification."
+msgstr "簡単に識別できるよう、ビルダーの動画のラベルを変更します。"
+
+#: ../main-modules.php:1018
+msgid "Slider Arrows Color"
+msgstr "スライダー矢印の色"
+
+#: ../main-modules.php:1024
+msgid ""
+"This setting will make your slider arrows either light or dark in color."
+msgstr "この設定は、スライダー矢印の色を明るくしたり暗くしたりできます。"
+
+#: ../main-modules.php:1114 ../main-modules.php:1136
+msgid "Text"
+msgstr "テキスト"
+
+#: ../main-modules.php:1157 ../main-modules.php:7494 ../main-modules.php:9600
+#: ../main-modules.php:10171
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with a "
+"light background, then your text should be dark."
+msgstr ""
+"こちらでは、テキストの値を選択できます。暗い背景で作業している場合は、テキス"
+"トは明るくする必要があります。背景が明るい場合は、テキストを暗く設定する必要"
+"があります。"
+
+#: ../main-modules.php:1160 ../main-modules.php:1468 ../main-modules.php:2845
+#: ../main-modules.php:3767 ../main-modules.php:4253 ../main-modules.php:4653
+#: ../main-modules.php:9290 ../main-modules.php:10174
+#: ../main-modules.php:11516
+msgid "Text Orientation"
+msgstr "テキスト方向"
+
+#: ../main-modules.php:1163 ../main-modules.php:9606 ../main-modules.php:10177
+msgid "This controls the how your text is aligned within the module."
+msgstr "テキストをモジュール内で整列する方法を制御します。"
+
+#: ../main-modules.php:1168 ../main-modules.php:11027
+#: ../main-modules.php:11105
+msgid "Here you can create the content that will be used within the module."
+msgstr "モジュール内で使用されるコンテンツを作成できます。"
+
+#: ../main-modules.php:1186 ../main-modules.php:3793 ../main-modules.php:11045
+msgid "Max Width"
+msgstr "最大幅"
+
+#: ../main-modules.php:1236
+msgid "Blurb"
+msgstr "広告"
+
+#: ../main-modules.php:1286 ../main-modules.php:1948 ../main-modules.php:2320
+#: ../main-modules.php:3112 ../main-modules.php:3473 ../main-modules.php:3674
+#: ../main-modules.php:4123 ../main-modules.php:4573 ../main-modules.php:7065
+#: ../main-modules.php:7410 ../main-modules.php:7710 ../main-modules.php:8394
+#: ../main-modules.php:10356
+msgid "Header"
+msgstr "ヘッダー"
+
+#: ../main-modules.php:1292 ../main-modules.php:1680 ../main-modules.php:1841
+#: ../main-modules.php:1954 ../main-modules.php:2327 ../main-modules.php:2733
+#: ../main-modules.php:3130 ../main-modules.php:3491 ../main-modules.php:3680
+#: ../main-modules.php:4129 ../main-modules.php:4579 ../main-modules.php:6314
+#: ../main-modules.php:6572 ../main-modules.php:7071 ../main-modules.php:7416
+#: ../main-modules.php:7722 ../main-modules.php:10365
+msgid "Body"
+msgstr "ボディ"
+
+#: ../main-modules.php:1308
+msgid "Blurb Image"
+msgstr "ポップ画像"
+
+#: ../main-modules.php:1312
+msgid "Blurb Title"
+msgstr "ポップタイトル"
+
+#: ../main-modules.php:1316
+msgid "Blurb Content"
+msgstr "ポップコンテンツ"
+
+#: ../main-modules.php:1339
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr "広告のタイトルは広告画像の下に太字で表示されます。"
+
+#: ../main-modules.php:1342
+msgid "Url"
+msgstr "URL"
+
+#: ../main-modules.php:1344
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr "広告リンクを貼りたい場合、ここにリンク先のURLを入力します。"
+
+#: ../main-modules.php:1356
+msgid "Use Icon"
+msgstr "アイコンを使用"
+
+#: ../main-modules.php:1369
+msgid "Here you can choose whether icon set below should be used."
+msgstr "こちらでは、以下のアイコン設定のどちらを使用するかを選択できます。"
+
+#: ../main-modules.php:1372 ../main-modules.php:9634
+msgid "Icon"
+msgstr "アイコン"
+
+#: ../main-modules.php:1377
+msgid "Choose an icon to display with your blurb."
+msgstr "広告に表示するアイコンを選択してください。"
+
+#: ../main-modules.php:1381 ../main-modules.php:6393 ../main-modules.php:6529
+#: ../main-modules.php:6657 ../main-modules.php:7537 ../main-modules.php:9035
+msgid "Icon Color"
+msgstr "アイコンの色"
+
+#: ../main-modules.php:1383
+msgid "Here you can define a custom color for your icon."
+msgstr "こちらでは、アイコンのカスタムカラーを設定できます。"
+
+#: ../main-modules.php:1387
+msgid "Circle Icon"
+msgstr "サークルアイコン"
+
+#: ../main-modules.php:1397
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+"こちらでは、上記のアイコンのうちのどれをサークル内に表示するかを選択できま"
+"す。"
+
+#: ../main-modules.php:1401 ../main-modules.php:6074
+msgid "Circle Color"
+msgstr "サークルの色"
+
+#: ../main-modules.php:1403
+msgid "Here you can define a custom color for the icon circle."
+msgstr "こちらでは、アイコンサークルのカスタムカラーを設定できます。"
+
+#: ../main-modules.php:1407
+msgid "Show Circle Border"
+msgstr "サークルの境界線を表示"
+
+#: ../main-modules.php:1416
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr "こちらでは、アイコンの円の境界線を表示するかどうかを選択できます。"
+
+#: ../main-modules.php:1420
+msgid "Circle Border Color"
+msgstr "サークルの境界線の色"
+
+#: ../main-modules.php:1422
+msgid "Here you can define a custom color for the icon circle border."
+msgstr "こちらでは、アイコンの円の境界線のカスタムカラーを設定できます。"
+
+#: ../main-modules.php:1432
+msgid "Upload an image to display at the top of your blurb."
+msgstr "広告文の一番上に表示する画像をアップロードします。"
+
+#: ../main-modules.php:1435
+msgid "Image Alt Text"
+msgstr "画像の代替テキスト"
+
+#: ../main-modules.php:1437
+msgid "Define the HTML ALT text for your image here."
+msgstr "こちらで画像の代替テキストを設定します。"
+
+#: ../main-modules.php:1441
+msgid "Image/Icon Placement"
+msgstr "画像/アイコンの配置"
+
+#: ../main-modules.php:1444
+msgid "Here you can choose where to place the icon."
+msgstr "アイコンを配置する場所を、こちらで選択できます。"
+
+#: ../main-modules.php:1447
+msgid "Image/Icon Animation"
+msgstr "画像/アイコンアニメーション"
+
+#: ../main-modules.php:1471
+msgid "This will control how your blurb text is aligned."
+msgstr "広告文のテキストの配置方法を制御します。"
+
+#: ../main-modules.php:1476 ../main-modules.php:2853 ../main-modules.php:3775
+#: ../main-modules.php:4261 ../main-modules.php:4661 ../main-modules.php:6627
+#: ../main-modules.php:7519
+msgid "Input the main text content for your module here."
+msgstr "ここにモジュールのメインテキストの内容を入力します。"
+
+#: ../main-modules.php:1499
+msgid "Use Icon Font Size"
+msgstr "アイコンフォントサイズを使う"
+
+#: ../main-modules.php:1511
+msgid "Icon Font Size"
+msgstr "アイコンフォントサイズ"
+
+#: ../main-modules.php:1656
+msgid "Tabs"
+msgstr "タブ"
+
+#: ../main-modules.php:1659 ../main-modules.php:1673 ../main-modules.php:1703
+#: ../main-modules.php:1817 ../main-modules.php:1833 ../main-modules.php:1885
+msgid "Tab"
+msgstr "タブ"
+
+#: ../main-modules.php:1699
+msgid "Tabs Controls"
+msgstr "タブコントロール"
+
+#: ../main-modules.php:1707
+msgid "Active Tab"
+msgstr "アクティブタブ"
+
+#: ../main-modules.php:1731
+msgid "Active Tab Background Color"
+msgstr "アクティブタブ背景色"
+
+#: ../main-modules.php:1737
+msgid "Inactive Tab Background Color"
+msgstr "非アクティブタブ背景色"
+
+#: ../main-modules.php:1827
+msgid "New Tab"
+msgstr "新しいタブ"
+
+#: ../main-modules.php:1828
+msgid "Tab Settings"
+msgstr "タブの設定"
+
+#: ../main-modules.php:1864 ../main-modules.php:8733
+msgid "The title will be used within the tab button for this tab."
+msgstr "タイトルは、このタブのタブボタン内で使用されます。"
+
+#: ../main-modules.php:1907 ../main-modules.php:2276 ../main-modules.php:10315
+msgid "Slide"
+msgstr "スライド"
+
+#: ../main-modules.php:1963 ../main-modules.php:2337 ../main-modules.php:3155
+#: ../main-modules.php:3508 ../main-modules.php:3697 ../main-modules.php:4139
+#: ../main-modules.php:4589 ../main-modules.php:6786 ../main-modules.php:10374
+msgid "Button"
+msgstr ""
+
+#: ../main-modules.php:1969 ../main-modules.php:10380
+msgid "Slide Description"
+msgstr "スライド解説"
+
+#: ../main-modules.php:1973 ../main-modules.php:10384
+msgid "Slide Title"
+msgstr "スライドタイトル"
+
+#: ../main-modules.php:1977 ../main-modules.php:10388
+msgid "Slide Button"
+msgstr "スライドボタン"
+
+#: ../main-modules.php:1981 ../main-modules.php:10392
+msgid "Slide Controllers"
+msgstr "スライドコントローラー"
+
+#: ../main-modules.php:1985 ../main-modules.php:10396
+msgid "Slide Active Controller"
+msgstr "スライドアクティブコントローラー"
+
+#: ../main-modules.php:2003 ../main-modules.php:10414
+msgid "Controls"
+msgstr "コントロール"
+
+#: ../main-modules.php:2006 ../main-modules.php:10417
+msgid "Show Slider Controls"
+msgstr "スライダーコントロールを表示する"
+
+#: ../main-modules.php:2007 ../main-modules.php:10418
+msgid "Hide Slider Controls"
+msgstr "スライダーコントロールを非表示にする"
+
+#: ../main-modules.php:2009
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr "この設定では、スライダーの下の円形ボタンのオン・オフを切り替えます。"
+
+#: ../main-modules.php:2030 ../main-modules.php:9747 ../main-modules.php:10441
+msgid "Use Parallax effect"
+msgstr "パララックス効果を使う"
+
+#: ../main-modules.php:2041
+msgid ""
+"Enabling this option will give your background images a fixed position as "
+"you scroll."
+msgstr ""
+"このオプションを有効にすると、スクロールした時に背景画像が固定されます。"
+
+#: ../main-modules.php:2044 ../main-modules.php:9759 ../main-modules.php:10453
+msgid "Parallax method"
+msgstr "視差法"
+
+#: ../main-modules.php:2047 ../main-modules.php:9283 ../main-modules.php:9762
+#: ../main-modules.php:10456 ../main-modules.php:11509
+#: ../main-structure-elements.php:184 ../main-structure-elements.php:876
+msgid "CSS"
+msgstr "CSS"
+
+#: ../main-modules.php:2048 ../main-modules.php:9284 ../main-modules.php:9763
+#: ../main-modules.php:10457 ../main-modules.php:11510
+#: ../main-structure-elements.php:185 ../main-structure-elements.php:877
+msgid "True Parallax"
+msgstr "本物の視差効果"
+
+#: ../main-modules.php:2051 ../main-modules.php:9766 ../main-modules.php:10460
+#: ../main-structure-elements.php:188
+msgid "Define the method, used for the parallax effect."
+msgstr "視差効果に使用される方法を設定します。"
+
+#: ../main-modules.php:2054 ../main-modules.php:10463
+msgid "Remove Inner Shadow"
+msgstr "内側の影を除去"
+
+#: ../main-modules.php:2062 ../main-modules.php:2372 ../main-modules.php:10471
+msgid "Background Image Position"
+msgstr ""
+
+#: ../main-modules.php:2066 ../main-modules.php:2377 ../main-modules.php:10475
+msgid "Top Left"
+msgstr ""
+
+#: ../main-modules.php:2067 ../main-modules.php:2378 ../main-modules.php:10476
+msgid "Top Center"
+msgstr ""
+
+#: ../main-modules.php:2068 ../main-modules.php:2379 ../main-modules.php:10477
+msgid "Top Right"
+msgstr ""
+
+#: ../main-modules.php:2069 ../main-modules.php:2380 ../main-modules.php:10478
+msgid "Center Right"
+msgstr ""
+
+#: ../main-modules.php:2070 ../main-modules.php:2381 ../main-modules.php:10479
+msgid "Center Left"
+msgstr ""
+
+#: ../main-modules.php:2071 ../main-modules.php:2382 ../main-modules.php:10480
+msgid "Bottom Left"
+msgstr ""
+
+#: ../main-modules.php:2072 ../main-modules.php:2383 ../main-modules.php:10481
+msgid "Bottom Center"
+msgstr ""
+
+#: ../main-modules.php:2073 ../main-modules.php:2384 ../main-modules.php:10482
+msgid "Bottom Right"
+msgstr ""
+
+#: ../main-modules.php:2078 ../main-modules.php:2388 ../main-modules.php:10487
+msgid "Background Image Size"
+msgstr ""
+
+#: ../main-modules.php:2082 ../main-modules.php:2393 ../main-modules.php:10491
+msgid "Fit"
+msgstr ""
+
+#: ../main-modules.php:2083 ../main-modules.php:2394 ../main-modules.php:10492
+msgid "Actual Size"
+msgstr ""
+
+#: ../main-modules.php:2103 ../main-modules.php:10512
+msgid "Top Padding"
+msgstr "上部パディング"
+
+#: ../main-modules.php:2108 ../main-modules.php:10517
+msgid "Bottom Padding"
+msgstr "下部パディング"
+
+#: ../main-modules.php:2113 ../main-modules.php:10522
+msgid "Hide Content On Mobile"
+msgstr "モバイルでコンテンツを非表示"
+
+#: ../main-modules.php:2122 ../main-modules.php:10531
+msgid "Hide CTA On Mobile"
+msgstr "モバイルでCTAを非表示"
+
+#: ../main-modules.php:2131 ../main-modules.php:10540
+msgid "Show Image / Video On Mobile"
+msgstr "モバイルで画像・動画を表示"
+
+#: ../main-modules.php:2314
+msgid "New Slide"
+msgstr "新しいスライド"
+
+#: ../main-modules.php:2315
+msgid "Slide Settings"
+msgstr "スライドの設定"
+
+#: ../main-modules.php:2349
+msgid "Heading"
+msgstr "見出し"
+
+#: ../main-modules.php:2351
+msgid "Define the title text for your slide."
+msgstr "スライドのタイトルのテキストを設定します。"
+
+#: ../main-modules.php:2354 ../main-modules.php:3559 ../main-modules.php:3735
+#: ../main-modules.php:4221
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+#: ../main-modules.php:2356
+msgid "Define the text for the slide button"
+msgstr "スライドボタンのテキストを設定します"
+
+#: ../main-modules.php:2359 ../main-modules.php:3554 ../main-modules.php:3721
+msgid "Button URL"
+msgstr "ボタン URL"
+
+#: ../main-modules.php:2361
+msgid "Input a destination URL for the slide button."
+msgstr "スライドボタンのURLを入力します。"
+
+#: ../main-modules.php:2369 ../main-structure-elements.php:102
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"設定した場合、この画像がこのモジュールの背景として使用されます。背景画像を削"
+"除するには、設定フィールドからURLを削除します。"
+
+#: ../main-modules.php:2392
+msgid "Cover"
+msgstr ""
+
+#: ../main-modules.php:2400 ../main-modules.php:10162
+msgid "Use the color picker to choose a background color for this module."
+msgstr "カラーピッカーを使用してこのモジュールの背景色を選択します。"
+
+#: ../main-modules.php:2403
+msgid "Slide Image"
+msgstr "スライド画像"
+
+#: ../main-modules.php:2406
+msgid "Choose a Slide Image"
+msgstr "スライド画像を選択"
+
+#: ../main-modules.php:2407
+msgid "Set As Slide Image"
+msgstr "スライド画像として設定"
+
+#: ../main-modules.php:2408
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+"設定されている場合、このスライド画像がスライドのテキストの左側に表示されま"
+"す。画像をアップロードするか、空白のままにしてテキストのみのスライドを作成で"
+"きます。"
+
+#: ../main-modules.php:2411
+msgid "Slide Image Vertical Alignment"
+msgstr "スライド画像の垂直配置"
+
+#: ../main-modules.php:2417
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+"この設定は、スライド画像の垂直方向の配置を決定します。画像は縦方向中央に配置"
+"するか、スライドの下部に配置できます。"
+
+#: ../main-modules.php:2420
+msgid "Slide Video"
+msgstr "スライド動画"
+
+#: ../main-modules.php:2422
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+"設定されている場合、この動画はスライドテキストの左側に表示されます。 YouTube"
+"またはVimeoのページ URLを入力するか、空白のままにしてテキストのみのスライドを"
+"作成します。"
+
+#: ../main-modules.php:2427
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr ""
+"設定されたスライド画像がある場合は、こちらに画像の代替テキストを入力します。"
+
+#: ../main-modules.php:2436
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+"こちらでは、テキストの明暗を選択できます。暗い背景で作業している場合は、テキ"
+"ストは明るくする必要があります。背景が明るい場合は、テキストを暗く設定する必"
+"要があります。"
+
+#: ../main-modules.php:2439 ../main-structure-elements.php:123
+#: ../main-structure-elements.php:824
+msgid "Background Video MP4"
+msgstr "背景動画.MP4"
+
+#: ../main-modules.php:2443 ../main-structure-elements.php:127
+#: ../main-structure-elements.php:828
+msgid "Choose a Background Video MP4 File"
+msgstr "背景動画の.MP4ファイルを選択してください"
+
+#: ../main-modules.php:2444 ../main-modules.php:2453
+#: ../main-structure-elements.php:128 ../main-structure-elements.php:137
+#: ../main-structure-elements.php:829 ../main-structure-elements.php:838
+msgid "Set As Background Video"
+msgstr "背景動画として設定"
+
+#: ../main-modules.php:2445 ../main-structure-elements.php:129
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"すべての動画は、あらゆるブラウザで最大限の互換性を確保するために、.MP4と.WEBM"
+"の両方の形式でアップロードする必要があります。こちらから.MP4バージョンをアッ"
+"プロードします。重要な注意事項：動画バックグラウンドは、モバイルデバイスでは"
+"無効になっています。その代わり、背景画像が使用されます。このため、最善の結果"
+"を得るためには背景画像と背景動画の両方を設定する必要があります。すべての動画"
+"は、あらゆるブラウザで最大限の互換性を確保するために、.MP4と.WEBMの両方の形式"
+"でアップロードする必要があります。こちらから.MP4バージョンをアップロードしま"
+"す。重要な注意事項：動画バックグラウンドは、モバイルデバイスでは無効になって"
+"います。その代わり、背景画像が使用されます。このため、最善の結果を得るために"
+"は背景画像と背景動画の両方を設定する必要があります。"
+
+#: ../main-modules.php:2448 ../main-structure-elements.php:132
+#: ../main-structure-elements.php:833
+msgid "Background Video Webm"
+msgstr "背景動画.WEBM"
+
+#: ../main-modules.php:2452 ../main-structure-elements.php:136
+#: ../main-structure-elements.php:837
+msgid "Choose a Background Video WEBM File"
+msgstr "背景動画の.WEBMファイルを選択してください"
+
+#: ../main-modules.php:2454 ../main-structure-elements.php:138
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"すべての動画は、あらゆるブラウザで最大限の互換性を確保するために、.MP4と.WEBM"
+"の両方の形式でアップロードする必要があります。こちらから.WEBMバージョンをアッ"
+"プロードします。重要な注意事項：動画バックグラウンドは、モバイルデバイスでは"
+"無効になっています。その代わり、背景画像が使用されます。このため、最善の結果"
+"を得るためには背景画像と背景動画の両方を設定する必要があります。"
+
+#: ../main-modules.php:2457 ../main-structure-elements.php:141
+#: ../main-structure-elements.php:842
+msgid "Background Video Width"
+msgstr "背景動画の幅"
+
+#: ../main-modules.php:2459 ../main-structure-elements.php:143
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"動画を正しいサイズにするためには、こちらに動画の正確な幅をピクセル単位で入力"
+"する必要があります。"
+
+#: ../main-modules.php:2462 ../main-structure-elements.php:146
+#: ../main-structure-elements.php:847
+msgid "Background Video Height"
+msgstr "背景動画の高さ"
+
+#: ../main-modules.php:2464 ../main-structure-elements.php:148
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"動画を正しいサイズにするためには、こちらに動画の正確な幅をピクセル単位で入力"
+"する必要があります。"
+
+#: ../main-modules.php:2467 ../main-structure-elements.php:151
+#: ../main-structure-elements.php:852
+msgid "Pause Video"
+msgstr "動画の一時停止"
+
+#: ../main-modules.php:2473 ../main-structure-elements.php:157
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr "再生を開始するとき他のプレイヤーの動画再生を一時停止できるようにします"
+
+#: ../main-modules.php:2478
+msgid "Input your main slide text content here."
+msgstr "ここにメインスライドのテキストを入力します。"
+
+#: ../main-modules.php:2481
+msgid "Arrows Custom Color"
+msgstr "矢印カスタムカラー"
+
+#: ../main-modules.php:2487
+msgid "Dot Nav Custom Color"
+msgstr "ドットナビカスタムカラー"
+
+#: ../main-modules.php:2694
+msgid "Testimonial"
+msgstr "ユーザーの感想"
+
+#: ../main-modules.php:2751
+msgid "Testimonial Portrait"
+msgstr "評価者ポートレート"
+
+#: ../main-modules.php:2755
+msgid "Testimonial Description"
+msgstr "評価解説"
+
+#: ../main-modules.php:2759
+msgid "Testimonial Author"
+msgstr "評価者"
+
+#: ../main-modules.php:2763
+msgid "Testimonial Meta"
+msgstr "評価メタ情報"
+
+#: ../main-modules.php:2772
+msgid "Author Name"
+msgstr "投稿者名"
+
+#: ../main-modules.php:2774
+msgid "Input the name of the testimonial author."
+msgstr "感想作成者の名前を入力します。"
+
+#: ../main-modules.php:2777
+msgid "Job Title"
+msgstr "役職"
+
+#: ../main-modules.php:2779
+msgid "Input the job title."
+msgstr "役職を入力します。"
+
+#: ../main-modules.php:2782
+msgid "Company Name"
+msgstr "会社名"
+
+#: ../main-modules.php:2784
+msgid "Input the name of the company."
+msgstr "会社の名前を入力します。"
+
+#: ../main-modules.php:2787
+msgid "Author/Company URL"
+msgstr "投稿者/会社URL"
+
+#: ../main-modules.php:2789
+msgid "Input the website of the author or leave blank for no link."
+msgstr ""
+"投稿者のウェブサイトを入力します。空白のままにするとリンクは貼られません。"
+
+#: ../main-modules.php:2792
+msgid "URLs Open"
+msgstr "URLsを開く"
+
+#: ../main-modules.php:2798
+msgid "Choose whether or not the URL should open in a new window."
+msgstr " URLを新しいウィンドウで開くかどうかを選択します。"
+
+#: ../main-modules.php:2801
+msgid "Portrait Image URL"
+msgstr "ポートレート画像 URL"
+
+#: ../main-modules.php:2809
+msgid "Quote Icon"
+msgstr "引用アイコン"
+
+#: ../main-modules.php:2812
+msgid "Visible"
+msgstr "表示"
+
+#: ../main-modules.php:2813
+msgid "Hidden"
+msgstr "非表示"
+
+#: ../main-modules.php:2815
+msgid "Choose whether or not the quote icon should be visible."
+msgstr "引用アイコンを表示するかどうかを選択します。"
+
+#: ../main-modules.php:2818 ../main-modules.php:3740 ../main-modules.php:4226
+#: ../main-modules.php:4626 ../main-modules.php:8457
+msgid "Use Background Color"
+msgstr "背景色を使う"
+
+#: ../main-modules.php:2827 ../main-modules.php:3749 ../main-modules.php:4235
+#: ../main-modules.php:4635 ../main-modules.php:8466
+msgid ""
+"Here you can choose whether background color setting below should be used or "
+"not."
+msgstr "こちらでは、以下の背景色設定を使用するかどうかを選択できます。"
+
+#: ../main-modules.php:2832 ../main-modules.php:3755
+msgid "Here you can define a custom background color for your CTA."
+msgstr "こちらでは、アクションの呼び出しのカスタム背景色を設定できます。"
+
+#: ../main-modules.php:2848 ../main-modules.php:3770
+msgid "This will adjust the alignment of the module text."
+msgstr "モジュールテキストの配置を調整します。"
+
+#: ../main-modules.php:2871
+msgid "Quote Icon Color"
+msgstr "引用アイコンカラー"
+
+#: ../main-modules.php:2877
+msgid "Portrait Border Radius"
+msgstr "ポートレートボーダー丸み"
+
+#: ../main-modules.php:2882
+msgid "Portrait Width"
+msgstr "ポートレート幅"
+
+#: ../main-modules.php:2887
+msgid "Portrait Height"
+msgstr "ポートレート高さ"
+
+#: ../main-modules.php:3047
+msgid "Pricing Tables"
+msgstr "価格表"
+
+#: ../main-modules.php:3051 ../main-modules.php:3445
+msgid "Pricing Table"
+msgstr "価格表"
+
+#: ../main-modules.php:3081
+msgid "Pricing Heading"
+msgstr "価格小見出し"
+
+#: ../main-modules.php:3085
+msgid "Pricing Title"
+msgstr "価格タイトル"
+
+#: ../main-modules.php:3089
+msgid "Pricing Top"
+msgstr "価格トップ"
+
+#: ../main-modules.php:3093 ../main-modules.php:3124 ../main-modules.php:3485
+#: ../main-modules.php:3549 ../main-modules.php:8156 ../main-modules.php:8189
+msgid "Price"
+msgstr "価格"
+
+#: ../main-modules.php:3097
+msgid "Pricing Content"
+msgstr "価格コンテンツ"
+
+#: ../main-modules.php:3101
+msgid "Pricing Button"
+msgstr "価格ボタン"
+
+#: ../main-modules.php:3105
+msgid "Featured Table"
+msgstr "特集テーブル"
+
+#: ../main-modules.php:3118 ../main-modules.php:3479
+msgid "Subheader"
+msgstr "小見出し"
+
+#: ../main-modules.php:3179
+msgid "Featured Table Background Color"
+msgstr "特集テーブル背景色"
+
+#: ../main-modules.php:3186
+msgid "Table Header Background Color"
+msgstr "テーブルヘッダー背景色"
+
+#: ../main-modules.php:3192
+msgid "Featured Table Header Background Color"
+msgstr "特集テーブルヘッダー背景色"
+
+#: ../main-modules.php:3199
+msgid "Featured Table Header Text Color"
+msgstr "特集テーブルヘッダーテキストカラー"
+
+#: ../main-modules.php:3206
+msgid "Featured Table Subheader Text Color"
+msgstr "特集テーブル小見出しテキストカラー"
+
+#: ../main-modules.php:3213
+msgid "Featured Table Price Color"
+msgstr "特集テーブル価格カラー"
+
+#: ../main-modules.php:3220
+msgid "Featured Table Body Text Color"
+msgstr "特集テーブルボディテキストカラー"
+
+#: ../main-modules.php:3227
+msgid "Show Bullet"
+msgstr "ドット表示"
+
+#: ../main-modules.php:3239
+msgid "Bullet Color"
+msgstr "ドットカラー"
+
+#: ../main-modules.php:3246
+msgid "Featured Table Bullet Color"
+msgstr "特集テーブルドットカラー"
+
+#: ../main-modules.php:3253
+msgid "Remove Featured Table Drop Shadow"
+msgstr "特集テーブルドロップシャドウを除去"
+
+#: ../main-modules.php:3263
+msgid "Center List Items"
+msgstr "リストアイテム中央寄せ"
+
+#: ../main-modules.php:3467
+msgid "New Pricing Table"
+msgstr "新しい価格表"
+
+#: ../main-modules.php:3468
+msgid "Pricing Table Settings"
+msgstr "価格表の設定"
+
+#: ../main-modules.php:3520
+msgid "Make This Table Featured"
+msgstr "この表を注目にする"
+
+#: ../main-modules.php:3526
+msgid "Featuring a table will make it stand out from the rest."
+msgstr "表を注目にすると、その表を他の表よりも目立たせることができます。"
+
+#: ../main-modules.php:3531
+msgid "Define a title for the pricing table."
+msgstr "価格表のタイトルを設定します。"
+
+#: ../main-modules.php:3534
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: ../main-modules.php:3536
+msgid "Define a sub title for the table if desired."
+msgstr "必要に応じて、表のサブ•タイトルを設定します。"
+
+#: ../main-modules.php:3539
+msgid "Currency"
+msgstr "通貨"
+
+#: ../main-modules.php:3541
+msgid "Input your desired currency symbol here."
+msgstr "ここに希望する通貨記号を入力します。"
+
+#: ../main-modules.php:3544
+msgid "Per"
+msgstr "毎"
+
+#: ../main-modules.php:3546
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here."
+msgstr ""
+"価格がサブスクリプションに基づく場合、サブスクリプションの支払いサイクルをこ"
+"こに入力します。"
+
+#: ../main-modules.php:3551
+msgid "Input the value of the product here."
+msgstr "ここに商品の価値を入力します。"
+
+#: ../main-modules.php:3556
+msgid "Input the destination URL for the signup button."
+msgstr "サインアップボタンのURLを入力します。"
+
+#: ../main-modules.php:3561
+msgid "Adjust the text used from the signup button."
+msgstr "サインアップボタンで使用されるテキストを調整します。"
+
+#: ../main-modules.php:3568
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: "
+msgstr ""
+"商品に含まれる/含まれない機能のリストを入力します。各アイテムは新しい行に個別"
+"にリストし、+か-のどちらかの記号で始めます。 "
+
+#: ../main-modules.php:3569
+msgid "Included option"
+msgstr "含まるオプション"
+
+#: ../main-modules.php:3570
+msgid "Excluded option"
+msgstr "含まれないオプション"
+
+#: ../main-modules.php:3643
+msgid "Call To Action"
+msgstr "アクションの呼び出し"
+
+#: ../main-modules.php:3703
+msgid "Promo Description"
+msgstr "解説"
+
+#: ../main-modules.php:3707
+msgid "Promo Button"
+msgstr "ボタン"
+
+#: ../main-modules.php:3718
+msgid "Input your value to action title here."
+msgstr "ここにアクションのタイトルの価値を入力します。"
+
+#: ../main-modules.php:3723
+msgid "Input the destination URL for your CTA button."
+msgstr "アクションボタンを呼び出すためのURLを入力します。"
+
+#: ../main-modules.php:3737
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+"希望するボタンテキストを入力します。空白のままにするとボタンはなしになりま"
+"す。"
+
+#: ../main-modules.php:3876 ../main-modules.php:3941
+msgid "Audio"
+msgstr "オーディオ"
+
+#: ../main-modules.php:3924
+msgid "Audio Cover Art"
+msgstr "音声画像"
+
+#: ../main-modules.php:3928
+msgid "Audio Content"
+msgstr "音声コンテンツ"
+
+#: ../main-modules.php:3932
+msgid "Audio Meta"
+msgstr "音声メタ情報"
+
+#: ../main-modules.php:3944
+msgid "Upload an audio file"
+msgstr "オーディオファイルをアップロード"
+
+#: ../main-modules.php:3945
+msgid "Choose an Audio file"
+msgstr "オーディオファイルを選択"
+
+#: ../main-modules.php:3946
+msgid "Set As Audio for the module"
+msgstr "モジュールのオーディオとして設定"
+
+#: ../main-modules.php:3947
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+"モジュールで使用するオーディオファイルを設定します。モジュールからオーディオ"
+"ファイルを削除するには、設定フィールドからURLを削除します。"
+
+#: ../main-modules.php:3952
+msgid "Define a title."
+msgstr "タイトルを設定します。"
+
+#: ../main-modules.php:3955
+msgid "Artist Name"
+msgstr "アーティスト名"
+
+#: ../main-modules.php:3957
+msgid "Define an artist name."
+msgstr "アーティスト名を設定します。"
+
+#: ../main-modules.php:3960
+msgid "Album name"
+msgstr "アルバム名"
+
+#: ../main-modules.php:3962
+msgid "Define an album name."
+msgstr "アルバム名を設定します。"
+
+#: ../main-modules.php:3965
+msgid "Cover Art Image URL"
+msgstr "カバーアート画像URL"
+
+#: ../main-modules.php:3975 ../main-modules.php:4240 ../main-modules.php:4640
+#: ../main-structure-elements.php:120
+msgid ""
+"Define a custom background color for your module, or leave blank to use the "
+"default color."
+msgstr ""
+"モジュール用のカスタム背景色を設定するか、デフォルトの色を使用する場合は空白"
+"のままにします。"
+
+#: ../main-modules.php:4032
+#, php-format
+msgid "by <strong>%1$s</strong>"
+msgstr "執筆者 <strong>%1$s</strong>"
+
+#: ../main-modules.php:4083
+msgid "Signup"
+msgstr "サインアップ"
+
+#: ../main-modules.php:4111
+msgid "Subscribe"
+msgstr "購読"
+
+#: ../main-modules.php:4145 ../main-modules.php:4595
+msgid "Newsletter Description"
+msgstr "ニュースレター解説"
+
+#: ../main-modules.php:4149 ../main-modules.php:4599
+msgid "Newsletter Form"
+msgstr "ニュースレターフォーム"
+
+#: ../main-modules.php:4153 ../main-modules.php:4603
+msgid "Newsletter Button"
+msgstr "ニュースレターボタン"
+
+#: ../main-modules.php:4160
+msgid "Select the list"
+msgstr "リストを選択"
+
+#: ../main-modules.php:4181
+msgid "Service Provider"
+msgstr "サービスプロバイダ"
+
+#: ../main-modules.php:4184
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: ../main-modules.php:4185
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: ../main-modules.php:4186
+msgid "Aweber"
+msgstr "Aweber"
+
+#: ../main-modules.php:4193
+msgid "Here you can choose a service provider."
+msgstr "こちらでは、サービスプロバイダを選択できます。"
+
+#: ../main-modules.php:4196
+msgid "Feed Title"
+msgstr "フィードタイトル"
+
+#: ../main-modules.php:4202
+msgid "MailChimp lists"
+msgstr "MailChimpリスト"
+
+#: ../main-modules.php:4205
+msgid ""
+"Here you can choose MailChimp list to add customers to. If you don't see any "
+"lists here, you need to make sure MailChimp API key is set in ePanel and you "
+"have at least one list on a MailChimp account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate MailChimp Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"こちらでは、カスタマーを追加するMailChimpリストを選択できます。ここにリストが"
+"表示されない場合は、必ずMailChimp APIのキーがePanelで設定され、MailChimpアカ"
+"ウントに少なくとも一つのリストを持っている必要があります。新しいリストを追加"
+"したのに、ここに表示されない場合は、ePanelでMailChimpリストの再生成を有効にし"
+"ます。リストが再生成されたら無効にすることを忘れないでください。"
+
+#: ../main-modules.php:4209
+msgid "Aweber lists"
+msgstr "Aweberリスト"
+
+#: ../main-modules.php:4212
+msgid ""
+"Here you can choose Aweber list to add customers to. If you don't see any "
+"lists here, you need to make sure Aweber is set up properly in ePanel and "
+"you have at least one list on a Aweber account. If you added new list, but "
+"it doesn't appear here, activate 'Regenerate Aweber Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"こちらでは、カスタマーを追加するAweberリストを選択できます。ここにリストが表"
+"示されない場合は、必ずAweberがePanelで設定され、 Aweber アカウントに少なくと"
+"も一つのリストを持っている必要があります。新しいリストを追加したのに、ここに"
+"表示されない場合は、ePanelでAweberリストの再生成を有効にします。リストが再生"
+"成されたら無効にすることを忘れないでください。"
+
+#: ../main-modules.php:4218
+msgid "Choose a title of your signup box."
+msgstr "サインアップボックスのタイトルを選択してください。"
+
+#: ../main-modules.php:4223
+msgid "Here you can change the text used for the signup button."
+msgstr "こちらでは、サインアップのボタンに使用されるテキストを変更できます。"
+
+#: ../main-modules.php:4256 ../main-modules.php:4656
+msgid "Here you can adjust the alignment of your text."
+msgstr "こちらでは、テキストの配置を調整できます。"
+
+#: ../main-modules.php:4279 ../main-modules.php:4679
+msgid "Form Field Background Color"
+msgstr "フォームフィールド背景色"
+
+#: ../main-modules.php:4285 ../main-modules.php:4685
+msgid "Form Field Text Color"
+msgstr "フォームフィールドテキストカラー"
+
+#: ../main-modules.php:4291 ../main-modules.php:4691
+msgid "Focus Background Color"
+msgstr "強調背景色"
+
+#: ../main-modules.php:4297 ../main-modules.php:4697
+msgid "Focus Text Color"
+msgstr "強調テキストカラー"
+
+#: ../main-modules.php:4303 ../main-modules.php:4703
+msgid "Use Focus Border Color"
+msgstr "強調ボーダーカラーを使う"
+
+#: ../main-modules.php:4315 ../main-modules.php:4715
+msgid "Focus Border Color"
+msgstr "強調ボーダーカラー"
+
+#: ../main-modules.php:4407
+msgid "First Name"
+msgstr "名"
+
+#: ../main-modules.php:4408
+msgid "Last Name"
+msgstr "性"
+
+#: ../main-modules.php:4409 ../main-modules.php:6954
+msgid "Email Address"
+msgstr "Eメールアドレス"
+
+#: ../main-modules.php:4476 ../main-modules.php:6953 ../main-modules.php:7457
+msgid "Name"
+msgstr "名前"
+
+#: ../main-modules.php:4538 ../main-modules.php:4847
+msgid "Login"
+msgstr "ログイン"
+
+#: ../main-modules.php:4614
+msgid "Choose a title of your login box."
+msgstr "ログインボックスのタイトルを選択します。"
+
+#: ../main-modules.php:4617
+msgid "Redirect To The Current Page"
+msgstr "現在のページにリダイレクト"
+
+#: ../main-modules.php:4623
+msgid ""
+"Here you can choose whether the user should be redirected to the current "
+"page."
+msgstr ""
+"こちらでは、ユーザーが現在のページにリダイレクトする必要があるかどうかを選択"
+"できます。"
+
+#: ../main-modules.php:4808
+#, php-format
+msgid "Logged in as %1$s"
+msgstr "ログイン中のユーザー %1$s"
+
+#: ../main-modules.php:4810
+msgid "Log out"
+msgstr "ログアウト"
+
+#: ../main-modules.php:4819
+msgid "Username"
+msgstr "ユーザー名"
+
+#: ../main-modules.php:4820
+msgid "Password"
+msgstr "パスワード"
+
+#: ../main-modules.php:4840
+msgid "Forgot your password?"
+msgstr "パスワードをお忘れですか?"
+
+#: ../main-modules.php:4887
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: ../main-modules.php:4940 ../main-modules.php:5298
+msgid "Portfolio Image"
+msgstr "ポートフォリオ画像"
+
+#: ../main-modules.php:4952 ../main-modules.php:5310 ../main-modules.php:10707
+msgid "Portfolio Title"
+msgstr "ポートフォリオタイトル"
+
+#: ../main-modules.php:4956 ../main-modules.php:5314
+msgid "Portfolio Post Meta"
+msgstr "ポートフォリオ投稿メタ情報"
+
+#: ../main-modules.php:4968 ../main-modules.php:5326 ../main-modules.php:7752
+msgid "Fullwidth"
+msgstr "フルワイド"
+
+#: ../main-modules.php:4971 ../main-modules.php:5329 ../main-modules.php:10718
+msgid "Choose your desired portfolio layout style."
+msgstr "希望のポートフォリオのレイアウトスタイルを選択します。"
+
+#: ../main-modules.php:4974 ../main-modules.php:5332 ../main-modules.php:7762
+#: ../main-modules.php:8210 ../main-modules.php:10726
+msgid "Posts Number"
+msgstr "投稿数"
+
+#: ../main-modules.php:4976 ../main-modules.php:5334
+msgid "Define the number of projects that should be displayed per page."
+msgstr "ページごとに表示するプロジェクトの数を設定します。"
+
+#: ../main-modules.php:4979 ../main-modules.php:5337 ../main-modules.php:7767
+#: ../main-modules.php:10721
+msgid "Include Categories"
+msgstr "カテゴリーを追加"
+
+#: ../main-modules.php:4981 ../main-modules.php:5339 ../main-modules.php:10723
+msgid "Select the categories that you would like to include in the feed."
+msgstr "フィードに含めたいカテゴリーを選択します。"
+
+#: ../main-modules.php:4984 ../main-modules.php:5342 ../main-modules.php:9166
+#: ../main-modules.php:10731 ../main-modules.php:11392
+msgid "Show Title"
+msgstr "タイトルを表示する"
+
+#: ../main-modules.php:4990 ../main-modules.php:5348 ../main-modules.php:10737
+msgid "Turn project titles on or off."
+msgstr "プロジェクトのタイトルのオン・オフを切り替えます。"
+
+#: ../main-modules.php:4993 ../main-modules.php:5351 ../main-modules.php:7829
+msgid "Show Categories"
+msgstr "カテゴリーを表示する"
+
+#: ../main-modules.php:4999 ../main-modules.php:5357 ../main-modules.php:7835
+msgid "Turn the category links on or off."
+msgstr "カテゴリーリンクのオン・オフを切り替えます。"
+
+#: ../main-modules.php:5231
+msgid "Filterable Portfolio"
+msgstr "フィルター可能ポートフォリオ"
+
+#: ../main-modules.php:5275
+msgid "Filter"
+msgstr "フィルター"
+
+#: ../main-modules.php:5290
+msgid "Portfolio Filters"
+msgstr "ポートフォリオフィルター"
+
+#: ../main-modules.php:5294
+msgid "Active Portfolio Filter"
+msgstr "アクティブポートフォリオフィルター"
+
+#: ../main-modules.php:5568
+msgid "All"
+msgstr "全て"
+
+#: ../main-modules.php:5608
+msgid "Bar Counters"
+msgstr "バーカウンター"
+
+#: ../main-modules.php:5611 ../main-modules.php:5786
+msgid "Bar Counter"
+msgstr "棒グラフカウンター"
+
+#: ../main-modules.php:5646 ../main-modules.php:5819 ../main-modules.php:6012
+#: ../main-modules.php:6190
+msgid "Percent"
+msgstr "パーセント"
+
+#: ../main-modules.php:5663
+msgid "Counter Title"
+msgstr "カウンタータイトル"
+
+#: ../main-modules.php:5667
+msgid "Counter Container"
+msgstr "カウンター箱"
+
+#: ../main-modules.php:5671
+msgid "Counter Amount"
+msgstr "カウンター値"
+
+#: ../main-modules.php:5691
+msgid ""
+"This will adjust the color of the empty space in the bar (currently gray)."
+msgstr "バー（現在はグレー）の空白スペースの色を調整します。"
+
+#: ../main-modules.php:5694 ../main-modules.php:5830 ../main-modules.php:6054
+msgid "Bar Background Color"
+msgstr "バーの背景色"
+
+#: ../main-modules.php:5696 ../main-modules.php:6056 ../main-modules.php:6224
+msgid "This will change the fill color for the bar."
+msgstr "バーの塗りつぶしの色を変更します。"
+
+#: ../main-modules.php:5699
+msgid "Use Percentages"
+msgstr "使用率"
+
+#: ../main-modules.php:5722
+msgid "Bar Top Padding"
+msgstr "棒グラフ上部パディング"
+
+#: ../main-modules.php:5727
+msgid "Bar Bottom Padding"
+msgstr "棒グラフ下部パディング"
+
+#: ../main-modules.php:5732
+msgid "Border Radius"
+msgstr "ボーダー丸み"
+
+#: ../main-modules.php:5804
+msgid "New Bar Counter"
+msgstr "新しいバーカウンター"
+
+#: ../main-modules.php:5805
+msgid "Bar Counter Settings"
+msgstr "バーカウンターの設定"
+
+#: ../main-modules.php:5816
+msgid "Input a title for your bar."
+msgstr "バーのタイトルを入力"
+
+#: ../main-modules.php:5821
+msgid "Define a percentage for this bar."
+msgstr "このバーの割合を設定します。"
+
+#: ../main-modules.php:5836
+msgid "Label Color"
+msgstr "ラベルカラー"
+
+#: ../main-modules.php:5842
+msgid "Percentage Color"
+msgstr "パーセンテージカラー"
+
+#: ../main-modules.php:5969
+msgid "Circle Counter"
+msgstr "サークルカウンター"
+
+#: ../main-modules.php:6002 ../main-modules.php:6030 ../main-modules.php:6172
+#: ../main-modules.php:6208
+msgid "Number"
+msgstr "数字"
+
+#: ../main-modules.php:6016
+msgid "Circle Counter Title"
+msgstr "円グラフタイトル"
+
+#: ../main-modules.php:6027
+msgid "Input a title for the circle counter."
+msgstr "サークルカウンターのタイトルを入力します。"
+
+#: ../main-modules.php:6033
+msgid ""
+"Define a number for the circle counter. (Don't include the percentage sign, "
+"use the option below.). <strong>Note: You can use only natural numbers from "
+"0 to 100</strong>"
+msgstr ""
+"サークルカウンターの数字を設定します。 （パーセント記号を含めないでください。"
+"下記のオプションを使用します。）。注：0から100だけの自然数を使用できます"
+
+#: ../main-modules.php:6036 ../main-modules.php:6213
+msgid "Percent Sign"
+msgstr "パーセント記号"
+
+#: ../main-modules.php:6042 ../main-modules.php:6219
+msgid ""
+"Here you can choose whether the percent sign should be added after the "
+"number set above."
+msgstr ""
+"こちらでは、数の設定後にパーセント記号を追加するかどうかを選択できます。"
+
+#: ../main-modules.php:6080
+msgid "Circle Color Opacity"
+msgstr "円グラフカラー透過度"
+
+#: ../main-modules.php:6141
+msgid "Number Counter"
+msgstr "数カウンター"
+
+#: ../main-modules.php:6194
+msgid "Number Counter Title"
+msgstr "数値カウンタータイトル"
+
+#: ../main-modules.php:6205
+msgid "Input a title for the counter."
+msgstr "カウンターのタイトルを入力します。"
+
+#: ../main-modules.php:6210
+msgid ""
+"Define a number for the counter. (Don't include the percentage sign, use the "
+"option below.)"
+msgstr ""
+"カウンターの数を設定します。（以下のオプションを使用し、パーセント記号を含め"
+"ないでください。）"
+
+#: ../main-modules.php:6222
+msgid "Counter Text Color"
+msgstr "カウンターのテキストの色"
+
+#: ../main-modules.php:6233
+msgid ""
+"Here you can choose whether your title text should be light or dark. If you "
+"are working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"こちらでは、タイトルテキストを明るくするか暗くするかを選択できます。暗い背景"
+"で作業している場合は、テキストは明るくする必要があります。背景が明るい場合"
+"は、テキストを暗く設定する必要があります。"
+
+#: ../main-modules.php:6291 ../main-modules.php:6466
+msgid "Accordion"
+msgstr "アコーディオン"
+
+#: ../main-modules.php:6308 ../main-modules.php:6341 ../main-modules.php:6542
+msgid "Toggle"
+msgstr "トグル"
+
+#: ../main-modules.php:6345 ../main-modules.php:6590
+msgid "Open Toggle"
+msgstr "トグルを開く"
+
+#: ../main-modules.php:6349 ../main-modules.php:6594
+msgid "Toggle Title"
+msgstr "トグルタイトル"
+
+#: ../main-modules.php:6353 ../main-modules.php:6598
+msgid "Toggle Icon"
+msgstr "トグルアイコン"
+
+#: ../main-modules.php:6357 ../main-modules.php:6602
+msgid "Toggle Content"
+msgstr "トグルコンテンツ"
+
+#: ../main-modules.php:6381 ../main-modules.php:6505 ../main-modules.php:6645
+msgid "Open Toggle Background Color"
+msgstr "トグル開背景色"
+
+#: ../main-modules.php:6387 ../main-modules.php:6517 ../main-modules.php:6651
+msgid "Closed Toggle Background Color"
+msgstr "トグル閉背景色"
+
+#: ../main-modules.php:6497 ../main-modules.php:6613
+msgid ""
+"The toggle title will appear above the content and when the toggle is closed."
+msgstr "トグルが閉じている時、トグルのタイトルはコンテンツの上に表示されます。"
+
+#: ../main-modules.php:6511
+msgid "Open Toggle Text Color"
+msgstr "トグル開テキストカラー"
+
+#: ../main-modules.php:6523
+msgid "Closed Toggle Text Color"
+msgstr "トグル閉テキストカラー"
+
+#: ../main-modules.php:6616
+msgid "State"
+msgstr "状態"
+
+#: ../main-modules.php:6619
+msgid "Close"
+msgstr "閉じる"
+
+#: ../main-modules.php:6620
+msgid "Open"
+msgstr "開く"
+
+#: ../main-modules.php:6622
+msgid ""
+"Choose whether or not this toggle should start in an open or closed state."
+msgstr ""
+"このトグルを、開いている、または閉じている状態で開始すべきかを選択します。"
+
+#: ../main-modules.php:6742
+msgid "Contact Form"
+msgstr "お問い合わせフォーム"
+
+#: ../main-modules.php:6770
+msgid "Form Field"
+msgstr "フォームフィールド"
+
+#: ../main-modules.php:6792
+msgid "Contact Title"
+msgstr "問合せタイトル"
+
+#: ../main-modules.php:6796
+msgid "Contact Button"
+msgstr "問合せボタン"
+
+#: ../main-modules.php:6805
+msgid "Display Captcha"
+msgstr "Captchaを表示"
+
+#: ../main-modules.php:6811
+msgid "Turn the captcha on or off using this option."
+msgstr "オプションを使用してCaptchaのオン・オフを切り替えます。"
+
+#: ../main-modules.php:6814
+msgid "Email"
+msgstr "Eメール"
+
+#: ../main-modules.php:6816
+msgid "Input the email address where messages should be sent."
+msgstr "メッセージを送信する電子メールアドレスを入力します。"
+
+#: ../main-modules.php:6821
+msgid "Define a title for your contact form."
+msgstr "連絡先フォームのタイトルを設定します。"
+
+#: ../main-modules.php:6839
+msgid "Form Background Color"
+msgstr "フォーム背景色"
+
+#: ../main-modules.php:6845
+msgid "Input Border Radius"
+msgstr "入力ボーダー丸み"
+
+#: ../main-modules.php:6894
+msgid "Make sure you entered the captcha."
+msgstr "キャプチャを入力したか確認してください。"
+
+#: ../main-modules.php:6897
+msgid "You entered the wrong number in captcha."
+msgstr "キャプチャの番号が違います。"
+
+#: ../main-modules.php:6904
+msgid "Make sure you fill all fields."
+msgstr "全ての領域を入力したか確認してください。"
+
+#: ../main-modules.php:6909
+msgid "Invalid Email."
+msgstr "Eメールが違います。"
+
+#: ../main-modules.php:6943
+#, php-format
+msgid "New Message From %1$s%2$s"
+msgstr "新しいメッセージが来ています。送信者 %1$s%2$s"
+
+#: ../main-modules.php:6945
+#, php-format
+msgid " - %s"
+msgstr " - %s"
+
+#: ../main-modules.php:6948
+msgid "Thanks for contacting us"
+msgstr "お問い合わせありがとうございました。"
+
+#: ../main-modules.php:6955
+msgid "Message"
+msgstr "メッセージ"
+
+#: ../main-modules.php:7008
+msgid "Submit"
+msgstr "送信"
+
+#: ../main-modules.php:7042
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: ../main-modules.php:7080
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: ../main-modules.php:7093
+msgid "Orientation"
+msgstr "方向"
+
+#: ../main-modules.php:7099
+msgid ""
+"Choose which side of the page your sidebar will be on. This setting controls "
+"text orientation and border position."
+msgstr ""
+"ページのどちら側でサイドバーをオンにするか選択します。この設定ではテキストの"
+"向きと境界位置を制御できます。"
+
+#: ../main-modules.php:7102
+msgid "Widget Area"
+msgstr "ウィジェットエリア"
+
+#: ../main-modules.php:7104
+msgid ""
+"Select a widget-area that you would like to display. You can create new "
+"widget areas within the Appearances > Widgets tab."
+msgstr ""
+"表示したいウィジェットエリアを選択します。外観>ウィジェットタブ内に新しいウィ"
+"ジェットエリアを作成できます。"
+
+#: ../main-modules.php:7131
+msgid "Remove Border Separator"
+msgstr "ボーダーセパレーターを除去"
+
+#: ../main-modules.php:7188
+msgid "Divider"
+msgstr "ディバイダー"
+
+#: ../main-modules.php:7199
+msgid "Don't Show Divider"
+msgstr "ディバイダーを表示しない"
+
+#: ../main-modules.php:7200
+msgid "Show Divider"
+msgstr "ディバイダーを表示する"
+
+#: ../main-modules.php:7233
+msgid "Color"
+msgstr "色"
+
+#: ../main-modules.php:7235
+msgid "This will adjust the color of the 1px divider line."
+msgstr "1pxのディバイダーの線の色を調整します。"
+
+#: ../main-modules.php:7238
+msgid "Visibility"
+msgstr "表示/非表示"
+
+#: ../main-modules.php:7246
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect the "
+"divider height."
+msgstr ""
+"この設定は1pxのディバイダーの線のオン・オフを切り替えることができますが、ディ"
+"バイダーの高さには影響しません。"
+
+#: ../main-modules.php:7249
+msgid "Height"
+msgstr "高さ"
+
+#: ../main-modules.php:7251
+msgid "Define how much space should be added below the divider."
+msgstr "仕切りの下に追加するスペースを定義"
+
+#: ../main-modules.php:7269
+msgid "Divider Style"
+msgstr "仕切りスタイル"
+
+#: ../main-modules.php:7276
+msgid "Divider Position"
+msgstr "仕切り位置"
+
+#: ../main-modules.php:7280 ../main-modules.php:9800
+msgid "Vertically Centered"
+msgstr "縦方向中央寄せ"
+
+#: ../main-modules.php:7287
+msgid "Divider Weight"
+msgstr "仕切り太さ"
+
+#: ../main-modules.php:7293
+msgid "Hide On Mobile"
+msgstr "モバイルで非表示"
+
+#: ../main-modules.php:7380
+msgid "Person"
+msgstr "人"
+
+#: ../main-modules.php:7432
+msgid "Member Image"
+msgstr "メンバー画像"
+
+#: ../main-modules.php:7436
+msgid "Member Description"
+msgstr "メンバー解説"
+
+#: ../main-modules.php:7444
+msgid "Member Position"
+msgstr "メンバーポジション"
+
+#: ../main-modules.php:7448
+msgid "Member Social Links"
+msgstr "メンバーソーシャルリンク"
+
+#: ../main-modules.php:7459
+msgid "Input the name of the person"
+msgstr "人の名前を入力"
+
+#: ../main-modules.php:7462
+msgid "Position"
+msgstr "位置"
+
+#: ../main-modules.php:7464
+msgid "Input the person's position."
+msgstr "人の位置を入力します。"
+
+#: ../main-modules.php:7497
+msgid "Facebook Profile Url"
+msgstr "Facebook のプロフィール URL"
+
+#: ../main-modules.php:7499
+msgid "Input Facebook Profile Url."
+msgstr "Facebookプロフィールの URLを入力"
+
+#: ../main-modules.php:7502
+msgid "Twitter Profile Url"
+msgstr "Twitter のプロフィール URL"
+
+#: ../main-modules.php:7504
+msgid "Input Twitter Profile Url"
+msgstr "TwitterプロフィールのURLを入力"
+
+#: ../main-modules.php:7507
+msgid "Google+ Profile Url"
+msgstr "Google+ のプロフィール URL"
+
+#: ../main-modules.php:7509
+msgid "Input Google+ Profile Url"
+msgstr " Googlo+プロフィールのURLを入力"
+
+#: ../main-modules.php:7512
+msgid "LinkedIn Profile Url"
+msgstr "LinkedInプロフィールの URLを入力"
+
+#: ../main-modules.php:7514
+msgid "Input LinkedIn Profile Url"
+msgstr "LinkedInプロフィールのURLを入力"
+
+#: ../main-modules.php:7517
+msgid "Description"
+msgstr "説明"
+
+#: ../main-modules.php:7543 ../main-modules.php:8263
+msgid "Icon Hover Color"
+msgstr "アイコンマウスオーバーカラー"
+
+#: ../main-modules.php:7595
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../main-modules.php:7603 ../main-modules.php:8971
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../main-modules.php:7611 ../main-modules.php:8975
+msgid "Google+"
+msgstr "Google+"
+
+#: ../main-modules.php:7619 ../main-modules.php:8983
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../main-modules.php:7666
+msgid "Blog"
+msgstr "ブログ"
+
+#: ../main-modules.php:7716 ../main-modules.php:9154 ../main-modules.php:11380
+msgid "Meta"
+msgstr "メタ情報"
+
+#: ../main-modules.php:7736
+msgid "Post Meta"
+msgstr "投稿メタ情報"
+
+#: ../main-modules.php:7740
+msgid "Pagenavi"
+msgstr "ページナビ"
+
+#: ../main-modules.php:7764
+msgid "Choose how much posts you would like to display per page."
+msgstr "ページごとに表示したい記事の数を選択します。"
+
+#: ../main-modules.php:7772
+msgid "Choose which categories you would like to include in the feed."
+msgstr "フィードに含めるカテゴリーを選択します。"
+
+#: ../main-modules.php:7775
+msgid "Meta Date Format"
+msgstr "日付形式"
+
+#: ../main-modules.php:7777
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr "日付形式を調整したい場合、こちらに適切なPHP日付形式を入力します。"
+
+#: ../main-modules.php:7780 ../main-modules.php:9241 ../main-modules.php:11467
+msgid "Show Featured Image"
+msgstr "注目画像を表示"
+
+#: ../main-modules.php:7786
+msgid "This will turn thumbnails on and off."
+msgstr "サムネイルのオン・オフを切り替えます。"
+
+#: ../main-modules.php:7792
+msgid "Show Excerpt"
+msgstr "抜粋を表示"
+
+#: ../main-modules.php:7793
+msgid "Show Content"
+msgstr "内容を表示"
+
+#: ../main-modules.php:7798
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"内容を完全に表示した場合、インデックスページの記事は省略されません。抜粋を表"
+"示すると、抜粋テキストのみが表示されます。"
+
+#: ../main-modules.php:7801
+msgid "Read More Button"
+msgstr "詳しく読むボタン"
+
+#: ../main-modules.php:7808
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr "こちらでは抜粋以後のリンク内容を表示するかどうかを設定できます。"
+
+#: ../main-modules.php:7811 ../main-modules.php:9190 ../main-modules.php:11416
+msgid "Show Author"
+msgstr "投稿者を表示する"
+
+#: ../main-modules.php:7817
+msgid "Turn on or off the author link."
+msgstr "投稿者リンクのオン・オフを切り替えます。"
+
+#: ../main-modules.php:7820 ../main-modules.php:9200 ../main-modules.php:10740
+#: ../main-modules.php:11426
+msgid "Show Date"
+msgstr "日付を表示する"
+
+#: ../main-modules.php:7826
+msgid "Turn the date on or off."
+msgstr "日付のオン・オフを切り替えます。"
+
+#: ../main-modules.php:7844
+msgid "Turn pagination on and off."
+msgstr "ページネーションのオン・オフを切り替えます。"
+
+#: ../main-modules.php:7847
+msgid "Offset Number"
+msgstr "オフセットすう"
+
+#: ../main-modules.php:7849
+msgid "Choose how many posts you would like to offset by"
+msgstr "オフセットしたい投稿の数を選択します。"
+
+#: ../main-modules.php:7877
+msgid "Grid Tile Background Color"
+msgstr "グリッドタイル背景色"
+
+#: ../main-modules.php:7883
+msgid "Use Dropshadow"
+msgstr "ドロップシャドウを使う"
+
+#: ../main-modules.php:8031
+#, php-format
+msgid "by %s"
+msgstr "執筆者 %s"
+
+#: ../main-modules.php:8041
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../main-modules.php:8061
+msgid "read more..."
+msgstr "続きを読む..."
+
+#: ../main-modules.php:8068
+msgid "read more"
+msgstr "続きを読む"
+
+#: ../main-modules.php:8122
+msgid "Shop"
+msgstr "ショップ"
+
+#: ../main-modules.php:8165
+msgid "Product"
+msgstr "商品"
+
+#: ../main-modules.php:8169
+msgid "Onsale"
+msgstr "販売中"
+
+#: ../main-modules.php:8185
+msgid "Rating"
+msgstr "評価"
+
+#: ../main-modules.php:8198
+msgid "Type"
+msgstr "種類"
+
+#: ../main-modules.php:8201
+msgid "Recent Products"
+msgstr "最近の商品"
+
+#: ../main-modules.php:8202
+msgid "Featured Products"
+msgstr "おすすめ商品"
+
+#: ../main-modules.php:8203
+msgid "Sale Products"
+msgstr "バーゲン商品"
+
+#: ../main-modules.php:8204
+msgid "Best Selling Products"
+msgstr "ベストセラー商品"
+
+#: ../main-modules.php:8205
+msgid "Top Rated Products"
+msgstr "トップ評価商品"
+
+#: ../main-modules.php:8207
+msgid "Choose which type of products you would like to display."
+msgstr "表示したい商品のタイプを選択してください。"
+
+#: ../main-modules.php:8212
+msgid "Control how many products are displayed."
+msgstr "商品の表示数を制御します。"
+
+#: ../main-modules.php:8215
+msgid "Columns Number"
+msgstr "列の数"
+
+#: ../main-modules.php:8218
+msgid "default"
+msgstr "規定値"
+
+#: ../main-modules.php:8219 ../main-modules.php:8220 ../main-modules.php:8221
+#: ../main-modules.php:8222 ../main-modules.php:8223
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s列"
+
+#: ../main-modules.php:8224
+msgid "1 Column"
+msgstr "1列"
+
+#: ../main-modules.php:8226
+msgid "Choose how many columns to display."
+msgstr "表示する列数を選択"
+
+#: ../main-modules.php:8229
+msgid "Order By"
+msgstr "順序"
+
+#: ../main-modules.php:8232
+msgid "Default Sorting"
+msgstr "デフォルトの順番"
+
+#: ../main-modules.php:8233
+msgid "Sort By Popularity"
+msgstr "人気順"
+
+#: ../main-modules.php:8234
+msgid "Sort By Rating"
+msgstr "評価順"
+
+#: ../main-modules.php:8235
+msgid "Sort By Date"
+msgstr "日付順"
+
+#: ../main-modules.php:8236
+msgid "Sort By Price: Low To High"
+msgstr "価格順：低い価格から高い価格"
+
+#: ../main-modules.php:8237
+msgid "Sort By Price: High To Low"
+msgstr "価格順：高い価格から低い価格"
+
+#: ../main-modules.php:8239
+msgid "Choose how your products should be ordered."
+msgstr "商品を注文する方法を選択してください。"
+
+#: ../main-modules.php:8257
+msgid "Sale Badge Color"
+msgstr "販売バッジカラー"
+
+#: ../main-modules.php:8370
+msgid "Countdown Timer"
+msgstr "カウントダウンタイマー"
+
+#: ../main-modules.php:8400
+msgid "Numbers"
+msgstr "数字"
+
+#: ../main-modules.php:8406
+msgid "Label"
+msgstr "ラベル"
+
+#: ../main-modules.php:8421
+msgid "Container"
+msgstr "箱"
+
+#: ../main-modules.php:8429
+msgid "Timer Section"
+msgstr "タイマーセクション"
+
+#: ../main-modules.php:8438
+msgid "Countdown Timer Title"
+msgstr "カウントダウンタイマーのタイトル"
+
+#: ../main-modules.php:8440
+msgid "This is the title displayed for the countdown timer."
+msgstr "カウントダウンタイマーに表示されるタイトルです。"
+
+#: ../main-modules.php:8443
+msgid "Countdown To"
+msgstr "をカウントダウン"
+
+#: ../main-modules.php:8445
+msgid "This is the date the countdown timer is counting down to."
+msgstr "カウントダウンタイマーがカウントダウンする日付です。"
+
+#: ../main-modules.php:8472
+msgid "Here you can define a custom background color for your countdown timer."
+msgstr "こちらでは、カウントダウンタイマーのカスタム背景色を設定できます。"
+
+#: ../main-modules.php:8553
+msgid "Days"
+msgstr "日"
+
+#: ../main-modules.php:8554
+msgid "Hours"
+msgstr "時間"
+
+#: ../main-modules.php:8555
+msgid "Hrs"
+msgstr "時間"
+
+#: ../main-modules.php:8556
+msgid "Minutes"
+msgstr "分"
+
+#: ../main-modules.php:8557
+msgid "Min"
+msgstr "分"
+
+#: ../main-modules.php:8558
+msgid "Seconds"
+msgstr "秒"
+
+#: ../main-modules.php:8559
+msgid "Sec"
+msgstr "秒"
+
+#: ../main-modules.php:8569
+msgid "Map"
+msgstr "地図"
+
+#: ../main-modules.php:8572 ../main-modules.php:8709 ../main-modules.php:10903
+msgid "Pin"
+msgstr "ピン"
+
+#: ../main-modules.php:8598 ../main-modules.php:10926
+msgid "Map Center Address"
+msgstr "地図の中心の住所"
+
+#: ../main-modules.php:8602 ../main-modules.php:8742 ../main-modules.php:10930
+msgid "Find"
+msgstr "検索"
+
+#: ../main-modules.php:8605 ../main-modules.php:10933
+msgid ""
+"Enter an address for the map center point, and the address will be geocoded "
+"and displayed on the map below."
+msgstr ""
+"地図の中心点の住所を入力すると、住所がジオコーディングされて、下の地図上に表"
+"示されます。"
+
+#: ../main-modules.php:8624 ../main-modules.php:10949
+msgid "Mouse Wheel Zoom"
+msgstr "マウスホイールズーム"
+
+#: ../main-modules.php:8630 ../main-modules.php:10955
+msgid ""
+"Here you can choose whether the zoom level will be controlled by mouse wheel "
+"or not."
+msgstr ""
+"こちらでは、ズームレベルをマウスホイールで制御するかどうかを選択できます。"
+
+#: ../main-modules.php:8648
+msgid "Use Grayscale Filter"
+msgstr "グレースケールフィルターを使う"
+
+#: ../main-modules.php:8660
+msgid "Grayscale Filter Amount (%)"
+msgstr "グレースケールフィルター度 (%)"
+
+#: ../main-modules.php:8724
+msgid "New Pin"
+msgstr "新しいPIN"
+
+#: ../main-modules.php:8725
+msgid "Pin Settings"
+msgstr "ピンの設定"
+
+#: ../main-modules.php:8736
+msgid "Map Pin Address"
+msgstr "地図ピンの住所"
+
+#: ../main-modules.php:8739
+msgid ""
+"Enter an address for this map pin, and the address will be geocoded and "
+"displayed on the map below."
+msgstr ""
+"この地図ピンの住所を入力します。住所はジオコーディングされて下の地図上に表示"
+"されます。"
+
+#: ../main-modules.php:8764 ../main-modules.php:9809
+msgid ""
+"Here you can define the content that will be placed within the infobox for "
+"the pin."
+msgstr "こちらでは、ピンの情報ボックス内に配置されるコンテンツを設定できます。"
+
+#: ../main-modules.php:8805
+msgid "Social Media Follow"
+msgstr "ソーシャルメディアのフォロー"
+
+#: ../main-modules.php:8808 ../main-modules.php:8937 ../main-modules.php:8961
+msgid "Social Network"
+msgstr "ソーシャルネットワーク"
+
+#: ../main-modules.php:8829
+msgid "Social Follow"
+msgstr "ソーシャルフォロワー"
+
+#: ../main-modules.php:8833
+msgid "Social Icon"
+msgstr "ソーシャルアイコン"
+
+#: ../main-modules.php:8842
+msgid "Link Shape"
+msgstr "リンクの形状"
+
+#: ../main-modules.php:8845
+msgid "Rounded Rectangle"
+msgstr "角丸長方形"
+
+#: ../main-modules.php:8846
+msgid "Circle"
+msgstr "サークル"
+
+#: ../main-modules.php:8848
+msgid "Here you can choose the shape of your social network icons."
+msgstr "こちらでは、ソーシャルネットワークのアイコンの形状を選択できます。"
+
+#: ../main-modules.php:8869
+msgid "Follow Button"
+msgstr "フォローボタン"
+
+#: ../main-modules.php:8875
+msgid ""
+"Here you can choose whether or not to include the follow button next to the "
+"icon."
+msgstr ""
+"こちらでは、アイコンの横にフォローボタンを配置するかどうかを選択できます。"
+
+#: ../main-modules.php:8954
+msgid "New Social Network"
+msgstr "新しいソーシャルネットワーク"
+
+#: ../main-modules.php:8955
+msgid "Social Network Settings"
+msgstr "ソーシャルネットワークの設定"
+
+#: ../main-modules.php:8965
+msgid "Select a Network"
+msgstr "ネットワークを選択"
+
+#: ../main-modules.php:8967
+msgid "facebook"
+msgstr "Facebook"
+
+#: ../main-modules.php:8979
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../main-modules.php:8987
+msgid "tumblr"
+msgstr "tumblr"
+
+#: ../main-modules.php:8991
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../main-modules.php:8995
+msgid "skype"
+msgstr "skype"
+
+#: ../main-modules.php:8999
+msgid "flikr"
+msgstr "flikr"
+
+#: ../main-modules.php:9003
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../main-modules.php:9007
+msgid "dribbble"
+msgstr "dribbble"
+
+#: ../main-modules.php:9011
+msgid "Youtube"
+msgstr "YouTube"
+
+#: ../main-modules.php:9015
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../main-modules.php:9019
+msgid "RSS"
+msgstr "RSS"
+
+#: ../main-modules.php:9023
+msgid "Choose the social network"
+msgstr "ソーシャルネットワークを選択"
+
+#: ../main-modules.php:9030
+msgid "Account URL"
+msgstr "アカウントURL"
+
+#: ../main-modules.php:9032
+msgid "The URL for this social network link."
+msgstr "このソーシャルネットワークリンク用のURL。"
+
+#: ../main-modules.php:9037
+msgid "This will change the icon color."
+msgstr "アイコンの色が変わります。"
+
+#: ../main-modules.php:9063
+msgid "Follow"
+msgstr "フォロー"
+
+#: ../main-modules.php:9089
+msgid "Post Title"
+msgstr "投稿タイトル"
+
+#: ../main-modules.php:9172 ../main-modules.php:11398
+msgid "Here you can choose whether or not display the Post Title"
+msgstr "ここで投稿タイトルを表示するかどうかを選択できます"
+
+#: ../main-modules.php:9175 ../main-modules.php:11401
+msgid "Show Meta"
+msgstr "メタ情報表示"
+
+#: ../main-modules.php:9187 ../main-modules.php:11413
+msgid "Here you can choose whether or not display the Post Meta"
+msgstr "ここで投稿メタ情報を表示するかどうかを選択できます"
+
+#: ../main-modules.php:9197 ../main-modules.php:11423
+msgid "Here you can choose whether or not display the Author Name in Post Meta"
+msgstr "ここで投稿メタ情報に著者名を表示するかどうかを選択できます"
+
+#: ../main-modules.php:9210 ../main-modules.php:11436
+msgid "Here you can choose whether or not display the Date in Post Meta"
+msgstr "ここで投稿メタ情報に日付を表示するかどうかを選択できます"
+
+#: ../main-modules.php:9214 ../main-modules.php:11440
+msgid "Date Format"
+msgstr "日付形式"
+
+#: ../main-modules.php:9217 ../main-modules.php:11443
+msgid "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+msgstr "ここで投稿メタ情報の日付形式を定義できます。規定値は'M j, Y'"
+
+#: ../main-modules.php:9221 ../main-modules.php:11447
+msgid "Show Post Categories"
+msgstr "投稿カテゴリーを表示"
+
+#: ../main-modules.php:9228 ../main-modules.php:11454
+msgid ""
+"Here you can choose whether or not display the Categories in Post Meta. "
+"Note: This option doesn't work with custom post types."
+msgstr ""
+"ここで投稿メタ情報にカテゴリーを表示するかどうかを選択できます。注意：このオ"
+"プションはカスタム投稿タイプでは機能しません。"
+
+#: ../main-modules.php:9231 ../main-modules.php:11457
+msgid "Show Comments Count"
+msgstr "コメント数を表示"
+
+#: ../main-modules.php:9238 ../main-modules.php:11464
+msgid ""
+"Here you can choose whether or not display the Comments Count in Post Meta."
+msgstr "ここで投稿メタ情報にコメント数を表示するかどうかを選択できます"
+
+#: ../main-modules.php:9250 ../main-modules.php:11476
+msgid "Here you can choose whether or not display the Featured Image"
+msgstr "ここで特集画像を表示するかどうかを選択できます"
+
+#: ../main-modules.php:9253 ../main-modules.php:11479
+msgid "Featured Image Placement"
+msgstr "特集画像配置"
+
+#: ../main-modules.php:9256 ../main-modules.php:11482
+msgid "Below Title"
+msgstr "タイトル上"
+
+#: ../main-modules.php:9257 ../main-modules.php:11483
+msgid "Above Title"
+msgstr "タイトル下"
+
+#: ../main-modules.php:9258 ../main-modules.php:11484
+msgid "Title/Meta Background Image"
+msgstr "タイトル背景画像"
+
+#: ../main-modules.php:9264 ../main-modules.php:11490
+msgid "Here you can choose where to place the Featured Image"
+msgstr "ここで特集画像の位置を選択できます"
+
+#: ../main-modules.php:9267 ../main-modules.php:11493
+#: ../main-structure-elements.php:169 ../main-structure-elements.php:861
+msgid "Use Parallax Effect"
+msgstr "視差効果を使用する"
+
+#: ../main-modules.php:9277 ../main-modules.php:11503
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr "ここで特集画像にパララックス効果を使うかどうかを選択できます"
+
+#: ../main-modules.php:9280 ../main-modules.php:11506
+#: ../main-structure-elements.php:181 ../main-structure-elements.php:873
+msgid "Parallax Method"
+msgstr "パララックス方式"
+
+#: ../main-modules.php:9287 ../main-modules.php:11513
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr "ここで特集画像に使うパララックス方式を選択できます"
+
+#: ../main-modules.php:9297 ../main-modules.php:11523
+msgid "Here you can choose the orientation for the Title/Meta text"
+msgstr "ここでタイトルテキストの方向を選択できます"
+
+#: ../main-modules.php:9306 ../main-modules.php:11532
+msgid "Here you can choose the color for the Title/Meta text"
+msgstr "ここでタイトルテキストのカラーを選択できます"
+
+#: ../main-modules.php:9309 ../main-modules.php:11535
+msgid "Use Text Background Color"
+msgstr "テキスト背景色を使う"
+
+#: ../main-modules.php:9318 ../main-modules.php:11544
+msgid ""
+"Here you can choose whether or not use the background color for the Title/"
+"Meta text"
+msgstr "ここでタイトルテキストに背景色を使うかどうかを選択できます"
+
+#: ../main-modules.php:9321 ../main-modules.php:11547
+msgid "Text Background Color"
+msgstr "テキスト背景色"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "0 comments"
+msgstr "コメント0件"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "1 comment"
+msgstr "コメント1件"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "comments"
+msgstr "コメント"
+
+#: ../main-modules.php:9483
+msgid "Fullwidth Header"
+msgstr "フルワイドヘッダー"
+
+#: ../main-modules.php:9543
+msgid "Title Styling"
+msgstr "テキストスタイル"
+
+#: ../main-modules.php:9544
+msgid "Subhead Styling"
+msgstr "小見出しスタイル"
+
+#: ../main-modules.php:9545
+msgid "Content Styling"
+msgstr "コンテンツスタイル"
+
+#: ../main-modules.php:9552
+msgid "Button One"
+msgstr ""
+
+#: ../main-modules.php:9558
+msgid "Button Two"
+msgstr ""
+
+#: ../main-modules.php:9568
+msgid "Header Container"
+msgstr ""
+
+#: ../main-modules.php:9586
+msgid "Enter your page title here."
+msgstr "ここにページのタイトルを入力します。"
+
+#: ../main-modules.php:9589
+msgid "Subheading Text"
+msgstr " 小見出しのテキスト"
+
+#: ../main-modules.php:9591
+msgid ""
+"If you would like to use a subhead, add it here. Your subhead will appear "
+"below your title in a small font."
+msgstr ""
+"小見出しを使用したい場合は、ここに追加します。小見出しは、小さなフォントでタ"
+"イトルの下に表示されます。"
+
+#: ../main-modules.php:9603
+msgid "Text & Logo Orientation"
+msgstr "テキスト・ロゴの方向"
+
+#: ../main-modules.php:9610
+msgid "Make Fullscreen"
+msgstr "前画面表示にする"
+
+#: ../main-modules.php:9619
+msgid "Here you can choose whether the header is expanded to fullscreen size."
+msgstr "ここでヘッダーを前画面表示サイズに拡大するかを選択できます"
+
+#: ../main-modules.php:9622
+msgid "Show Scroll Down Button"
+msgstr "スクロールダウンボタンを表示"
+
+#: ../main-modules.php:9631
+msgid "Here you can choose whether the scroll down button is shown."
+msgstr "ここでスクロールダウンボタンを表示するかどうかを選択できます"
+
+#: ../main-modules.php:9639
+msgid "Choose an icon to display for the scroll down button."
+msgstr "スクロールダウンボタンを表示するアイコンを選択"
+
+#: ../main-modules.php:9643
+msgid "Scroll Down Icon Color"
+msgstr "スクロールダウンアイコンカラー"
+
+#: ../main-modules.php:9649
+msgid "Scroll Down Icon Size"
+msgstr "スクロールダウンアイコンサイズ"
+
+#: ../main-modules.php:9654
+msgid "Title Font"
+msgstr "タイトルフォント"
+
+#: ../main-modules.php:9660
+msgid "Title Font Color"
+msgstr "タイトルフォントカラー"
+
+#: ../main-modules.php:9667
+msgid "Title Font Size"
+msgstr "タイトルフォントサイズ"
+
+#: ../main-modules.php:9673
+msgid "Subhead Font"
+msgstr "小見出しフォント"
+
+#: ../main-modules.php:9679
+msgid "Subhead Font Color"
+msgstr "小見出しフォントカラー"
+
+#: ../main-modules.php:9686
+msgid "Subhead Font Size"
+msgstr "小見出しフォントサイズ"
+
+#: ../main-modules.php:9692
+msgid "Content Font"
+msgstr "コンテンツフォント"
+
+#: ../main-modules.php:9698
+msgid "Content Font Color"
+msgstr "コンテンツフォントカラー"
+
+#: ../main-modules.php:9705
+msgid "Content Font Size"
+msgstr "コンテンツフォントサイズ"
+
+#: ../main-modules.php:9711 ../main-modules.php:9721
+#, php-format
+msgid "Button %1$s Text"
+msgstr "ボタン%1$sテキスト"
+
+#: ../main-modules.php:9713 ../main-modules.php:9723
+msgid "Enter the text for the Button."
+msgstr "ボタンのテキストを入力"
+
+#: ../main-modules.php:9716 ../main-modules.php:9726
+#, php-format
+msgid "Button %1$s URL"
+msgstr "ボタン%1$sURL"
+
+#: ../main-modules.php:9718 ../main-modules.php:9728
+msgid "Enter the URL for the Button."
+msgstr "ボタンのURLを入力"
+
+#: ../main-modules.php:9731
+msgid "Background Image URL"
+msgstr "背景画像URL"
+
+#: ../main-modules.php:9743
+msgid "Background Overlay Color"
+msgstr "背景オーバーレイカラー"
+
+#: ../main-modules.php:9756 ../main-modules.php:10450
+msgid ""
+"If enabled, your background images will have a fixed position as your "
+"scroll, creating a fun parallax-like effect."
+msgstr "有効にすると、視差効果を作成し、スクロール時に背景画像が固定されます。"
+
+#: ../main-modules.php:9770
+msgid "Logo Image URL"
+msgstr "ロゴ画像URL"
+
+#: ../main-modules.php:9778
+msgid "Text Vertical Alignment"
+msgstr "テキスト縦配置"
+
+#: ../main-modules.php:9784
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be vertically centered, or aligned to the bottom."
+msgstr ""
+"この設定でコンテンツの縦配置を決定します。コンテンツは縦方向で中央揃え、下揃"
+"えのいずれかに設定可能です。"
+
+#: ../main-modules.php:9789
+msgid "Header Image URL"
+msgstr "ヘッダー画像URL"
+
+#: ../main-modules.php:9797
+msgid "Image Vertical Alignment"
+msgstr "画像縦配置"
+
+#: ../main-modules.php:9803
+msgid "This controls the orientation of the image within the module."
+msgstr "これはモジュール内の画像の方向を制御します。"
+
+#: ../main-modules.php:10124
+msgid "Fullwidth Menu"
+msgstr "フルワイドメニュー"
+
+#: ../main-modules.php:10149
+msgid "Menu"
+msgstr "メニュー"
+
+#: ../main-modules.php:10155
+msgid "Select a menu that should be used in the module"
+msgstr "モジュールで使用するメニューを選択"
+
+#: ../main-modules.php:10156
+msgid "Click here to create new menu"
+msgstr "新しいメニューを作成するには、ここをクリックしてください"
+
+#: ../main-modules.php:10180
+msgid "Sub-Menus Open"
+msgstr "サブメニューの開き方"
+
+#: ../main-modules.php:10183
+msgid "Downwards"
+msgstr "下向き"
+
+#: ../main-modules.php:10184
+msgid "Upwards"
+msgstr "上向き"
+
+#: ../main-modules.php:10186
+msgid ""
+"Here you can choose the direction that your sub-menus will open. You can "
+"choose to have them open downwards or upwards."
+msgstr ""
+"こちらでは、サブメニューを開く方向を選択できます。下向きまたは上向きに開くよ"
+"うに選択できます。"
+
+#: ../main-modules.php:10265
+msgid "Home"
+msgstr "ホーム"
+
+#: ../main-modules.php:10311
+msgid "Fullwidth Slider"
+msgstr "フルワイドスライダー"
+
+#: ../main-modules.php:10411
+msgid "This setting allows you to turn the navigation arrows on or off."
+msgstr "この設定ではナビゲーション矢印のオン・オフを切り替えることができます。"
+
+#: ../main-modules.php:10420
+msgid ""
+"Disabling this option will remove the circle button at the bottom of the "
+"slider."
+msgstr ""
+"このオプションを無効にすると、スライダー下部の円形ボタンが削除されます。"
+
+#: ../main-modules.php:10675
+msgid "Fullwidth Portfolio"
+msgstr "フルワイドポートフォリオ"
+
+#: ../main-modules.php:10709
+msgid "Title displayed above the portfolio."
+msgstr "ポートフォリオの上に表示されるタイトル。"
+
+#: ../main-modules.php:10715
+msgid "Carousel"
+msgstr "カルーセル"
+
+#: ../main-modules.php:10728
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+"表示するプロジェクトの数を制御します。制限を設定しない場合、空白のままにする"
+"か、0を使用します。"
+
+#: ../main-modules.php:10746
+msgid "Turn the date display on or off."
+msgstr "日付表示のオン・オフを切り替えます。"
+
+#: ../main-modules.php:10758
+msgid "Automatic Carousel Rotation"
+msgstr "自動カルーセルローテーション"
+
+#: ../main-modules.php:10767
+msgid ""
+"If you the carousel layout option is chosen and you would like the carousel "
+"to slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"カルーセルレイアウトオプションを選択しており、訪問者が［次へ］ボタンをクリッ"
+"クすることなく、カルーセルを自動的にスライドさせたい場合、このオプションを有"
+"効にし、必要に応じて以下の回転速度を調整します。"
+
+#: ../main-modules.php:10770
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr "自動カルーセルローテーション速度（ミリ秒）"
+
+#: ../main-modules.php:10773
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"こちらでは、「自動カルーセルローテーション」オプションが上記有効になっている"
+"場合、カルーセルのローテーションの速さを指定できます。数値が高ければ高いほ"
+"ど、各ローテーションの間で休止が長くなります。（例1000=1秒）"
+
+#: ../main-modules.php:10899
+msgid "Fullwidth Map"
+msgstr "フルワイド地図"
+
+#: ../main-modules.php:11009
+msgid "Code"
+msgstr "コード"
+
+#: ../main-modules.php:11087
+msgid "Fullwidth Code"
+msgstr "全幅コード"
+
+#: ../main-modules.php:11147
+msgid "Fullwidth Image"
+msgstr "全幅画像"
+
+#: ../main-modules.php:11202
+msgid "Open In Lightbox"
+msgstr "ライトボックスで開く"
+
+#: ../main-modules.php:11314
+msgid "Fullwidth Post Title"
+msgstr "全幅投稿タイトル"
+
+#: ../main-structure-elements.php:105
+msgid "Transparent Background Color"
+msgstr "透明背景色"
+
+#: ../main-structure-elements.php:114
+msgid ""
+"Enabling this option will remove the background color of this section, "
+"allowing the website background color or background image to show through."
+msgstr ""
+"このオプションを有効にするとこのセクションの背景色が除去され、ウェブサイトの"
+"背景色か背景画像が表示されます。"
+
+#: ../main-structure-elements.php:160
+msgid "Show Inner Shadow"
+msgstr "インナーシャドウを表示する"
+
+#: ../main-structure-elements.php:166
+msgid ""
+"Here you can select whether or not your section has an inner shadow. This "
+"can look great when you have colored backgrounds or background images."
+msgstr ""
+"こちらでは、セクションにインナーシャドウを使用するかどうか選択できます。色付"
+"きのバックグラウンドや背景画像を使用する場合、インナーシャドウを使用すると見"
+"栄えが非常に良くなります。きます。"
+
+#: ../main-structure-elements.php:178
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"有効にすると、スクロール時に背景画像が固定されて、面白い視差効果を生むことが"
+"できます。"
+
+#: ../main-structure-elements.php:194 ../main-structure-elements.php:788
+#: ../main-structure-elements.php:1252
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr "値を入力してパディングを調整するか、空白にして規定値のパディングを使う"
+
+#: ../main-structure-elements.php:197 ../main-structure-elements.php:791
+#: ../main-structure-elements.php:1255
+msgid "Keep Custom Padding on Mobile"
+msgstr "モバイルでカスタムパディングを適用"
+
+#: ../main-structure-elements.php:203 ../main-structure-elements.php:797
+#: ../main-structure-elements.php:1261
+msgid "Allow custom padding to be retained on mobile screens"
+msgstr "モバイル画面でカスタムパディングを維持"
+
+#: ../main-structure-elements.php:216
+msgid "Make This Section Fullwidth"
+msgstr ""
+
+#: ../main-structure-elements.php:226 ../main-structure-elements.php:710
+msgid "Use Custom Width"
+msgstr "カスタム幅を使う"
+
+#: ../main-structure-elements.php:240 ../main-structure-elements.php:724
+msgid "Unit"
+msgstr "単位"
+
+#: ../main-structure-elements.php:243 ../main-structure-elements.php:727
+msgid "px"
+msgstr "ピクセル"
+
+#: ../main-structure-elements.php:257 ../main-structure-elements.php:268
+#: ../main-structure-elements.php:740 ../main-structure-elements.php:751
+msgid "Custom Width"
+msgstr "カスタム幅"
+
+#: ../main-structure-elements.php:279 ../main-structure-elements.php:883
+#: ../main-structure-elements.php:1297
+msgid "Equalize Column Heights"
+msgstr "列の高さを均等割付"
+
+#: ../main-structure-elements.php:288 ../main-structure-elements.php:762
+#: ../main-structure-elements.php:1264
+msgid "Use Custom Gutter Width"
+msgstr ""
+
+#: ../main-structure-elements.php:300 ../main-structure-elements.php:774
+#: ../main-structure-elements.php:1276
+msgid "Gutter Width"
+msgstr "列間隔"
+
+#: ../main-structure-elements.php:700
+msgid "Make This Row Fullwidth"
+msgstr "この行を全幅にする"
+
+#: ../main-structure-elements.php:707
+msgid ""
+"Enable this option to extend the width of this row to the edge of the "
+"browser window."
+msgstr ""
+"この行の幅をブラウザウィンドウの端まで拡大するにはこのオプションを有効にする"
+
+#: ../main-structure-elements.php:721
+msgid ""
+"Change to Yes if you would like to adjust the width of this row to a non-"
+"standard width."
+msgstr "この行の幅を非標準幅に調整する場合はYesに変更"
+
+#: ../main-structure-elements.php:748 ../main-structure-elements.php:759
+msgid "Define custom width for this Row"
+msgstr "この行のカスタム幅を定義"
+
+#: ../main-structure-elements.php:771 ../main-structure-elements.php:1273
+msgid "Enable this option to define custom gutter width for this row."
+msgstr ""
+
+#: ../main-structure-elements.php:782 ../main-structure-elements.php:1284
+msgid "Adjust the spacing between each column in this row."
+msgstr "この行の各列間の間隔を調整"
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "カスタムボタンスタイルを使う"
+
+#~ msgid "Button Text Size"
+#~ msgstr "ボタンテキストサイズ"
+
+#~ msgid "Button Text Color"
+#~ msgstr "ボタンテキストカラー"
+
+#~ msgid "Button Background Color"
+#~ msgstr "ボタン背景色"
+
+#~ msgid "Button Border Width"
+#~ msgstr "ボタンボーダー幅"
+
+#~ msgid "Button Border Color"
+#~ msgstr "ボタンボーダーカラー"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "ボタンボーダー丸み"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "ボタン文字間隔"
+
+#~ msgid "Button Font"
+#~ msgstr "ボタンフォント"
+
+#~ msgid "Add Button Icon"
+#~ msgstr "ボタンアイコンを追加"
+
+#~ msgid "Button Icon"
+#~ msgstr "ボタンアイコン"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "ボタンアイコンカラー"
+
+#~ msgid "Icon Placement"
+#~ msgstr "アイコン配置"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "マウスオーバー時のみ表示"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "マウスオーバー時のボタンテキストカラー"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "マウスオーバー時のボタン背景色"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "マウスオーバー時のボタンボーダーカラー"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "マウスオーバー時のボタンボーダー丸み"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "マウスオーバー時のボタン文字間隔"
+
+#~ msgid "Caption Font"
+#~ msgstr "見出しフォント"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "見出しフォントカラー"
+
+#~ msgid "Caption Font Size"
+#~ msgstr "見出しフォントサイズ"
+
+#~ msgid "Font"
+#~ msgstr "フォント"
+
+#~ msgid "Text Size"
+#~ msgstr "テキストサイズ"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "文字間隔"
+
+#~ msgid "Line Height"
+#~ msgstr "行の高さ"
+
+#~ msgid "Use Border Color"
+#~ msgstr "ボーダーカラーを使う"
+
+#~ msgid "Body Text Font"
+#~ msgstr "ボディテキストフォント"
+
+#~ msgid "Body Font Size"
+#~ msgstr "ボディフォントサイズ"
+
+#~ msgid "Body Text Color"
+#~ msgstr "ボディテキストカラー"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "ボディ文字間隔"
+
+#~ msgid "Body Line Height"
+#~ msgstr "ボディ行の高さ"
+
+#~ msgid "Reset Color"
+#~ msgstr "色のリセット"
+
+#~ msgid "Button Styling"
+#~ msgstr "ボタンスタイル"
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "ボタン%1$sフォント"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "ボタン%1$sフォントカラー"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "ボタン%1$s背景色"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "ボタン%1$sフォントサイズ"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "ボタン%1$sボーダー丸み"
+
+#~ msgid "Save to Librar"
+#~ msgstr "ライブラリに保存y"
+
+#~ msgid "Load From Librar"
+#~ msgstr "ライブラリから読み込みy"
+
+#~ msgid "Save & Exi"
+#~ msgstr "保存して終了t"
+
+#~ msgid "Subheader Font Size"
+#~ msgstr "小見出しフォントサイズ"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Diviへようこそ！新規テーマに取り掛かる前に<a href=\"%1$s\" target=\"_blank"
+#~ "\">DiviDocumentation</a>ページで詳細なチュートリアルにアクセスしてくださ"
+#~ "い。"
+
+#~ msgid "Divi Page Settings"
+#~ msgstr "Diviページ設定"
+
+#~ msgid "Divi Post Settings"
+#~ msgstr "Divi投稿設定"
+
+#~ msgid "Divi Product Settings"
+#~ msgstr "Divi商品設定"
+
+#~ msgid "Divi Project Settings"
+#~ msgstr "Diviプロジェクト設定"
+
+#~ msgid "Dot Navigation"
+#~ msgstr "ドットナビ"
+
+#~ msgid "Hide Nav Before Scroll"
+#~ msgstr "スクロール前にナビを非表示"
+
+#~ msgid "Typography"
+#~ msgstr "書式"
+
+#~ msgid "Mobile Styles"
+#~ msgstr "モバイルスタイル"
+
+#~ msgid "Tablet"
+#~ msgstr "タブレット"
+
+#~ msgid "Phone"
+#~ msgstr "電話"
+
+#~ msgid "Mobile Menu"
+#~ msgstr "モバイルメニュー"
+
+#~ msgid "Background"
+#~ msgstr "背景"
+
+#~ msgid "Header & Navigation"
+#~ msgstr "ヘッダーとナビ"
+
+#~ msgid "Header Format"
+#~ msgstr "ヘッダー形式"
+
+#~ msgid "Primary Menu Bar"
+#~ msgstr "第一メニューバー"
+
+#~ msgid "Secondary Menu Bar"
+#~ msgstr "第二メニューバー"
+
+#~ msgid "Fixed Navigation Settings"
+#~ msgstr "固定ナビ設定"
+
+#~ msgid "Header Elements"
+#~ msgstr "ヘッダー要素"
+
+#~ msgid "Footer"
+#~ msgstr "フッター"
+
+#~ msgid "Widgets"
+#~ msgstr "ウィジェット"
+
+#~ msgid "Footer Elements"
+#~ msgstr "フッター要素"
+
+#~ msgid "Bottom Bar"
+#~ msgstr "下部ナビ"
+
+#~ msgid "Buttons"
+#~ msgstr "ボタン"
+
+#~ msgid "Buttons Style"
+#~ msgstr "ボタンスタイル"
+
+#~ msgid "Buttons Hover Style"
+#~ msgstr "ボタンマウスオーバースタイル"
+
+#~ msgid "Post"
+#~ msgstr "投稿"
+
+#~ msgid "Meta Text Size"
+#~ msgstr "メタ情報テキストサイズ"
+
+#~ msgid "Meta Line Height"
+#~ msgstr "メタ情報行の高さ"
+
+#~ msgid "Meta Letter Spacing"
+#~ msgstr "メタ情報文字間隔"
+
+#~ msgid "Meta Font Style"
+#~ msgstr "メタ情報フォントスタイル"
+
+#~ msgid "Bold"
+#~ msgstr "太字"
+
+#~ msgid "Italic"
+#~ msgstr "イタリック"
+
+#~ msgid "Uppercase"
+#~ msgstr "大文字"
+
+#~ msgid "Underline"
+#~ msgstr "下線"
+
+#~ msgid "Header Text Size"
+#~ msgstr "ヘッダーテキストサイズ"
+
+#~ msgid "Header Line Height"
+#~ msgstr "ヘッダー行の高さ"
+
+#~ msgid "Header Letter Spacing"
+#~ msgstr "ヘッダー文字間隔"
+
+#~ msgid "Header Font Style"
+#~ msgstr "ヘッダーフォントスタイル"
+
+#~ msgid "Enable Boxed Layout"
+#~ msgstr "箱入りレイアウトを有効にする"
+
+#~ msgid "Website Content Width"
+#~ msgstr "ウェブサイトコンテンツ幅"
+
+#~ msgid "Website Gutter Width"
+#~ msgstr "ウェブサイトコンテンツ間隔"
+
+#~ msgid "Sidebar Width"
+#~ msgstr "サイドバー幅"
+
+#~ msgid "Section Height"
+#~ msgstr "セクション高さ"
+
+#~ msgid "Row Height"
+#~ msgstr "行の高さ"
+
+#~ msgid "Background Repeat"
+#~ msgstr "背景繰り返し"
+
+#~ msgid "No Repeat"
+#~ msgstr "繰り返さない"
+
+#~ msgid "Tile"
+#~ msgstr "タイル表示"
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "横方向にタイル表示"
+
+#~ msgid "Tile Vertically"
+#~ msgstr "縦方向にタイル表示"
+
+#~ msgid "Background Position"
+#~ msgstr "背景位置"
+
+#~ msgid "Scroll"
+#~ msgstr "スクロール"
+
+#~ msgid "Fixed"
+#~ msgstr "固定"
+
+#~ msgid "Body Text Size"
+#~ msgstr "ボディテキストサイズ"
+
+#~ msgid "Body Link Color"
+#~ msgstr "ボディリンクカラー"
+
+#~ msgid "Header Text Color"
+#~ msgstr "ヘッダーテキストカラー"
+
+#~ msgid "Theme Accent Color"
+#~ msgstr "テーマカラー"
+
+#~ msgid "Centered Inline Logo"
+#~ msgstr "中央寄せインラインロゴ"
+
+#~ msgid "Enable Vertical Navigation"
+#~ msgstr "縦ナビを有効にする"
+
+#~ msgid "Hide Navigation Until Scroll"
+#~ msgstr "スクロールするまでナビを非表示"
+
+#~ msgid "Show Social Icons"
+#~ msgstr "ソーシャルアイコン表示"
+
+#~ msgid "Hide Logo Image"
+#~ msgstr "ロゴ画像を非表示"
+
+#~ msgid "Menu/Logo Height"
+#~ msgstr "メニュー・ロゴの高さ"
+
+#~ msgid "Font Style"
+#~ msgstr "フォントスタイル"
+
+#~ msgid "Active Link Color"
+#~ msgstr "アクティブリンクカラー"
+
+#~ msgid "Dropdown Menu Background Color"
+#~ msgstr "ドロップダウンメニュー背景色"
+
+#~ msgid "Dropdown Menu Line Color"
+#~ msgstr "ドロップダウンメニュー行カラー"
+
+#~ msgid "Dropdown Menu Text Color"
+#~ msgstr "ドロップダウンメニューテキストカラー"
+
+#~ msgid "Dropdown Menu Animation"
+#~ msgstr "ドロップダウンメニューアニメーション"
+
+#~ msgid "Fade"
+#~ msgstr "フェード"
+
+#~ msgid "Expand"
+#~ msgstr "拡大"
+
+#~ msgid "Flip"
+#~ msgstr "反転"
+
+#~ msgid "Fixed Menu/Logo Height"
+#~ msgstr "固定メニュー・ロゴの高さ"
+
+#~ msgid "Primary Menu Background Color"
+#~ msgstr "第一メニュー背景色"
+
+#~ msgid "Secondary Menu Background Color"
+#~ msgstr "第二メニュー背景色"
+
+#~ msgid "Menu Link Color"
+#~ msgstr "メニューリンクカラー"
+
+#~ msgid "Column Layout"
+#~ msgstr "列レイアウト"
+
+#~ msgid "Body/Link Text Size"
+#~ msgstr "ボディ・リンクテキストサイズ"
+
+#~ msgid "Body/Link Line Height"
+#~ msgstr "ボディ・リンク行の高さ"
+
+#~ msgid "Body Font Style"
+#~ msgstr "ボディフォントスタイル"
+
+#~ msgid "Widget Text Color"
+#~ msgstr "ウィジェットテキストカラー"
+
+#~ msgid "Widget Link Color"
+#~ msgstr "ウィジェットリンクカラー"
+
+#~ msgid "Widget Header Color"
+#~ msgstr "ウィジェットヘッダーカラー"
+
+#~ msgid "Widget Bullet Color"
+#~ msgstr "ウィジェットドットカラー"
+
+#~ msgid "Footer Menu Background Color"
+#~ msgstr "フッターメニュー背景色"
+
+#~ msgid "Footer Menu Text Color"
+#~ msgstr "フッターメニューテキストカラー"
+
+#~ msgid "Footer Menu Active Link Color"
+#~ msgstr "フッターメニューアクティブリンクカラー"
+
+#~ msgid "Font Size"
+#~ msgstr "フォントサイズ"
+
+#~ msgid "Social Icon Size"
+#~ msgstr "ソーシャルアイコンサイズ"
+
+#~ msgid "Social Icon Color"
+#~ msgstr "ソーシャルアイコンカラー"
+
+#~ msgid "Button Font Style"
+#~ msgstr "ボタンフォントスタイル"
+
+#~ msgid "Buttons Font"
+#~ msgstr "ボタンフォント"
+
+#~ msgid "Select Icon"
+#~ msgstr "アイコン選択"
+
+#~ msgid "Only Show Icon on Hover"
+#~ msgstr "マウスオーバー時のみアイコンを表示"
+
+#~ msgid "Left to Right"
+#~ msgstr "左から右"
+
+#~ msgid "Right to Left"
+#~ msgstr "右から左"
+
+#~ msgid "Top to Bottom"
+#~ msgstr "上から下"
+
+#~ msgid "Bottom to Top"
+#~ msgstr "下から上"
+
+#~ msgid "This controls default direction of the lazy-loading animation."
+#~ msgstr "これはLazy Loadアニメーションの既定方向を制御します。"
+
+#~ msgid "Title Font Style"
+#~ msgstr "タイトルフォントスタイル"
+
+#~ msgid "Caption Font Style"
+#~ msgstr "見出しフォントスタイル"
+
+#~ msgid "Header Font Size"
+#~ msgstr "ヘッダーフォントサイズ"
+
+#~ msgid "Top & Bottom Padding"
+#~ msgstr "上下パディング"
+
+#~ msgid "Content Font Style"
+#~ msgstr "コンテンツフォントスタイル"
+
+#~ msgid "Name Font Style"
+#~ msgstr "名前フォントスタイル"
+
+#~ msgid "Details Font Style"
+#~ msgstr "詳細フォントスタイル"
+
+#~ msgid "Subheader Font Style"
+#~ msgstr "小見出しフォントスタイル"
+
+#~ msgid "Price Font Size"
+#~ msgstr "価格フォントサイズ"
+
+#~ msgid "Pricing Font Style"
+#~ msgstr "価格フォントスタイル"
+
+#~ msgid "Category Font Size"
+#~ msgstr "カテゴリーフォントサイズ"
+
+#~ msgid "Category Font Style"
+#~ msgstr "カテゴリーフォントスタイル"
+
+#~ msgid "Filters Font Size"
+#~ msgstr "フィルターフォントサイズ"
+
+#~ msgid "Filters Font Style"
+#~ msgstr "フィルターフォントスタイル"
+
+#~ msgid "Label Font Size"
+#~ msgstr "ラベルフォントサイズ"
+
+#~ msgid "Label Font Style"
+#~ msgstr "ラベルフォントスタイル"
+
+#~ msgid "Percent Font Size"
+#~ msgstr "パーセントフォントサイズ"
+
+#~ msgid "Percent Font Style"
+#~ msgstr "パーセントフォントスタイル"
+
+#~ msgid "Bar Padding"
+#~ msgstr "棒グラフパディング"
+
+#~ msgid "Bar Border Radius"
+#~ msgstr "棒グラフボーダー丸み"
+
+#~ msgid "Number Font Size"
+#~ msgstr "数字フォントサイズ"
+
+#~ msgid "Number Font Style"
+#~ msgstr "数字フォントスタイル"
+
+#~ msgid "Opened Title Font Style"
+#~ msgstr "展開タイトルフォントスタイル"
+
+#~ msgid "Closed Title Font Style"
+#~ msgstr "縮小タイトルフォントスタイル"
+
+#~ msgid "Toggle Icon Size"
+#~ msgstr "トグルアイコンサイズ"
+
+#~ msgid "Toggle Padding"
+#~ msgstr "トグルパディング"
+
+#~ msgid "Input Font Size"
+#~ msgstr "入力フィールドフォントサイズ"
+
+#~ msgid "Input Font Style"
+#~ msgstr "入力フィールドフォントスタイル"
+
+#~ msgid "Input Field Padding"
+#~ msgstr "入力フィールドパディング"
+
+#~ msgid "Captcha Font Size"
+#~ msgstr "キャプチャフォントサイズ"
+
+#~ msgid "Captcha Font Style"
+#~ msgstr "キャプチャフォントスタイル"
+
+#~ msgid "Widget Header Font Size"
+#~ msgstr "ウィジェットヘッダーフォントサイズ"
+
+#~ msgid "Widget Header Font Style"
+#~ msgstr "ウィジェットヘッダーフォントスタイル"
+
+#~ msgid "Remove Vertical Divider"
+#~ msgstr "縦仕切りを除去"
+
+#~ msgid "Divider Height"
+#~ msgstr "仕切り高さ"
+
+#~ msgid "Name Font Size"
+#~ msgstr "名前フォントサイズ"
+
+#~ msgid "Social Network Icon Size"
+#~ msgstr "ソーシャルネットワークアイコンサイズ"
+
+#~ msgid "Post Title Font Size"
+#~ msgstr "投稿タイトルフォントサイズ"
+
+#~ msgid "Meta Font Size"
+#~ msgstr "メタ情報フォントサイズ"
+
+#~ msgid "Masonry Blog"
+#~ msgstr "メーソンリーブログ"
+
+#~ msgid "Product Name Font Size"
+#~ msgstr "商品名フォントサイズ"
+
+#~ msgid "Product Name Font Style"
+#~ msgstr "商品名フォントスタイル"
+
+#~ msgid "Sale Badge Font Size"
+#~ msgstr "販売バッジフォントサイズ"
+
+#~ msgid "Sale Badge Font Style"
+#~ msgstr "販売バッジフォントスタイル"
+
+#~ msgid "Price Font Style"
+#~ msgstr "価格フォントスタイル"
+
+#~ msgid "Sale Price Font Size"
+#~ msgstr "販売価格フォントサイズ"
+
+#~ msgid "Sale Price Font Style"
+#~ msgstr "販売価格フォントスタイル"
+
+#~ msgid "Countdown"
+#~ msgstr "カウントダウン"
+
+#~ msgid "Follow Font & Icon Size"
+#~ msgstr "フォローフォント・アイコンサイズ"
+
+#~ msgid "Full Width Slider"
+#~ msgstr "全幅スライダー"
+
+#~ msgid "Theme Customizer"
+#~ msgstr "テーマカスタマイザー"
+
+#~ msgid "Module Customizer"
+#~ msgstr "モジュールカスタマイザー"
+
+#~ msgid "Divi Library"
+#~ msgstr "Diviライブラリー"

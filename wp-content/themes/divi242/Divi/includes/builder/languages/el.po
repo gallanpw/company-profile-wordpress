@@ -1,0 +1,5253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"POT-Creation-Date: 2015-06-17 18:11+0300\n"
+"PO-Revision-Date: 2015-06-17 18:11+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../class-et-builder-element.php:406 ../class-et-builder-element.php:681
+#, php-format
+msgid "%1$s Font"
+msgstr "%1$s Γραμματοσειρά"
+
+#: ../class-et-builder-element.php:412
+#, php-format
+msgid "%1$s Font Size"
+msgstr "%1$s Μέγεθος Γραμματοσειράς"
+
+#: ../class-et-builder-element.php:418 ../class-et-builder-element.php:624
+#, php-format
+msgid "%1$s Text Color"
+msgstr "%1$s Χρώμα Κειμένου"
+
+#: ../class-et-builder-element.php:425 ../class-et-builder-element.php:672
+#, php-format
+msgid "%1$s Letter Spacing"
+msgstr "%1$s Απόσταση Γραμμάτων"
+
+#: ../class-et-builder-element.php:432
+#, php-format
+msgid "%1$s Line Height"
+msgstr "%1$s Ύψος Γραμμής"
+
+#: ../class-et-builder-element.php:440
+#, php-format
+msgid "%1$s All Caps"
+msgstr "%1$s Όλα Κεφαλαία"
+
+#: ../class-et-builder-element.php:443 ../main-modules.php:417
+#: ../main-modules.php:2015 ../main-modules.php:5703 ../main-modules.php:6040
+#: ../main-modules.php:6217 ../main-modules.php:7804 ../main-modules.php:7886
+#: ../main-modules.php:8628 ../main-modules.php:8872 ../main-modules.php:10426
+#: ../main-modules.php:10761 ../main-modules.php:10953
+msgid "Off"
+msgstr "Απενεργοποίηση"
+
+#: ../class-et-builder-element.php:444 ../main-modules.php:418
+#: ../main-modules.php:2016 ../main-modules.php:5702 ../main-modules.php:6039
+#: ../main-modules.php:6216 ../main-modules.php:7805 ../main-modules.php:7887
+#: ../main-modules.php:8627 ../main-modules.php:8873 ../main-modules.php:10427
+#: ../main-modules.php:10762 ../main-modules.php:10952
+msgid "On"
+msgstr "Ενεργοποίηση"
+
+#: ../class-et-builder-element.php:471 ../class-et-builder-element.php:2612
+#: ../main-modules.php:2398 ../main-modules.php:2830 ../main-modules.php:3752
+#: ../main-modules.php:3973 ../main-modules.php:4238 ../main-modules.php:4638
+#: ../main-modules.php:5689 ../main-modules.php:5824 ../main-modules.php:8469
+#: ../main-modules.php:9326 ../main-modules.php:9739 ../main-modules.php:10160
+#: ../main-modules.php:11552 ../main-structure-elements.php:117
+#: ../main-structure-elements.php:818
+msgid "Background Color"
+msgstr "Χρώμα Φόντου"
+
+#: ../class-et-builder-element.php:480 ../class-et-builder-element.php:2608
+#: ../main-modules.php:2364 ../main-structure-elements.php:97
+#: ../main-structure-elements.php:810
+msgid "Background Image"
+msgstr "Εικόνα φόντου:"
+
+#: ../class-et-builder-element.php:482 ../class-et-builder-element.php:2609
+#: ../main-modules.php:77 ../main-modules.php:673 ../main-modules.php:1007
+#: ../main-modules.php:1428 ../main-modules.php:2366 ../main-modules.php:2405
+#: ../main-modules.php:2803 ../main-modules.php:3967 ../main-modules.php:7469
+#: ../main-modules.php:9733 ../main-modules.php:9772 ../main-modules.php:9791
+#: ../main-modules.php:11186 ../main-structure-elements.php:99
+#: ../main-structure-elements.php:812
+msgid "Upload an image"
+msgstr "Αποστολή εικόνας"
+
+#: ../class-et-builder-element.php:483 ../class-et-builder-element.php:2610
+#: ../main-modules.php:2367 ../main-structure-elements.php:100
+#: ../main-structure-elements.php:813
+msgid "Choose a Background Image"
+msgstr "Επιλογή εικόνας φόντου"
+
+#: ../class-et-builder-element.php:484 ../class-et-builder-element.php:2611
+#: ../main-modules.php:2368 ../main-structure-elements.php:101
+#: ../main-structure-elements.php:814
+msgid "Set As Background"
+msgstr "Ορισμός ως φόντου"
+
+#: ../class-et-builder-element.php:502
+msgid "Use Border"
+msgstr "Χρησιμοποιήστε Περίγραμμα"
+
+#: ../class-et-builder-element.php:505 ../class-et-builder-element.php:591
+#: ../class-et-builder-element.php:693 ../class-et-builder-element.php:744
+#: ../functions.php:2685 ../main-modules.php:96 ../main-modules.php:131
+#: ../main-modules.php:170 ../main-modules.php:180 ../main-modules.php:391
+#: ../main-modules.php:400 ../main-modules.php:1359 ../main-modules.php:1390
+#: ../main-modules.php:1410 ../main-modules.php:1502 ../main-modules.php:2033
+#: ../main-modules.php:2057 ../main-modules.php:2116 ../main-modules.php:2125
+#: ../main-modules.php:2134 ../main-modules.php:2470 ../main-modules.php:2822
+#: ../main-modules.php:3231 ../main-modules.php:3256 ../main-modules.php:3266
+#: ../main-modules.php:3523 ../main-modules.php:3744 ../main-modules.php:4230
+#: ../main-modules.php:4306 ../main-modules.php:4620 ../main-modules.php:4630
+#: ../main-modules.php:4706 ../main-modules.php:4988 ../main-modules.php:4997
+#: ../main-modules.php:5006 ../main-modules.php:5346 ../main-modules.php:5355
+#: ../main-modules.php:5364 ../main-modules.php:6809 ../main-modules.php:7134
+#: ../main-modules.php:7297 ../main-modules.php:7784 ../main-modules.php:7815
+#: ../main-modules.php:7824 ../main-modules.php:7833 ../main-modules.php:7842
+#: ../main-modules.php:8461 ../main-modules.php:8651 ../main-modules.php:9170
+#: ../main-modules.php:9179 ../main-modules.php:9194 ../main-modules.php:9204
+#: ../main-modules.php:9225 ../main-modules.php:9235 ../main-modules.php:9245
+#: ../main-modules.php:9271 ../main-modules.php:9312 ../main-modules.php:9613
+#: ../main-modules.php:9625 ../main-modules.php:9750 ../main-modules.php:10444
+#: ../main-modules.php:10466 ../main-modules.php:10525
+#: ../main-modules.php:10534 ../main-modules.php:10543
+#: ../main-modules.php:10735 ../main-modules.php:10744
+#: ../main-modules.php:11205 ../main-modules.php:11396
+#: ../main-modules.php:11405 ../main-modules.php:11420
+#: ../main-modules.php:11430 ../main-modules.php:11451
+#: ../main-modules.php:11461 ../main-modules.php:11471
+#: ../main-modules.php:11497 ../main-modules.php:11538
+#: ../main-structure-elements.php:108 ../main-structure-elements.php:154
+#: ../main-structure-elements.php:163 ../main-structure-elements.php:172
+#: ../main-structure-elements.php:200 ../main-structure-elements.php:219
+#: ../main-structure-elements.php:229 ../main-structure-elements.php:282
+#: ../main-structure-elements.php:291 ../main-structure-elements.php:703
+#: ../main-structure-elements.php:713 ../main-structure-elements.php:765
+#: ../main-structure-elements.php:794 ../main-structure-elements.php:855
+#: ../main-structure-elements.php:864 ../main-structure-elements.php:886
+#: ../main-structure-elements.php:1258 ../main-structure-elements.php:1267
+#: ../main-structure-elements.php:1300
+msgid "No"
+msgstr "Όχι"
+
+#: ../class-et-builder-element.php:506 ../class-et-builder-element.php:592
+#: ../class-et-builder-element.php:692 ../class-et-builder-element.php:743
+#: ../functions.php:2686 ../main-modules.php:97 ../main-modules.php:132
+#: ../main-modules.php:171 ../main-modules.php:179 ../main-modules.php:390
+#: ../main-modules.php:399 ../main-modules.php:1360 ../main-modules.php:1391
+#: ../main-modules.php:1411 ../main-modules.php:1503 ../main-modules.php:2034
+#: ../main-modules.php:2058 ../main-modules.php:2117 ../main-modules.php:2126
+#: ../main-modules.php:2135 ../main-modules.php:2471 ../main-modules.php:2821
+#: ../main-modules.php:3230 ../main-modules.php:3257 ../main-modules.php:3267
+#: ../main-modules.php:3524 ../main-modules.php:3743 ../main-modules.php:4229
+#: ../main-modules.php:4307 ../main-modules.php:4621 ../main-modules.php:4629
+#: ../main-modules.php:4707 ../main-modules.php:4987 ../main-modules.php:4996
+#: ../main-modules.php:5005 ../main-modules.php:5345 ../main-modules.php:5354
+#: ../main-modules.php:5363 ../main-modules.php:6808 ../main-modules.php:7135
+#: ../main-modules.php:7296 ../main-modules.php:7783 ../main-modules.php:7814
+#: ../main-modules.php:7823 ../main-modules.php:7832 ../main-modules.php:7841
+#: ../main-modules.php:8460 ../main-modules.php:8652 ../main-modules.php:9169
+#: ../main-modules.php:9178 ../main-modules.php:9193 ../main-modules.php:9203
+#: ../main-modules.php:9224 ../main-modules.php:9234 ../main-modules.php:9244
+#: ../main-modules.php:9270 ../main-modules.php:9313 ../main-modules.php:9614
+#: ../main-modules.php:9626 ../main-modules.php:9751 ../main-modules.php:10445
+#: ../main-modules.php:10467 ../main-modules.php:10526
+#: ../main-modules.php:10535 ../main-modules.php:10544
+#: ../main-modules.php:10734 ../main-modules.php:10743
+#: ../main-modules.php:11206 ../main-modules.php:11395
+#: ../main-modules.php:11404 ../main-modules.php:11419
+#: ../main-modules.php:11429 ../main-modules.php:11450
+#: ../main-modules.php:11460 ../main-modules.php:11470
+#: ../main-modules.php:11496 ../main-modules.php:11539
+#: ../main-structure-elements.php:109 ../main-structure-elements.php:155
+#: ../main-structure-elements.php:164 ../main-structure-elements.php:173
+#: ../main-structure-elements.php:201 ../main-structure-elements.php:220
+#: ../main-structure-elements.php:230 ../main-structure-elements.php:283
+#: ../main-structure-elements.php:292 ../main-structure-elements.php:704
+#: ../main-structure-elements.php:714 ../main-structure-elements.php:766
+#: ../main-structure-elements.php:795 ../main-structure-elements.php:856
+#: ../main-structure-elements.php:865 ../main-structure-elements.php:887
+#: ../main-structure-elements.php:1259 ../main-structure-elements.php:1268
+#: ../main-structure-elements.php:1301
+msgid "Yes"
+msgstr "Ναι"
+
+#: ../class-et-builder-element.php:518
+msgid "Border Color"
+msgstr "Χρώμα Περιγράμματος"
+
+#: ../class-et-builder-element.php:527
+msgid "Border Width"
+msgstr "Πλάτος Περιγράμματος"
+
+#: ../class-et-builder-element.php:536
+msgid "Border Style"
+msgstr "Στυλ Περιγράμματος"
+
+#: ../class-et-builder-element.php:562
+msgid "Custom Margin"
+msgstr "Προσαρμοσμένο Περιθώριο"
+
+#: ../class-et-builder-element.php:570 ../main-structure-elements.php:191
+#: ../main-structure-elements.php:785 ../main-structure-elements.php:1249
+msgid "Custom Padding"
+msgstr "Προσαρμοσμένο Γέμισμα"
+
+#: ../class-et-builder-element.php:588
+#, php-format
+msgid "Use Custom Styles for %1$s "
+msgstr ""
+
+#: ../class-et-builder-element.php:616
+#, php-format
+msgid "%1$s Text Size"
+msgstr ""
+
+#: ../class-et-builder-element.php:634
+#, php-format
+msgid "%1$s Background Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:644
+#, php-format
+msgid "%1$s Border Width"
+msgstr ""
+
+#: ../class-et-builder-element.php:653
+#, php-format
+msgid "%1$s Border Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:663
+#, php-format
+msgid "%1$s Border Radius"
+msgstr ""
+
+#: ../class-et-builder-element.php:688
+#, php-format
+msgid "Add %1$s Icon"
+msgstr ""
+
+#: ../class-et-builder-element.php:691 ../functions.php:836
+#: ../main-modules.php:2065 ../main-modules.php:2081 ../main-modules.php:2375
+#: ../main-modules.php:2391 ../main-modules.php:10474
+#: ../main-modules.php:10490
+msgid "Default"
+msgstr "Αρχικό"
+
+#: ../class-et-builder-element.php:707
+#, php-format
+msgid "%1$s Icon"
+msgstr ""
+
+#: ../class-et-builder-element.php:718
+#, php-format
+msgid "%1$s Icon Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:728
+#, php-format
+msgid "%1$s Icon Placement"
+msgstr ""
+
+#: ../class-et-builder-element.php:731 ../class-et-builder-element.php:1307
+#: ../class-et-builder-element.php:2616 ../functions.php:248
+#: ../functions.php:254 ../main-modules.php:142 ../main-modules.php:1332
+#: ../main-modules.php:7097 ../main-modules.php:9295 ../main-modules.php:11521
+msgid "Right"
+msgstr "Δεξιά"
+
+#: ../class-et-builder-element.php:732 ../class-et-builder-element.php:1319
+#: ../class-et-builder-element.php:2618 ../functions.php:246
+#: ../main-modules.php:140 ../main-modules.php:1330 ../main-modules.php:7096
+#: ../main-modules.php:9293 ../main-modules.php:11519
+msgid "Left"
+msgstr "Αριστερά "
+
+#: ../class-et-builder-element.php:740
+#, php-format
+msgid "Only Show Icon On Hover for %1$s"
+msgstr ""
+
+#: ../class-et-builder-element.php:752
+#, php-format
+msgid "%1$s Hover Text Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:762
+#, php-format
+msgid "%1$s Hover Background Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:772
+#, php-format
+msgid "%1$s Hover Border Color"
+msgstr ""
+
+#: ../class-et-builder-element.php:782
+#, php-format
+msgid "%1$s Hover Border Radius"
+msgstr ""
+
+#: ../class-et-builder-element.php:791
+#, php-format
+msgid "%1$s Hover Letter Spacing"
+msgstr ""
+
+#: ../class-et-builder-element.php:812
+msgid "Before"
+msgstr "Πριν"
+
+#: ../class-et-builder-element.php:817
+msgid "Main Element"
+msgstr "Κύριο Στοιχείο"
+
+#: ../class-et-builder-element.php:820
+msgid "After"
+msgstr "Μετά"
+
+#: ../class-et-builder-element.php:1233 ../class-et-builder-element.php:2613
+msgid "Hex Value"
+msgstr "Τιμή Χρώματος"
+
+#: ../class-et-builder-element.php:1244
+msgid "Choose Custom Color"
+msgstr "Επιλογή Προσαρμοσμένου Χρώματος"
+
+#: ../class-et-builder-element.php:1254
+msgid "Upload"
+msgstr "Μεταφόρτωση"
+
+#: ../class-et-builder-element.php:1255
+msgid "Choose image"
+msgstr "Επιλογή Εικόνας"
+
+#: ../class-et-builder-element.php:1256
+msgid "Set image"
+msgstr "Ορισμός Εικόνας"
+
+#: ../class-et-builder-element.php:1301 ../class-et-builder-element.php:2615
+#: ../main-modules.php:1326 ../main-modules.php:7279
+msgid "Top"
+msgstr "Πάνω μέρος"
+
+#: ../class-et-builder-element.php:1313 ../class-et-builder-element.php:2617
+#: ../main-modules.php:2415 ../main-modules.php:7281 ../main-modules.php:9782
+#: ../main-modules.php:9801
+msgid "Bottom"
+msgstr "Κάτω μέρος"
+
+#: ../class-et-builder-element.php:1452 ../class-et-builder-element.php:1629
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: ../class-et-builder-element.php:1453
+msgid "Advanced Design Settings"
+msgstr "Προηγμένες Ρυθμίσεις Σχεδιασμού"
+
+#: ../class-et-builder-element.php:1454
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένη CSS"
+
+#: ../class-et-builder-element.php:1605 ../main-modules.php:1166
+#: ../main-modules.php:1474 ../main-modules.php:1867 ../main-modules.php:2476
+#: ../main-modules.php:2851 ../main-modules.php:3564 ../main-modules.php:3773
+#: ../main-modules.php:4259 ../main-modules.php:4659 ../main-modules.php:6500
+#: ../main-modules.php:6625 ../main-modules.php:7789 ../main-modules.php:8762
+#: ../main-modules.php:9026 ../main-modules.php:9807 ../main-modules.php:11025
+#: ../main-modules.php:11103
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: ../class-et-builder-element.php:1606 ../main-modules.php:1869
+#: ../main-modules.php:6502
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr ""
+"Εδώ μπορείτε ορίσετε το περιεχόμενο που θα τοποθετηθεί μέσα στην τρέχουσα "
+"καρτέλα."
+
+#: ../class-et-builder-element.php:1618
+msgid "Add New Item"
+msgstr "Προσθήκη καινούριου στοιχείου"
+
+#: ../class-et-builder-element.php:1618
+#, php-format
+msgid "Add New %s"
+msgstr "Προσθήκη νέου %s"
+
+#: ../class-et-builder-element.php:1706
+#, php-format
+msgid "%1$s %2$s Settings"
+msgstr "%1$s %2$s Ρυθμίσεις"
+
+#: ../class-et-builder-element.php:1708
+msgid "Item"
+msgstr "Αντικείμενο"
+
+#: ../class-et-builder-element.php:1708 ../functions.php:1795
+#: ../layouts.php:174
+msgid "Module"
+msgstr "Πρόσθετο"
+
+#: ../class-et-builder-element.php:2607 ../main-structure-elements.php:1484
+msgid "Column"
+msgstr "Στήλη"
+
+#: ../class-et-builder-element.php:2614
+msgid "Padding"
+msgstr "Γέμισμα"
+
+#: ../functions.php:65 ../functions.php:1804
+msgid "All Categories"
+msgstr "Όλες οι Κατηγορίες"
+
+#: ../functions.php:74 ../layouts.php:10
+msgid "All Layouts"
+msgstr "Όλες οι διατάξεις"
+
+#: ../functions.php:75 ../functions.php:1155
+msgid "Modules"
+msgstr "Modules"
+
+#: ../functions.php:76 ../functions.php:1154
+msgid "Rows"
+msgstr "Σειρές"
+
+#: ../functions.php:77 ../functions.php:1153
+msgid "Sections"
+msgstr "Τμήματα"
+
+#: ../functions.php:78 ../functions.php:1152 ../layouts.php:4
+msgid "Layouts"
+msgstr "Διατάξεις"
+
+#: ../functions.php:82
+msgid "Global/not Global"
+msgstr "Γενικό/ μη Γενικό"
+
+#: ../functions.php:83 ../layouts.php:181
+msgid "Global"
+msgstr "Γενικό"
+
+#: ../functions.php:84
+msgid "not Global"
+msgstr "μη Γενικό"
+
+#: ../functions.php:247 ../functions.php:255 ../main-modules.php:141
+#: ../main-modules.php:2376 ../main-modules.php:2414 ../main-modules.php:9294
+#: ../main-modules.php:9781 ../main-modules.php:11520
+msgid "Center"
+msgstr "Στο κέντρο"
+
+#: ../functions.php:249
+msgid "Justified"
+msgstr "Πλήρης"
+
+#: ../functions.php:267
+msgid "Update Gallery"
+msgstr "Ανανέωση συλλογής"
+
+#: ../functions.php:276
+msgid "Select a menu"
+msgstr "Επιλέξτε ένα μενού"
+
+#: ../functions.php:383
+msgid "Solid"
+msgstr "Συμπαγής"
+
+#: ../functions.php:384
+msgid "Dotted"
+msgstr "Με Κουκκίδες"
+
+#: ../functions.php:385
+msgid "Dashed"
+msgstr "Διακεκομμένη"
+
+#: ../functions.php:386
+msgid "Double"
+msgstr "Διπλή"
+
+#: ../functions.php:387
+msgid "Groove"
+msgstr "Εγκοπή"
+
+#: ../functions.php:388
+msgid "Ridge"
+msgstr "Ακμή"
+
+#: ../functions.php:389
+msgid "Inset"
+msgstr "Ορισμός Εσωτερικού Περιγράμματος"
+
+#: ../functions.php:390
+msgid "Outset"
+msgstr "Ορισμός Εξωτερικού Περιγράμματος"
+
+#: ../functions.php:1112
+#, php-format
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"Δημιουργήθηκε <strong>%1$s</strong> περιοχή γραφικών στοιχείων. Μπορείτε να "
+"δημιουργήσετε και άλλες περιοχές. Όταν θα τελειώσετε, ανανεώστε τη σελίδα "
+"για να δείτε όλες τις περιοχές."
+
+#: ../functions.php:1136
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"Δεν έχετε επαρκή δικαιώματα για να εξάγετε το περιεχόμενο αυτής της σελίδας."
+
+#: ../functions.php:1140
+msgid "Export Divi Builder Layouts"
+msgstr "Εξαγωγή Divi Κατασκευαστή Διατάξεων"
+
+#: ../functions.php:1141
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"Μόλις πατήσετε το κουμπί παρακάτω, το WordPress θα δημιουργήσει ένα XML "
+"αρχείο για να αποθηκεύσετε στον υπολογιστή σας."
+
+#: ../functions.php:1142
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"Αυτή η μορφή, την οποία αποκαλούμε WordPress eXtended RSS ή WXR, θα περιέχει "
+"όλες τις διατάξεις που δημιουργήσατε με το Δημιουργό Σελίδας."
+
+#: ../functions.php:1143
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"Μόλις αποθηκεύσετε το αρχείο λήψης, μπορείτε να χρησιμοποιήσετε τη "
+"δυνατότητα εισαγωγής σε κάποια άλλη εγκατάσταση Wordpress για να εισάγετε "
+"όλες τις διατάξεις από αυτή τη σελίδα."
+
+#: ../functions.php:1144
+msgid "Select Templates you want to export:"
+msgstr "Επιλογή Προτύπων που θέλετε να εξάγετε."
+
+#: ../functions.php:1177
+msgid "Download Export File"
+msgstr "Λήψη Αρχείου Εξαγωγής"
+
+#: ../functions.php:1182
+msgid "Export Divi Layouts"
+msgstr "Εξαγωγή Divi Διατάξεων"
+
+#: ../functions.php:1186
+msgid "Manage Categories"
+msgstr "Διαχείριση Κατηγοριών"
+
+#: ../functions.php:1331 ../functions.php:1333
+msgid "Use Default Editor"
+msgstr "Χρήση Αρχικού Συντάκτη"
+
+#: ../functions.php:1331 ../functions.php:1332
+msgid "Use The Divi Builder"
+msgstr "Χρήση Του Divi Κατασκευαστή"
+
+#: ../functions.php:1368
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr ""
+"Εδώ μπορείτε να δημιουργήσετε καινούριες περιοχές γραφικών στοιχείων για "
+"χρήση στη λειτουργική μονάδα για πλαϊνή γραμμή."
+
+#: ../functions.php:1369
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"Σηµείωση: ορισμός ονομασιών για τις δικές σας περιοχές γραφικών στοιχείων "
+"\"sidebar 1\", \"sidebar 2\", \"sidebar 3\", \"sidebar 4\" ή \"sidebar 5\" "
+"θα προκαλεί διενέξεις με αυτό το θέμα."
+
+#: ../functions.php:1370
+msgid "Widget Name"
+msgstr "Ονομασία περιοχής γραφικών στοιχείων"
+
+#: ../functions.php:1371
+msgid "Create"
+msgstr "Ονομασία περιοχής γραφικών στοιχείων"
+
+#: ../functions.php:1373 ../functions.php:1456 ../functions.php:2471
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: ../functions.php:1414
+msgid "Replace the existing content with loaded layout"
+msgstr "Αντικατάσταση τρέχοντος περιεχομένου με τη νέα διάταξη"
+
+#: ../functions.php:1453
+msgid "Load"
+msgstr "Κατέβασμα"
+
+#: ../functions.php:1555
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"Δεν έχετε αποθηκεύσει κανένα στοιχείο στη Divi Βιβλιοθήκη σας ακόμα. Μόλις "
+"ένα στοιχείο έχει αποθηκευτεί στη βιβλιοθήκη σας, θα εμφανιστεί εδώ για "
+"εύκολη χρήση."
+
+#: ../functions.php:1791
+msgid "The section should have at least one row."
+msgstr "Ο τομέας πρέπει να έχει τουλάχιστον μια σειρά."
+
+#: ../functions.php:1792
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr ""
+"Το πρόσθετο πλήρους πλάτους δεν μπορεί να χρησιμοποιηθεί εκτός του Τομέα "
+"Πλήρους πλάτους."
+
+#: ../functions.php:1793
+msgid "3 column row can't be used in this column."
+msgstr "Η σειρά 3 στήλων δεν μπορεί να χρησιμοιηθεί σε αυτή τη στήλη."
+
+#: ../functions.php:1794
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: ../functions.php:1796
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"Ακίνητες εικόνες μπορούν να παραχθούν από αυτή την υπηρεσία βίντεο ή/και από "
+"αυτή τη μορφή βίνετο"
+
+#: ../functions.php:1797
+msgid "Geocode was not successful for the following reason"
+msgstr "Η μετατροπή σε γεωγραφικές συντεταγμένες απέτυχε για τον εξής λόγο"
+
+#: ../functions.php:1798
+msgid "Geocoder failed due to"
+msgstr "Η μετατροπή σε γεωγραφικές συντεταγμένες απέτυχε λόγω του"
+
+#: ../functions.php:1799
+msgid "No results found"
+msgstr "Δεν βρέθηκαν αποτελέσματα"
+
+#: ../functions.php:1800
+msgid "No available options for this configuration."
+msgstr "Δεν υπάρχουν διαθέσιμες επιλογές γι' αυτήν τη ρύθμιση."
+
+#: ../functions.php:1801
+msgid ""
+"You're about to update global module. This change will be applied to all "
+"pages where you use this module. Press OK if you want to update this module"
+msgstr ""
+"Είστε έτοιμοι να ενημερώσετε το γενικό module Η αλλαγή αυτή θα εφαρμοστεί σε "
+"όλες τις σελίδες που μπορείτε να χρησιμοποιήσετε αυτό το Module. Πιέστε το "
+"πλήκτρο OK, αν θέλετε να ενημερώσετε αυτό το Module"
+
+#: ../functions.php:1802
+msgid "You cannot add global rows into global sections"
+msgstr "Δεν μπορείτε να προσθέσετε γενικές γραμμές σε γενικά τμήματα"
+
+#: ../functions.php:1803
+msgid "You cannot add global modules into global sections or rows"
+msgstr "Δεν μπορείτε να προσθέσετε γενικά modules σε γενικά τμήματα ή σειρές"
+
+#: ../functions.php:1819
+msgid "The Divi Builder"
+msgstr "Ο Divi Κατασκευαστής"
+
+#: ../functions.php:1830
+#, php-format
+msgid "Posts by %s"
+msgstr "Αναρτήσεις από %s"
+
+#: ../functions.php:1845
+msgid "% Comments"
+msgstr "% Σχόλια"
+
+#: ../functions.php:1847
+msgid "No Comments"
+msgstr "Δεν Υπάρχουν Σχόλια"
+
+#: ../functions.php:1849
+msgid "1 Comment"
+msgstr "1 Σχόλιο"
+
+#: ../functions.php:1860
+msgid "by"
+msgstr "από"
+
+#: ../functions.php:2156
+msgid "Save to Library"
+msgstr "Αποθήκευση στη Βιβλιοθήκη"
+
+#: ../functions.php:2157
+msgid "Load From Library"
+msgstr "Φόρτωση Από Βιβλιοθήκη"
+
+#: ../functions.php:2158 ../functions.php:2516
+msgid "Clear Layout"
+msgstr "Απαλοιφή διάταξης"
+
+#: ../functions.php:2174 ../functions.php:2223 ../functions.php:2472
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: ../functions.php:2175
+msgid "Clone Section"
+msgstr "Κλωνοποίηση ενότητας"
+
+#: ../functions.php:2176
+msgid "Delete Section"
+msgstr "Διαγραφή ενότητας"
+
+#: ../functions.php:2187
+msgid "Standard Section"
+msgstr "Τυπικό Τμήμα"
+
+#: ../functions.php:2188 ../layouts.php:178
+msgid "Fullwidth Section"
+msgstr "Τμήμα Πλήρους Πλάτους"
+
+#: ../functions.php:2189 ../layouts.php:179
+msgid "Specialty Section"
+msgstr "Ειδικό Τμήμα"
+
+#: ../functions.php:2190 ../functions.php:2373 ../functions.php:2411
+#: ../functions.php:2441
+msgid "Add From Library"
+msgstr "Προσθήκη από βιβλιοθήκη"
+
+#: ../functions.php:2224
+msgid "Clone Row"
+msgstr "Κλωνοποίηση σειράς"
+
+#: ../functions.php:2225
+msgid "Delete Row"
+msgstr "Διαγραφή σειράς"
+
+#: ../functions.php:2226
+msgid "Change Structure"
+msgstr "Αλλαγή Δομής"
+
+#: ../functions.php:2239
+msgid "Add Row"
+msgstr "Προσθήκη σειράς"
+
+#: ../functions.php:2256
+msgid "Insert Column(s)"
+msgstr "Εισαγωγή στήλης (στηλών)"
+
+#: ../functions.php:2268 ../functions.php:2473
+msgid "Clone Module"
+msgstr "Κλωνοποίηση λειτουργικής μονάδας"
+
+#: ../functions.php:2276
+msgid "Remove Module"
+msgstr "Αφαίρεση Module"
+
+#: ../functions.php:2287
+msgid "Module Settings"
+msgstr "Ρυθμίσεις λειτουργικής μονάδας"
+
+#: ../functions.php:2300
+msgid "Save & Add To Library"
+msgstr "Αποθήκευση & Προσθήκη Στη Βιβλιοθήκη"
+
+#: ../functions.php:2322 ../functions.php:2491 ../functions.php:2546
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: ../functions.php:2324
+msgid "Save & Exit"
+msgstr "Αποθήκευση & Έξοδος"
+
+#: ../functions.php:2370
+msgid "Insert Columns"
+msgstr "Εισαγωγή στηλών"
+
+#: ../functions.php:2372
+msgid "New Row"
+msgstr "Νέα Σειρά"
+
+#: ../functions.php:2409
+msgid "Insert Module"
+msgstr "Εισαγωγή λειτουργικής μονάδας"
+
+#: ../functions.php:2410
+msgid "New Module"
+msgstr "Νέο Module"
+
+#: ../functions.php:2439
+msgid "Load Layout"
+msgstr "Φόρτωση διάταξης"
+
+#: ../functions.php:2440
+msgid "Predefined Layouts"
+msgstr "Προκαθορισμένες Διατάξεις"
+
+#: ../functions.php:2452
+msgid "Insert Module(s)"
+msgstr "Εισαγωγή λειτουργικής(ώ) μονάδας(ων)"
+
+#: ../functions.php:2492 ../functions.php:2547
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: ../functions.php:2503
+msgid "Disable Builder"
+msgstr "Απενεργοποίηση Κατασκευαστή"
+
+#: ../functions.php:2504
+msgid ""
+"All content created in the Divi Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Όλο το περιεχόμενο που δημιουργήθηκε στον Divi Κατασκευαστεί θα χαθεί. Το "
+"Προηγούμενο περιεχόμενο θα αποκατασταθεί."
+
+#: ../functions.php:2505 ../functions.php:2518 ../functions.php:2529
+msgid "Do you wish to proceed?"
+msgstr "Επιθυμείτε να συνεχίσετε;"
+
+#: ../functions.php:2517
+msgid "All of your current page content will be lost."
+msgstr "Όλα το περιεχόμενο της τρέχουσας σελίδας σας, θα χαθεί."
+
+#: ../functions.php:2528
+msgid "All advanced module settings in will be lost."
+msgstr "Όλες οι προηγμένες ρυθμίσεις του Module σας θα χαθούν."
+
+#: ../functions.php:2560
+msgid "Save To Library"
+msgstr "Αποθήκευση στη βιβλιοθήκη"
+
+#: ../functions.php:2561
+msgid "Save your current page to the Divi Library for later use."
+msgstr ""
+"Αποθήκευση της τρέχουσας σελίδας σας στην Divi Βιβλιοθήκη για μελλοντική "
+"χρήση."
+
+#: ../functions.php:2562
+msgid "Layout Name:"
+msgstr "Όνομα Διάταξης:"
+
+#: ../functions.php:2576
+msgid "Save And Add To Library"
+msgstr "Αποθήκευση Και Προσθήκη στη Βιβλιοθήκη"
+
+#: ../functions.php:2583
+msgid "Add To Categories:"
+msgstr "Προσθήκη Στις Κατηγορίες:"
+
+#: ../functions.php:2604
+msgid "Create New Category"
+msgstr "Δημιουργία Νέας Κατηγορίας"
+
+#: ../functions.php:2659
+msgid ""
+"Here you can save the current item and add it to your Divi Library for later "
+"use as well."
+msgstr ""
+"Εδώ μπορείτε επίσης να αποθηκεύσετε το τρέχων στοιχείο και να το προσθέσετε "
+"στη Divi Βιβλιοθήκη για μελλοντική χρήση."
+
+#: ../functions.php:2660
+msgid "Template Name"
+msgstr "Όνομα Προτύπου"
+
+#: ../functions.php:2661
+msgid "Selective Sync"
+msgstr "Επιλεκτικός Συγχρονισμός"
+
+#: ../functions.php:2662
+msgid "Include General settings"
+msgstr "Να Περιλαμβάνονται οι Γενικές ρυθμίσεις"
+
+#: ../functions.php:2663
+msgid "Include Advanced Design settings"
+msgstr "Να Περιλαμβάνονται οι Προηγμένες Ρυθμίσεις Σχεδιασμού"
+
+#: ../functions.php:2664 ../layouts.php:185
+msgid "Include Custom CSS"
+msgstr "Να Περιλαμβάνεται Προσαρμοσμένο CSS"
+
+#: ../functions.php:2665 ../layouts.php:186
+msgid "Please select at least 1 tab to save"
+msgstr "Παρακαλώ Επιλέξτε τουλάχιστον 1 καρτέλα για αποθήκευση"
+
+#: ../functions.php:2666
+msgid "Save as Global:"
+msgstr "Αποθήκευση ως Γενικό:"
+
+#: ../functions.php:2667
+msgid "Make this a global item"
+msgstr "Να γίνει αυτό γενικό στοιχείο"
+
+#: ../functions.php:2695
+msgid "Add Specialty Section"
+msgstr "Προσθήκη ειδικής ενότητας"
+
+#: ../layouts.php:5 ../layouts.php:180 ../main-modules.php:365
+#: ../main-modules.php:4965 ../main-modules.php:5323 ../main-modules.php:7749
+#: ../main-modules.php:10712
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: ../layouts.php:6
+msgid "Add New"
+msgstr "Προσθήκη Νέου"
+
+#: ../layouts.php:7
+msgid "Add New Layout"
+msgstr "Προσθήκη Νέου Διάταξης"
+
+#: ../layouts.php:8
+msgid "Edit Layout"
+msgstr "Επεξεργασία Διάταξης"
+
+#: ../layouts.php:9
+msgid "New Layout"
+msgstr "Νέο Διάταξη"
+
+#: ../layouts.php:11
+msgid "View Layout"
+msgstr "Εμφάνιση Διάταξης"
+
+#: ../layouts.php:12
+msgid "Search Layouts"
+msgstr "Αναζήτηση Διατάξεων"
+
+#: ../layouts.php:13
+msgid "Nothing found"
+msgstr "Δε βρέθηκαν αποτελέσματα"
+
+#: ../layouts.php:14
+msgid "Nothing found in Trash"
+msgstr "Δε βρέθηκαν αποτελέσματα στα Σκουπίδια"
+
+#: ../layouts.php:38
+msgid "Scope"
+msgstr "Σκοπός"
+
+#: ../layouts.php:51
+msgid "Layout Type"
+msgstr "Τύπος Διάταξης"
+
+#: ../layouts.php:64
+msgid "Module Width"
+msgstr "Πλάτος Module"
+
+#: ../layouts.php:77
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: ../layouts.php:171
+msgid "New Template Settings"
+msgstr "Νέες Ρυθμίσεις Προτύπου"
+
+#: ../layouts.php:172
+msgid "Template Name:"
+msgstr "Όνομα Προτύπου:"
+
+#: ../layouts.php:173
+msgid "Template Type:"
+msgstr "Τύπος Προτύπου:"
+
+#: ../layouts.php:175
+msgid "Fullwidth Module"
+msgstr "Module Πλήρους Πλάτους"
+
+#: ../layouts.php:176 ../main-structure-elements.php:604
+#: ../main-structure-elements.php:1188
+msgid "Row"
+msgstr "Σειρά"
+
+#: ../layouts.php:177 ../main-structure-elements.php:5
+msgid "Section"
+msgstr "Τμήμα"
+
+#: ../layouts.php:182
+msgid "Close Modal Window"
+msgstr "Κλείσιμο αποκλειστικού παραθύρου"
+
+#: ../layouts.php:183
+msgid "Include General Settings"
+msgstr "Να Περιλαμβάνονται οι Γενικές Ρυθμίσεις"
+
+#: ../layouts.php:184
+msgid "Include Advanced Design Settings"
+msgstr "Να Περιλαμβάνονται οι Προηγμένες Ρυθμίσεις Σχεδιασμού"
+
+#: ../layouts.php:187
+msgid "Select category(ies) for new template or type a new name ( optional )"
+msgstr ""
+"Επιλογή κατηγορία(-ών) για  νέο πρότυπο ή πληκτρολογήστε ένα νέο όνομα "
+"( προαιρετικό )"
+
+#: ../layouts.php:252
+msgid "Homepage Basic"
+msgstr "Κεντρική σελίδα με βασική διάταξη"
+
+#: ../layouts.php:260
+msgid "Homepage Shop"
+msgstr "Κεντρική σελίδα με διάταξη καταστήματος"
+
+#: ../layouts.php:270
+msgid "Homepage Portfolio"
+msgstr "Κεντρική σελίδα με διάταξη πορτφολίου "
+
+#: ../layouts.php:278
+msgid "Homepage Company"
+msgstr "Κεντρική σελίδας με διάταξη εταιρείας"
+
+#: ../layouts.php:286
+msgid "Homepage Corporate"
+msgstr "Κεντρική σελίδα με εταιρική διάταξη"
+
+#: ../layouts.php:297
+msgid "Homepage Extended"
+msgstr "Εκτεταμένη κεντρική σελίδα"
+
+#: ../layouts.php:306
+msgid "Page Fullwidth"
+msgstr "Πλήρες πλάτος της σελίδας"
+
+#: ../layouts.php:340
+msgid "Page Right Sidebar"
+msgstr "Δεξιά πλαϊνή γραμμή της σελίδας "
+
+#: ../layouts.php:374
+msgid "Page Left Sidebar"
+msgstr "Αριστερή πλαϊνή γραμμή της σελίδας"
+
+#: ../layouts.php:408
+msgid "Page Dual Sidebars"
+msgstr "Πλαϊνές γραμμές και από τις δύο πλευρές της σελίδας"
+
+#: ../layouts.php:430
+msgid "Portfolio Grid"
+msgstr "Διάταξη για πορτφόλιο σε μορφή πλέγματος"
+
+#: ../layouts.php:438
+msgid "Portfolio 1 Column"
+msgstr "Διάταξη για πορτφόλιο με μια στήλη"
+
+#: ../layouts.php:446
+msgid "Portfolio Fullwidth Carousel"
+msgstr "Διάταξη για πορτφόλιο σε μορφή Carousel πλήρους πλάτους"
+
+#: ../layouts.php:454
+msgid "Portfolio Fullwidth Grid"
+msgstr "PΔιάταξη για πορτφόλιο με πλέγμα πλήρους πλάτους"
+
+#: ../layouts.php:462
+msgid "Project Extended"
+msgstr "Διάταξη για εκτεταμένο έργο"
+
+#: ../layouts.php:472
+msgid "Project Extended 2"
+msgstr "Διάταξη για εκτεταμένο έργο 2"
+
+#: ../layouts.php:485
+msgid "Blog Masonry"
+msgstr "Ιστολόγιο σε μορφή πλέγματος"
+
+#: ../layouts.php:493
+msgid "Blog Standard"
+msgstr "Τυπικό ιστολόγιο"
+
+#: ../layouts.php:501
+msgid "Shop Basic"
+msgstr "Κατάστημα με βασική διάταξη"
+
+#: ../layouts.php:509
+msgid "Shop Extended"
+msgstr "Εκτεταμένο κατάστημα"
+
+#: ../layouts.php:517
+msgid "Splash Page"
+msgstr "Σελίδα υποδοχής"
+
+#: ../layouts.php:528
+msgid "Maintenance Mode"
+msgstr "Λειτουργία συντήρησης"
+
+#: ../layouts.php:537
+msgid "Coming Soon"
+msgstr "Προσεχώς"
+
+#: ../layouts.php:545
+msgid "Landing Page"
+msgstr "Σελίδα προορισμού"
+
+#: ../layouts.php:554
+msgid "About Me"
+msgstr "Πληροφορίες για μένα"
+
+#: ../layouts.php:563
+msgid "About Us"
+msgstr "Πληροφορίες για μας"
+
+#: ../layouts.php:572
+msgid "Contact Us"
+msgstr "Επικοινωνία"
+
+#: ../layouts.php:588
+msgid "Our Team"
+msgstr "Η ομάδα μας"
+
+#: ../layouts.php:701
+msgid "Creative Agency"
+msgstr "Δημιουργικό πρακτορείο"
+
+#: ../layouts.php:710
+msgid "Sales Page"
+msgstr "Σελίδα πωλήσεων"
+
+#: ../layouts.php:746
+msgid "Case Study"
+msgstr "Μελέτη περίπτωσης"
+
+#: ../layouts.php:756
+msgid "Product Features"
+msgstr "Δυνατότητες προϊόντος"
+
+#: ../main-modules.php:4 ../main-modules.php:1426 ../main-modules.php:8173
+msgid "Image"
+msgstr "Εικόνα"
+
+#: ../main-modules.php:46 ../main-modules.php:1451 ../main-modules.php:7480
+#: ../main-modules.php:11234
+msgid "Left To Right"
+msgstr "Από τα αριστερά προς τα δεξιά"
+
+#: ../main-modules.php:47 ../main-modules.php:1452 ../main-modules.php:7481
+#: ../main-modules.php:11235
+msgid "Right To Left"
+msgstr "Από τα δεξιά προς τα αριστερά "
+
+#: ../main-modules.php:48 ../main-modules.php:1450 ../main-modules.php:7482
+#: ../main-modules.php:11236
+msgid "Top To Bottom"
+msgstr "Από πάνω προς τα κάτω"
+
+#: ../main-modules.php:49 ../main-modules.php:1453 ../main-modules.php:7483
+#: ../main-modules.php:11237
+msgid "Bottom To Top"
+msgstr "Από κάτω προς τα πάνω "
+
+#: ../main-modules.php:50 ../main-modules.php:7479 ../main-modules.php:11238
+msgid "Fade In"
+msgstr "Σταδιακή εμφάνιση"
+
+#: ../main-modules.php:51 ../main-modules.php:1454 ../main-modules.php:7478
+#: ../main-modules.php:11239
+msgid "No Animation"
+msgstr "Χωρίς κινούμενο σχέδιο"
+
+#: ../main-modules.php:75 ../main-modules.php:7467 ../main-modules.php:11184
+msgid "Image URL"
+msgstr "Διεύθυνση URL εικόνας"
+
+#: ../main-modules.php:78 ../main-modules.php:674 ../main-modules.php:1008
+#: ../main-modules.php:1429 ../main-modules.php:2804 ../main-modules.php:3968
+#: ../main-modules.php:7470 ../main-modules.php:9734 ../main-modules.php:9773
+#: ../main-modules.php:9792 ../main-modules.php:11187
+msgid "Choose an Image"
+msgstr "Επιλογή εικόνας"
+
+#: ../main-modules.php:79 ../main-modules.php:675 ../main-modules.php:1009
+#: ../main-modules.php:1430 ../main-modules.php:2805 ../main-modules.php:3969
+#: ../main-modules.php:7471 ../main-modules.php:9735 ../main-modules.php:9774
+#: ../main-modules.php:9793 ../main-modules.php:11188
+msgid "Set As Image"
+msgstr "Ορισμός ως εικόνας"
+
+#: ../main-modules.php:80 ../main-modules.php:2806 ../main-modules.php:3970
+#: ../main-modules.php:7472 ../main-modules.php:9736 ../main-modules.php:9775
+#: ../main-modules.php:9794 ../main-modules.php:11189
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+"Ανεβάστε την εικόνα που επιθυμείτε ή εισάγετε τη διεύθυνση URL για την "
+"εικόνα που θέλετε να εμφανίζεται."
+
+#: ../main-modules.php:83 ../main-modules.php:2425 ../main-modules.php:11192
+msgid "Image Alternative Text"
+msgstr "Εναλλακτικό κείμενο εικόνας"
+
+#: ../main-modules.php:85 ../main-modules.php:11194
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+"Αυτό ορίζει το εναλλακτικό κείμενο εικόνας. Μια σύντομη περιγραφή της "
+"εικόνας σας μπορεί να τοποθετηθεί εδώ."
+
+#: ../main-modules.php:88 ../main-modules.php:11197
+msgid "Image Title Text"
+msgstr "Κείμενο τίτλου εικόνας"
+
+#: ../main-modules.php:90 ../main-modules.php:11199
+msgid "This defines the HTML Title text."
+msgstr "Αυτό ορίζει το κείμενο τίτλου\tHTML."
+
+#: ../main-modules.php:93
+msgid "Open in Lightbox"
+msgstr "Άνοιγμα στο Lightbox"
+
+#: ../main-modules.php:103 ../main-modules.php:11212
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν η εικόνα πρέπει να ανοίγει στο Lightbox. "
+"Σηµείωση: αν επιλέξετε να ανοίγει η εικόνα στο Lightbox, οι επιλογές "
+"διεύθυνσης URL παρακάτω θα αγνοούνται."
+
+#: ../main-modules.php:106 ../main-modules.php:11215
+msgid "Link URL"
+msgstr "Η διεύθυνση URL του συνδέσμου"
+
+#: ../main-modules.php:109 ../main-modules.php:11218
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"Αν θέλετε η εικόνα σας να έχει έναν σύνδεσμο, εισάγετε εδώ τη δική σας "
+"διεύθυνση URL προορισμού. Δεν θα δημιουργηθεί κανένας σύνδεσμος αν αφήσετε "
+"αυτό το πεδίο κενό."
+
+#: ../main-modules.php:112 ../main-modules.php:1347 ../main-modules.php:3726
+#: ../main-modules.php:8860 ../main-modules.php:11221
+msgid "Url Opens"
+msgstr "Η διεύθυνση URL ανοίγει"
+
+#: ../main-modules.php:115 ../main-modules.php:1350 ../main-modules.php:2795
+#: ../main-modules.php:3729 ../main-modules.php:8863 ../main-modules.php:11224
+msgid "In The Same Window"
+msgstr "στο ίδιο παράθυρο"
+
+#: ../main-modules.php:116 ../main-modules.php:1351 ../main-modules.php:2796
+#: ../main-modules.php:3730 ../main-modules.php:8864 ../main-modules.php:11225
+msgid "In The New Tab"
+msgstr "στην καινούρια καρτέλα"
+
+#: ../main-modules.php:119 ../main-modules.php:1353 ../main-modules.php:3732
+#: ../main-modules.php:8866 ../main-modules.php:11228
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν ο σύνδεσμός σας θ' ανοίγει σε ένα καινούριο "
+"παράθυρο."
+
+#: ../main-modules.php:122 ../main-modules.php:7475 ../main-modules.php:11231
+msgid "Animation"
+msgstr "Κινούμενο σχέδιο"
+
+#: ../main-modules.php:125 ../main-modules.php:1456 ../main-modules.php:7485
+#: ../main-modules.php:11241
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "Αυτό ελέγχει την κατεύθυνση του κινούμενου σχεδίου."
+
+#: ../main-modules.php:128
+msgid "Remove Space Below The Image"
+msgstr "Αφαίρεση διαστήματος κάτω από την εικόνα"
+
+#: ../main-modules.php:134
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε, αν κάτω από την εικόνα πρέπει να υπάρχει ένα "
+"διάστημα."
+
+#: ../main-modules.php:137
+msgid "Image Alignment"
+msgstr "Ευθυγράμμιση Εικόνων"
+
+#: ../main-modules.php:144
+msgid "Here you can choose the image alignment."
+msgstr "Εδώ μπορείτε να επιλέξετε την ευθυγράμμιση της εικόνας."
+
+#: ../main-modules.php:147 ../main-modules.php:433 ../main-modules.php:690
+#: ../main-modules.php:857 ../main-modules.php:982 ../main-modules.php:1171
+#: ../main-modules.php:1479 ../main-modules.php:1716 ../main-modules.php:2088
+#: ../main-modules.php:2856 ../main-modules.php:3164 ../main-modules.php:3778
+#: ../main-modules.php:3987 ../main-modules.php:4264 ../main-modules.php:4664
+#: ../main-modules.php:5020 ../main-modules.php:5378 ../main-modules.php:5707
+#: ../main-modules.php:6059 ../main-modules.php:6236 ../main-modules.php:6366
+#: ../main-modules.php:6630 ../main-modules.php:6824 ../main-modules.php:7116
+#: ../main-modules.php:7254 ../main-modules.php:7522 ../main-modules.php:7862
+#: ../main-modules.php:8242 ../main-modules.php:8475 ../main-modules.php:8633
+#: ../main-modules.php:8878 ../main-modules.php:9332 ../main-modules.php:9813
+#: ../main-modules.php:10189 ../main-modules.php:10497
+#: ../main-modules.php:10776 ../main-modules.php:10958
+#: ../main-modules.php:11030 ../main-modules.php:11108
+#: ../main-modules.php:11244 ../main-modules.php:11558
+msgid "Admin Label"
+msgstr "Ετικέτα διαχείρισης"
+
+#: ../main-modules.php:149 ../main-modules.php:435 ../main-modules.php:692
+#: ../main-modules.php:859 ../main-modules.php:1173 ../main-modules.php:1481
+#: ../main-modules.php:1718 ../main-modules.php:2090 ../main-modules.php:2858
+#: ../main-modules.php:3166 ../main-modules.php:3780 ../main-modules.php:3989
+#: ../main-modules.php:4266 ../main-modules.php:4666 ../main-modules.php:5022
+#: ../main-modules.php:5380 ../main-modules.php:5709 ../main-modules.php:6061
+#: ../main-modules.php:6238 ../main-modules.php:6368 ../main-modules.php:6632
+#: ../main-modules.php:6826 ../main-modules.php:7118 ../main-modules.php:7256
+#: ../main-modules.php:7524 ../main-modules.php:7864 ../main-modules.php:8244
+#: ../main-modules.php:8477 ../main-modules.php:8635 ../main-modules.php:8880
+#: ../main-modules.php:9334 ../main-modules.php:9815 ../main-modules.php:10191
+#: ../main-modules.php:10499 ../main-modules.php:10778
+#: ../main-modules.php:10960 ../main-modules.php:11032
+#: ../main-modules.php:11110 ../main-modules.php:11246
+#: ../main-modules.php:11560
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+"Αυτή η επιλογή αλλάξει την ετικέτα της λειτουργικής μονάδας στον "
+"κατασκευαστή για εύκολη αναγνώριση."
+
+#: ../main-modules.php:152 ../main-modules.php:438 ../main-modules.php:695
+#: ../main-modules.php:862 ../main-modules.php:1176 ../main-modules.php:1484
+#: ../main-modules.php:1721 ../main-modules.php:2093 ../main-modules.php:2861
+#: ../main-modules.php:3169 ../main-modules.php:3783 ../main-modules.php:3992
+#: ../main-modules.php:4269 ../main-modules.php:4669 ../main-modules.php:5025
+#: ../main-modules.php:5383 ../main-modules.php:5712 ../main-modules.php:6064
+#: ../main-modules.php:6241 ../main-modules.php:6371 ../main-modules.php:6635
+#: ../main-modules.php:6829 ../main-modules.php:7121 ../main-modules.php:7259
+#: ../main-modules.php:7527 ../main-modules.php:7867 ../main-modules.php:8247
+#: ../main-modules.php:8480 ../main-modules.php:8638 ../main-modules.php:8883
+#: ../main-modules.php:9337 ../main-modules.php:9818 ../main-modules.php:10194
+#: ../main-modules.php:10502 ../main-modules.php:10781
+#: ../main-modules.php:10963 ../main-modules.php:11035
+#: ../main-modules.php:11113 ../main-modules.php:11249
+#: ../main-modules.php:11563 ../main-structure-elements.php:206
+#: ../main-structure-elements.php:800 ../main-structure-elements.php:1287
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: ../main-modules.php:154 ../main-modules.php:440 ../main-modules.php:697
+#: ../main-modules.php:864 ../main-modules.php:1178 ../main-modules.php:1486
+#: ../main-modules.php:1723 ../main-modules.php:2095 ../main-modules.php:2863
+#: ../main-modules.php:3171 ../main-modules.php:3785 ../main-modules.php:3994
+#: ../main-modules.php:4271 ../main-modules.php:4671 ../main-modules.php:5027
+#: ../main-modules.php:5385 ../main-modules.php:5714 ../main-modules.php:6066
+#: ../main-modules.php:6243 ../main-modules.php:6373 ../main-modules.php:6637
+#: ../main-modules.php:6831 ../main-modules.php:7123 ../main-modules.php:7261
+#: ../main-modules.php:7529 ../main-modules.php:7869 ../main-modules.php:8249
+#: ../main-modules.php:8482 ../main-modules.php:8640 ../main-modules.php:8885
+#: ../main-modules.php:9339 ../main-modules.php:9820 ../main-modules.php:10196
+#: ../main-modules.php:10504 ../main-modules.php:10783
+#: ../main-modules.php:10965 ../main-modules.php:11037
+#: ../main-modules.php:11115 ../main-modules.php:11251
+#: ../main-modules.php:11565 ../main-structure-elements.php:208
+#: ../main-structure-elements.php:802 ../main-structure-elements.php:1289
+msgid ""
+"Enter an optional CSS ID to be used for this module. An ID can be used to "
+"create custom CSS styling, or to create links to particular sections of your "
+"page."
+msgstr ""
+"Εισάγετε προαιρετικό CSS ID για να το χρησιμοποιήσετε σ' αυτή τη λειτουργική "
+"μονάδα. Ένα ID μπορεί να χρησιμοποιηθεί για να δημιουργήσετε ένα "
+"προσαρμοσμένο στυλ CSS ή να δημιουργήσετε συνδέσμους για συγκεκριμένες "
+"ενότητες της σελίδας σας."
+
+#: ../main-modules.php:157 ../main-modules.php:443 ../main-modules.php:700
+#: ../main-modules.php:867 ../main-modules.php:1181 ../main-modules.php:1489
+#: ../main-modules.php:1726 ../main-modules.php:2098 ../main-modules.php:2866
+#: ../main-modules.php:3174 ../main-modules.php:3788 ../main-modules.php:3997
+#: ../main-modules.php:4274 ../main-modules.php:4674 ../main-modules.php:5030
+#: ../main-modules.php:5388 ../main-modules.php:5717 ../main-modules.php:6069
+#: ../main-modules.php:6246 ../main-modules.php:6376 ../main-modules.php:6640
+#: ../main-modules.php:6834 ../main-modules.php:7126 ../main-modules.php:7264
+#: ../main-modules.php:7532 ../main-modules.php:7872 ../main-modules.php:8252
+#: ../main-modules.php:8485 ../main-modules.php:8643 ../main-modules.php:8888
+#: ../main-modules.php:9342 ../main-modules.php:9823 ../main-modules.php:10199
+#: ../main-modules.php:10507 ../main-modules.php:10786
+#: ../main-modules.php:10968 ../main-modules.php:11040
+#: ../main-modules.php:11118 ../main-modules.php:11254
+#: ../main-modules.php:11568 ../main-structure-elements.php:211
+#: ../main-structure-elements.php:805 ../main-structure-elements.php:1292
+msgid "CSS Class"
+msgstr "Κλάση CSS"
+
+#: ../main-modules.php:159 ../main-modules.php:445 ../main-modules.php:702
+#: ../main-modules.php:869 ../main-modules.php:1183 ../main-modules.php:1491
+#: ../main-modules.php:1728 ../main-modules.php:2100 ../main-modules.php:2868
+#: ../main-modules.php:3176 ../main-modules.php:3790 ../main-modules.php:3999
+#: ../main-modules.php:4276 ../main-modules.php:4676 ../main-modules.php:5032
+#: ../main-modules.php:5390 ../main-modules.php:5719 ../main-modules.php:6071
+#: ../main-modules.php:6248 ../main-modules.php:6378 ../main-modules.php:6642
+#: ../main-modules.php:6836 ../main-modules.php:7128 ../main-modules.php:7266
+#: ../main-modules.php:7534 ../main-modules.php:7874 ../main-modules.php:8254
+#: ../main-modules.php:8487 ../main-modules.php:8645 ../main-modules.php:8890
+#: ../main-modules.php:9344 ../main-modules.php:9825 ../main-modules.php:10201
+#: ../main-modules.php:10509 ../main-modules.php:10788
+#: ../main-modules.php:10970 ../main-modules.php:11042
+#: ../main-modules.php:11120 ../main-modules.php:11256
+#: ../main-modules.php:11570 ../main-structure-elements.php:213
+#: ../main-structure-elements.php:807 ../main-structure-elements.php:1294
+msgid ""
+"Enter optional CSS classes to be used for this module. A CSS class can be "
+"used to create custom CSS styling. You can add multiple classes, separated "
+"with a space."
+msgstr ""
+"Εισάγετε προαιρετικές κλάσεις CSS για να τις χρησιμοποιήσετε σ' αυτή τη "
+"λειτουργική μονάδα. Μια κλάση CSS μπορεί να χρησιμοποιηθεί για να "
+"δημιουργήσετε ένα προσαρμοσμένο στυλ CSS. Μπορείτε να προσθέσετε πολλαπλές "
+"κλάσεις, χωρισμένες μεταξύ τους με ένα διάστημα."
+
+#: ../main-modules.php:162 ../main-modules.php:1494
+msgid "Image Max Width"
+msgstr "Μέγιστο Πλάτος Εικόνας"
+
+#: ../main-modules.php:167
+msgid "Force Fullwidth"
+msgstr "Να γίνει Πλήρους Πλάτους"
+
+#: ../main-modules.php:176
+msgid "Always Center Image On Mobile"
+msgstr "Να κετράρετε Πάντα Η Εικόνα στα Κινητά"
+
+#: ../main-modules.php:277
+msgid "Gallery"
+msgstr "Συλλογή"
+
+#: ../main-modules.php:313 ../main-modules.php:3907 ../main-modules.php:4925
+#: ../main-modules.php:5269
+msgid "Caption"
+msgstr "Λεζάντα"
+
+#: ../main-modules.php:320 ../main-modules.php:1337 ../main-modules.php:1862
+#: ../main-modules.php:3529 ../main-modules.php:3716 ../main-modules.php:3901
+#: ../main-modules.php:3950 ../main-modules.php:4216 ../main-modules.php:4612
+#: ../main-modules.php:4919 ../main-modules.php:5263 ../main-modules.php:5640
+#: ../main-modules.php:5814 ../main-modules.php:5996 ../main-modules.php:6025
+#: ../main-modules.php:6166 ../main-modules.php:6203 ../main-modules.php:6495
+#: ../main-modules.php:6566 ../main-modules.php:6611 ../main-modules.php:6764
+#: ../main-modules.php:6819 ../main-modules.php:7084 ../main-modules.php:7440
+#: ../main-modules.php:7732 ../main-modules.php:8150 ../main-modules.php:8181
+#: ../main-modules.php:8425 ../main-modules.php:8731 ../main-modules.php:9147
+#: ../main-modules.php:9584 ../main-modules.php:11373
+msgid "Title"
+msgstr "Τίτλος"
+
+#: ../main-modules.php:331
+msgid "Gallery Item"
+msgstr "Στοιχείο Γκαλερί"
+
+#: ../main-modules.php:335 ../main-modules.php:4944 ../main-modules.php:5302
+#: ../main-modules.php:8177
+msgid "Overlay"
+msgstr "Επικάλυψη"
+
+#: ../main-modules.php:339 ../main-modules.php:4948 ../main-modules.php:5306
+msgid "Overlay Icon"
+msgstr "Εικονίδιο Επικάλυψης"
+
+#: ../main-modules.php:343
+msgid "Gallery Item Title"
+msgstr "Τίτλος Στοιχείου Γκαλερί"
+
+#: ../main-modules.php:352 ../main-modules.php:360
+msgid "Gallery Images"
+msgstr "Εικόνες συλλογής"
+
+#: ../main-modules.php:368 ../main-modules.php:1904
+msgid "Slider"
+msgstr "Slider"
+
+#: ../main-modules.php:369 ../main-modules.php:4969 ../main-modules.php:5327
+#: ../main-modules.php:7753 ../main-modules.php:10716
+msgid "Grid"
+msgstr "Πλέγμα"
+
+#: ../main-modules.php:371 ../main-modules.php:7759
+msgid "Toggle between the various blog layout types."
+msgstr "Εναλλαγή ανάμεσα σε διάφορους τύπους διάταξης."
+
+#: ../main-modules.php:382
+msgid "Images Number"
+msgstr "Αριθμός εικόνων"
+
+#: ../main-modules.php:384
+msgid "Define the number of images that should be displayed per page."
+msgstr "Ορίστε των αριθμό εικόνων που πρέπει να εμφανίζονται ανά σελίδα."
+
+#: ../main-modules.php:387
+msgid "Show Title and Caption"
+msgstr "Εμφάνιση τίτλου και λεζάντας"
+
+#: ../main-modules.php:393
+msgid ""
+"Here you can choose whether to show the images title and caption, if the "
+"image has them."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε, αν θα εμφανίζονται τίτλοι και λεζάντες των "
+"εικόνων, αν η εικόνα τους έχει."
+
+#: ../main-modules.php:396 ../main-modules.php:5002 ../main-modules.php:5360
+#: ../main-modules.php:7838
+msgid "Show Pagination"
+msgstr "Εμφάνιση σελιδοποίησης"
+
+#: ../main-modules.php:402 ../main-modules.php:5008 ../main-modules.php:5366
+msgid "Enable or disable pagination for this feed."
+msgstr ""
+"Ενεργοποίηση ή απενεργοποίηση της σελιδοποίησης για αυτή την τροφοδοσία."
+
+#: ../main-modules.php:405 ../main-modules.php:1151 ../main-modules.php:1459
+#: ../main-modules.php:2430 ../main-modules.php:2836 ../main-modules.php:3758
+#: ../main-modules.php:3978 ../main-modules.php:4244 ../main-modules.php:4644
+#: ../main-modules.php:5011 ../main-modules.php:5369 ../main-modules.php:5680
+#: ../main-modules.php:6045 ../main-modules.php:6227 ../main-modules.php:7107
+#: ../main-modules.php:7488 ../main-modules.php:7852 ../main-modules.php:8448
+#: ../main-modules.php:8851 ../main-modules.php:9300 ../main-modules.php:9594
+#: ../main-modules.php:10165 ../main-modules.php:10749
+#: ../main-modules.php:11526
+msgid "Text Color"
+msgstr "Χρώμα Κειμένου"
+
+#: ../main-modules.php:408 ../main-modules.php:852 ../main-modules.php:1022
+#: ../main-modules.php:1154 ../main-modules.php:1462 ../main-modules.php:2434
+#: ../main-modules.php:2839 ../main-modules.php:3762 ../main-modules.php:3982
+#: ../main-modules.php:4248 ../main-modules.php:4648 ../main-modules.php:5014
+#: ../main-modules.php:5372 ../main-modules.php:5683 ../main-modules.php:6048
+#: ../main-modules.php:6230 ../main-modules.php:7110 ../main-modules.php:7491
+#: ../main-modules.php:7855 ../main-modules.php:8451 ../main-modules.php:8854
+#: ../main-modules.php:9303 ../main-modules.php:9597 ../main-modules.php:10168
+#: ../main-modules.php:10752 ../main-modules.php:11529
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+#: ../main-modules.php:409 ../main-modules.php:851 ../main-modules.php:1021
+#: ../main-modules.php:1155 ../main-modules.php:1463 ../main-modules.php:2433
+#: ../main-modules.php:2840 ../main-modules.php:3761 ../main-modules.php:3981
+#: ../main-modules.php:4247 ../main-modules.php:4647 ../main-modules.php:5015
+#: ../main-modules.php:5373 ../main-modules.php:5684 ../main-modules.php:6049
+#: ../main-modules.php:6231 ../main-modules.php:7111 ../main-modules.php:7492
+#: ../main-modules.php:7856 ../main-modules.php:8452 ../main-modules.php:8855
+#: ../main-modules.php:9304 ../main-modules.php:9598 ../main-modules.php:10169
+#: ../main-modules.php:10753 ../main-modules.php:11530
+msgid "Light"
+msgstr "Φωτεινό"
+
+#: ../main-modules.php:411 ../main-modules.php:1465 ../main-modules.php:2842
+#: ../main-modules.php:3764 ../main-modules.php:3984 ../main-modules.php:4250
+#: ../main-modules.php:4650 ../main-modules.php:5017 ../main-modules.php:5375
+#: ../main-modules.php:5686 ../main-modules.php:6051 ../main-modules.php:7113
+#: ../main-modules.php:7859 ../main-modules.php:8454 ../main-modules.php:8857
+#: ../main-modules.php:10755
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε, αν το κείμενό σας πρέπει να είναι ανοιχτόχρωμο ή "
+"σκουρόχρωμο. Αν έχετε σκούρο φόντο, τότε το κείμενό σας πρέπει να είναι "
+"ανοιχτόχρωμο. Αν το φόντο σας είναι ανοιχτό, τότε το κείμενό σας πρέπει να "
+"είναι σκουρόχρωμο."
+
+#: ../main-modules.php:414 ../main-modules.php:2012 ../main-modules.php:10423
+msgid "Automatic Animation"
+msgstr "Αυτόματο κινούμενο σχέδιο"
+
+#: ../main-modules.php:424 ../main-modules.php:2021 ../main-modules.php:10432
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+"Αν θέλετε το slider να σέρνεται αυτόματα, χωρίς να χρειάζεται ο επισκέπτης "
+"να κάνει κλικ στο κουμπί «Επόμενο», ενεργοποιήστε αυτή την επιλογή και μετά "
+"προσαρμόστε την ταχύτητα ανταλλαγής παρακάτω, αν θέλετε."
+
+#: ../main-modules.php:427 ../main-modules.php:2024 ../main-modules.php:10435
+msgid "Automatic Animation Speed (in ms)"
+msgstr "Αυτόματη ταχύτητα κινούμενου σχεδίου (ανά χιλιοστό του δευτερολέπτου)"
+
+#: ../main-modules.php:430 ../main-modules.php:2027 ../main-modules.php:10438
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+"Εδώ μπορείτε να ορίσετε πόσο γρήγορα το slider αντικαθιστά ένα slide με το "
+"άλλο, αν πιο πάνω ενεργοποιήθηκε η επιλογή «Αυτόματο κινούμενο σχέδιο». Όσο "
+"μεγαλύτερος είναι ο αριθμός, τόσο μεγαλύτερη είναι η παύση ανάμεσα στις "
+"ανταλλαγές."
+
+#: ../main-modules.php:448 ../main-modules.php:5035 ../main-modules.php:5401
+msgid "Zoom Icon Color"
+msgstr "Χρώμα Εικονιδίου Μεγέθυνσης"
+
+#: ../main-modules.php:455 ../main-modules.php:5041 ../main-modules.php:5407
+#: ../main-modules.php:8269
+msgid "Hover Overlay Color"
+msgstr "Χρώμα Επικάλυψης Όταν βρίσκεται το Ποντίκι από Πάνω"
+
+#: ../main-modules.php:462 ../main-modules.php:5047 ../main-modules.php:5393
+#: ../main-modules.php:8275
+msgid "Hover Icon Picker"
+msgstr "Επιλογέας Εικονιδίου  Όταν βρίσκεται το Ποντίκι από Πάνω"
+
+#: ../main-modules.php:629 ../main-modules.php:786 ../main-modules.php:959
+msgid "Video"
+msgstr "Βίντεο"
+
+#: ../main-modules.php:644
+msgid "Video Icon"
+msgstr "Εικονίδιο Βίντεο"
+
+#: ../main-modules.php:653 ../main-modules.php:987
+msgid "Video MP4/URL"
+msgstr "Βίντεο σε μορφή αρχείου .MP4 URL"
+
+#: ../main-modules.php:656 ../main-modules.php:665 ../main-modules.php:990
+#: ../main-modules.php:999 ../main-modules.php:2442 ../main-modules.php:2451
+#: ../main-structure-elements.php:126 ../main-structure-elements.php:135
+#: ../main-structure-elements.php:827 ../main-structure-elements.php:836
+msgid "Upload a video"
+msgstr "Ανέβασμα βίντεο"
+
+#: ../main-modules.php:657 ../main-modules.php:991
+msgid "Choose a Video MP4 File"
+msgstr "Επιλογή βίντεο σε μορφή αρχείου .MP4"
+
+#: ../main-modules.php:658 ../main-modules.php:667 ../main-modules.php:992
+#: ../main-modules.php:1001
+msgid "Set As Video"
+msgstr "Ορισμός ως βίντεο"
+
+#: ../main-modules.php:659 ../main-modules.php:993
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr ""
+"Ανεβάστε το βίντεο που επιθυμείτε σε μορφή αρχείου .MP4 ή εισάγετε τη "
+"διεύθυνση URL για το βίντεο που θέλετε να εμφανίζεται."
+
+#: ../main-modules.php:662 ../main-modules.php:996
+msgid "Video Webm"
+msgstr "Βίντεο σε μορφή αρχείου .WEBM"
+
+#: ../main-modules.php:666 ../main-modules.php:1000
+msgid "Choose a Video WEBM File"
+msgstr "Επιλέξτε ένα βίντεο σε μορφή αρχείου .WEBM"
+
+#: ../main-modules.php:668 ../main-modules.php:1002
+msgid ""
+"Upload the .WEBM version of your video here. All uploaded videos should be "
+"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+msgstr ""
+"Ανεβάστε εδώ το βίντεο σας σε μορφή αρχείου .WEBM. Όλα τα βίντεο πρέπει να "
+"ανεβάζονται και στις δύο μορφές αρχείου, .MP4 και .WEBM, για να εξασφαλισθεί "
+"μέγιστη συμβατότητα σε όλα τα προγράμματα περιήγησης. "
+
+#: ../main-modules.php:671 ../main-modules.php:1005
+msgid "Image Overlay URL"
+msgstr "Διεύθυνση URL επικάλυψης εικόνας"
+
+#: ../main-modules.php:678 ../main-modules.php:1012
+msgid "Generate From Video"
+msgstr "Δημιουργία από βίντεο"
+
+#: ../main-modules.php:681 ../main-modules.php:1015
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display over your video. You can also generate a still image from your video."
+msgstr ""
+"Ανεβάστε την εικόνα που επιθυμείτε ή εισάγετε τη διεύθυνση URL για την "
+"εικόνα που θέλετε να εμφανίζεται πάνω από το βίντεό σας. Μπορείτε επίσης να "
+"δημιουργήσετε μια σταθερή εικόνα από το βίντεό σας."
+
+#: ../main-modules.php:684 ../main-modules.php:872
+msgid "Play Icon Color"
+msgstr "Χρώμα Εικονιδίου Αναπαραγωγής"
+
+#: ../main-modules.php:783
+msgid "Video Slider"
+msgstr "Slider για βίντεο"
+
+#: ../main-modules.php:808
+msgid "Play Button"
+msgstr "Κουμπί Αναπαραγωγής"
+
+#: ../main-modules.php:812
+msgid "Thumbnail Item"
+msgstr "Μικρογραφία Στοιχείου"
+
+#: ../main-modules.php:821
+msgid "Display Image Overlays on Main Video"
+msgstr "Εμφάνιση επικάλυψης εικόνας στο κυρίως βίντεο"
+
+#: ../main-modules.php:824
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#: ../main-modules.php:825
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: ../main-modules.php:827
+msgid ""
+"This option will cover the player UI on the main video. This image can "
+"either be uploaded in each video setting or auto-generated by Divi."
+msgstr ""
+"Αυτή η επιλογή θα καλύψει το περιβάλλον εργασίας του προγράμματος "
+"αναπαραγωγής στο κυρίως βίντεο. Αυτή η εικόνα μπορεί είτε να ανεβαστεί στη "
+"ρύθμιση του κάθε βίντεο ή να δημιουργηθεί αυτόματα με το Divi."
+
+#: ../main-modules.php:830 ../main-modules.php:1994 ../main-modules.php:10405
+msgid "Arrows"
+msgstr "Βέλη"
+
+#: ../main-modules.php:833 ../main-modules.php:1997 ../main-modules.php:10408
+msgid "Show Arrows"
+msgstr "Εμφάνιση βελών"
+
+#: ../main-modules.php:834 ../main-modules.php:1998 ../main-modules.php:10409
+msgid "Hide Arrows"
+msgstr "Απόκρυψη βελών"
+
+#: ../main-modules.php:836 ../main-modules.php:2000
+msgid "This setting will turn on and off the navigation arrows."
+msgstr ""
+"Αυτή η ρύθμιση θα ενεργοποιεί και θα απενεργοποιεί τα βέλη της περιήγησης."
+
+#: ../main-modules.php:839
+msgid "Slider Controls"
+msgstr "Χρώμα των στοιχείων ελέγχου του slider"
+
+#: ../main-modules.php:842
+msgid "Use Thumbnail Track"
+msgstr "Χρήση παρακολούθησης μικρογραφιών"
+
+#: ../main-modules.php:843
+msgid "Use Dot Navigation"
+msgstr "Χρήση περιήγησης σε μορφή κουκίδων"
+
+#: ../main-modules.php:845
+msgid ""
+"This setting will let you choose to use the thumbnail track controls below "
+"the slider or dot navigation at the bottom of the slider."
+msgstr ""
+"Αυτή η ρύθμιση θα σας δώσει τη δυνατότητα να επιλέξετε ανάμεσα στα στοιχεία "
+"ελέγχου μικρογραφιών κάτω από το slider ή τη περιήγηση σε μορφή κουκίδων στο "
+"κάτω μέρος του slider."
+
+#: ../main-modules.php:848
+msgid "Slider Controls Color"
+msgstr "Χρώμα των στοιχείων ελέγχου του slider"
+
+#: ../main-modules.php:854
+msgid ""
+"This setting will make your slider controls either light or dark in color. "
+"Slider controls are either the arrows on the thumbnail track or the circles "
+"in dot navigation."
+msgstr ""
+"Αυτή η ρύθμιση θα κάνει τα στοιχεία ελέγχου του slider είτε ανοιχτόχρωμα, "
+"είτε σκουρόχρωμα. Τα στοιχεία ελέγχου του slider είναι είτε βέλη για "
+"παρακολούθηση μικρογραφιών, είτε κύκλοι στην περιήγηση σε μορφή κουκίδων."
+
+#: ../main-modules.php:878
+msgid "Thumbnail Overlay Color"
+msgstr "Χρώμα Επικάλυψης Μικρογραφίας"
+
+#: ../main-modules.php:963
+msgid "New Video"
+msgstr "Καινούριο βίντεο"
+
+#: ../main-modules.php:964
+msgid "Video Settings"
+msgstr "Ρυθμίσεις βίντεο"
+
+#: ../main-modules.php:984
+msgid ""
+"This will change the label of the video in the builder for easy "
+"identification."
+msgstr ""
+"Αυτό θ' αλλάξει την ετικέτα του βίντεο στον κατασκευαστή για εύκολη "
+"αναγνώριση."
+
+#: ../main-modules.php:1018
+msgid "Slider Arrows Color"
+msgstr "Χρώμα βελών του slider"
+
+#: ../main-modules.php:1024
+msgid ""
+"This setting will make your slider arrows either light or dark in color."
+msgstr ""
+"Αυτή η ρύθμιση θα κάνει τα βέλη του slider σας είτε ανοιχτόχρωμα, είτε "
+"σκουρόχρωμα."
+
+#: ../main-modules.php:1114 ../main-modules.php:1136
+msgid "Text"
+msgstr "Κείμενο"
+
+#: ../main-modules.php:1157 ../main-modules.php:7494 ../main-modules.php:9600
+#: ../main-modules.php:10171
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with a "
+"light background, then your text should be dark."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε την τιμή για το κείμενό σας. Αν έχετε σκούρο "
+"φόντο, τότε το κείμενό σας πρέπει να είναι ανοιχτόχρωμο. Αν το φόντο σας "
+"είναι ανοιχτό, τότε το κείμενό σας πρέπει να είναι σκουρόχρωμο."
+
+#: ../main-modules.php:1160 ../main-modules.php:1468 ../main-modules.php:2845
+#: ../main-modules.php:3767 ../main-modules.php:4253 ../main-modules.php:4653
+#: ../main-modules.php:9290 ../main-modules.php:10174
+#: ../main-modules.php:11516
+msgid "Text Orientation"
+msgstr "Προσανατολισμός κειμένου"
+
+#: ../main-modules.php:1163 ../main-modules.php:9606 ../main-modules.php:10177
+msgid "This controls the how your text is aligned within the module."
+msgstr ""
+"Αυτή η επιλογή ελέγχει ποια θα είναι η στοίχιση του κειμένου σας μέσα στη "
+"λειτουργική μονάδα."
+
+#: ../main-modules.php:1168 ../main-modules.php:11027
+#: ../main-modules.php:11105
+msgid "Here you can create the content that will be used within the module."
+msgstr ""
+"Εδώ μπορείτε να δημιουργήσετε το περιεχόμενο που θα χρησιμοποιείται μέσα στη "
+"λειτουργική μονάδα."
+
+#: ../main-modules.php:1186 ../main-modules.php:3793 ../main-modules.php:11045
+msgid "Max Width"
+msgstr "Μέγιστο Πλάτος"
+
+#: ../main-modules.php:1236
+msgid "Blurb"
+msgstr "Blurb"
+
+#: ../main-modules.php:1286 ../main-modules.php:1948 ../main-modules.php:2320
+#: ../main-modules.php:3112 ../main-modules.php:3473 ../main-modules.php:3674
+#: ../main-modules.php:4123 ../main-modules.php:4573 ../main-modules.php:7065
+#: ../main-modules.php:7410 ../main-modules.php:7710 ../main-modules.php:8394
+#: ../main-modules.php:10356
+msgid "Header"
+msgstr "Kεφαλίδα"
+
+#: ../main-modules.php:1292 ../main-modules.php:1680 ../main-modules.php:1841
+#: ../main-modules.php:1954 ../main-modules.php:2327 ../main-modules.php:2733
+#: ../main-modules.php:3130 ../main-modules.php:3491 ../main-modules.php:3680
+#: ../main-modules.php:4129 ../main-modules.php:4579 ../main-modules.php:6314
+#: ../main-modules.php:6572 ../main-modules.php:7071 ../main-modules.php:7416
+#: ../main-modules.php:7722 ../main-modules.php:10365
+msgid "Body"
+msgstr "Κορμός"
+
+#: ../main-modules.php:1308
+msgid "Blurb Image"
+msgstr "Περιγραφή Εικόνας"
+
+#: ../main-modules.php:1312
+msgid "Blurb Title"
+msgstr "Περιγραφή Τίτλου"
+
+#: ../main-modules.php:1316
+msgid "Blurb Content"
+msgstr "Περιγραφή Περιεχομένου"
+
+#: ../main-modules.php:1339
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr ""
+"Ο τίτλος του blurb σας θα εμφανισθεί με έντονους χαρακτήρες κάτω από την "
+"εικόνα του blurb σας."
+
+#: ../main-modules.php:1342
+msgid "Url"
+msgstr "Διεύθυνση URL"
+
+#: ../main-modules.php:1344
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr ""
+"Αν θέλετε το blurb σας να έχει έναν σύνδεσμο, εισάγετε εδώ τη δική σας "
+"διεύθυνση URL προορισμού."
+
+#: ../main-modules.php:1356
+msgid "Use Icon"
+msgstr "Χρησιμοποιήστε εικονίδιο"
+
+#: ../main-modules.php:1369
+msgid "Here you can choose whether icon set below should be used."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν θα χρησιμοποιηθεί το εικονίδιο που ορίζεται "
+"παρακάτω."
+
+#: ../main-modules.php:1372 ../main-modules.php:9634
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+#: ../main-modules.php:1377
+msgid "Choose an icon to display with your blurb."
+msgstr "Επιλέξτε ένα εικονίδιο που θα εμφανίζεται στο blurb σας."
+
+#: ../main-modules.php:1381 ../main-modules.php:6393 ../main-modules.php:6529
+#: ../main-modules.php:6657 ../main-modules.php:7537 ../main-modules.php:9035
+msgid "Icon Color"
+msgstr "Χρώμα εικονιδίου "
+
+#: ../main-modules.php:1383
+msgid "Here you can define a custom color for your icon."
+msgstr ""
+"Εδώ μπορείτε να ορίσετε κάποιο προσαρμοσμένο χρώμα για το εικονίδιό σας."
+
+#: ../main-modules.php:1387
+msgid "Circle Icon"
+msgstr "Κυκλικό εικονίδιο"
+
+#: ../main-modules.php:1397
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε, αν το εικονίδιο που ορίστηκε παραπάνω πρέπει να "
+"εμφανίζεται μέσα στον κύκλο."
+
+#: ../main-modules.php:1401 ../main-modules.php:6074
+msgid "Circle Color"
+msgstr "Χρώμα κύκλου"
+
+#: ../main-modules.php:1403
+msgid "Here you can define a custom color for the icon circle."
+msgstr ""
+"Εδώ μπορείτε να ορίσετε ένα προσαρμοσμένο χρώμα για τον κύκλο του εικονιδίου."
+
+#: ../main-modules.php:1407
+msgid "Show Circle Border"
+msgstr "Εμφάνιση περιγράμματος κύκλου"
+
+#: ../main-modules.php:1416
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε, αν πρέπει να εμφανίζεται το περίγραμμα κύκλου "
+"εικονιδίου. "
+
+#: ../main-modules.php:1420
+msgid "Circle Border Color"
+msgstr "Χρώμα περιγράμματος κύκλου"
+
+#: ../main-modules.php:1422
+msgid "Here you can define a custom color for the icon circle border."
+msgstr ""
+"Εδώ μπορείτε να ορίσετε ένα προσαρμοσμένο χρώμα για το περίγραμμα κύκλου "
+"εικονιδίου."
+
+#: ../main-modules.php:1432
+msgid "Upload an image to display at the top of your blurb."
+msgstr "Ανεβάστε μια εικόνα που θα εμφανίζεται στο πάνω μέρος του blurb σας."
+
+#: ../main-modules.php:1435
+msgid "Image Alt Text"
+msgstr "Εναλλακτικό κείμενο εικόνας"
+
+#: ../main-modules.php:1437
+msgid "Define the HTML ALT text for your image here."
+msgstr "Ορίστε εδώ το εναλλακτικό κείμενο για την εικόνα σας."
+
+#: ../main-modules.php:1441
+msgid "Image/Icon Placement"
+msgstr "Τοποθέτηση εικόνας/εικονιδίου"
+
+#: ../main-modules.php:1444
+msgid "Here you can choose where to place the icon."
+msgstr "Εδώ μπορείτε να επιλέξετε  που να τοποθετήσετε το εικονίδιο."
+
+#: ../main-modules.php:1447
+msgid "Image/Icon Animation"
+msgstr "Κινούμενο σχέδιο εικόνας/εικονιδίου"
+
+#: ../main-modules.php:1471
+msgid "This will control how your blurb text is aligned."
+msgstr "Αυτή η επιλογή θα ελέγχει τη στοίχιση του κειμένου του blurb σας."
+
+#: ../main-modules.php:1476 ../main-modules.php:2853 ../main-modules.php:3775
+#: ../main-modules.php:4261 ../main-modules.php:4661 ../main-modules.php:6627
+#: ../main-modules.php:7519
+msgid "Input the main text content for your module here."
+msgstr ""
+"Εισάγετε εδώ το περιεχόμενο κυρίως κειμένου για τη λειτουργική μονάδα σας."
+
+#: ../main-modules.php:1499
+msgid "Use Icon Font Size"
+msgstr "Χρήση Μεγέθους Γραμματοσειράς Εικονιδίου"
+
+#: ../main-modules.php:1511
+msgid "Icon Font Size"
+msgstr "Μέγεθος Γραμματοσειράς Εικονιδίου"
+
+#: ../main-modules.php:1656
+msgid "Tabs"
+msgstr "Καρτέλες"
+
+#: ../main-modules.php:1659 ../main-modules.php:1673 ../main-modules.php:1703
+#: ../main-modules.php:1817 ../main-modules.php:1833 ../main-modules.php:1885
+msgid "Tab"
+msgstr "Καρτέλα"
+
+#: ../main-modules.php:1699
+msgid "Tabs Controls"
+msgstr "Ρυθμίσεις Καρτελών"
+
+#: ../main-modules.php:1707
+msgid "Active Tab"
+msgstr "Ενεργή Καρτέλα"
+
+#: ../main-modules.php:1731
+msgid "Active Tab Background Color"
+msgstr "Χρώμα Φόντου Ενεργής Καρτέλας"
+
+#: ../main-modules.php:1737
+msgid "Inactive Tab Background Color"
+msgstr "Χρώμα Φόντου Ανενεργής Καρτέλας"
+
+#: ../main-modules.php:1827
+msgid "New Tab"
+msgstr "Καινούρια καρτέλα"
+
+#: ../main-modules.php:1828
+msgid "Tab Settings"
+msgstr "Ρυθμίσεις καρτέλας"
+
+#: ../main-modules.php:1864 ../main-modules.php:8733
+msgid "The title will be used within the tab button for this tab."
+msgstr ""
+"Ο τίτλος θα χρησιμοποιείται μέσα στο κουμπί της καρτέλας για αυτή την "
+"καρτέλα."
+
+#: ../main-modules.php:1907 ../main-modules.php:2276 ../main-modules.php:10315
+msgid "Slide"
+msgstr "Διαφάνεια"
+
+#: ../main-modules.php:1963 ../main-modules.php:2337 ../main-modules.php:3155
+#: ../main-modules.php:3508 ../main-modules.php:3697 ../main-modules.php:4139
+#: ../main-modules.php:4589 ../main-modules.php:6786 ../main-modules.php:10374
+msgid "Button"
+msgstr ""
+
+#: ../main-modules.php:1969 ../main-modules.php:10380
+msgid "Slide Description"
+msgstr "Περιγραφή Διαφάνειας"
+
+#: ../main-modules.php:1973 ../main-modules.php:10384
+msgid "Slide Title"
+msgstr "Τίτλος Διαφάνειας"
+
+#: ../main-modules.php:1977 ../main-modules.php:10388
+msgid "Slide Button"
+msgstr "Κουμπί Διαφάνειας"
+
+#: ../main-modules.php:1981 ../main-modules.php:10392
+msgid "Slide Controllers"
+msgstr "Χειριστήρια Διαφάνειας"
+
+#: ../main-modules.php:1985 ../main-modules.php:10396
+msgid "Slide Active Controller"
+msgstr "Ενεργό Χειριστήριο Διαφάνειας"
+
+#: ../main-modules.php:2003 ../main-modules.php:10414
+msgid "Controls"
+msgstr "Στοιχεία ελέγχου "
+
+#: ../main-modules.php:2006 ../main-modules.php:10417
+msgid "Show Slider Controls"
+msgstr "Εμφάνιση στοιχείων ελέγχου του slider"
+
+#: ../main-modules.php:2007 ../main-modules.php:10418
+msgid "Hide Slider Controls"
+msgstr "Απόκρυψη στοιχείων ελέγχου του slider"
+
+#: ../main-modules.php:2009
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr ""
+"Αυτή η ρύθμιση θα ενεργοποιεί και θα απενεργοποιεί τα κυκλικά κουμπιά του "
+"slider."
+
+#: ../main-modules.php:2030 ../main-modules.php:9747 ../main-modules.php:10441
+msgid "Use Parallax effect"
+msgstr "Χρήση Φαινομένου Παράλλαξης"
+
+#: ../main-modules.php:2041
+msgid ""
+"Enabling this option will give your background images a fixed position as "
+"you scroll."
+msgstr ""
+"Αν ενεργοποιήσετε αυτή την επιλογή, η εικόνα φόντου σας θα παραμένει στη "
+"θέση, ενώ εσείς θα κυλάτε τη σελίδα."
+
+#: ../main-modules.php:2044 ../main-modules.php:9759 ../main-modules.php:10453
+msgid "Parallax method"
+msgstr "Μέθοδος παράλλαξης"
+
+#: ../main-modules.php:2047 ../main-modules.php:9283 ../main-modules.php:9762
+#: ../main-modules.php:10456 ../main-modules.php:11509
+#: ../main-structure-elements.php:184 ../main-structure-elements.php:876
+msgid "CSS"
+msgstr "CSS"
+
+#: ../main-modules.php:2048 ../main-modules.php:9284 ../main-modules.php:9763
+#: ../main-modules.php:10457 ../main-modules.php:11510
+#: ../main-structure-elements.php:185 ../main-structure-elements.php:877
+msgid "True Parallax"
+msgstr "Πραγματική παράλλαξη"
+
+#: ../main-modules.php:2051 ../main-modules.php:9766 ../main-modules.php:10460
+#: ../main-structure-elements.php:188
+msgid "Define the method, used for the parallax effect."
+msgstr ""
+"Ορίστε τη μέθοδο που θα χρησιμοποιηθεί για τη δημιουργία φαινομένου "
+"παράλλαξης."
+
+#: ../main-modules.php:2054 ../main-modules.php:10463
+msgid "Remove Inner Shadow"
+msgstr "Αφαίρεση Εσωτερικής Σκιάς"
+
+#: ../main-modules.php:2062 ../main-modules.php:2372 ../main-modules.php:10471
+msgid "Background Image Position"
+msgstr ""
+
+#: ../main-modules.php:2066 ../main-modules.php:2377 ../main-modules.php:10475
+msgid "Top Left"
+msgstr ""
+
+#: ../main-modules.php:2067 ../main-modules.php:2378 ../main-modules.php:10476
+msgid "Top Center"
+msgstr ""
+
+#: ../main-modules.php:2068 ../main-modules.php:2379 ../main-modules.php:10477
+msgid "Top Right"
+msgstr ""
+
+#: ../main-modules.php:2069 ../main-modules.php:2380 ../main-modules.php:10478
+msgid "Center Right"
+msgstr ""
+
+#: ../main-modules.php:2070 ../main-modules.php:2381 ../main-modules.php:10479
+msgid "Center Left"
+msgstr ""
+
+#: ../main-modules.php:2071 ../main-modules.php:2382 ../main-modules.php:10480
+msgid "Bottom Left"
+msgstr ""
+
+#: ../main-modules.php:2072 ../main-modules.php:2383 ../main-modules.php:10481
+msgid "Bottom Center"
+msgstr ""
+
+#: ../main-modules.php:2073 ../main-modules.php:2384 ../main-modules.php:10482
+msgid "Bottom Right"
+msgstr ""
+
+#: ../main-modules.php:2078 ../main-modules.php:2388 ../main-modules.php:10487
+msgid "Background Image Size"
+msgstr ""
+
+#: ../main-modules.php:2082 ../main-modules.php:2393 ../main-modules.php:10491
+msgid "Fit"
+msgstr ""
+
+#: ../main-modules.php:2083 ../main-modules.php:2394 ../main-modules.php:10492
+msgid "Actual Size"
+msgstr ""
+
+#: ../main-modules.php:2103 ../main-modules.php:10512
+msgid "Top Padding"
+msgstr "Άνω Γέμισμα"
+
+#: ../main-modules.php:2108 ../main-modules.php:10517
+msgid "Bottom Padding"
+msgstr "Κάτω Γέμισμα"
+
+#: ../main-modules.php:2113 ../main-modules.php:10522
+msgid "Hide Content On Mobile"
+msgstr "Απόκρυψη Περιεχομένου Σε Κινητό"
+
+#: ../main-modules.php:2122 ../main-modules.php:10531
+msgid "Hide CTA On Mobile"
+msgstr "Απόκρυψη CTA Σε κινητό"
+
+#: ../main-modules.php:2131 ../main-modules.php:10540
+msgid "Show Image / Video On Mobile"
+msgstr "Εμφάνιση Εικόνας / Βίντεο Σε Κινητό"
+
+#: ../main-modules.php:2314
+msgid "New Slide"
+msgstr "Καινούριο slide"
+
+#: ../main-modules.php:2315
+msgid "Slide Settings"
+msgstr "Ρυθμίσεις για slide"
+
+#: ../main-modules.php:2349
+msgid "Heading"
+msgstr "Επικεφαλίδα"
+
+#: ../main-modules.php:2351
+msgid "Define the title text for your slide."
+msgstr "Ορίστε το κειμένο του τίτλου για το slide σας."
+
+#: ../main-modules.php:2354 ../main-modules.php:3559 ../main-modules.php:3735
+#: ../main-modules.php:4221
+msgid "Button Text"
+msgstr "Κείμενο του κουμπιού"
+
+#: ../main-modules.php:2356
+msgid "Define the text for the slide button"
+msgstr "Ορίστε το κειμένο για το κουμπί του slide"
+
+#: ../main-modules.php:2359 ../main-modules.php:3554 ../main-modules.php:3721
+msgid "Button URL"
+msgstr "Διεύθυνση URL του κουμπιού"
+
+#: ../main-modules.php:2361
+msgid "Input a destination URL for the slide button."
+msgstr "Εισάγετε μια διεύθυνση URL προορισμού για το κουμπί του slide."
+
+#: ../main-modules.php:2369 ../main-structure-elements.php:102
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"Αν ορισθεί, αυτή η εικόνα θα χρησιμοποιείται ως εικόνα φόντου για αυτή τη "
+"λειτουργική μονάδα. Για να καταργήσετε μια εικόνα φόντου, απλώς διαγράψτε τη "
+"διεύθυνση URL από το πεδίο ρυθμίσεων."
+
+#: ../main-modules.php:2392
+msgid "Cover"
+msgstr ""
+
+#: ../main-modules.php:2400 ../main-modules.php:10162
+msgid "Use the color picker to choose a background color for this module."
+msgstr ""
+"Χρησιμοποιήστε τον επιλογέα χρώματος για να επιλέξετε ένα χρώμα φόντου για "
+"αυτή τη λειτουργική μονάδα."
+
+#: ../main-modules.php:2403
+msgid "Slide Image"
+msgstr "Εικόνα για το slide"
+
+#: ../main-modules.php:2406
+msgid "Choose a Slide Image"
+msgstr "Επιλογή εικόνας για το slide"
+
+#: ../main-modules.php:2407
+msgid "Set As Slide Image"
+msgstr "Ορισμός ως εικόνας του slide"
+
+#: ../main-modules.php:2408
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+"Αν ορισθεί, αυτή η εικόνα για το slide θα εμφανισθεί αριστερά από το κείμενο "
+"του slide σας. Ανεβάστε μια εικόνα ή αφήστε το πεδίο κενό, αν το slide έχει "
+"μόνο κείμενο."
+
+#: ../main-modules.php:2411
+msgid "Slide Image Vertical Alignment"
+msgstr "Κατακόρυφη στοίχιση εικόνας του slide"
+
+#: ../main-modules.php:2417
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+"Αυτή η ρύθμιση ορίζει την κατακόρυφη στοίχιση της εικόνας του slide σας. Η "
+"εικόνα σας μπορεί να είναι είτε κάθετα κεντραρισμένη, είτε στοιχισμένη στο "
+"κάτω μέρος του slide σας."
+
+#: ../main-modules.php:2420
+msgid "Slide Video"
+msgstr "Βίντεο για το slide"
+
+#: ../main-modules.php:2422
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+"Αν ορισθεί, αυτό το βίντεο θα εμφανισθεί αριστερά από το κείμενο του slide "
+"σας. Εισάγετε τη διεύθυνση URL της σελίδας Youtube ή Vimeo, ή αφήστε κενό, "
+"αν το slide έχει μόνο κείμενο."
+
+#: ../main-modules.php:2427
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr ""
+"Αν έχετε ορίσει μια εικόνα για το slide, εισάγετε εδώ εναλλακτικό κείμενο "
+"για αυτή την εικόνα."
+
+#: ../main-modules.php:2436
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν το κείμενό σας θα είναι ανοιχτόχρωμο ή "
+"σκουρόχρωμο. Αν έχετε ένα slide με σκούρο φόντο, τότε το κείμενό σας πρέπει "
+"να είναι ανοιχτόχρωμο. Αν το φόντο σας είναι ανοιχτό, τότε το κείμενό σας "
+"πρέπει να είναι σκουρόχρωμο."
+
+#: ../main-modules.php:2439 ../main-structure-elements.php:123
+#: ../main-structure-elements.php:824
+msgid "Background Video MP4"
+msgstr "Βίντεο φόντου .MP4"
+
+#: ../main-modules.php:2443 ../main-structure-elements.php:127
+#: ../main-structure-elements.php:828
+msgid "Choose a Background Video MP4 File"
+msgstr "Επιλογή βίντεο φόντου"
+
+#: ../main-modules.php:2444 ../main-modules.php:2453
+#: ../main-structure-elements.php:128 ../main-structure-elements.php:137
+#: ../main-structure-elements.php:829 ../main-structure-elements.php:838
+msgid "Set As Background Video"
+msgstr "Ορισμός ως βίντεο φόντου"
+
+#: ../main-modules.php:2445 ../main-structure-elements.php:129
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Όλα τα βίντεο πρέπει να ανεβάζονται όσο στη μορφή .MP4 τόσο και .WEBM για να "
+"εξασφαλισθεί μέγιστη συμβατότητα σε όλα τα προγράμματα περιήγησης. Εδώ "
+"ανεβάστε το στη μορφη .MP4. Σηµαντική σηµείωση: φόντα σε μορφή βίντεο είναι "
+"απενεργοποιημένα για κινητές συσκευές. Αντί για αυτά θα χρησιμοποιείται η "
+"εικόνα φόντου σας. Για αυτό το λόγο πρέπει να ορίζετε όσο μια εικόνα φόντου "
+"τόσο και ένα βίντεο φόντου για να εξασφαλίσετε τα καλύτερα αποτελέσματα."
+
+#: ../main-modules.php:2448 ../main-structure-elements.php:132
+#: ../main-structure-elements.php:833
+msgid "Background Video Webm"
+msgstr "Βίντεο φόντου .WEBM"
+
+#: ../main-modules.php:2452 ../main-structure-elements.php:136
+#: ../main-structure-elements.php:837
+msgid "Choose a Background Video WEBM File"
+msgstr "Επιλογή βίντεο φόντου σε μορφή αρχείου .WEBM "
+
+#: ../main-modules.php:2454 ../main-structure-elements.php:138
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Όλα τα βίντεο πρέπει να ανεβάζονται όσο στη μορφή .MP4 τόσο και .WEBM για να "
+"εξασφαλισθεί μέγιστη συμβατότητα σε όλα τα προγράμματα περιήγησης. Σηµαντική "
+"σηµείωση: φόντα σε μορφή βίντεο είναι απενεργοποιημένα για κινητές συσκευές. "
+"Αντί για αυτά θα χρησιμοποιείται η εικόνα φόντου σας. Για αυτό το λόγο "
+"πρέπει να ορίζετε όσο μια εικόνα φόντου τόσο και ένα βίντεο φόντου για να "
+"εξασφαλίσετε τα καλύτερα αποτελέσματα."
+
+#: ../main-modules.php:2457 ../main-structure-elements.php:141
+#: ../main-structure-elements.php:842
+msgid "Background Video Width"
+msgstr "Πλατος βίντεο φόντου"
+
+#: ../main-modules.php:2459 ../main-structure-elements.php:143
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"Για να έχουν τα βίντεο σωστό µέγεθος, πρέπει να εισάγετε εδώ το ακριβές "
+"πλάτος (σε pixel) του βίντεό σας."
+
+#: ../main-modules.php:2462 ../main-structure-elements.php:146
+#: ../main-structure-elements.php:847
+msgid "Background Video Height"
+msgstr "Ύψος βίντεο φόντου"
+
+#: ../main-modules.php:2464 ../main-structure-elements.php:148
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"Για να έχουν τα βίντεο σωστό µέγεθος, πρέπει να εισάγετε εδώ το ακριβές ύψος "
+"(σε pixel) του βίντεό σας."
+
+#: ../main-modules.php:2467 ../main-structure-elements.php:151
+#: ../main-structure-elements.php:852
+msgid "Pause Video"
+msgstr "Παύση βίντεο"
+
+#: ../main-modules.php:2473 ../main-structure-elements.php:157
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr ""
+"Επιτρέψτε να γίνεται παύση βίντεο όταν αρχίζουν την αναπαραγωγή άλλα "
+"προγράμματα αναπαραγωγής."
+
+#: ../main-modules.php:2478
+msgid "Input your main slide text content here."
+msgstr "Εισάγετε εδώ το περιεχόμενο κειμένου του κυρίως slide."
+
+#: ../main-modules.php:2481
+msgid "Arrows Custom Color"
+msgstr "Προσαρμοσμένο Χρώμα Βελών"
+
+#: ../main-modules.php:2487
+msgid "Dot Nav Custom Color"
+msgstr "Προσαρμοσμένο Χρώμα Πλοήγησης Κουκκίδας"
+
+#: ../main-modules.php:2694
+msgid "Testimonial"
+msgstr "Συστάσεις"
+
+#: ../main-modules.php:2751
+msgid "Testimonial Portrait"
+msgstr "Πορτραίτο Πιστοποιητικού"
+
+#: ../main-modules.php:2755
+msgid "Testimonial Description"
+msgstr "Περιγραφή Πιστοποιητικού"
+
+#: ../main-modules.php:2759
+msgid "Testimonial Author"
+msgstr "Συγγραφέας Πιστοποιητικού"
+
+#: ../main-modules.php:2763
+msgid "Testimonial Meta"
+msgstr "Πιστοποιητικό Μεταδεδομένων"
+
+#: ../main-modules.php:2772
+msgid "Author Name"
+msgstr "Όνομα συγγραφέα"
+
+#: ../main-modules.php:2774
+msgid "Input the name of the testimonial author."
+msgstr "Εισάγετε το όνομα του συγγραφέα των συστάσεων."
+
+#: ../main-modules.php:2777
+msgid "Job Title"
+msgstr "Τίτλος της θέσεως εργασίας"
+
+#: ../main-modules.php:2779
+msgid "Input the job title."
+msgstr "Εισάγετε τον τίτλο της θέσεως εργασίας."
+
+#: ../main-modules.php:2782
+msgid "Company Name"
+msgstr "Επωνυμία της εταιρείας"
+
+#: ../main-modules.php:2784
+msgid "Input the name of the company."
+msgstr "Εισάγετε την επωνυμία της εταιρείας."
+
+#: ../main-modules.php:2787
+msgid "Author/Company URL"
+msgstr "Διεύθυνση URL του συγγραφέα/της εταιρείας"
+
+#: ../main-modules.php:2789
+msgid "Input the website of the author or leave blank for no link."
+msgstr ""
+"Εισάγετε την τοποθεσία web του συγγραφέα ή αφήστε κενό αν δεν υπάρχει "
+"σύνδεσμος."
+
+#: ../main-modules.php:2792
+msgid "URLs Open"
+msgstr "Τρόπος ανοίγματος διευθύνσεων URL"
+
+#: ../main-modules.php:2798
+msgid "Choose whether or not the URL should open in a new window."
+msgstr ""
+"Επιλέξτε, αν η διεύθυνση URL πρέπει να ανοίγει σε ένα καινούριο παράθυρο."
+
+#: ../main-modules.php:2801
+msgid "Portrait Image URL"
+msgstr "Διεύθυνση URL εικόνας κατακόρυφου προσανατολισμού"
+
+#: ../main-modules.php:2809
+msgid "Quote Icon"
+msgstr "Εικονίδιο προσφοράς"
+
+#: ../main-modules.php:2812
+msgid "Visible"
+msgstr "Ορατό"
+
+#: ../main-modules.php:2813
+msgid "Hidden"
+msgstr "Κρυφό"
+
+#: ../main-modules.php:2815
+msgid "Choose whether or not the quote icon should be visible."
+msgstr "Επιλέξτε, αν το εικονίδιο προσφοράς πρέπει να είναι ορατό."
+
+#: ../main-modules.php:2818 ../main-modules.php:3740 ../main-modules.php:4226
+#: ../main-modules.php:4626 ../main-modules.php:8457
+msgid "Use Background Color"
+msgstr "Χρήση Χρώματος Φόντου"
+
+#: ../main-modules.php:2827 ../main-modules.php:3749 ../main-modules.php:4235
+#: ../main-modules.php:4635 ../main-modules.php:8466
+msgid ""
+"Here you can choose whether background color setting below should be used or "
+"not."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε, αν πρέπει να χρησιμοποιηθεί η παρακάτω ρύθμιση "
+"για το χρώμα φόντου."
+
+#: ../main-modules.php:2832 ../main-modules.php:3755
+msgid "Here you can define a custom background color for your CTA."
+msgstr ""
+"Εδώ μπορείτε να ορίσετε ένα προσαρμοσμένο χρώμα φόντου για την έκκληση σας "
+"για ενέργεια."
+
+#: ../main-modules.php:2848 ../main-modules.php:3770
+msgid "This will adjust the alignment of the module text."
+msgstr ""
+"Αυτή η επιλογή θα προσαρμόσει τη στοίχιση του κειμένου της λειτουργικής "
+"μονάδας."
+
+#: ../main-modules.php:2871
+msgid "Quote Icon Color"
+msgstr "Χρώμα Εικονιδίου Παράθεσης"
+
+#: ../main-modules.php:2877
+msgid "Portrait Border Radius"
+msgstr "Ακτίνα Περιγράμματος Πορτραίτου"
+
+#: ../main-modules.php:2882
+msgid "Portrait Width"
+msgstr "Πλάτος Πορτραίτου"
+
+#: ../main-modules.php:2887
+msgid "Portrait Height"
+msgstr "Ύψος Πορτραίτου"
+
+#: ../main-modules.php:3047
+msgid "Pricing Tables"
+msgstr "Πίνακες Τιμολόγησης"
+
+#: ../main-modules.php:3051 ../main-modules.php:3445
+msgid "Pricing Table"
+msgstr "Πίνακας τιμών"
+
+#: ../main-modules.php:3081
+msgid "Pricing Heading"
+msgstr "Υπόκεφαλίδα Τιμολόγησης"
+
+#: ../main-modules.php:3085
+msgid "Pricing Title"
+msgstr "Τίτλος Τιμολόγησης"
+
+#: ../main-modules.php:3089
+msgid "Pricing Top"
+msgstr "Επάνω Μέρος Πίνακα Τιμολόγησης"
+
+#: ../main-modules.php:3093 ../main-modules.php:3124 ../main-modules.php:3485
+#: ../main-modules.php:3549 ../main-modules.php:8156 ../main-modules.php:8189
+msgid "Price"
+msgstr "Τιμή"
+
+#: ../main-modules.php:3097
+msgid "Pricing Content"
+msgstr "Περιεχόμενο Πίνακα Τιμολόγησης"
+
+#: ../main-modules.php:3101
+msgid "Pricing Button"
+msgstr "Κουμπί Τιμολόγησης"
+
+#: ../main-modules.php:3105
+msgid "Featured Table"
+msgstr "Προβαλλόμενος Πίνακας"
+
+#: ../main-modules.php:3118 ../main-modules.php:3479
+msgid "Subheader"
+msgstr "Υποκεφαλίδα"
+
+#: ../main-modules.php:3179
+msgid "Featured Table Background Color"
+msgstr "Χρώμα Φόντου Προβαλλόμενου Πίνακα"
+
+#: ../main-modules.php:3186
+msgid "Table Header Background Color"
+msgstr "Χρώμα Φόντου Κεφαλίδας Πίνακα"
+
+#: ../main-modules.php:3192
+msgid "Featured Table Header Background Color"
+msgstr "Χρώμα Φόντου Κεφαλίδας Προβαλλόμενου Πίνακα"
+
+#: ../main-modules.php:3199
+msgid "Featured Table Header Text Color"
+msgstr "Χρώμα Κειμένου Κεφαλίδας Προβαλλόμενου Πίνακα"
+
+#: ../main-modules.php:3206
+msgid "Featured Table Subheader Text Color"
+msgstr "Χρώμα Κειμένου Υποκεφαλίδας Προβαλλόμενου Πίνακα"
+
+#: ../main-modules.php:3213
+msgid "Featured Table Price Color"
+msgstr "Χρώμα Τιμής Προβαλλόμενου Πίνακα"
+
+#: ../main-modules.php:3220
+msgid "Featured Table Body Text Color"
+msgstr "Χρώμα Κειμένου Κορμού Προβαλλόμενου Πίνακα"
+
+#: ../main-modules.php:3227
+msgid "Show Bullet"
+msgstr "Εμφάνιση Κουκκίδας"
+
+#: ../main-modules.php:3239
+msgid "Bullet Color"
+msgstr "Χρώμα Κουκκίδας"
+
+#: ../main-modules.php:3246
+msgid "Featured Table Bullet Color"
+msgstr "Χρώμα Κουκκίδας Προβαλλόμενου Πίνακα"
+
+#: ../main-modules.php:3253
+msgid "Remove Featured Table Drop Shadow"
+msgstr "Αφαίρεση Σκίασης Προβαλλόμενου Πίνακα"
+
+#: ../main-modules.php:3263
+msgid "Center List Items"
+msgstr "Κεντράρετε Τη Λίστα Στοιχείων"
+
+#: ../main-modules.php:3467
+msgid "New Pricing Table"
+msgstr "Καινούριος πίνακας τιμών"
+
+#: ../main-modules.php:3468
+msgid "Pricing Table Settings"
+msgstr "Ρυθμίσεις για πίνακες τιμών"
+
+#: ../main-modules.php:3520
+msgid "Make This Table Featured"
+msgstr "Αυτός ο πίνακας να γίνει προβεβλημένος"
+
+#: ../main-modules.php:3526
+msgid "Featuring a table will make it stand out from the rest."
+msgstr ""
+"Αν ορίσετε τον πίνακα ως προβεβλημένο θα ξεχωρίζει ανάμεσα στους άλλους."
+
+#: ../main-modules.php:3531
+msgid "Define a title for the pricing table."
+msgstr "Ορίστε έναν τίτλο για τον πίνακα τιμών."
+
+#: ../main-modules.php:3534
+msgid "Subtitle"
+msgstr "Υπότιτλος"
+
+#: ../main-modules.php:3536
+msgid "Define a sub title for the table if desired."
+msgstr "Ορίστε έναν υπότιτλο για τον πίνακα, αν θέλετε."
+
+#: ../main-modules.php:3539
+msgid "Currency"
+msgstr "Νόμισμα"
+
+#: ../main-modules.php:3541
+msgid "Input your desired currency symbol here."
+msgstr "Εισάγετε εδώ το σύμβολο του νομίσματος που επιθυμείτε."
+
+#: ../main-modules.php:3544
+msgid "Per"
+msgstr "Ανά"
+
+#: ../main-modules.php:3546
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here."
+msgstr ""
+"Αν η τιµολόγησή σας βασίζεται στη συνδρομή, εισάγετε εδώ τον κύκλο πληρωμής "
+"με συνδρομή."
+
+#: ../main-modules.php:3551
+msgid "Input the value of the product here."
+msgstr "Εισάγετε εδώ την τιμή του προϊόντος."
+
+#: ../main-modules.php:3556
+msgid "Input the destination URL for the signup button."
+msgstr "Εισάγετε τη διεύθυνση URL προορισμού για το κουμπί εγγραφής."
+
+#: ../main-modules.php:3561
+msgid "Adjust the text used from the signup button."
+msgstr "Προσαρμόστε το κείμενο που χρησιμοποιήθηκε για το κουμπί εγγραφής."
+
+#: ../main-modules.php:3568
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: "
+msgstr ""
+"Εισάγετε μια λίστα λειτουργιών που έχουν/δεν έχουν συμπεριληφθεί στο προϊόν. "
+"Ξεχωρίστε τα στοιχεία καταχωρώντας κάθε από αυτά σε μια καινούρια γραμμή "
+"αρχίζοντας από το σύμβολο a + ή -."
+
+#: ../main-modules.php:3569
+msgid "Included option"
+msgstr "Συμπεριλαµβανόμενη επιλογή"
+
+#: ../main-modules.php:3570
+msgid "Excluded option"
+msgstr "Μη συμπεριλαµβανόμενη επιλογή"
+
+#: ../main-modules.php:3643
+msgid "Call To Action"
+msgstr "Έκκληση για ενέργεια"
+
+#: ../main-modules.php:3703
+msgid "Promo Description"
+msgstr "Περιγραφή"
+
+#: ../main-modules.php:3707
+msgid "Promo Button"
+msgstr "Κουμπί"
+
+#: ../main-modules.php:3718
+msgid "Input your value to action title here."
+msgstr "Εισάγετε εδώ την τιμή σας για τον τίτλο της ενέργειας."
+
+#: ../main-modules.php:3723
+msgid "Input the destination URL for your CTA button."
+msgstr ""
+"Εισάγετε τη διεύθυνση URL προορισμού για το κουμπί σας για την έκκληση για "
+"ενέργεια."
+
+#: ../main-modules.php:3737
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+"Εισάγετε κείμενο για το κουμπί που επιθυμείτε ή αφήστε κενό αν δεν υπάρχει "
+"κουμπί."
+
+#: ../main-modules.php:3876 ../main-modules.php:3941
+msgid "Audio"
+msgstr "Αρχεία ήχου"
+
+#: ../main-modules.php:3924
+msgid "Audio Cover Art"
+msgstr "Εικόνα Ήχου"
+
+#: ../main-modules.php:3928
+msgid "Audio Content"
+msgstr "Περιεχόμενο Ήχου"
+
+#: ../main-modules.php:3932
+msgid "Audio Meta"
+msgstr "Μεταδεδομένα Ήχου"
+
+#: ../main-modules.php:3944
+msgid "Upload an audio file"
+msgstr "Ανέβασμα αρχείου ήχου"
+
+#: ../main-modules.php:3945
+msgid "Choose an Audio file"
+msgstr "Επιλογή ενός αρχείου ήχου"
+
+#: ../main-modules.php:3946
+msgid "Set As Audio for the module"
+msgstr "Ορισμός ως αρχείο ήχου για τη λειτουργική μονάδα"
+
+#: ../main-modules.php:3947
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+"Ορίστε το αρχείο ήχου για χρήση στη λειτουργική μονάδα. Για να αφαιρέσετε "
+"ένα αρχείο ήχου από τη λειτουργική μονάδα, απλώς διαγράψτε τη διεύθυνση URL "
+"από το πεδίο ρυθμίσεων."
+
+#: ../main-modules.php:3952
+msgid "Define a title."
+msgstr "Ορίστε έναν τίτλο."
+
+#: ../main-modules.php:3955
+msgid "Artist Name"
+msgstr "Όνομα καλλιτέχνη"
+
+#: ../main-modules.php:3957
+msgid "Define an artist name."
+msgstr "Ορισμός του ονόματος του καλλιτέχνη."
+
+#: ../main-modules.php:3960
+msgid "Album name"
+msgstr "Τίτλος του άλμπουμ"
+
+#: ../main-modules.php:3962
+msgid "Define an album name."
+msgstr "Ορισμός του τίτλου του άλμπουμ."
+
+#: ../main-modules.php:3965
+msgid "Cover Art Image URL"
+msgstr "Διεύθυνση URL για την εικόνα εξώφυλλου"
+
+#: ../main-modules.php:3975 ../main-modules.php:4240 ../main-modules.php:4640
+#: ../main-structure-elements.php:120
+msgid ""
+"Define a custom background color for your module, or leave blank to use the "
+"default color."
+msgstr ""
+"Ορίστε ένα προσαρμοσμένο χρώμα φόντου για τη λειτουργική μονάδα σας ή αφήστε "
+"κενό για να χρησιμοποιήσετε το προεπιλεγμένο χρώμα."
+
+#: ../main-modules.php:4032
+#, php-format
+msgid "by <strong>%1$s</strong>"
+msgstr "από <strong>%1$s</strong>"
+
+#: ../main-modules.php:4083
+msgid "Signup"
+msgstr "Εγγραφείτε"
+
+#: ../main-modules.php:4111
+msgid "Subscribe"
+msgstr "Εγγραφείτε"
+
+#: ../main-modules.php:4145 ../main-modules.php:4595
+msgid "Newsletter Description"
+msgstr "Περιγραφή Ενημερωτικού Δελτίου"
+
+#: ../main-modules.php:4149 ../main-modules.php:4599
+msgid "Newsletter Form"
+msgstr "Φόρμα Ενημερωτικού Δελτίου"
+
+#: ../main-modules.php:4153 ../main-modules.php:4603
+msgid "Newsletter Button"
+msgstr "Κουμπί Ενημερωτικού Δελτίου"
+
+#: ../main-modules.php:4160
+msgid "Select the list"
+msgstr "Επιλέξτε τη λίστα"
+
+#: ../main-modules.php:4181
+msgid "Service Provider"
+msgstr "Υπηρεσία παροχής"
+
+#: ../main-modules.php:4184
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: ../main-modules.php:4185
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: ../main-modules.php:4186
+msgid "Aweber"
+msgstr "Aweber"
+
+#: ../main-modules.php:4193
+msgid "Here you can choose a service provider."
+msgstr "Εδώ μπορείτε να επιλέξετε μια υπηρεσία παροχής."
+
+#: ../main-modules.php:4196
+msgid "Feed Title"
+msgstr "Τίτλος τροφοδοσίας"
+
+#: ../main-modules.php:4202
+msgid "MailChimp lists"
+msgstr "Λίστες MailChimp"
+
+#: ../main-modules.php:4205
+msgid ""
+"Here you can choose MailChimp list to add customers to. If you don't see any "
+"lists here, you need to make sure MailChimp API key is set in ePanel and you "
+"have at least one list on a MailChimp account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate MailChimp Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε μια λίστα MailChimp στην οποία θα προσθέτετε "
+"πελάτες. Αν δεν βλέπετε εδώ καμιά λίστα, πρέπει να βεβαιωθείτε ότι το κλειδί "
+"για το MailChimp API ορίστηκε στο ePanel και ότι εσείς έχετε τουλάχιστον μια "
+"λίστα σε έναν λογαριασμό MailChimp. Αν προσθέσατε μια καινούρια λίστα, αλλά "
+"αυτή δεν εμφανίζεται εδώ, ενεργοποιήστε την επιλογή «Αναδημιουργία λιστών "
+"MailChimp» στο ePanel. Μην ξεχάσετε να την απενεργοποιήσετε, μόλις "
+"δημιουργηθεί ξανά η λίστα."
+
+#: ../main-modules.php:4209
+msgid "Aweber lists"
+msgstr "Λίστες Aweber"
+
+#: ../main-modules.php:4212
+msgid ""
+"Here you can choose Aweber list to add customers to. If you don't see any "
+"lists here, you need to make sure Aweber is set up properly in ePanel and "
+"you have at least one list on a Aweber account. If you added new list, but "
+"it doesn't appear here, activate 'Regenerate Aweber Lists' option in ePanel. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε μια λίστα Aweber στην οποία θα προσθέτετε πελάτες. "
+"Αν δεν βλέπετε εδώ καμιά λίστα, πρέπει να βεβαιωθείτε ότι το Aweber ορίστηκε "
+"σωστά στο ePanel και ότι εσείς έχετε τουλάχιστον μια λίστα σε έναν "
+"λογαριασμό Aweber. Αν προσθέσατε μια καινούρια λίστα, αλλά αυτή δεν "
+"εμφανίζεται εδώ, ενεργοποιήστε την επιλογή «Αναδημιουργία λιστών Aweber» στο "
+"ePanel. Μην ξεχάσετε να την απενεργοποιήσετε, μόλις δημιουργηθεί ξανά η "
+"λίστα."
+
+#: ../main-modules.php:4218
+msgid "Choose a title of your signup box."
+msgstr "Επιλέξτε έναν τίτλο για το πλαίσιο εγγραφής σας."
+
+#: ../main-modules.php:4223
+msgid "Here you can change the text used for the signup button."
+msgstr ""
+"Εδώ μπορείτε να αλλάξετε το κείμενο που χρησιμοποιήθηκε για το κουμπί "
+"εγγραφής."
+
+#: ../main-modules.php:4256 ../main-modules.php:4656
+msgid "Here you can adjust the alignment of your text."
+msgstr "Εδώ μπορείτε να προσαρμόσετε τη στοίχιση του κειμένου σας."
+
+#: ../main-modules.php:4279 ../main-modules.php:4679
+msgid "Form Field Background Color"
+msgstr "Χρώμα Φόντου Πεδίου Φόρμας"
+
+#: ../main-modules.php:4285 ../main-modules.php:4685
+msgid "Form Field Text Color"
+msgstr "Χρώμα Κειμένου Πεδίου Φόρμας"
+
+#: ../main-modules.php:4291 ../main-modules.php:4691
+msgid "Focus Background Color"
+msgstr "Χρώμα Φόντου Εστιασμένου Πεδίου"
+
+#: ../main-modules.php:4297 ../main-modules.php:4697
+msgid "Focus Text Color"
+msgstr "Χρώμα Κειμένου Εστιασμένου Πεδίου"
+
+#: ../main-modules.php:4303 ../main-modules.php:4703
+msgid "Use Focus Border Color"
+msgstr "Χρήση Χρώματος Περιγράμματος Εστιασμένου Πεδίου"
+
+#: ../main-modules.php:4315 ../main-modules.php:4715
+msgid "Focus Border Color"
+msgstr "Χρώμα Περιγράμματος Εστιασμένου Πεδίου"
+
+#: ../main-modules.php:4407
+msgid "First Name"
+msgstr "Μικρό Όνομα"
+
+#: ../main-modules.php:4408
+msgid "Last Name"
+msgstr "Επώνυμο"
+
+#: ../main-modules.php:4409 ../main-modules.php:6954
+msgid "Email Address"
+msgstr "Διεύθυνση Email"
+
+#: ../main-modules.php:4476 ../main-modules.php:6953 ../main-modules.php:7457
+msgid "Name"
+msgstr "Όνομα"
+
+#: ../main-modules.php:4538 ../main-modules.php:4847
+msgid "Login"
+msgstr "Συνδεθείτε"
+
+#: ../main-modules.php:4614
+msgid "Choose a title of your login box."
+msgstr "Επιλέξτε έναν τίτλο για το δικό σας πλαίσιο της εισαγωγής στο σύστημα."
+
+#: ../main-modules.php:4617
+msgid "Redirect To The Current Page"
+msgstr "Ανακατεύθυνση στην τρέχουσα σελίδα"
+
+#: ../main-modules.php:4623
+msgid ""
+"Here you can choose whether the user should be redirected to the current "
+"page."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε, αν ο χρήστης πρέπει να ανακατευθυνθεί στην "
+"τρέχουσα σελίδα."
+
+#: ../main-modules.php:4808
+#, php-format
+msgid "Logged in as %1$s"
+msgstr "Συνδεθήκατε ως %1$s"
+
+#: ../main-modules.php:4810
+msgid "Log out"
+msgstr "Αποσυνδεθείτε"
+
+#: ../main-modules.php:4819
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: ../main-modules.php:4820
+msgid "Password"
+msgstr "Κωδικός"
+
+#: ../main-modules.php:4840
+msgid "Forgot your password?"
+msgstr "Ξεχάσατε τον κωδικό σας;"
+
+#: ../main-modules.php:4887
+msgid "Portfolio"
+msgstr "Πορτφόλιο"
+
+#: ../main-modules.php:4940 ../main-modules.php:5298
+msgid "Portfolio Image"
+msgstr "Εικόνα Χαρτοφυλακίου"
+
+#: ../main-modules.php:4952 ../main-modules.php:5310 ../main-modules.php:10707
+msgid "Portfolio Title"
+msgstr "Τίτλος του πορτφολίου"
+
+#: ../main-modules.php:4956 ../main-modules.php:5314
+msgid "Portfolio Post Meta"
+msgstr "Πληροφορίες Εικόνας Χαρτοφυλακίου"
+
+#: ../main-modules.php:4968 ../main-modules.php:5326 ../main-modules.php:7752
+msgid "Fullwidth"
+msgstr "Πλήρες πλάτος"
+
+#: ../main-modules.php:4971 ../main-modules.php:5329 ../main-modules.php:10718
+msgid "Choose your desired portfolio layout style."
+msgstr "Επιλέξτε στυλ διάταξης που επιθυμείτε για το πορτφόλιο."
+
+#: ../main-modules.php:4974 ../main-modules.php:5332 ../main-modules.php:7762
+#: ../main-modules.php:8210 ../main-modules.php:10726
+msgid "Posts Number"
+msgstr "Αριθμός δημοσιεύσεων"
+
+#: ../main-modules.php:4976 ../main-modules.php:5334
+msgid "Define the number of projects that should be displayed per page."
+msgstr "Ορισμός του αριθμού των έργων που πρέπει να εμφανίζονται ανά σελίδα."
+
+#: ../main-modules.php:4979 ../main-modules.php:5337 ../main-modules.php:7767
+#: ../main-modules.php:10721
+msgid "Include Categories"
+msgstr "Αριθμός δημοσιεύσεων"
+
+#: ../main-modules.php:4981 ../main-modules.php:5339 ../main-modules.php:10723
+msgid "Select the categories that you would like to include in the feed."
+msgstr "Επιλέξτε τις κατηγορίες που θέλετε να συμπεριλάβετε στην τροφοδοσία."
+
+#: ../main-modules.php:4984 ../main-modules.php:5342 ../main-modules.php:9166
+#: ../main-modules.php:10731 ../main-modules.php:11392
+msgid "Show Title"
+msgstr "Εμφάνιση τίτλου"
+
+#: ../main-modules.php:4990 ../main-modules.php:5348 ../main-modules.php:10737
+msgid "Turn project titles on or off."
+msgstr "Ενεργοποίηση ή απενεργοποίηση των έργων."
+
+#: ../main-modules.php:4993 ../main-modules.php:5351 ../main-modules.php:7829
+msgid "Show Categories"
+msgstr "Εμφάνιση κατηγοριών"
+
+#: ../main-modules.php:4999 ../main-modules.php:5357 ../main-modules.php:7835
+msgid "Turn the category links on or off."
+msgstr "Ενεργοποίηση και απενεργοποίηση των συνδέσμων για κατηγορίες."
+
+#: ../main-modules.php:5231
+msgid "Filterable Portfolio"
+msgstr "Πορτφόλιο με δυνατότητα φιλτραρίσματος"
+
+#: ../main-modules.php:5275
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#: ../main-modules.php:5290
+msgid "Portfolio Filters"
+msgstr "Φίλτρα Χαρτοφυλακίου"
+
+#: ../main-modules.php:5294
+msgid "Active Portfolio Filter"
+msgstr "Ενεργό Φίλτρο Χαρτοφυλακίου"
+
+#: ../main-modules.php:5568
+msgid "All"
+msgstr "Όλα"
+
+#: ../main-modules.php:5608
+msgid "Bar Counters"
+msgstr "Γραμμικοί μετρητές"
+
+#: ../main-modules.php:5611 ../main-modules.php:5786
+msgid "Bar Counter"
+msgstr "Μετρητής"
+
+#: ../main-modules.php:5646 ../main-modules.php:5819 ../main-modules.php:6012
+#: ../main-modules.php:6190
+msgid "Percent"
+msgstr "Ποσοστό"
+
+#: ../main-modules.php:5663
+msgid "Counter Title"
+msgstr "Τίτλος Μετρητή"
+
+#: ../main-modules.php:5667
+msgid "Counter Container"
+msgstr "Περιέκτης Μετρητή"
+
+#: ../main-modules.php:5671
+msgid "Counter Amount"
+msgstr "Αριθμός Μετρητή"
+
+#: ../main-modules.php:5691
+msgid ""
+"This will adjust the color of the empty space in the bar (currently gray)."
+msgstr ""
+"Αυτή η επιλογή θα προσαρμόσει το χρώμα του κενού διαστήματος στη γραμμή "
+"(προς το παρόν γκρίζο)."
+
+#: ../main-modules.php:5694 ../main-modules.php:5830 ../main-modules.php:6054
+msgid "Bar Background Color"
+msgstr "Χρώμα φόντου γραμμής"
+
+#: ../main-modules.php:5696 ../main-modules.php:6056 ../main-modules.php:6224
+msgid "This will change the fill color for the bar."
+msgstr "Αυτή η επιλογή θ' αλλάξει το χρώμα γεμίσματος της γραμμής."
+
+#: ../main-modules.php:5699
+msgid "Use Percentages"
+msgstr "Χρήση Ποσοστών"
+
+#: ../main-modules.php:5722
+msgid "Bar Top Padding"
+msgstr "Γέμισμα Επάνω Μπάρας"
+
+#: ../main-modules.php:5727
+msgid "Bar Bottom Padding"
+msgstr "Γέμισμα Κάτω Μπάρας"
+
+#: ../main-modules.php:5732
+msgid "Border Radius"
+msgstr "Ακτίνα Περιγράμματος"
+
+#: ../main-modules.php:5804
+msgid "New Bar Counter"
+msgstr "Καινούριος γραμμικός μετρητής"
+
+#: ../main-modules.php:5805
+msgid "Bar Counter Settings"
+msgstr "Ρυθμίσεις για γραμμικό μετρητή"
+
+#: ../main-modules.php:5816
+msgid "Input a title for your bar."
+msgstr "Εισάγετε έναν τίτλο για τη γραμμή σας."
+
+#: ../main-modules.php:5821
+msgid "Define a percentage for this bar."
+msgstr "Ορισμός του ποσοστού για αυτή τη γραμμή."
+
+#: ../main-modules.php:5836
+msgid "Label Color"
+msgstr "Χρώμα Ετικέτας"
+
+#: ../main-modules.php:5842
+msgid "Percentage Color"
+msgstr "Χρώμα Ποσοστού"
+
+#: ../main-modules.php:5969
+msgid "Circle Counter"
+msgstr "Κυκλικός μετρητής"
+
+#: ../main-modules.php:6002 ../main-modules.php:6030 ../main-modules.php:6172
+#: ../main-modules.php:6208
+msgid "Number"
+msgstr "Αριθμός"
+
+#: ../main-modules.php:6016
+msgid "Circle Counter Title"
+msgstr "Τίτλος Κυκλικού Μετρητή"
+
+#: ../main-modules.php:6027
+msgid "Input a title for the circle counter."
+msgstr "Εισάγετε έναν τίτλο για τον κυκλικό μετρητή"
+
+#: ../main-modules.php:6033
+msgid ""
+"Define a number for the circle counter. (Don't include the percentage sign, "
+"use the option below.). <strong>Note: You can use only natural numbers from "
+"0 to 100</strong>"
+msgstr ""
+"Ορίστε έναν αριθμό για τον κυκλικό μετρητή. (Μην περιλαμβάνετε το σήμα "
+"ποσοστού, χρησιμοποιήστε την παρακάτω επιλογή.) Σηµείωση: μπορείτε να "
+"χρησιμοποιείτε μόνο φυσικούς αριθμούς από 0 έως 100."
+
+#: ../main-modules.php:6036 ../main-modules.php:6213
+msgid "Percent Sign"
+msgstr "Σήμα ποσοστού"
+
+#: ../main-modules.php:6042 ../main-modules.php:6219
+msgid ""
+"Here you can choose whether the percent sign should be added after the "
+"number set above."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν το σήμα ποσοστού πρέπει να προσθέτεται μετά από "
+"τον αριθμό που ορίστηκε παραπάνω."
+
+#: ../main-modules.php:6080
+msgid "Circle Color Opacity"
+msgstr "Χρώμα Αδιαφάνειας Κύκλου"
+
+#: ../main-modules.php:6141
+msgid "Number Counter"
+msgstr "Αριθμητικός μετρητής"
+
+#: ../main-modules.php:6194
+msgid "Number Counter Title"
+msgstr "Τίτλος Αριθμού Μετρητή"
+
+#: ../main-modules.php:6205
+msgid "Input a title for the counter."
+msgstr "Εισάγετε έναν τίτλο για τον μετρητή"
+
+#: ../main-modules.php:6210
+msgid ""
+"Define a number for the counter. (Don't include the percentage sign, use the "
+"option below.)"
+msgstr ""
+"Ορίστε έναν αριθμό για τον μετρητή. (Μην περιλαμβάνετε το σήμα ποσοστού, "
+"χρησιμοποιήστε την παρακάτω επιλογή.)"
+
+#: ../main-modules.php:6222
+msgid "Counter Text Color"
+msgstr "Χρώμα του κειμένου του μετρητή"
+
+#: ../main-modules.php:6233
+msgid ""
+"Here you can choose whether your title text should be light or dark. If you "
+"are working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν το κείμενό του τίτλου σας θα είναι ανοιχτόχρωμο "
+"ή σκουρόχρωμο. Αν έχετε σκούρο φόντο, τότε το κείμενό σας πρέπει να είναι "
+"ανοιχτόχρωμο. Αν το φόντο σας είναι ανοιχτό, τότε το κείμενό σας πρέπει να "
+"είναι σκουρόχρωμο."
+
+#: ../main-modules.php:6291 ../main-modules.php:6466
+msgid "Accordion"
+msgstr "Accordion"
+
+#: ../main-modules.php:6308 ../main-modules.php:6341 ../main-modules.php:6542
+msgid "Toggle"
+msgstr "Εναλλαγή"
+
+#: ../main-modules.php:6345 ../main-modules.php:6590
+msgid "Open Toggle"
+msgstr "Άνοιγμα Εναλλαγής"
+
+#: ../main-modules.php:6349 ../main-modules.php:6594
+msgid "Toggle Title"
+msgstr "Εναλλαγή Τίτλου"
+
+#: ../main-modules.php:6353 ../main-modules.php:6598
+msgid "Toggle Icon"
+msgstr "Εναλλαγή Εικονιδίου"
+
+#: ../main-modules.php:6357 ../main-modules.php:6602
+msgid "Toggle Content"
+msgstr "Εναλλαγή Περιεχομένου"
+
+#: ../main-modules.php:6381 ../main-modules.php:6505 ../main-modules.php:6645
+msgid "Open Toggle Background Color"
+msgstr "Άνοιγμα Εναλλαγής Χρώματος Φόντου"
+
+#: ../main-modules.php:6387 ../main-modules.php:6517 ../main-modules.php:6651
+msgid "Closed Toggle Background Color"
+msgstr "Κλείσιμο Εναλλαγής Χρώματος Φόντου"
+
+#: ../main-modules.php:6497 ../main-modules.php:6613
+msgid ""
+"The toggle title will appear above the content and when the toggle is closed."
+msgstr ""
+"Ο τίτλος της εναλλαγής θα εμφανίζεται πάνω από το περιεχόμενο και όταν η "
+"εναλλαγή είναι κλειστή."
+
+#: ../main-modules.php:6511
+msgid "Open Toggle Text Color"
+msgstr "Άνοιγμα Εναλλαγής Χρώματος Κειμένου"
+
+#: ../main-modules.php:6523
+msgid "Closed Toggle Text Color"
+msgstr "Κλείσιμο Εναλλαγής Χρώματος Κειμένου"
+
+#: ../main-modules.php:6616
+msgid "State"
+msgstr "Κατάσταση"
+
+#: ../main-modules.php:6619
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: ../main-modules.php:6620
+msgid "Open"
+msgstr "Άνοιγμα"
+
+#: ../main-modules.php:6622
+msgid ""
+"Choose whether or not this toggle should start in an open or closed state."
+msgstr ""
+"Επιλέξτε, αν αυτή η εναλλαγή πρέπει να ξεκινάει όταν είναι ανοιχτή ή κλειστή."
+
+#: ../main-modules.php:6742
+msgid "Contact Form"
+msgstr "Φόρμα επικοινωνίας"
+
+#: ../main-modules.php:6770
+msgid "Form Field"
+msgstr "Πεδίο Φόρμας"
+
+#: ../main-modules.php:6792
+msgid "Contact Title"
+msgstr "Τίτλος Επαφής"
+
+#: ../main-modules.php:6796
+msgid "Contact Button"
+msgstr "Κουμπί Επαφής"
+
+#: ../main-modules.php:6805
+msgid "Display Captcha"
+msgstr "Εμφάνιση Captcha"
+
+#: ../main-modules.php:6811
+msgid "Turn the captcha on or off using this option."
+msgstr ""
+"Ενεργοποιείτε και απενεργοποιείτε τα Captcha χρησιμοποιώντας αυτή την "
+"επιλογή."
+
+#: ../main-modules.php:6814
+msgid "Email"
+msgstr "Email"
+
+#: ../main-modules.php:6816
+msgid "Input the email address where messages should be sent."
+msgstr ""
+"Εισάγετε τη διεύθυνση email στην οποία πρέπει να αποστέλλονται μηνύματα."
+
+#: ../main-modules.php:6821
+msgid "Define a title for your contact form."
+msgstr "Ορισμός τίτλου για τη δική σας φόρμα επικοινωνίας"
+
+#: ../main-modules.php:6839
+msgid "Form Background Color"
+msgstr "Χρώμα Φόντου Φόρμας"
+
+#: ../main-modules.php:6845
+msgid "Input Border Radius"
+msgstr "Εισαγωγή Ακτίνας Περιγράμματος"
+
+#: ../main-modules.php:6894
+msgid "Make sure you entered the captcha."
+msgstr "Σιγουρευτείτε ότι εισάγατε το captcha."
+
+#: ../main-modules.php:6897
+msgid "You entered the wrong number in captcha."
+msgstr "Εισάγατε λάθος νούμερο στο captcha."
+
+#: ../main-modules.php:6904
+msgid "Make sure you fill all fields."
+msgstr "Βεβαιωθείτε ότι έχετε συμπληρώσει όλα τα πεδία."
+
+#: ../main-modules.php:6909
+msgid "Invalid Email."
+msgstr "Μη έγκυρο Email."
+
+#: ../main-modules.php:6943
+#, php-format
+msgid "New Message From %1$s%2$s"
+msgstr "Νέο Μήνυμα από %1$s%2$s"
+
+#: ../main-modules.php:6945
+#, php-format
+msgid " - %s"
+msgstr " - %s"
+
+#: ../main-modules.php:6948
+msgid "Thanks for contacting us"
+msgstr "Ευχαριστούμε που επικοινωνήσατε μαζί μας"
+
+#: ../main-modules.php:6955
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: ../main-modules.php:7008
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: ../main-modules.php:7042
+msgid "Sidebar"
+msgstr "Πλαϊνή γραμμή"
+
+#: ../main-modules.php:7080
+msgid "Widget"
+msgstr "Widget"
+
+#: ../main-modules.php:7093
+msgid "Orientation"
+msgstr "Προσανατολισμός"
+
+#: ../main-modules.php:7099
+msgid ""
+"Choose which side of the page your sidebar will be on. This setting controls "
+"text orientation and border position."
+msgstr ""
+"Επιλέξτε σε ποια πλευρά της σελίδας θα είναι η πλαϊνή γραμμή. Από αυτή τη "
+"ρύθμιση εξαρτάται ο προσανατολισμός του κειμένου και η θέση του "
+"περιγράμματος."
+
+#: ../main-modules.php:7102
+msgid "Widget Area"
+msgstr "Περιοχή γραφικού στοιχείου"
+
+#: ../main-modules.php:7104
+msgid ""
+"Select a widget-area that you would like to display. You can create new "
+"widget areas within the Appearances > Widgets tab."
+msgstr ""
+"Επιλέξτε μια περιοχή στην οποία θέλετε να εμφανίζεται το γραφικό στοιχείο. "
+"Μπορείτε να δημιουργήσετε καινούριες περιοχές γραφικών στοιχείων στην "
+"καρτέλα Εμφανίσεις > Γραφικά στοιχεία."
+
+#: ../main-modules.php:7131
+msgid "Remove Border Separator"
+msgstr "Αφαίρεση Διαχωριστή Περιγράμματος"
+
+#: ../main-modules.php:7188
+msgid "Divider"
+msgstr "Διαχωριστής"
+
+#: ../main-modules.php:7199
+msgid "Don't Show Divider"
+msgstr "Να μην εμφανίζεται ο διαχωριστής"
+
+#: ../main-modules.php:7200
+msgid "Show Divider"
+msgstr "Εμφάνιση διαχωριστή"
+
+#: ../main-modules.php:7233
+msgid "Color"
+msgstr "Χρώμα"
+
+#: ../main-modules.php:7235
+msgid "This will adjust the color of the 1px divider line."
+msgstr "Αυτή η επολογή θα προσαρμόσει το χρώμα της 1px διαχωριστικής γραμμής."
+
+#: ../main-modules.php:7238
+msgid "Visibility"
+msgstr "Ορατότητα"
+
+#: ../main-modules.php:7246
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect the "
+"divider height."
+msgstr ""
+"Αυτή η ρύθμιση ενεργοποιεί και απενεργοποιεί τη 1px διαχωριστική γραμμή, "
+"αλλά δεν επηρεάζει το ύψος του διαχωριστή."
+
+#: ../main-modules.php:7249
+msgid "Height"
+msgstr "Ύψος"
+
+#: ../main-modules.php:7251
+msgid "Define how much space should be added below the divider."
+msgstr "Καθορίστε πόσος χώρος θα πρέπει να προστεθεί κάτω από το διαχωριστή"
+
+#: ../main-modules.php:7269
+msgid "Divider Style"
+msgstr "Στυλ διαχωριστή"
+
+#: ../main-modules.php:7276
+msgid "Divider Position"
+msgstr "Θέση Διαχωριστή"
+
+#: ../main-modules.php:7280 ../main-modules.php:9800
+msgid "Vertically Centered"
+msgstr "Κεντραρισμένο Κάθετα"
+
+#: ../main-modules.php:7287
+msgid "Divider Weight"
+msgstr "Ύψος Διαχωριστή"
+
+#: ../main-modules.php:7293
+msgid "Hide On Mobile"
+msgstr "Απόκρυψη Στο Κινητό"
+
+#: ../main-modules.php:7380
+msgid "Person"
+msgstr "Πρόσωπο"
+
+#: ../main-modules.php:7432
+msgid "Member Image"
+msgstr "Εικόνα Μέλους"
+
+#: ../main-modules.php:7436
+msgid "Member Description"
+msgstr "Περιγραφή Μέλους"
+
+#: ../main-modules.php:7444
+msgid "Member Position"
+msgstr "Θέση Μέλους"
+
+#: ../main-modules.php:7448
+msgid "Member Social Links"
+msgstr "Σύνδεσμοι Κοινωνικών Δικτύων Μέλους"
+
+#: ../main-modules.php:7459
+msgid "Input the name of the person"
+msgstr "Εισάγετε το όνομα του προσώπου"
+
+#: ../main-modules.php:7462
+msgid "Position"
+msgstr "Θέση"
+
+#: ../main-modules.php:7464
+msgid "Input the person's position."
+msgstr "Εισάγετε τη θέση του προσώπου"
+
+#: ../main-modules.php:7497
+msgid "Facebook Profile Url"
+msgstr "Προφίλ Facebook URL"
+
+#: ../main-modules.php:7499
+msgid "Input Facebook Profile Url."
+msgstr "Εισάγετε τη διεύθυνση URL για το προφίλ στο Facebook."
+
+#: ../main-modules.php:7502
+msgid "Twitter Profile Url"
+msgstr "Προφίλ Twitter URL"
+
+#: ../main-modules.php:7504
+msgid "Input Twitter Profile Url"
+msgstr "Εισάγετε τη διεύθυνση URL για το προφίλ στο Twitter."
+
+#: ../main-modules.php:7507
+msgid "Google+ Profile Url"
+msgstr "Προφίλ Google+ URL"
+
+#: ../main-modules.php:7509
+msgid "Input Google+ Profile Url"
+msgstr "Εισάγετε τη διεύθυνση URL για το προφίλ στο Google+."
+
+#: ../main-modules.php:7512
+msgid "LinkedIn Profile Url"
+msgstr "Εισάγετε τη διεύθυνση URL για το προφίλ στο LinkedIn."
+
+#: ../main-modules.php:7514
+msgid "Input LinkedIn Profile Url"
+msgstr "Εισάγετε τη διεύθυνση URL για το προφίλ στο LinkedIn."
+
+#: ../main-modules.php:7517
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: ../main-modules.php:7543 ../main-modules.php:8263
+msgid "Icon Hover Color"
+msgstr "Χρώμα Εικονιδίου Όταν βρίσκεται το Ποντίκι από Πάνω"
+
+#: ../main-modules.php:7595
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../main-modules.php:7603 ../main-modules.php:8971
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../main-modules.php:7611 ../main-modules.php:8975
+msgid "Google+"
+msgstr "Google+"
+
+#: ../main-modules.php:7619 ../main-modules.php:8983
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../main-modules.php:7666
+msgid "Blog"
+msgstr "Ιστολόγιο"
+
+#: ../main-modules.php:7716 ../main-modules.php:9154 ../main-modules.php:11380
+msgid "Meta"
+msgstr "Μεταδεδομένα"
+
+#: ../main-modules.php:7736
+msgid "Post Meta"
+msgstr "Μεταδεδομένα Ανάρτησης"
+
+#: ../main-modules.php:7740
+msgid "Pagenavi"
+msgstr "Πλοήγηση Σελίδας"
+
+#: ../main-modules.php:7764
+msgid "Choose how much posts you would like to display per page."
+msgstr "Επιλέξτε πόσες δημοσιεύσεις θέλετε να εμφανίζονται ανά σελίδα."
+
+#: ../main-modules.php:7772
+msgid "Choose which categories you would like to include in the feed."
+msgstr "Επιλέξτε ποιές κατηγορίες θέλετε να συμπεριλάβετε στην τροφοδοσία."
+
+#: ../main-modules.php:7775
+msgid "Meta Date Format"
+msgstr "Μορφή ημερομηνίας"
+
+#: ../main-modules.php:7777
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+"Αν θέλετε να προσαρμόσετε τη μορφή ημερομηνίας, εισάγετε εδώ την κατάλληλη "
+"μορφή ημερομηνίας PHP."
+
+#: ../main-modules.php:7780 ../main-modules.php:9241 ../main-modules.php:11467
+msgid "Show Featured Image"
+msgstr "Εμφάνιση προβεβλημένης εικόνας"
+
+#: ../main-modules.php:7786
+msgid "This will turn thumbnails on and off."
+msgstr "Αυτή η επιλογή θα ενεργοποιεί και θα απενεργοποιεί τις μικρογραφίες."
+
+#: ../main-modules.php:7792
+msgid "Show Excerpt"
+msgstr "Εμφάνιση αποσπάσματος"
+
+#: ../main-modules.php:7793
+msgid "Show Content"
+msgstr "Εμφάνιση περιεχομένου"
+
+#: ../main-modules.php:7798
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"Η εμφάνιση ολόκληρου του περιεχομένου δεν θα περικόψει τις δημοσιεύσεις σας "
+"στη σελίδα ευρετηρίου. Αν επιλέξετε την «Εμφάνιση αποσπάσματος», θα "
+"εμφανίζεται μόνο το κείμενο του αποσπάσματος."
+
+#: ../main-modules.php:7801
+msgid "Read More Button"
+msgstr "Κουμπί «Περισσότερες πληροφορίες»"
+
+#: ../main-modules.php:7808
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr ""
+"Εδώ μπορείτε να ορίσετε, αν θα εμφανίζεται ο σύνδεσμος «Περισσότερες "
+"πληροφορίες» μετά από τα αποσπάσματα."
+
+#: ../main-modules.php:7811 ../main-modules.php:9190 ../main-modules.php:11416
+msgid "Show Author"
+msgstr "Εμφάνιση συγγραφέα"
+
+#: ../main-modules.php:7817
+msgid "Turn on or off the author link."
+msgstr "Ενεργοποίηση και απενεργοποίηση του συνδέσμου για συγγραφέα."
+
+#: ../main-modules.php:7820 ../main-modules.php:9200 ../main-modules.php:10740
+#: ../main-modules.php:11426
+msgid "Show Date"
+msgstr "Εμφάνιση ημερομηνίας"
+
+#: ../main-modules.php:7826
+msgid "Turn the date on or off."
+msgstr "Ενεργοποίηση και απενεργοποίηση της ημερομηνίας."
+
+#: ../main-modules.php:7844
+msgid "Turn pagination on and off."
+msgstr "Ενεργοποίηση ή απενεργοποίηση της σελιδοποίησης."
+
+#: ../main-modules.php:7847
+msgid "Offset Number"
+msgstr "Αριθμός για μετατόπιση"
+
+#: ../main-modules.php:7849
+msgid "Choose how many posts you would like to offset by"
+msgstr "Επιλέξτε πόσες δημοσιεύσεις θέλετε να μετατοπίζονται κατά"
+
+#: ../main-modules.php:7877
+msgid "Grid Tile Background Color"
+msgstr "Χρώμα Φόντου Τίτλου Πλέγματος"
+
+#: ../main-modules.php:7883
+msgid "Use Dropshadow"
+msgstr "Χρήση Σκίασης"
+
+#: ../main-modules.php:8031
+#, php-format
+msgid "by %s"
+msgstr "από %s"
+
+#: ../main-modules.php:8041
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../main-modules.php:8061
+msgid "read more..."
+msgstr "Διαβάστε Περισσότερα..."
+
+#: ../main-modules.php:8068
+msgid "read more"
+msgstr "Διαβάστε Περισσότερα"
+
+#: ../main-modules.php:8122
+msgid "Shop"
+msgstr "Κατάστημα"
+
+#: ../main-modules.php:8165
+msgid "Product"
+msgstr "Προϊόν"
+
+#: ../main-modules.php:8169
+msgid "Onsale"
+msgstr "Σε Έκπτωση"
+
+#: ../main-modules.php:8185
+msgid "Rating"
+msgstr "Βαθμολογία"
+
+#: ../main-modules.php:8198
+msgid "Type"
+msgstr "Τύπος"
+
+#: ../main-modules.php:8201
+msgid "Recent Products"
+msgstr "Πρόσφατα προϊόντα"
+
+#: ../main-modules.php:8202
+msgid "Featured Products"
+msgstr "Προβεβλημένα προϊόντα"
+
+#: ../main-modules.php:8203
+msgid "Sale Products"
+msgstr "Προϊόντα προσφοράς "
+
+#: ../main-modules.php:8204
+msgid "Best Selling Products"
+msgstr "Πρώτα σε πωλήσεις προϊόντα "
+
+#: ../main-modules.php:8205
+msgid "Top Rated Products"
+msgstr "Πρώτα σε αξιολόγηση προϊόντα"
+
+#: ../main-modules.php:8207
+msgid "Choose which type of products you would like to display."
+msgstr "Επιλέξτε ποια είδη προϊόντων θέλετε να εμφανίζονται."
+
+#: ../main-modules.php:8212
+msgid "Control how many products are displayed."
+msgstr "Ορίστε πόσα προϊόντα να εμφανίζονται."
+
+#: ../main-modules.php:8215
+msgid "Columns Number"
+msgstr "Αριθμός των στηλών"
+
+#: ../main-modules.php:8218
+msgid "default"
+msgstr "προεπιλογή"
+
+#: ../main-modules.php:8219 ../main-modules.php:8220 ../main-modules.php:8221
+#: ../main-modules.php:8222 ../main-modules.php:8223
+#, php-format
+msgid "%1$s Columns"
+msgstr "%1$s Στήλες"
+
+#: ../main-modules.php:8224
+msgid "1 Column"
+msgstr "1 Στήλη"
+
+#: ../main-modules.php:8226
+msgid "Choose how many columns to display."
+msgstr "Επιλέξτε πόσες στήλες να εμφανίζονται."
+
+#: ../main-modules.php:8229
+msgid "Order By"
+msgstr "Ταξινόμηση κατά"
+
+#: ../main-modules.php:8232
+msgid "Default Sorting"
+msgstr "Προεπιλεγμένη ταξινόμηση"
+
+#: ../main-modules.php:8233
+msgid "Sort By Popularity"
+msgstr "Ταξινόμηση κατά πόσο δημοφιλές είναι το προϊόν"
+
+#: ../main-modules.php:8234
+msgid "Sort By Rating"
+msgstr "Ταξινόμηση κατά αξιολόγηση "
+
+#: ../main-modules.php:8235
+msgid "Sort By Date"
+msgstr "Ταξινόμηση κατά ημερομηνία"
+
+#: ../main-modules.php:8236
+msgid "Sort By Price: Low To High"
+msgstr "Ταξινόμηση κατά τιμή: από χαμηλή προς ψηλή"
+
+#: ../main-modules.php:8237
+msgid "Sort By Price: High To Low"
+msgstr "Ταξινόμηση κατά τιμή: από ψηλή προς χαμηλή"
+
+#: ../main-modules.php:8239
+msgid "Choose how your products should be ordered."
+msgstr "Επιλέξτε πως πρέπει να ταξινομηθούν τα προϊόντα σας."
+
+#: ../main-modules.php:8257
+msgid "Sale Badge Color"
+msgstr "Χρώμα Σήματος Πώλησης"
+
+#: ../main-modules.php:8370
+msgid "Countdown Timer"
+msgstr "Χρονόμετρο αντίστροφης μέτρησης"
+
+#: ../main-modules.php:8400
+msgid "Numbers"
+msgstr "Αριθμοί"
+
+#: ../main-modules.php:8406
+msgid "Label"
+msgstr "Ετικέτα"
+
+#: ../main-modules.php:8421
+msgid "Container"
+msgstr "Περιέκτης"
+
+#: ../main-modules.php:8429
+msgid "Timer Section"
+msgstr "Τμήμα Χρονοδιακόπτη"
+
+#: ../main-modules.php:8438
+msgid "Countdown Timer Title"
+msgstr "Τίτλος χρονομέτρου αντίστροφης μέτρησης"
+
+#: ../main-modules.php:8440
+msgid "This is the title displayed for the countdown timer."
+msgstr "Αυτός ο τίτλος εμφανίζεται για το χρονόμετρο αντίστροφης μέτρησης."
+
+#: ../main-modules.php:8443
+msgid "Countdown To"
+msgstr "Αντίστροφη μέτρηση έως\t"
+
+#: ../main-modules.php:8445
+msgid "This is the date the countdown timer is counting down to."
+msgstr ""
+"Αυτή είναι η ημερομηνία έως την οποία μετράει το χρονόμετρο αντίστροφης "
+"μέτρησης."
+
+#: ../main-modules.php:8472
+msgid "Here you can define a custom background color for your countdown timer."
+msgstr ""
+"Εδώ μπορείτε να ορίσετε ένα προσαρμοσμένο χρώμα φόντου για το δικό σας "
+"χρονόμετρο αντίστροφης μέτρησης."
+
+#: ../main-modules.php:8553
+msgid "Days"
+msgstr "Μέρες"
+
+#: ../main-modules.php:8554
+msgid "Hours"
+msgstr "‘Ωρες"
+
+#: ../main-modules.php:8555
+msgid "Hrs"
+msgstr "ώρες"
+
+#: ../main-modules.php:8556
+msgid "Minutes"
+msgstr "Λεπτά"
+
+#: ../main-modules.php:8557
+msgid "Min"
+msgstr "λ."
+
+#: ../main-modules.php:8558
+msgid "Seconds"
+msgstr "Δευτερόλεπτα"
+
+#: ../main-modules.php:8559
+msgid "Sec"
+msgstr "δευτερόλεπτα"
+
+#: ../main-modules.php:8569
+msgid "Map"
+msgstr "Χάρτης"
+
+#: ../main-modules.php:8572 ../main-modules.php:8709 ../main-modules.php:10903
+msgid "Pin"
+msgstr "Καρφίτσωμα"
+
+#: ../main-modules.php:8598 ../main-modules.php:10926
+msgid "Map Center Address"
+msgstr "Διεύθυνση κέντρου στον χάρτη"
+
+#: ../main-modules.php:8602 ../main-modules.php:8742 ../main-modules.php:10930
+msgid "Find"
+msgstr "Εύρεση"
+
+#: ../main-modules.php:8605 ../main-modules.php:10933
+msgid ""
+"Enter an address for the map center point, and the address will be geocoded "
+"and displayed on the map below."
+msgstr ""
+"Εισάγετε μια διεύθυνση για κέντρο στον χάρτη και αυτή η διεύθυνση θα "
+"μετατραπεί σε γεωγραφικές συντεταγμένες και θα εμφανιστεί στον χάρτη "
+"παρακάτω."
+
+#: ../main-modules.php:8624 ../main-modules.php:10949
+msgid "Mouse Wheel Zoom"
+msgstr "Ζουμ του τροχού του ποντικιού"
+
+#: ../main-modules.php:8630 ../main-modules.php:10955
+msgid ""
+"Here you can choose whether the zoom level will be controlled by mouse wheel "
+"or not."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν ο βαθμός μεγέθυνσης θα ελέγχεται από τον τροχό "
+"του ποντικιού."
+
+#: ../main-modules.php:8648
+msgid "Use Grayscale Filter"
+msgstr "Χρήση Φίλτρου Γκρι Αποχρώσεων"
+
+#: ../main-modules.php:8660
+msgid "Grayscale Filter Amount (%)"
+msgstr "Ποσό Φίλτρου Γκρι Αποχρώσεων (%)"
+
+#: ../main-modules.php:8724
+msgid "New Pin"
+msgstr "Καινούριος δείκτης"
+
+#: ../main-modules.php:8725
+msgid "Pin Settings"
+msgstr "Ρυθμίσεις για τον δείκτη"
+
+#: ../main-modules.php:8736
+msgid "Map Pin Address"
+msgstr "Διεύθυνση δείκτη στον χάρτη"
+
+#: ../main-modules.php:8739
+msgid ""
+"Enter an address for this map pin, and the address will be geocoded and "
+"displayed on the map below."
+msgstr ""
+"Εισάγετε μια διεύθυνση για αυτό τον δείκτη στον χάρτη, και αυτή η διεύθυνση "
+"θα μετατραπεί σε γεωγραφικές συντεταγμένες και θα εμφανιστεί στον χάρτη "
+"παρακάτω."
+
+#: ../main-modules.php:8764 ../main-modules.php:9809
+msgid ""
+"Here you can define the content that will be placed within the infobox for "
+"the pin."
+msgstr ""
+"Εδώ μπορείτε να ορίσετε το περιεχόμενο που θα τοποθετηθεί στο πλαίσιο "
+"πληροφορίας για αυτό τον δείκτη."
+
+#: ../main-modules.php:8805
+msgid "Social Media Follow"
+msgstr "Ακολούθηση στα κοινωνικά δίκτυα"
+
+#: ../main-modules.php:8808 ../main-modules.php:8937 ../main-modules.php:8961
+msgid "Social Network"
+msgstr "Κοινωνικό δίκτυο"
+
+#: ../main-modules.php:8829
+msgid "Social Follow"
+msgstr "Ακολούθησε σε Κοινωνικό Δίκτυο"
+
+#: ../main-modules.php:8833
+msgid "Social Icon"
+msgstr "Εικονίδιο Κοινωνικού Δικτύου"
+
+#: ../main-modules.php:8842
+msgid "Link Shape"
+msgstr "Σχήμα συνδέσμου"
+
+#: ../main-modules.php:8845
+msgid "Rounded Rectangle"
+msgstr "Στρογγυλεμένο ορθογώνιο"
+
+#: ../main-modules.php:8846
+msgid "Circle"
+msgstr "Κύκλος"
+
+#: ../main-modules.php:8848
+msgid "Here you can choose the shape of your social network icons."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε το σχήμα των εικονιδίων των κοινωνικών δικτύων σας."
+
+#: ../main-modules.php:8869
+msgid "Follow Button"
+msgstr "Κουμπί «Ακολούθηση»"
+
+#: ../main-modules.php:8875
+msgid ""
+"Here you can choose whether or not to include the follow button next to the "
+"icon."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν το κουμπί «Ακολούθηση» θα βρίσκεται δίπλα στο "
+"εικονίδιο"
+
+#: ../main-modules.php:8954
+msgid "New Social Network"
+msgstr "Καινούριο κοινωνικό δίκτυο"
+
+#: ../main-modules.php:8955
+msgid "Social Network Settings"
+msgstr "Ρυθμίσεις για κοινωνικά δίκτυα"
+
+#: ../main-modules.php:8965
+msgid "Select a Network"
+msgstr "Επιλέξτε ένα κοινωνικό δίκτυο"
+
+#: ../main-modules.php:8967
+msgid "facebook"
+msgstr "facebook"
+
+#: ../main-modules.php:8979
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../main-modules.php:8987
+msgid "tumblr"
+msgstr "tumblr"
+
+#: ../main-modules.php:8991
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../main-modules.php:8995
+msgid "skype"
+msgstr "skype"
+
+#: ../main-modules.php:8999
+msgid "flikr"
+msgstr "flikr"
+
+#: ../main-modules.php:9003
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../main-modules.php:9007
+msgid "dribbble"
+msgstr "dribbble"
+
+#: ../main-modules.php:9011
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../main-modules.php:9015
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../main-modules.php:9019
+msgid "RSS"
+msgstr "RSS"
+
+#: ../main-modules.php:9023
+msgid "Choose the social network"
+msgstr "Επιλέξτε το κοινωνικό δίκτυο"
+
+#: ../main-modules.php:9030
+msgid "Account URL"
+msgstr "Διεύθυνση URL του λογαριασμού"
+
+#: ../main-modules.php:9032
+msgid "The URL for this social network link."
+msgstr "Η διεύθυνση URL για τον σύνδεσμο αυτού του κοινωνικού δικτύου"
+
+#: ../main-modules.php:9037
+msgid "This will change the icon color."
+msgstr "Αυτή η ρύθμιση θ' αλλάξει το χρώμα του εικονιδίου."
+
+#: ../main-modules.php:9063
+msgid "Follow"
+msgstr "Ακολουθήστε"
+
+#: ../main-modules.php:9089
+msgid "Post Title"
+msgstr "Τίτλος Ανάρτησης"
+
+#: ../main-modules.php:9172 ../main-modules.php:11398
+msgid "Here you can choose whether or not display the Post Title"
+msgstr "Εδώ μπορείτε να επιλέξετε αν εμφανίσετε ή όχι τον Τίτλο της Ανάρτησης"
+
+#: ../main-modules.php:9175 ../main-modules.php:11401
+msgid "Show Meta"
+msgstr "Εμφάνιση Μεταδεδομένων"
+
+#: ../main-modules.php:9187 ../main-modules.php:11413
+msgid "Here you can choose whether or not display the Post Meta"
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν εμφανιστούν ή όχι τα Μεταδεδομένα της Ανάρτησης"
+
+#: ../main-modules.php:9197 ../main-modules.php:11423
+msgid "Here you can choose whether or not display the Author Name in Post Meta"
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν εμφανιστεί ή όχι το Όνομα του Συγγραφέα στα "
+"Μεταδεδομένα της Ανάρτησης"
+
+#: ../main-modules.php:9210 ../main-modules.php:11436
+msgid "Here you can choose whether or not display the Date in Post Meta"
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν εμφανιστεί ή όχι η Ημερομηνία στα Μεταδεδομένα "
+"της Ανάρτησης"
+
+#: ../main-modules.php:9214 ../main-modules.php:11440
+msgid "Date Format"
+msgstr "Μορφή Ημερομηνίας"
+
+#: ../main-modules.php:9217 ../main-modules.php:11443
+msgid "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+msgstr ""
+"Εδώ μπορείτε να ορίσετε τη Μορφή Ημερομηνίας στα Μεταδεδομένα της Ανάρτησης "
+"Η Προεπιλεγμένη είναι  'M j, Y'"
+
+#: ../main-modules.php:9221 ../main-modules.php:11447
+msgid "Show Post Categories"
+msgstr "Εμφάνιση Κατηγοριών Ανάρτησης"
+
+#: ../main-modules.php:9228 ../main-modules.php:11454
+msgid ""
+"Here you can choose whether or not display the Categories in Post Meta. "
+"Note: This option doesn't work with custom post types."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν εμφανιστούν ή όχι οι Κατηγορίες στα "
+"Μεταδεδομένα της Ανάρτησης. Σημείωση: Αυτή η επιλογή δεν λειτουργεί με "
+"προσαρμοσμένους τύπους αναρτήσεων."
+
+#: ../main-modules.php:9231 ../main-modules.php:11457
+msgid "Show Comments Count"
+msgstr "Εμφάνιση Αρίθμησης Σχολίων"
+
+#: ../main-modules.php:9238 ../main-modules.php:11464
+msgid ""
+"Here you can choose whether or not display the Comments Count in Post Meta."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν εμφανιστεί ή όχι η Αρίθμηση Σχολίων στα "
+"Μεταδεδομένα της Ανάρτησης."
+
+#: ../main-modules.php:9250 ../main-modules.php:11476
+msgid "Here you can choose whether or not display the Featured Image"
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε κατά πόσον ή όχι την εμφάνιση της εικόνας με "
+"πλήρεις δυνατότητες"
+
+#: ../main-modules.php:9253 ../main-modules.php:11479
+msgid "Featured Image Placement"
+msgstr "Τοποθέτηση Προβαλλόμενης Εικόνας"
+
+#: ../main-modules.php:9256 ../main-modules.php:11482
+msgid "Below Title"
+msgstr "Κάτω από τον τίτλο"
+
+#: ../main-modules.php:9257 ../main-modules.php:11483
+msgid "Above Title"
+msgstr "Πάνω από τον Τίτλο"
+
+#: ../main-modules.php:9258 ../main-modules.php:11484
+msgid "Title/Meta Background Image"
+msgstr "Εικόνα Φόντου Τίτλου"
+
+#: ../main-modules.php:9264 ../main-modules.php:11490
+msgid "Here you can choose where to place the Featured Image"
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε για το που να τοποθετήσετε την Προβαλλόμενη Εικόνα"
+
+#: ../main-modules.php:9267 ../main-modules.php:11493
+#: ../main-structure-elements.php:169 ../main-structure-elements.php:861
+msgid "Use Parallax Effect"
+msgstr "Να χρησιμοποιηθεί το φαινόμενο παράλλαξης"
+
+#: ../main-modules.php:9277 ../main-modules.php:11503
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν χρησιμοποιηθεί ή όχι το φαινόμενο παράλλαξης "
+"για την προβαλλόμενη εικόνα"
+
+#: ../main-modules.php:9280 ../main-modules.php:11506
+#: ../main-structure-elements.php:181 ../main-structure-elements.php:873
+msgid "Parallax Method"
+msgstr "Μέθοδος Παράλλαξης"
+
+#: ../main-modules.php:9287 ../main-modules.php:11513
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε ποια μέθοδο παράλλαξης να χρησιμοποιείται για την "
+"προβαλλόμενη εικόνα"
+
+#: ../main-modules.php:9297 ../main-modules.php:11523
+msgid "Here you can choose the orientation for the Title/Meta text"
+msgstr "Εδώ μπορείτε να επιλέξετε τον προσανατολισμό για το κείμενο του Τίτλου"
+
+#: ../main-modules.php:9306 ../main-modules.php:11532
+msgid "Here you can choose the color for the Title/Meta text"
+msgstr "Εδώ μπορείτε να επιλέξετε το χρώμα για το κείμενο του Τίτλου"
+
+#: ../main-modules.php:9309 ../main-modules.php:11535
+msgid "Use Text Background Color"
+msgstr "Χρήση Χρώματος Φόντου Κειμένου"
+
+#: ../main-modules.php:9318 ../main-modules.php:11544
+msgid ""
+"Here you can choose whether or not use the background color for the Title/"
+"Meta text"
+msgstr ""
+"Εδώ μπορεί να επιλέξετε αν χρησιμοποιηθεί ή όχι το χρώμα φόντου για το "
+"κείμενο του Τίτλου"
+
+#: ../main-modules.php:9321 ../main-modules.php:11547
+msgid "Text Background Color"
+msgstr "Χρώμα Φόντου Κειμένου"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "0 comments"
+msgstr "0 Σχόλια"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "1 comment"
+msgstr "1 Σχόλιο"
+
+#: ../main-modules.php:9404 ../main-modules.php:11629
+msgid "comments"
+msgstr "Σχόλια"
+
+#: ../main-modules.php:9483
+msgid "Fullwidth Header"
+msgstr "Κεφαλίδα πλήρους πλάτους"
+
+#: ../main-modules.php:9543
+msgid "Title Styling"
+msgstr "Στυλ Τίτλου"
+
+#: ../main-modules.php:9544
+msgid "Subhead Styling"
+msgstr "Στυλ Υποκεφαλίδας"
+
+#: ../main-modules.php:9545
+msgid "Content Styling"
+msgstr "Στυλ Περιεχομένου"
+
+#: ../main-modules.php:9552
+msgid "Button One"
+msgstr ""
+
+#: ../main-modules.php:9558
+msgid "Button Two"
+msgstr ""
+
+#: ../main-modules.php:9568
+msgid "Header Container"
+msgstr ""
+
+#: ../main-modules.php:9586
+msgid "Enter your page title here."
+msgstr "Εισάγετε εδώ τον τίτλο της σελίδας σας."
+
+#: ../main-modules.php:9589
+msgid "Subheading Text"
+msgstr "Κείμενο δευτερεύουσας επικεφαλίδας"
+
+#: ../main-modules.php:9591
+msgid ""
+"If you would like to use a subhead, add it here. Your subhead will appear "
+"below your title in a small font."
+msgstr ""
+"Αν θέλετε να χρησιμοποιήσετε μια δευτερεύουσα επικεφαλίδα, προσθέστε την εδώ."
+
+#: ../main-modules.php:9603
+msgid "Text & Logo Orientation"
+msgstr "Προσανατολισμός Κειμένου & Λογότυπου"
+
+#: ../main-modules.php:9610
+msgid "Make Fullscreen"
+msgstr "Να Εμφανίζεται σε Πλήρη Οθόνη"
+
+#: ../main-modules.php:9619
+msgid "Here you can choose whether the header is expanded to fullscreen size."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν η κεφαλίδα επεκταθεί στο μέγεθος πλήρους οθόνης."
+
+#: ../main-modules.php:9622
+msgid "Show Scroll Down Button"
+msgstr "Εμφάνιση του Πλήκτρου Κύλισης Προς τα Κάτω"
+
+#: ../main-modules.php:9631
+msgid "Here you can choose whether the scroll down button is shown."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε αν το πλήκτρο κύλισης προς τα κάτω θα εμφανίζεται."
+
+#: ../main-modules.php:9639
+msgid "Choose an icon to display for the scroll down button."
+msgstr ""
+"Επιλέξτε ένα εικονίδιο να εμφανίσετε για το πλήκτρο κύλισης προς τα κάτω."
+
+#: ../main-modules.php:9643
+msgid "Scroll Down Icon Color"
+msgstr "Χρώμα Εικονιδίου Κύλισης Προς τα Κάτω"
+
+#: ../main-modules.php:9649
+msgid "Scroll Down Icon Size"
+msgstr "Μέγεθος Εικονιδίου Κύλισης Προς τα Κάτω"
+
+#: ../main-modules.php:9654
+msgid "Title Font"
+msgstr "Γραμματοσειρά Τίτλου"
+
+#: ../main-modules.php:9660
+msgid "Title Font Color"
+msgstr "Χρώμα Γραμματοσειράς Τίτλου"
+
+#: ../main-modules.php:9667
+msgid "Title Font Size"
+msgstr "Μέγεθος Γραμματοσειράς Τίτλου"
+
+#: ../main-modules.php:9673
+msgid "Subhead Font"
+msgstr "Γραμματοσειρά Υποκεφαλίδας"
+
+#: ../main-modules.php:9679
+msgid "Subhead Font Color"
+msgstr "Χρώμα Γραμματοσειράς Υποκεφαλίδας"
+
+#: ../main-modules.php:9686
+msgid "Subhead Font Size"
+msgstr "Μέγεθος Γραμματοσειράς Υποκεφαλίδας"
+
+#: ../main-modules.php:9692
+msgid "Content Font"
+msgstr "Γραμματοσειρά Περιεχομένου"
+
+#: ../main-modules.php:9698
+msgid "Content Font Color"
+msgstr "Χρώμα Γραμματοσειράς Περιεχομένου"
+
+#: ../main-modules.php:9705
+msgid "Content Font Size"
+msgstr "Μέγεθος Γραμματοσειράς Περιεχομένου"
+
+#: ../main-modules.php:9711 ../main-modules.php:9721
+#, php-format
+msgid "Button %1$s Text"
+msgstr "Κείμενο  Κουμπιού %1$s"
+
+#: ../main-modules.php:9713 ../main-modules.php:9723
+msgid "Enter the text for the Button."
+msgstr "Εισάγεται το κείμενο του Κουμπιού"
+
+#: ../main-modules.php:9716 ../main-modules.php:9726
+#, php-format
+msgid "Button %1$s URL"
+msgstr "URL Κουμπιού %1$s"
+
+#: ../main-modules.php:9718 ../main-modules.php:9728
+msgid "Enter the URL for the Button."
+msgstr "Εισάγεται το URL για το Κουμπί."
+
+#: ../main-modules.php:9731
+msgid "Background Image URL"
+msgstr "URL Εικόνας Φόντου"
+
+#: ../main-modules.php:9743
+msgid "Background Overlay Color"
+msgstr "Χρώμα Φόντου Επικάλυψης"
+
+#: ../main-modules.php:9756 ../main-modules.php:10450
+msgid ""
+"If enabled, your background images will have a fixed position as your "
+"scroll, creating a fun parallax-like effect."
+msgstr ""
+"Αν ενεργοποιήσετε αυτή την επιλογή, η εικόνες φόντου σας θα παραμένουν στη "
+"θέση, ενώ εσείς θα κυλάτε τη σελίδα, και και αυτό θα δημιουργήσει ένα "
+"περίεργο φαινόμενο παράλλαξης."
+
+#: ../main-modules.php:9770
+msgid "Logo Image URL"
+msgstr "URL Εικόνας Λογότυπου"
+
+#: ../main-modules.php:9778
+msgid "Text Vertical Alignment"
+msgstr "Ευθυγράμμιση Κατακόρυφου Κειμένου"
+
+#: ../main-modules.php:9784
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be vertically centered, or aligned to the bottom."
+msgstr ""
+"Αυτή η ρύθμιση καθορίζει την κάθετη ευθυγράμμιση του περιεχομένου σας. Το "
+"περιεχόμενό σας μπορεί είτε να είναι κεντραρισμένο κάθετα είτε να είναι "
+"ευθυγραμμισμένο προς τα κάτω."
+
+#: ../main-modules.php:9789
+msgid "Header Image URL"
+msgstr "URL Κεφαλίδας Εικόνας"
+
+#: ../main-modules.php:9797
+msgid "Image Vertical Alignment"
+msgstr "Κάθετη Ευθυγράμμιση Εικόνας"
+
+#: ../main-modules.php:9803
+msgid "This controls the orientation of the image within the module."
+msgstr "Αυτό ελέγχει τον προσανατολισμό της εικόνας μέσα στο module."
+
+#: ../main-modules.php:10124
+msgid "Fullwidth Menu"
+msgstr "Μενού πλήρους πλάτους"
+
+#: ../main-modules.php:10149
+msgid "Menu"
+msgstr "Μενού"
+
+#: ../main-modules.php:10155
+msgid "Select a menu that should be used in the module"
+msgstr ""
+"Επιλέξτε ένα μενού που πρέπει να χρησιμοποιηθεί στη λειτουργική μονάδα."
+
+#: ../main-modules.php:10156
+msgid "Click here to create new menu"
+msgstr "Κάντε κλικ εδώ για να δημιουργήσετε ένα καινούριο μενού."
+
+#: ../main-modules.php:10180
+msgid "Sub-Menus Open"
+msgstr "Υπο-μενού ανοίγουν"
+
+#: ../main-modules.php:10183
+msgid "Downwards"
+msgstr "προς τα κάτω"
+
+#: ../main-modules.php:10184
+msgid "Upwards"
+msgstr "προς τα πάνω"
+
+#: ../main-modules.php:10186
+msgid ""
+"Here you can choose the direction that your sub-menus will open. You can "
+"choose to have them open downwards or upwards."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε, προς τα που θ' ανοίγουν τα υπο-μενού σας. "
+"Μπορείτε να επιλέξετε να ανοίγουν προς τα κάτω και προς τα πάνω."
+
+#: ../main-modules.php:10265
+msgid "Home"
+msgstr "Αρχική Σελίδα"
+
+#: ../main-modules.php:10311
+msgid "Fullwidth Slider"
+msgstr "Slider πλήρους πλάτους"
+
+#: ../main-modules.php:10411
+msgid "This setting allows you to turn the navigation arrows on or off."
+msgstr ""
+"Αυτή η ρύθμιση θα ενεργοποιεί και θα απενεργοποιεί τα βέλη της περιήγησης."
+
+#: ../main-modules.php:10420
+msgid ""
+"Disabling this option will remove the circle button at the bottom of the "
+"slider."
+msgstr ""
+"Αν απενεργοποιήσετε αυτή την επιλογή, το κυκλικό κουμπί θα αφαιρεθεί από το "
+"κάτω μέρος του slider."
+
+#: ../main-modules.php:10675
+msgid "Fullwidth Portfolio"
+msgstr "Πορτφόλιο πλήρους πλάτους"
+
+#: ../main-modules.php:10709
+msgid "Title displayed above the portfolio."
+msgstr "Τίτλος εμφανίζεται πάνω από το πορτφόλιο."
+
+#: ../main-modules.php:10715
+msgid "Carousel"
+msgstr "Carousel"
+
+#: ../main-modules.php:10728
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+"Ορίστε πόσα έργα να εμφανίζονται. Αφήστε κενό ή εισάγετε 0 για να μην "
+"περιορίζεται ο αριθμός."
+
+#: ../main-modules.php:10746
+msgid "Turn the date display on or off."
+msgstr "Ενεργοποίηση ή απενεργοποίηση της εμφάνισης της ημερομηνίας."
+
+#: ../main-modules.php:10758
+msgid "Automatic Carousel Rotation"
+msgstr "Αυτόματη ανταλλαγή Carousel"
+
+#: ../main-modules.php:10767
+msgid ""
+"If you the carousel layout option is chosen and you would like the carousel "
+"to slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"Αν επιλέξατε τη διάταξη Carousel και θέλετε το Carousel να σέρνεται "
+"αυτόματα, χωρίς να χρειάζεται ο επισκέπτης να κάνει κλικ στο κουμπί "
+"«Επόμενο», ενεργοποιήστε αυτή την επιλογή και μετά προσαρμόστε παρακάτω την "
+"ταχύτητα ανταλλαγής, αν θέλετε."
+
+#: ../main-modules.php:10770
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr ""
+"Ταχύτητα αυτόματης ανταλλαγής Carousel (ανά χιλιοστό του δευτερολέπτου)"
+
+#: ../main-modules.php:10773
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"Εδώ μπορείτε να ορίσετε πόσο γρήγορα θα γίνεται η ανταλλαγή Carousel, αν "
+"παραπάνω ενεργοποιήθηκε η επιλογή «Αυτόματη ανταλλαγή Carousel». Όσο "
+"μεγαλύτερος είναι ο αριθμός, τόσο μεγαλύτερη είναι η παύση ανάμεσα στις "
+"ανταλλαγές. (1000 = 1 δευτερόλεπτο)"
+
+#: ../main-modules.php:10899
+msgid "Fullwidth Map"
+msgstr "Fullwidth Χάρτης"
+
+#: ../main-modules.php:11009
+msgid "Code"
+msgstr "Κώδικας"
+
+#: ../main-modules.php:11087
+msgid "Fullwidth Code"
+msgstr "Κώδικας Πλήρους Πλάτους"
+
+#: ../main-modules.php:11147
+msgid "Fullwidth Image"
+msgstr "Εικόνα Πλήρους Πλάτους"
+
+#: ../main-modules.php:11202
+msgid "Open In Lightbox"
+msgstr "Άνοιγμα στο Lightbox"
+
+#: ../main-modules.php:11314
+msgid "Fullwidth Post Title"
+msgstr "Τίτλος Ανάρτησης Πλήρους Πλάτους"
+
+#: ../main-structure-elements.php:105
+msgid "Transparent Background Color"
+msgstr "Διαφανές χρώμα φόντου"
+
+#: ../main-structure-elements.php:114
+msgid ""
+"Enabling this option will remove the background color of this section, "
+"allowing the website background color or background image to show through."
+msgstr ""
+"Ενεργοποιώντας αυτήν την επιλογή θα αφαιρέσετε το χρώμα φόντου από αυτόν τον "
+"τομέα, επιτρέποντας στο χρώμα φόντου ή στην εικόνα φόντου της ιστοσελίδας να "
+"εμφανίζεται."
+
+#: ../main-structure-elements.php:160
+msgid "Show Inner Shadow"
+msgstr "Εμφάνιση εσωτερικής σκιάς"
+
+#: ../main-structure-elements.php:166
+msgid ""
+"Here you can select whether or not your section has an inner shadow. This "
+"can look great when you have colored backgrounds or background images."
+msgstr ""
+"Εδώ μπορείτε να επιλέξετε, αν η ενότητά σας θα έχει μια εσωτερική σκιά. Έτσι "
+"μπορεί να φαίνεται ωραία, όταν έχετε έγχρωμα φόντα ή εικόνες φόντου."
+
+#: ../main-structure-elements.php:178
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"Αν αυτή η επιλογή θα είναι ενεργοποιημένη, η εικόνα φόντου θα παραμένει στη "
+"θέση, ενώ εσείς θα κυλάτε τη σελίδα, και αυτό θα δημιουργεί ένα περίεργο "
+"φαινόμενο που θα μοιάζει με παράλλαξη."
+
+#: ../main-structure-elements.php:194 ../main-structure-elements.php:788
+#: ../main-structure-elements.php:1252
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr ""
+"Ρυθμίστε το γέμισμα σε συγκεκριμένες τιμές, ή αφήστε το καινό για να "
+"χρησιμοποιήσετε το προεπιλεγμένο γέμισμα"
+
+#: ../main-structure-elements.php:197 ../main-structure-elements.php:791
+#: ../main-structure-elements.php:1255
+msgid "Keep Custom Padding on Mobile"
+msgstr "Να Κρατηθεί το Προσαρμοσμένο Γέμισμα στα Κινητά"
+
+#: ../main-structure-elements.php:203 ../main-structure-elements.php:797
+#: ../main-structure-elements.php:1261
+msgid "Allow custom padding to be retained on mobile screens"
+msgstr ""
+"Επέτρεψε στο προσαρμοσμένο γέμισμα  να διατηρείτε στις οθόνες των κινητών"
+
+#: ../main-structure-elements.php:216
+msgid "Make This Section Fullwidth"
+msgstr ""
+
+#: ../main-structure-elements.php:226 ../main-structure-elements.php:710
+msgid "Use Custom Width"
+msgstr "Χρήση Προσαρμοσμένου Πλάτους"
+
+#: ../main-structure-elements.php:240 ../main-structure-elements.php:724
+msgid "Unit"
+msgstr "Μονάδα"
+
+#: ../main-structure-elements.php:243 ../main-structure-elements.php:727
+msgid "px"
+msgstr "pixels"
+
+#: ../main-structure-elements.php:257 ../main-structure-elements.php:268
+#: ../main-structure-elements.php:740 ../main-structure-elements.php:751
+msgid "Custom Width"
+msgstr "Προσαρμοσμένο Πλάτος"
+
+#: ../main-structure-elements.php:279 ../main-structure-elements.php:883
+#: ../main-structure-elements.php:1297
+msgid "Equalize Column Heights"
+msgstr "Εξίσωση Ύψους Στηλών"
+
+#: ../main-structure-elements.php:288 ../main-structure-elements.php:762
+#: ../main-structure-elements.php:1264
+msgid "Use Custom Gutter Width"
+msgstr ""
+
+#: ../main-structure-elements.php:300 ../main-structure-elements.php:774
+#: ../main-structure-elements.php:1276
+msgid "Gutter Width"
+msgstr "Απόσταση Στήλης"
+
+#: ../main-structure-elements.php:700
+msgid "Make This Row Fullwidth"
+msgstr "Να Γίνει Αυτή η Σειρά με Πλήρες Πλάτος"
+
+#: ../main-structure-elements.php:707
+msgid ""
+"Enable this option to extend the width of this row to the edge of the "
+"browser window."
+msgstr ""
+"Ενεργοποιήστε αυτήν την επιλογή για να επεκτείνετε το πλάτος αυτής της σειρά "
+"ως την άκρη του παραθύρου του περιηγητή."
+
+#: ../main-structure-elements.php:721
+msgid ""
+"Change to Yes if you would like to adjust the width of this row to a non-"
+"standard width."
+msgstr ""
+"Αλλάξτε σε Ναι  αν θέλετε να προσαρμόσετε το πλάτος αυτής της σειράς σε ένα "
+"μη τυπικό πλάτος."
+
+#: ../main-structure-elements.php:748 ../main-structure-elements.php:759
+msgid "Define custom width for this Row"
+msgstr "Καθορίστε προσαρμοσμένο πλάτος για αυτήν τη Σειρά"
+
+#: ../main-structure-elements.php:771 ../main-structure-elements.php:1273
+msgid "Enable this option to define custom gutter width for this row."
+msgstr ""
+
+#: ../main-structure-elements.php:782 ../main-structure-elements.php:1284
+msgid "Adjust the spacing between each column in this row."
+msgstr "Ρυθμίστε την απόσταση μεταξύ κάθε στήλης σ' αυτήν τη σειρά."
+
+#~ msgid "Use Custom Button Styles"
+#~ msgstr "Χρήση Προσαρμοσμένου Στυλ Κουμπιών"
+
+#~ msgid "Button Text Size"
+#~ msgstr "Μέγεθος Κειμένου Κουμπιού"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Χρώμα Κειμένου Κουμπιού"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Χρώμα Φόντου Κουμπιού"
+
+#~ msgid "Button Border Width"
+#~ msgstr "Πλάτος Περιγράμματος Κουμπιού"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Χρώμα Περιγράμματος Κουμπιού"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Ακτίνα Περιγράμματος Κουμπιού"
+
+#~ msgid "Button Letter Spacing"
+#~ msgstr "Απόσταση Γραμμάτων Κουμπιού"
+
+#~ msgid "Button Font"
+#~ msgstr "Γραμματοσειρά Κουμπιού"
+
+#~ msgid "Add Button Icon"
+#~ msgstr "Προσθήκη Εικονιδίου Κουμπιού"
+
+#~ msgid "Button Icon"
+#~ msgstr "Εικονίδιο κουμπιού"
+
+#~ msgid "Button Icon Color"
+#~ msgstr "Χρώμα Εικονιδίου Κουμπιού"
+
+#~ msgid "Icon Placement"
+#~ msgstr "Τοποθέτηση Εικονιδίου"
+
+#~ msgid "Only Show Icon On Hover"
+#~ msgstr "Εμφάνιση Εικονιδίου Μόνο Όταν Βρίσκεται το Ποντίκι από Πάνω"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "Χρώμα Κειμένου Κουμπιού Όταν Βρίσκεται το Ποντίκι από Πάνω"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Χρώμα Φόντου Κουμπιού Όταν Βρίσκεται το Ποντίκι από Πάνω"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Χρώμα Περιγράμματος Κουμπιού Όταν Βρίσκεται το Ποντίκι από Πάνω"
+
+#~ msgid "Button Hover Border Radius"
+#~ msgstr "Ακτίνα Περιγράμματος Κουμπιού Όταν Βρίσκεται το Ποντίκι από Πάνω"
+
+#~ msgid "Button Hover Letter Spacing"
+#~ msgstr "Απόσταση Γραμμάτων Κουμπιού Όταν Βρίσκεται το Ποντίκι από Πάνω"
+
+#~ msgid "Caption Font"
+#~ msgstr "Γραμματοσειρά Λεζάντας"
+
+#~ msgid "Caption Font Color"
+#~ msgstr "Χρώμα Γραμματοσειράς Λεζάντας"
+
+#~ msgid "Caption Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Λεζάντας"
+
+#~ msgid "Font"
+#~ msgstr "Γραμματοσειρά"
+
+#~ msgid "Text Size"
+#~ msgstr "Μέγεθος Κειμένου"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Απόσταση Γραμμάτων"
+
+#~ msgid "Line Height"
+#~ msgstr "Ύψος Γραμμής"
+
+#~ msgid "Use Border Color"
+#~ msgstr "Χρήση Χρώματος Περγράμματος"
+
+#~ msgid "Body Text Font"
+#~ msgstr "Γραμματοσειρά Κειμένου Κορμού"
+
+#~ msgid "Body Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Κορμού"
+
+#~ msgid "Body Text Color"
+#~ msgstr "Χρώμα Γραμματοσειράς Κορμού"
+
+#~ msgid "Body Letter Spacing"
+#~ msgstr "Απόσταση Γραμμάτων Κορμού"
+
+#~ msgid "Body Line Height"
+#~ msgstr "Ύψος Γραμμής Κορμού"
+
+#~ msgid "Reset Color"
+#~ msgstr "Επαναφορά χρώματος"
+
+#~ msgid "Button Styling"
+#~ msgstr "Στυλ Κουμπιών"
+
+#~ msgid "Button %1$s Font"
+#~ msgstr "Γραμματοσειρά  Κουμπιού %1$s"
+
+#~ msgid "Button %1$s Font Color"
+#~ msgstr "Χρώμα Γραμματοσειράς  Κουμπιού %1$s"
+
+#~ msgid "Button %1$s Background Color"
+#~ msgstr "Χρώμα Φόντου Κουμπιού %1$s"
+
+#~ msgid "Button %1$s Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς  Κουμπιού %1$s"
+
+#~ msgid "Button %1$s Border Radius"
+#~ msgstr "Ακτίνα Περιγράμματος Κουμπιού %1$s"
+
+#~ msgid "﻿%1$s Font"
+#~ msgstr "%1$s Γραμματοσειρά"
+
+#~ msgid "Subheader Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Υποκεφαλίδας"
+
+#~ msgid ""
+#~ "Welcome to Divi! Before diving in to your new theme, please visit the <a "
+#~ "href=\"%1$s\" target=\"_blank\">DiviDocumentation</a> page for access to "
+#~ "dozens of in-depth tutorials."
+#~ msgstr ""
+#~ "Καλώς Ήρθατε στο Divi! Πριν ασχοληθείτε με το νέο σας θέμα, παρακαλούμε "
+#~ "επισκεφθείτε τη σελίδα <a href=\"%1$ων\" target=\"_blank"
+#~ "\">DiviΤεκμηρίωση</a> για να αποκτήσετε πρόσβαση σε δεκάδες "
+#~ "εμπεριστατωμένα προγράμματα εκμάθησης."
+
+#~ msgid "Divi Page Settings"
+#~ msgstr "Ρυθμίσεις Σελίδας Divi"
+
+#~ msgid "Divi Post Settings"
+#~ msgstr "Ρυθμίσεις Ανάρτησης Divi"
+
+#~ msgid "Divi Product Settings"
+#~ msgstr "Ρυθμίσεις Προϊόντος Divi"
+
+#~ msgid "Divi Project Settings"
+#~ msgstr "Ρυθμίσεις  Πρότζεκτ Divi"
+
+#~ msgid "Dot Navigation"
+#~ msgstr "Πλοήγηση Κουκκίδων"
+
+#~ msgid "Hide Nav Before Scroll"
+#~ msgstr "Απόκρυψη Πλοήγησης Πριν την Κύλιση"
+
+#~ msgid "Typography"
+#~ msgstr "Τυπογραφία"
+
+#~ msgid "Mobile Styles"
+#~ msgstr "Στυλ Κινητών"
+
+#~ msgid "Tablet"
+#~ msgstr "Tablet"
+
+#~ msgid "Phone"
+#~ msgstr "Τηλέφωνο"
+
+#~ msgid "Mobile Menu"
+#~ msgstr "Μενού Κινητών"
+
+#~ msgid "Background"
+#~ msgstr "Φόντο"
+
+#~ msgid "Header & Navigation"
+#~ msgstr "Κεφαλίδα & Πλοήγηση"
+
+#~ msgid "Header Format"
+#~ msgstr "Μορφή Κεφαλίδας"
+
+#~ msgid "Primary Menu Bar"
+#~ msgstr "Κύρια Μπάρα Μενού"
+
+#~ msgid "Secondary Menu Bar"
+#~ msgstr "Δευτερεύουσα Μπάρα Μενού"
+
+#~ msgid "Fixed Navigation Settings"
+#~ msgstr "Σταθερές Ρυθμίσεις Πλοήγησης"
+
+#~ msgid "Header Elements"
+#~ msgstr "Στοιχεία Κεφαλίδας"
+
+#~ msgid "Footer"
+#~ msgstr "Υποσέλιδο"
+
+#~ msgid "Widgets"
+#~ msgstr "Widgets"
+
+#~ msgid "Footer Elements"
+#~ msgstr "Στοιχεία Υποσέλιδου"
+
+#~ msgid "Bottom Bar"
+#~ msgstr "Κάτω Μπάρα"
+
+#~ msgid "Buttons"
+#~ msgstr "Κουμπιά"
+
+#~ msgid "Buttons Style"
+#~ msgstr "Στυλ Κουμπιών"
+
+#~ msgid "Buttons Hover Style"
+#~ msgstr "Στυλ Κουμπιών Όταν βρίσκεται το Ποντίκι από Πάνω"
+
+#~ msgid "Post"
+#~ msgstr "Ανάρτηση"
+
+#~ msgid "Meta Text Size"
+#~ msgstr "Μέγεθος Κειμένου Μεταδεδομένων"
+
+#~ msgid "Meta Line Height"
+#~ msgstr "Ύψος Γραμμής Μεταδεδομένων"
+
+#~ msgid "Meta Letter Spacing"
+#~ msgstr "Απόσταση Γραμμάτων Μεταδεδομένων"
+
+#~ msgid "Meta Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Μεταδεδομένων"
+
+#~ msgid "Bold"
+#~ msgstr "Έντονα"
+
+#~ msgid "Italic"
+#~ msgstr "Πλάγια"
+
+#~ msgid "Uppercase"
+#~ msgstr "Κεφαλαία"
+
+#~ msgid "Underline"
+#~ msgstr "Υπογραμμισμένα"
+
+#~ msgid "Header Text Size"
+#~ msgstr "Μέγεθος Κειμένου Κεφαλίδας"
+
+#~ msgid "Header Line Height"
+#~ msgstr "Ύψος Γραμμής Κεφαλίδας"
+
+#~ msgid "Header Letter Spacing"
+#~ msgstr "Απόσταση Γραμμάτων Κεφαλίδας"
+
+#~ msgid "Header Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Κεφαλίδας"
+
+#~ msgid "Enable Boxed Layout"
+#~ msgstr "Ενεργοποίηση Εγκιβωτισμένης Διάταξης"
+
+#~ msgid "Website Content Width"
+#~ msgstr "Πλάτος Περιεχομένου Ιστοσελίδας"
+
+#~ msgid "Website Gutter Width"
+#~ msgstr "Απόσταση Στηλών Ιστοσελίδας"
+
+#~ msgid "Sidebar Width"
+#~ msgstr "Πλάτος Πλευρικής Μπάρας"
+
+#~ msgid "Section Height"
+#~ msgstr "Ύψος Τμήματος"
+
+#~ msgid "Row Height"
+#~ msgstr "Ύψος Γραμμής"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Επανάληψη Φόντου"
+
+#~ msgid "No Repeat"
+#~ msgstr "Χωρίς Επανάληψη"
+
+#~ msgid "Tile"
+#~ msgstr "Πλακίδια"
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "Σε Οριζόντια Παράθεση"
+
+#~ msgid "Tile Vertically"
+#~ msgstr "Σε Κατακόρυφη Παράθεση"
+
+#~ msgid "Background Position"
+#~ msgstr "Θέση Φόντου"
+
+#~ msgid "Scroll"
+#~ msgstr "Κύλιση"
+
+#~ msgid "Fixed"
+#~ msgstr "Σταθερό"
+
+#~ msgid "Body Text Size"
+#~ msgstr "Μέγεθος Κειμένου Κορμού"
+
+#~ msgid "Body Link Color"
+#~ msgstr "Χρώμα Συνδέσμου Κορμού"
+
+#~ msgid "Header Text Color"
+#~ msgstr "Χρώμα Κειμένου Κεφαλίδας"
+
+#~ msgid "Theme Accent Color"
+#~ msgstr "Χρώμα Έμφασης Θέματος"
+
+#~ msgid "Centered Inline Logo"
+#~ msgstr "Κεντραρισμένο Ενσωματομένο Λογότυπο"
+
+#~ msgid "Enable Vertical Navigation"
+#~ msgstr "Ενεργοποίηση Κατακόρυφης Πλοήγησης"
+
+#~ msgid "Hide Navigation Until Scroll"
+#~ msgstr "Απόκρυψη Πλοήγησης Μέχρι την Κύλιση"
+
+#~ msgid "Show Social Icons"
+#~ msgstr "Εμφάνιση Εικονιδίων Κοινωνικών Δικτύων"
+
+#~ msgid "Hide Logo Image"
+#~ msgstr "Απόκρυψη Εικόνας Λογότυπου"
+
+#~ msgid "Menu/Logo Height"
+#~ msgstr "Ύψος Μενού/Λογοτύπου"
+
+#~ msgid "Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς"
+
+#~ msgid "Active Link Color"
+#~ msgstr "Χρώμα Ενεργού Συνδέσμου"
+
+#~ msgid "Dropdown Menu Background Color"
+#~ msgstr "Χρώμα Φόντου Αναπτυσσόμενου Μενού"
+
+#~ msgid "Dropdown Menu Line Color"
+#~ msgstr "Χρώμα Γραμμής Αναπτυσσόμενου Μενού"
+
+#~ msgid "Dropdown Menu Text Color"
+#~ msgstr "Χρώμα Κειμένου Αναπτυσσόμενου Μενού"
+
+#~ msgid "Dropdown Menu Animation"
+#~ msgstr "Animation Αναπτυσσόμενου μενού"
+
+#~ msgid "Fade"
+#~ msgstr "Σβήσιμο"
+
+#~ msgid "Expand"
+#~ msgstr "Επέκταση"
+
+#~ msgid "Flip"
+#~ msgstr "Αναστροφή"
+
+#~ msgid "Fixed Menu/Logo Height"
+#~ msgstr "Σταθερό Ύψος Μενού/Λογοτύπου"
+
+#~ msgid "Primary Menu Background Color"
+#~ msgstr "Χρώμα Φόντου Κύριου Μενού"
+
+#~ msgid "Secondary Menu Background Color"
+#~ msgstr "Χρώμα Φόντου Δευτερεύοντος Μενού"
+
+#~ msgid "Menu Link Color"
+#~ msgstr "Χρώμα Συνδέσμου Μενού"
+
+#~ msgid "Column Layout"
+#~ msgstr "Διάταξη Στήλης"
+
+#~ msgid "Body/Link Text Size"
+#~ msgstr "Μέγεθος Κειμένου Κορμού/Συνδέσμου"
+
+#~ msgid "Body/Link Line Height"
+#~ msgstr "Ύψος Γραμμής Κορμού/Συνδέσμου"
+
+#~ msgid "Body Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Κορμού"
+
+#~ msgid "Widget Text Color"
+#~ msgstr "Χρώμα Κειμένου Widget"
+
+#~ msgid "Widget Link Color"
+#~ msgstr "Χρώμα Συνδέσμου Widget"
+
+#~ msgid "Widget Header Color"
+#~ msgstr "Χρώμα Κεφαλίδας Widget"
+
+#~ msgid "Widget Bullet Color"
+#~ msgstr "Χρώμα Κουκκίδας Widget"
+
+#~ msgid "Footer Menu Background Color"
+#~ msgstr "Χρώμα Φόντου Μενού Υποσέλιδου"
+
+#~ msgid "Footer Menu Text Color"
+#~ msgstr "Χρώμα Κειμένου Μενού Υποσέλιδου"
+
+#~ msgid "Footer Menu Active Link Color"
+#~ msgstr "Χρώμα Ενεργού Συνδέσμου Μενού Υποσέλιδου"
+
+#~ msgid "Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς"
+
+#~ msgid "Social Icon Size"
+#~ msgstr "Μέγεθος Εικονιδίου Κοινωνικών Δικτύων"
+
+#~ msgid "Social Icon Color"
+#~ msgstr "Χρώμα Εικονιδίου Κοινωνικών Δικτύων"
+
+#~ msgid "Button Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Κουμπιού"
+
+#~ msgid "Buttons Font"
+#~ msgstr "Γραμματοσειρά Κουμπιών"
+
+#~ msgid "Select Icon"
+#~ msgstr "Επιλογή Εικονιδίου"
+
+#~ msgid "Only Show Icon on Hover"
+#~ msgstr "Εμφάνιση Εικονιδίου Μόνο Όταν βρίσκεται το Ποντίκι από Πάνω"
+
+#~ msgid "Left to Right"
+#~ msgstr "Αριστερά προς δεξιά"
+
+#~ msgid "Right to Left"
+#~ msgstr "Δεξιά προς αριστερά"
+
+#~ msgid "Top to Bottom"
+#~ msgstr "Από πάνω προς τα κάτω"
+
+#~ msgid "Bottom to Top"
+#~ msgstr "Από κάτω προς τα πάνω"
+
+#~ msgid "This controls default direction of the lazy-loading animation."
+#~ msgstr ""
+#~ "Αυτό ελέγχει την προεπιλεγμένη κατεύθυνση των animation που αργούν να "
+#~ "φορτώσουν."
+
+#~ msgid "Title Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Τίτλου"
+
+#~ msgid "Caption Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Λεζάντας"
+
+#~ msgid "Header Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Κεφαλίδας"
+
+#~ msgid "Top & Bottom Padding"
+#~ msgstr "Πάνω & Κάτω Γέμισμα"
+
+#~ msgid "Content Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Περιεχομένου"
+
+#~ msgid "Name Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Ονόματος"
+
+#~ msgid "Details Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Λεπτομερειών"
+
+#~ msgid "Subheader Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Υποκεφαλίδας"
+
+#~ msgid "Price Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Τιμής"
+
+#~ msgid "Pricing Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Τιμολόγησης"
+
+#~ msgid "Category Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Κατηγορίας"
+
+#~ msgid "Category Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Κατηγορίας"
+
+#~ msgid "Filters Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Φίλτρων"
+
+#~ msgid "Filters Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Φίλτρων"
+
+#~ msgid "Label Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Ετικέτας"
+
+#~ msgid "Label Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Ετικέτας"
+
+#~ msgid "Percent Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Ποσοστού"
+
+#~ msgid "Percent Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Ποσοστού"
+
+#~ msgid "Bar Padding"
+#~ msgstr "Γέμισμα Μπάρας"
+
+#~ msgid "Bar Border Radius"
+#~ msgstr "Ακτίνα Περιγράμματος Μπάρας"
+
+#~ msgid "Number Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Αριθμού"
+
+#~ msgid "Number Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Αριθμού"
+
+#~ msgid "Opened Title Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Ανοιχτού Τίτλου"
+
+#~ msgid "Closed Title Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Κλειστού Τίτλου"
+
+#~ msgid "Toggle Icon Size"
+#~ msgstr "Μέγεθος Εικονιδίου Εναλλαγής"
+
+#~ msgid "Toggle Padding"
+#~ msgstr "Εναλλαγή Γεμίσματος"
+
+#~ msgid "Input Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Εισαγωγικού Πεδίου"
+
+#~ msgid "Input Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Εισαγωγικού Πεδίου"
+
+#~ msgid "Input Field Padding"
+#~ msgstr "Γέμισμα Εισαγωγικού Πεδίου"
+
+#~ msgid "Captcha Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Captcha"
+
+#~ msgid "Captcha Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Captcha"
+
+#~ msgid "Widget Header Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Κεφαλίδας Widget"
+
+#~ msgid "Widget Header Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Κεφαλίδας Widget"
+
+#~ msgid "Remove Vertical Divider"
+#~ msgstr "Αφαίρεση Κάθετου Διαχωριστικού"
+
+#~ msgid "Divider Height"
+#~ msgstr "Ύψος Διαχωριστικού"
+
+#~ msgid "Name Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Ονόματος"
+
+#~ msgid "Social Network Icon Size"
+#~ msgstr "Μέγεθος Εικονιδίου Κοινωνικού Δικτύου"
+
+#~ msgid "Post Title Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Τίτλου Ανάρτησης"
+
+#~ msgid "Meta Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Μεταδεδομένων"
+
+#~ msgid "Masonry Blog"
+#~ msgstr "Blog Τοιχοποιίας"
+
+#~ msgid "Product Name Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Ονόματος Προϊόντος"
+
+#~ msgid "Product Name Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Ονόματος Προϊόντος"
+
+#~ msgid "Sale Badge Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Σήματος Πώλησης"
+
+#~ msgid "Sale Badge Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Σήματος Πώλησης"
+
+#~ msgid "Price Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Τιμής"
+
+#~ msgid "Sale Price Font Size"
+#~ msgstr "Μέγεθος Γραμματοσειράς Τιμής Πώλησης"
+
+#~ msgid "Sale Price Font Style"
+#~ msgstr "Στυλ Γραμματοσειράς Τιμής Πώλησης"
+
+#~ msgid "Countdown"
+#~ msgstr "Αντίστροφη Μέτρηση"
+
+#~ msgid "Follow Font & Icon Size"
+#~ msgstr "Γραμματοσειρά για το Ακολούθησε & Μέγεθος Εικονιδίου"
+
+#~ msgid "Full Width Slider"
+#~ msgstr "Ρυθμιστικό Πλήρους Πλάτος"
+
+#~ msgid "Theme Customizer"
+#~ msgstr "Προσαρμογέας Θεμάτων"
+
+#~ msgid "Module Customizer"
+#~ msgstr "Προσαρμογέας Module"
+
+#~ msgid "Divi Library"
+#~ msgstr "Βιβλιοθήκη Divi"
